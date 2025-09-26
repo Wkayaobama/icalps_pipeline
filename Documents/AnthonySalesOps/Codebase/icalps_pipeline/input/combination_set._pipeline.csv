@@ -1,0 +1,15 @@
+﻿Pipelines.label,Pipelines.stages.label,mapping,pipeline,dealstage
+Icalps_hardware,On-Hold,Icalps_hardwareOn-Hold,766126206,1116652341
+Icalps_hardware,Identified,Icalps_hardwareIdentified,766126206,1116419644
+Icalps_hardware,Qualified,Icalps_hardwareQualified,766126206,1116419645
+Icalps_hardware,Design In,Icalps_hardwareDesign In,766126206,1116419646
+Icalps_hardware,Design In,Icalps_hardwareDesign In,766126206,1116419646
+Icalps_hardware,Design Win,Icalps_hardwareDesign Win,766126206,1116419647
+Icalps_hardware,Closed Won,Icalps_hardwareClosed Won,766126206,1116419649
+Icalps_hardware,Closed Dead,Icalps_hardwareClosed Dead,,
+Icalps_hardware,Negotiate,Icalps_hardwareNegotiate,,
+Icalps_service,On-Hold,Icalps_serviceOn-Hold,765894573,1116269223
+Icalps_service,Identified,Icalps_serviceIdentified,765894573,1116269224
+Icalps_service,Closed Won,Icalps_serviceClosed Won,765894573,1116704052
+Icalps_service,Closed Lost,Icalps_serviceClosed Lost,765894573,1116704053
+Icalps_service,Closed Dead,Icalps_serviceClosed Dead,,

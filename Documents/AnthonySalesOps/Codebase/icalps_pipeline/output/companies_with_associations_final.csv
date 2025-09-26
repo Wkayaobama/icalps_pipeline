@@ -1,0 +1,265 @@
+company_record_id,company_name,company_owner,create_date,phone_number,last_activity_date,city,country_region,industry,legacy_contact_id,hubspot_contact_id,company_record_id_legacy,primary_contact_email,company_association_status
+,Cea Grenoble,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2,TBD,PENDING
+,Malvern Panalytical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3,TBD,PENDING
+,Insightness,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1057,TBD,PENDING
+,Elichens,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1064,TBD,PENDING
+,Sercel,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1071,TBD,PENDING
+,Baumer Electric Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1072,TBD,PENDING
+,Thales Alenia Space Toulouse,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1074,TBD,PENDING
+,Redtree Solutions,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1075,TBD,PENDING
+,Aledia,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1076,TBD,PENDING
+,Framatome,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1081,TBD,PENDING
+,Sp3H,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1089,TBD,PENDING
+,Cissoid  S.A.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1095,TBD,PENDING
+,Carmat,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1100,TBD,PENDING
+,Isorg,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1115,TBD,PENDING
+,Vitec Video Innovation,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1119,TBD,PENDING
+,@-Health,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1128,TBD,PENDING
+,Intopix S.A.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1132,TBD,PENDING
+,Vsora,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1139,TBD,PENDING
+,Adept Neuro Sa,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1146,TBD,PENDING
+,Safran Sensing Norway,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1148,TBD,PENDING
+,3D-Plus,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1150,TBD,PENDING
+,Nipson Technology,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1154,TBD,PENDING
+,Debiotech,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1156,TBD,PENDING
+,Slb,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,1157,TBD,PENDING
+,Scubapro Uwatec,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2147,TBD,PENDING
+,Seal Sq France,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2153,TBD,PENDING
+,Zhortech,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2159,TBD,PENDING
+,Cnes,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2160,TBD,PENDING
+,Schneider Electric Eybens,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,2191,TBD,PENDING
+,Anotherbrain,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3175,TBD,PENDING
+,Cairdac,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3176,TBD,PENDING
+,Moduleus,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3179,TBD,PENDING
+,Nanoxplore,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3180,TBD,PENDING
+,Sentinhealth,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3186,TBD,PENDING
+,Vermon,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,3187,TBD,PENDING
+,Neurallys,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4196,TBD,PENDING
+,Panaxium,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4201,TBD,PENDING
+,Fine Heart,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4202,TBD,PENDING
+,Valeo Pouillon,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4214,TBD,PENDING
+,Sensimed,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4230,TBD,PENDING
+,Sicpa,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4233,TBD,PENDING
+,Silicon Mobility,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4235,TBD,PENDING
+,Diabeloop,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4242,TBD,PENDING
+,Sorin Crm S.A.S.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4246,TBD,PENDING
+,Greenwaves Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4247,TBD,PENDING
+,Continental Toulouse,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4255,TBD,PENDING
+,Continental Rambouillet,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4256,TBD,PENDING
+,Alstom,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4260,TBD,PENDING
+,Imec Asic Services,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4282,TBD,PENDING
+,Csem Neuchatel,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4284,TBD,PENDING
+,Stmicroelectronics (Crolles2) Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4287,TBD,PENDING
+,Semtech France Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4291,TBD,PENDING
+,Semtech Neuchâtel,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4293,TBD,PENDING
+,Dream,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4299,TBD,PENDING
+,Lynred,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4305,TBD,PENDING
+,Alstom Aix,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4311,TBD,PENDING
+,Synergia Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4331,TBD,PENDING
+,Melexis Tessenderlo,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4342,TBD,PENDING
+,Menta Valbonne,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4345,TBD,PENDING
+,Neelogy,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4349,TBD,PENDING
+,Guc,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4369,TBD,PENDING
+,Rambus,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4710,TBD,PENDING
+,Thales Dis Design Services,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4718,TBD,PENDING
+,Idemia Meyreuil,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,4719,TBD,PENDING
+,Enyx,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5745,TBD,PENDING
+,Emka Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5768,TBD,PENDING
+,Biofourmis,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5779,TBD,PENDING
+,Sodern,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5787,TBD,PENDING
+,Senis,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5795,TBD,PENDING
+,Elsys Design 06,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,5808,TBD,PENDING
+,Thales Avs Mérignac,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,6899,TBD,PENDING
+,Advanced Silicon Sa,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7930,TBD,PENDING
+,Cern,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7962,TBD,PENDING
+,Lem,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7965,TBD,PENDING
+,Em Microelectronic,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7980,TBD,PENDING
+,Trameto,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7987,TBD,PENDING
+,Forvia Nanterre,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,7988,TBD,PENDING
+,Pyxalis,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9016,TBD,PENDING
+,Helbling Technik Bern Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9020,TBD,PENDING
+,Upmem,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9027,TBD,PENDING
+,Computime,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9046,TBD,PENDING
+,Thales Avs Valence,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9050,TBD,PENDING
+,Allegro Microsystems France Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9061,TBD,PENDING
+,Exosens,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9063,TBD,PENDING
+,Hap2U,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9065,TBD,PENDING
+,Presto Engineering Inc,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9072,TBD,PENDING
+,Tiempo-Secure,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9103,TBD,PENDING
+,Trixell,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9111,TBD,PENDING
+,Kapflex Sensors,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9135,TBD,PENDING
+,Eth Zurich Gloriastrasse,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,9187,TBD,PENDING
+,Ams-Osram Ag Rapperswill,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10263,TBD,PENDING
+,Vibiscus,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10299,TBD,PENDING
+,Dga Bruz,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10310,TBD,PENDING
+,Gopro Technology France Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10391,TBD,PENDING
+,Airmems,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10412,TBD,PENDING
+,Reflex Ces,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10423,TBD,PENDING
+,Meta,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10456,TBD,PENDING
+,Satt Sayens,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10525,TBD,PENDING
+,Bartels Mikrotechnik,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10541,TBD,PENDING
+,Hco,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,10543,TBD,PENDING
+,Easics,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11580,TBD,PENDING
+,Ams-Osram Valencia,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11625,TBD,PENDING
+,Withings,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11652,TBD,PENDING
+,Thales Six Gennevilliers,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11664,TBD,PENDING
+,Ledger,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11675,TBD,PENDING
+,Polyn Technology Ltd.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11714,TBD,PENDING
+,Continental Regensburg,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11737,TBD,PENDING
+,Sifemto,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11747,TBD,PENDING
+,Cegitek Innovation,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11748,TBD,PENDING
+,Kapsch Trafficcom Vienna,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11764,TBD,PENDING
+,Ams-Osram Ag Premstaetten,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11778,TBD,PENDING
+,Stmicroelectronics Catania,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11904,TBD,PENDING
+,Ensta,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11929,TBD,PENDING
+,Stmicroelectronics (Grenoble 2) Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,11945,TBD,PENDING
+,Senbiosys,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12057,TBD,PENDING
+,Woodwelding Sa,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12058,TBD,PENDING
+,Olythe,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12062,TBD,PENDING
+,Titan Defense,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12065,TBD,PENDING
+,Allegro Microsystems Milpitas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12067,TBD,PENDING
+,Vermes Microdispensing,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,12086,TBD,PENDING
+,Laclarée Vision,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,14106,TBD,PENDING
+,Isd Integrated System Development,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,14146,TBD,PENDING
+,Wise Integration,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,15153,TBD,PENDING
+,Switchess,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,15157,TBD,PENDING
+,Trinamix Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17186,TBD,PENDING
+,Silmach,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17205,TBD,PENDING
+,Sagax,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17208,TBD,PENDING
+,Lynxemi,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17230,TBD,PENDING
+,Nuvasive Paris,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17253,TBD,PENDING
+,Alter Technology (France),NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17265,TBD,PENDING
+,Bme Consulting Suisse,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17279,TBD,PENDING
+,Boydsense Hq,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17280,TBD,PENDING
+,Sipearl,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17288,TBD,PENDING
+,Equipic,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17471,TBD,PENDING
+,Centiloc,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17472,TBD,PENDING
+,Trilite Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17476,TBD,PENDING
+,Faurecia Clarion Electronics Europe (Fr60),NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17484,TBD,PENDING
+,Rds Rhythm Diagnostic Systems (Strasbourg),NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17490,TBD,PENDING
+,Moxtek,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17491,TBD,PENDING
+,Eusil,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17493,TBD,PENDING
+,Netlink Communication Corp,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17496,TBD,PENDING
+,Eric Desplanches,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17498,TBD,PENDING
+,Nanoz Group,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17506,TBD,PENDING
+,Milandr,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17517,TBD,PENDING
+,Microej,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17523,TBD,PENDING
+,Numem,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17525,TBD,PENDING
+,Kineis,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17533,TBD,PENDING
+,Sense In,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17554,TBD,PENDING
+,Mosaic Finance,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17556,TBD,PENDING
+,Waviot,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17561,TBD,PENDING
+,Voxelsensors Srl,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17566,TBD,PENDING
+,Crypto Quantique,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17568,TBD,PENDING
+,Micro Crystal,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17569,TBD,PENDING
+,Pharrowtech Bv,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,17581,TBD,PENDING
+,Neuroloop,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18583,TBD,PENDING
+,Nyxoah,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18592,TBD,PENDING
+,Micledi,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18597,TBD,PENDING
+,Rad Data Communications,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18600,TBD,PENDING
+,Synthara Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18604,TBD,PENDING
+,Crouzet,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18611,TBD,PENDING
+,Bosch Sensortec Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18618,TBD,PENDING
+,Virility Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18619,TBD,PENDING
+,Cebi Electromechanical Components Spain S.A.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18621,TBD,PENDING
+,Datacan,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18622,TBD,PENDING
+,Pytheas Technology,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18623,TBD,PENDING
+,Pulsify Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18629,TBD,PENDING
+,Advanced Bionics Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18632,TBD,PENDING
+,Caranx Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18634,TBD,PENDING
+,Axem Technology,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18635,TBD,PENDING
+,Picotech,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18638,TBD,PENDING
+,Eyyes,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18639,TBD,PENDING
+,Pv Hardware Solutions,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18644,TBD,PENDING
+,Manitty,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18661,TBD,PENDING
+,Weebitnano France,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18686,TBD,PENDING
+,Befc,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18691,TBD,PENDING
+,Orcasonics Innovation Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18706,TBD,PENDING
+,Applied Brain Research Inc.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18713,TBD,PENDING
+,Equilibr.Io,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18718,TBD,PENDING
+,Everysight,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18721,TBD,PENDING
+,Pellenc Energy,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18722,TBD,PENDING
+,Neologic (Vlsi),NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18723,TBD,PENDING
+,Sequans Israel,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18724,TBD,PENDING
+,Universidad De Zaragoza,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18725,TBD,PENDING
+,"Titan Advanced Energy Solutions, Inc",NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18726,TBD,PENDING
+,Siclade Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,18729,TBD,PENDING
+,B&R Automation,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19736,TBD,PENDING
+,Ternwaves,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19738,TBD,PENDING
+,Crane Aerospace,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19751,TBD,PENDING
+,Valeo Vision France Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19754,TBD,PENDING
+,Ram Solutions Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19761,TBD,PENDING
+,Valid Soluciones Tecnologicas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19776,TBD,PENDING
+,Ilmsens Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19787,TBD,PENDING
+,Vocsens,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19796,TBD,PENDING
+,Orga+,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19801,TBD,PENDING
+,Wheere,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19802,TBD,PENDING
+,Infinera,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19809,TBD,PENDING
+,Lightricity Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19821,TBD,PENDING
+,Vandewiele,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19826,TBD,PENDING
+,Batchone,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19835,TBD,PENDING
+,Cleardrop,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19839,TBD,PENDING
+,Tyri Sweden Ab,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19841,TBD,PENDING
+,Memperience,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19843,TBD,PENDING
+,Ic-Logic,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19844,TBD,PENDING
+,Arçelik Global,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19850,TBD,PENDING
+,Semidynamics,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19881,TBD,PENDING
+,Intron Electronic Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19884,TBD,PENDING
+,Efficient Computer,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,19891,TBD,PENDING
+,Impli Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20931,TBD,PENDING
+,Watermelon Co.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20932,TBD,PENDING
+,Quside Technologies S.L.,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20933,TBD,PENDING
+,Sonicedge Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20936,TBD,PENDING
+,Enercon Technologies Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20937,TBD,PENDING
+,Syrma Sgs,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20940,TBD,PENDING
+,"Diodes, Inc",NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20942,TBD,PENDING
+,Id4Us,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20946,TBD,PENDING
+,Legrand France Pyrénées,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20953,TBD,PENDING
+,Schaeffler Toulouse,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20954,TBD,PENDING
+,Cnrs Crhea,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20963,TBD,PENDING
+,Eviden Sophia,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20965,TBD,PENDING
+,Steerlight,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20973,TBD,PENDING
+,Forest Neurotech Llc,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20982,TBD,PENDING
+,Actia Automotive,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20983,TBD,PENDING
+,Joulwatt,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,20990,TBD,PENDING
+,Smartpatch Health,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21004,TBD,PENDING
+,Gammao,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21006,TBD,PENDING
+,Imperial Brand,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21009,TBD,PENDING
+,Yongatek,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21011,TBD,PENDING
+,Hazelton Technologies Pty Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21012,TBD,PENDING
+,Calian Ltd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21013,TBD,PENDING
+,Tandemlaunch,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21015,TBD,PENDING
+,Ceragon,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21018,TBD,PENDING
+,Idun Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21023,TBD,PENDING
+,Liom,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21029,TBD,PENDING
+,Ceryx Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21037,TBD,PENDING
+,Esploratis,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21044,TBD,PENDING
+,Openchip And Software Technologies Sl,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21048,TBD,PENDING
+,Qualinx,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21052,TBD,PENDING
+,Monolithicpowersystems,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21054,TBD,PENDING
+,Precision Neuroscience Corporation Usd,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21056,TBD,PENDING
+,Sicoya Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21065,TBD,PENDING
+,Zama,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21067,TBD,PENDING
+,Innoviz Technologies,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21071,TBD,PENDING
+,Noptrack,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21073,TBD,PENDING
+,Cy-Cor Sas,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21082,TBD,PENDING
+,Precision Neuroscience Euro,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21085,TBD,PENDING
+,Kmc Component,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21087,TBD,PENDING
+,Kwazar-Is,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,21091,TBD,PENDING
+,Cisteo Medical,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22107,TBD,PENDING
+,Mstech Europe,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22111,TBD,PENDING
+,Apple Cupertino,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22112,TBD,PENDING
+,Yitran,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22113,TBD,PENDING
+,Spark Microsystems,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22114,TBD,PENDING
+,Schaeffler Regensburg,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22115,TBD,PENDING
+,Thyssenkrupp Presta Ag,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22116,TBD,PENDING
+,Iqm,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22129,TBD,PENDING
+,Nxp Semiconductors Austria Gmbh,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22131,TBD,PENDING
+,Onsemi Brno Design Center,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22132,TBD,PENDING
+,Global Foundries Malta,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22133,TBD,PENDING
+,Qualcomm Colombes,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22142,TBD,PENDING
+,Movyon Electronics S.R.L,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22150,TBD,PENDING
+,Newco,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22153,TBD,PENDING
+,Essilorluxottica,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22154,TBD,PENDING
+,Ingage,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22166,TBD,PENDING
+,Optiver,NA,09/18/2025 11:13,NA,NA,NA,NA,Semiconductors,NA,TBD,22167,TBD,PENDING

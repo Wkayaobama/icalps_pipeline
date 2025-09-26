@@ -1,0 +1,135 @@
+name: 🚀 Feature Request
+description: Request a new feature for the IC'ALPS pipeline
+title: "[FEATURE] "
+labels: ["feature", "needs-triage"]
+assignees:
+  - Wkayaobama
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+  - type: input
+    id: feature-title
+    attributes:
+      label: Feature Title
+      description: Brief title for the feature
+      placeholder: ex. "Set up pipeline for data extraction"
+    validations:
+      required: true
+
+  - type: textarea
+    id: workflow-description
+    attributes:
+      label: What should this workflow do?
+      description: Describe the main purpose and functionality
+      placeholder: |
+        This workflow will extract raw data from SQL Server databases, transform it using DuckDB,
+        and prepare it for Excel integration via xlwings...
+    validations:
+      required: true
+
+  - type: textarea
+    id: workflow-trigger
+    attributes:
+      label: How does it start (trigger)?
+      description: What initiates this workflow?
+      placeholder: |
+        - Manual execution via Python script
+        - Excel button click via xlwings
+        - Scheduled execution (future enhancement)
+        - Data update webhook (future enhancement)
+    validations:
+      required: true
+
+  - type: textarea
+    id: step-by-step
+    attributes:
+      label: Step-by-step process
+      description: Detailed implementation steps
+      placeholder: |
+        1. Connect to SQL Server using ADODB
+        2. Extract Bronze layer data with proper prefixes
+        3. Load data into DuckDB for transformation
+        4. Apply business rules and computed columns
+        5. Generate Excel-compatible output via xlwings
+        6. Handle errors and cleanup connections
+    validations:
+      required: true
+
+  - type: textarea
+    id: services-connections
+    attributes:
+      label: What services does it connect to?
+      description: External services, databases, APIs, tools
+      placeholder: |
+        - SQL Server (CRM database)
+        - DuckDB (local processing)
+        - Excel (via xlwings)
+        - File system (input/output/temp folders)
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-output
+    attributes:
+      label: What should be the output?
+      description: Expected results and deliverables
+      placeholder: |
+        - Bronze layer CSV files with proper prefixes
+        - Processed data in DuckDB format
+        - Updated Excel worksheets with new data
+        - Execution logs and error reports
+    validations:
+      required: true
+
+  - type: textarea
+    id: potential-issues
+    attributes:
+      label: What could go wrong?
+      description: Potential problems and mitigation strategies
+      placeholder: |
+        - Database connection failures → retry logic and error handling
+        - Data quality issues → validation and cleansing procedures
+        - Excel file locks → proper file handling and user notifications
+        - Memory issues with large datasets → chunked processing
+        - Business rule conflicts → validation and audit trails
+    validations:
+      required: true
+
+  - type: dropdown
+    id: criticality
+    attributes:
+      label: Criticality Level
+      description: How critical is this feature?
+      options:
+        - High - Blocks core functionality
+        - Medium - Important for workflow efficiency
+        - Low - Nice to have enhancement
+    validations:
+      required: true
+
+  - type: input
+    id: estimated-start
+    attributes:
+      label: Estimated Start Date
+      description: When should work begin? (YYYY-MM-DD)
+      placeholder: "2024-01-15"
+
+  - type: input
+    id: estimated-end
+    attributes:
+      label: Estimated End Date
+      description: When should this be completed? (YYYY-MM-DD)
+      placeholder: "2024-01-30"
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other context, screenshots, or references
+      placeholder: |
+        - Related to Phase 1: Foundation Infrastructure
+        - Dependencies: Database connection framework must be complete first
+        - References: CLAUDE.md lines 45-52

@@ -1,0 +1,33 @@
+{
+  "import_readiness": {
+    "deals_ready": 635,
+    "companies_ready": 0,
+    "contacts_ready": 910,
+    "engagements_ready": 72909
+  },
+  "pipeline_distribution": {
+    "Icalps_hardware": 576,
+    "Icalps_service": 59
+  },
+  "property_validation": {
+    "deals_properties_mapped": 15,
+    "required_custom_properties": [
+      "icalps_deal_id",
+      "icalps_dealforecast",
+      "icalps_dealcertainty",
+      "icalps_dealtype",
+      "icalps_dealsource",
+      "icalps_dealnotes",
+      "icalps_dealcategory",
+      "icalps_deal_created_date",
+      "icalps_originalstage",
+      "icalps_original_status",
+      "icalps_transformation_notes"
+    ]
+  },
+  "association_requirements": {
+    "deal_to_company_associations": 635,
+    "deal_to_contact_associations": 625,
+    "engagement_associations_needed": 72909
+  }
+}

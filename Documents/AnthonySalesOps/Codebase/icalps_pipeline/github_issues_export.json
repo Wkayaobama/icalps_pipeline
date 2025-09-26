@@ -1,0 +1,543 @@
+{
+  "issues": [
+    {
+      "title": "[INFRA] Create Database Connection Framework",
+      "body": "## What should this workflow do?\nCreate a robust database connection framework with ADODB connections, connection pooling, retry logic, and comprehensive error handling.\n\n## How does it start (trigger)?\n- Application startup initialization\n- On-demand connection requests from data extractors\n- Configuration file changes\n\n## Step-by-step process\n1. Create `src/database/connection.py` with DatabaseConnector class\n2. Implement `src/config/database_config.py` for configuration management\n3. Add connection string templates and error handling\n4. Implement connection pooling and retry logic with exponential backoff\n5. Add comprehensive logging and monitoring\n6. Write unit tests for database connectivity (>90% coverage)\n7. Create usage documentation and examples\n\n## What services does it connect to?\n- SQL Server databases (primary CRM data source)\n- Configuration management system\n- Python logging framework\n- Error monitoring system (future)\n\n## What should be the output?\n- DatabaseConnector class with full CRUD operations\n- Configuration templates for different environments\n- Comprehensive unit test suite\n- Usage documentation and code examples\n- Performance benchmarks\n\n## What could go wrong?\n- Connection timeout issues \u2192 implement proper timeout handling and retry logic\n- Memory leaks from unclosed connections \u2192 connection pooling with proper cleanup\n- Security vulnerabilities \u2192 secure credential management and SQL injection prevention\n- Performance bottlenecks \u2192 connection pooling and query optimization\n- Configuration errors \u2192 validation and environment-specific templates",
+      "labels": [
+        "infrastructure",
+        "database",
+        "critical",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "Critical",
+        "start_date": "2024-01-15",
+        "end_date": "2024-01-22",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[INFRA] Create Bronze Layer Company Data Extractor",
+      "body": "## What should this workflow do?\nExtract company data from SQL Server and create Bronze layer datasets with proper \"Bronze_\" prefixes.\n\n## How does it start (trigger)?\n- Manual execution via Python script\n- Scheduled extraction jobs\n- Excel button clicks via xlwings\n- API requests from downstream processes\n\n## Step-by-step process\n1. Connect to SQL Server using DatabaseConnector\n2. Execute optimized SQL queries for company data\n3. Apply data validation and quality checks\n4. Create Bronze layer CSV with \"Bronze_companies\" prefix\n5. Generate metadata and lineage information\n6. Handle errors and create audit logs\n7. Update extraction status and notifications\n\n## What services does it connect to?\n- SQL Server CRM database\n- File system (Bronze layer storage)\n- Logging and monitoring system\n- Data quality validation engine\n\n## What should be the output?\n- Bronze_companies.csv with clean, validated data\n- Extraction metadata and statistics\n- Data quality reports\n- Error logs and notifications\n- Performance metrics\n\n## What could go wrong?\n- Database connection failures \u2192 retry logic and failover\n- Data quality issues \u2192 validation rules and cleansing\n- Large dataset memory issues \u2192 chunked processing\n- File system permissions \u2192 proper error handling\n- SQL query performance \u2192 query optimization and indexing\n\n**Entity Description:** Company entity with one-to-many relationships",
+      "labels": [
+        "infrastructure",
+        "data-extraction",
+        "bronze-layer",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-01-17",
+        "end_date": "2024-01-22",
+        "estimated_hours": 40
+      }
+    },
+    {
+      "title": "[INFRA] Create Bronze Layer Deal/Opportunity Data Extractor",
+      "body": "## What should this workflow do?\nExtract deal/opportunity data from SQL Server and create Bronze layer datasets with proper \"Bronze_\" prefixes.\n\n## How does it start (trigger)?\n- Manual execution via Python script\n- Scheduled extraction jobs\n- Excel button clicks via xlwings\n- API requests from downstream processes\n\n## Step-by-step process\n1. Connect to SQL Server using DatabaseConnector\n2. Execute optimized SQL queries for deal/opportunity data\n3. Apply data validation and quality checks\n4. Create Bronze layer CSV with \"Bronze_deals\" prefix\n5. Generate metadata and lineage information\n6. Handle errors and create audit logs\n7. Update extraction status and notifications\n\n## What services does it connect to?\n- SQL Server CRM database\n- File system (Bronze layer storage)\n- Logging and monitoring system\n- Data quality validation engine\n\n## What should be the output?\n- Bronze_deals.csv with clean, validated data\n- Extraction metadata and statistics\n- Data quality reports\n- Error logs and notifications\n- Performance metrics\n\n## What could go wrong?\n- Database connection failures \u2192 retry logic and failover\n- Data quality issues \u2192 validation rules and cleansing\n- Large dataset memory issues \u2192 chunked processing\n- File system permissions \u2192 proper error handling\n- SQL query performance \u2192 query optimization and indexing\n\n**Entity Description:** Deal pipeline with stage tracking and forecasting",
+      "labels": [
+        "infrastructure",
+        "data-extraction",
+        "bronze-layer",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-01-19",
+        "end_date": "2024-01-24",
+        "estimated_hours": 40
+      }
+    },
+    {
+      "title": "[INFRA] Create Bronze Layer Contact/Person Data Extractor",
+      "body": "## What should this workflow do?\nExtract contact/person data from SQL Server and create Bronze layer datasets with proper \"Bronze_\" prefixes.\n\n## How does it start (trigger)?\n- Manual execution via Python script\n- Scheduled extraction jobs\n- Excel button clicks via xlwings\n- API requests from downstream processes\n\n## Step-by-step process\n1. Connect to SQL Server using DatabaseConnector\n2. Execute optimized SQL queries for contact/person data\n3. Apply data validation and quality checks\n4. Create Bronze layer CSV with \"Bronze_contacts\" prefix\n5. Generate metadata and lineage information\n6. Handle errors and create audit logs\n7. Update extraction status and notifications\n\n## What services does it connect to?\n- SQL Server CRM database\n- File system (Bronze layer storage)\n- Logging and monitoring system\n- Data quality validation engine\n\n## What should be the output?\n- Bronze_contacts.csv with clean, validated data\n- Extraction metadata and statistics\n- Data quality reports\n- Error logs and notifications\n- Performance metrics\n\n## What could go wrong?\n- Database connection failures \u2192 retry logic and failover\n- Data quality issues \u2192 validation rules and cleansing\n- Large dataset memory issues \u2192 chunked processing\n- File system permissions \u2192 proper error handling\n- SQL query performance \u2192 query optimization and indexing\n\n**Entity Description:** Contact entities with 0-1 to 0-n cardinality",
+      "labels": [
+        "infrastructure",
+        "data-extraction",
+        "bronze-layer",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-01-21",
+        "end_date": "2024-01-26",
+        "estimated_hours": 40
+      }
+    },
+    {
+      "title": "[INFRA] Create Bronze Layer Communication Logs Extractor",
+      "body": "## What should this workflow do?\nExtract communication logs from SQL Server and create Bronze layer datasets with proper \"Bronze_\" prefixes.\n\n## How does it start (trigger)?\n- Manual execution via Python script\n- Scheduled extraction jobs\n- Excel button clicks via xlwings\n- API requests from downstream processes\n\n## Step-by-step process\n1. Connect to SQL Server using DatabaseConnector\n2. Execute optimized SQL queries for communication logs\n3. Apply data validation and quality checks\n4. Create Bronze layer CSV with \"Bronze_communications\" prefix\n5. Generate metadata and lineage information\n6. Handle errors and create audit logs\n7. Update extraction status and notifications\n\n## What services does it connect to?\n- SQL Server CRM database\n- File system (Bronze layer storage)\n- Logging and monitoring system\n- Data quality validation engine\n\n## What should be the output?\n- Bronze_communications.csv with clean, validated data\n- Extraction metadata and statistics\n- Data quality reports\n- Error logs and notifications\n- Performance metrics\n\n## What could go wrong?\n- Database connection failures \u2192 retry logic and failover\n- Data quality issues \u2192 validation rules and cleansing\n- Large dataset memory issues \u2192 chunked processing\n- File system permissions \u2192 proper error handling\n- SQL query performance \u2192 query optimization and indexing\n\n**Entity Description:** Communication logs with many-to-many relationships",
+      "labels": [
+        "infrastructure",
+        "data-extraction",
+        "bronze-layer",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-01-23",
+        "end_date": "2024-01-28",
+        "estimated_hours": 40
+      }
+    },
+    {
+      "title": "[INFRA] Implement DuckDB Processing Engine",
+      "body": "## What should this workflow do?\nCreate a robust DuckDB processing engine for data transformations, business logic application, and analytics processing.\n\n## How does it start (trigger)?\n- Post Bronze layer extraction completion\n- Manual processing requests via Python/Excel\n- Scheduled transformation jobs\n- Data change events\n\n## Step-by-step process\n1. Implement `src/processors/duckdb_engine.py` core processor\n2. Create SQL transformation scripts directory structure\n3. Add business logic processing modules\n4. Implement memory management and connection pooling\n5. Create data validation and quality assurance checks\n6. Add performance monitoring and optimization\n7. Build comprehensive test suite\n\n## What services does it connect to?\n- DuckDB in-memory/persistent databases\n- Bronze layer CSV files\n- Business logic validation engine\n- Memory monitoring systems\n- Performance analytics\n\n## What should be the output?\n- Processed and transformed datasets\n- Business logic validation reports\n- Performance metrics and benchmarks\n- Data lineage and transformation logs\n- Quality assurance reports\n\n## What could go wrong?\n- Memory exhaustion with large datasets \u2192 chunked processing and optimization\n- Complex business logic conflicts \u2192 validation and audit procedures\n- SQL transformation errors \u2192 comprehensive error handling and rollback\n- Performance degradation \u2192 query optimization and indexing\n- Data corruption during processing \u2192 backup and recovery procedures",
+      "labels": [
+        "infrastructure",
+        "duckdb",
+        "data-processing",
+        "phase-phase-1:-foundation-infrastructure"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 1: Foundation Infrastructure",
+      "custom_fields": {
+        "criticality": "Critical",
+        "start_date": "2024-01-25",
+        "end_date": "2024-02-02",
+        "estimated_hours": 64
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Company Entity Processing",
+      "body": "## What should this workflow do?\nImplement company entity processing with proper relationships (1 to many relationships) and business logic validation.\n\n## How does it start (trigger)?\n- Bronze layer data availability\n- Entity relationship updates\n- Business rule changes\n- Data validation requests\n\n## Step-by-step process\n1. Design Company entity schema and relationships\n2. Implement data validation and business rules\n3. Create DuckDB views for entity relationships\n4. Add computed columns and derived fields\n5. Implement entity linking and relationship management\n6. Create data quality validation procedures\n7. Build comprehensive test coverage\n\n## What services does it connect to?\n- DuckDB processing engine\n- Business rules validation system\n- Entity relationship mapper\n- Data quality assurance system\n\n## What should be the output?\n- Company entity with proper relationships\n- Validated business logic implementation\n- Entity relationship documentation\n- Data quality reports\n- Performance benchmarks\n\n## What could go wrong?\n- Relationship integrity issues \u2192 comprehensive validation and constraints\n- Business rule conflicts \u2192 rule prioritization and conflict resolution\n- Performance issues with complex joins \u2192 query optimization\n- Data inconsistency \u2192 validation procedures and cleanup processes\n- Circular dependencies \u2192 proper entity modeling and validation\n\n**Entity Details:** Primary entity with hierarchical structure\n**Cardinality:** 1 to many relationships",
+      "labels": [
+        "feature",
+        "data-model",
+        "entity-processing",
+        "phase-phase-2:-core-data-model-implementation"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 2: Core Data Model Implementation",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-01-27",
+        "end_date": "2024-02-02",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Contact Entity Processing",
+      "body": "## What should this workflow do?\nImplement contact entity processing with proper relationships (0-1 to 0-n cardinality) and business logic validation.\n\n## How does it start (trigger)?\n- Bronze layer data availability\n- Entity relationship updates\n- Business rule changes\n- Data validation requests\n\n## Step-by-step process\n1. Design Contact entity schema and relationships\n2. Implement data validation and business rules\n3. Create DuckDB views for entity relationships\n4. Add computed columns and derived fields\n5. Implement entity linking and relationship management\n6. Create data quality validation procedures\n7. Build comprehensive test coverage\n\n## What services does it connect to?\n- DuckDB processing engine\n- Business rules validation system\n- Entity relationship mapper\n- Data quality assurance system\n\n## What should be the output?\n- Contact entity with proper relationships\n- Validated business logic implementation\n- Entity relationship documentation\n- Data quality reports\n- Performance benchmarks\n\n## What could go wrong?\n- Relationship integrity issues \u2192 comprehensive validation and constraints\n- Business rule conflicts \u2192 rule prioritization and conflict resolution\n- Performance issues with complex joins \u2192 query optimization\n- Data inconsistency \u2192 validation procedures and cleanup processes\n- Circular dependencies \u2192 proper entity modeling and validation\n\n**Entity Details:** Person entities linked to companies\n**Cardinality:** 0-1 to 0-n cardinality",
+      "labels": [
+        "feature",
+        "data-model",
+        "entity-processing",
+        "phase-phase-2:-core-data-model-implementation"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 2: Core Data Model Implementation",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-01-29",
+        "end_date": "2024-02-04",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Deal Entity Processing",
+      "body": "## What should this workflow do?\nImplement deal entity processing with proper relationships (Pipeline logic implementation) and business logic validation.\n\n## How does it start (trigger)?\n- Bronze layer data availability\n- Entity relationship updates\n- Business rule changes\n- Data validation requests\n\n## Step-by-step process\n1. Design Deal entity schema and relationships\n2. Implement data validation and business rules\n3. Create DuckDB views for entity relationships\n4. Add computed columns and derived fields\n5. Implement entity linking and relationship management\n6. Create data quality validation procedures\n7. Build comprehensive test coverage\n\n## What services does it connect to?\n- DuckDB processing engine\n- Business rules validation system\n- Entity relationship mapper\n- Data quality assurance system\n\n## What should be the output?\n- Deal entity with proper relationships\n- Validated business logic implementation\n- Entity relationship documentation\n- Data quality reports\n- Performance benchmarks\n\n## What could go wrong?\n- Relationship integrity issues \u2192 comprehensive validation and constraints\n- Business rule conflicts \u2192 rule prioritization and conflict resolution\n- Performance issues with complex joins \u2192 query optimization\n- Data inconsistency \u2192 validation procedures and cleanup processes\n- Circular dependencies \u2192 proper entity modeling and validation\n\n**Entity Details:** Opportunities with stage tracking\n**Cardinality:** Pipeline logic implementation",
+      "labels": [
+        "feature",
+        "data-model",
+        "entity-processing",
+        "phase-phase-2:-core-data-model-implementation"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 2: Core Data Model Implementation",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-01-31",
+        "end_date": "2024-02-06",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Communication Entity Processing",
+      "body": "## What should this workflow do?\nImplement communication entity processing with proper relationships (Many-to-many relationships) and business logic validation.\n\n## How does it start (trigger)?\n- Bronze layer data availability\n- Entity relationship updates\n- Business rule changes\n- Data validation requests\n\n## Step-by-step process\n1. Design Communication entity schema and relationships\n2. Implement data validation and business rules\n3. Create DuckDB views for entity relationships\n4. Add computed columns and derived fields\n5. Implement entity linking and relationship management\n6. Create data quality validation procedures\n7. Build comprehensive test coverage\n\n## What services does it connect to?\n- DuckDB processing engine\n- Business rules validation system\n- Entity relationship mapper\n- Data quality assurance system\n\n## What should be the output?\n- Communication entity with proper relationships\n- Validated business logic implementation\n- Entity relationship documentation\n- Data quality reports\n- Performance benchmarks\n\n## What could go wrong?\n- Relationship integrity issues \u2192 comprehensive validation and constraints\n- Business rule conflicts \u2192 rule prioritization and conflict resolution\n- Performance issues with complex joins \u2192 query optimization\n- Data inconsistency \u2192 validation procedures and cleanup processes\n- Circular dependencies \u2192 proper entity modeling and validation\n\n**Entity Details:** Interaction logs across all entities\n**Cardinality:** Many-to-many relationships",
+      "labels": [
+        "feature",
+        "data-model",
+        "entity-processing",
+        "phase-phase-2:-core-data-model-implementation"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 2: Core Data Model Implementation",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-02",
+        "end_date": "2024-02-08",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Business Logic Engine",
+      "body": "## What should this workflow do?\nImplement comprehensive business logic engine with pipeline stage mapping, computed columns, and deal lifecycle management.\n\n## How does it start (trigger)?\n- Entity data processing completion\n- Business rule updates\n- Pipeline stage changes\n- Computed column recalculation requests\n\n## Step-by-step process\n1. Implement Hardware pipeline stage mapping (5 stages)\n2. Implement Software pipeline stage mapping (5 stages)\n3. Add double granularity final stages (No-go, Abandonn\u00e9e, Perdue, Gagn\u00e9e)\n4. Create computed column calculations:\n   - IC_alps Forecast \u2192 Amount mapping\n   - Weighted Forecast = Amount \u00d7 IC_alps Certainty\n   - Net Amount = Forecast - Cost\n   - Net Weighted Amount calculation\n5. Add business rule validation and testing\n6. Implement audit trail and change tracking\n7. Create performance optimization procedures\n\n## What services does it connect to?\n- DuckDB processing engine\n- Entity relationship system\n- Computed column calculator\n- Audit and logging system\n\n## What should be the output?\n- Complete pipeline stage mapping system\n- All computed columns with proper calculations\n- Business rule validation engine\n- Audit trail and change tracking\n- Performance metrics and optimization\n\n## What could go wrong?\n- Business rule conflicts \u2192 rule prioritization system\n- Computed column calculation errors \u2192 validation and testing procedures\n- Pipeline stage mapping inconsistencies \u2192 comprehensive validation\n- Performance issues with complex calculations \u2192 optimization and caching\n- Audit trail corruption \u2192 backup and recovery procedures",
+      "labels": [
+        "feature",
+        "business-logic",
+        "pipeline-mapping",
+        "phase-phase-2:-core-data-model-implementation"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 2: Core Data Model Implementation",
+      "custom_fields": {
+        "criticality": "Critical",
+        "start_date": "2024-02-04",
+        "end_date": "2024-02-14",
+        "estimated_hours": 80
+      }
+    },
+    {
+      "title": "[FEATURE] Create xlwings Data Loader",
+      "body": "## What should this workflow do?\nCreate xlwings custom script for Bronze data loading with Excel integration with Excel integration and user-friendly interface.\n\n## How does it start (trigger)?\n- Excel button clicks from custom ribbon\n- Manual script execution from Python\n- Scheduled execution (future enhancement)\n- Workflow automation triggers\n\n## Step-by-step process\n1. Create `src/xlwings_scripts/data_loader.py` with @script decorator\n2. Implement Excel data reading and validation\n3. Add DuckDB integration for data processing\n4. Create formatted Excel output with CellPrinter class\n5. Add error handling and user notifications\n6. Implement progress tracking and status updates\n7. Create comprehensive testing and validation\n\n## What services does it connect to?\n- Excel workbooks via xlwings\n- DuckDB processing engine\n- Data validation system\n- User notification system\n- File system for templates and outputs\n\n## What should be the output?\n- Fully functional xlwings script with Excel integration\n- Formatted Excel outputs with professional styling\n- Error handling and user-friendly notifications\n- Progress tracking and status indicators\n- Comprehensive documentation and examples\n\n## What could go wrong?\n- Excel file locks \u2192 proper file handling and user guidance\n- xlwings API errors \u2192 comprehensive error handling and fallbacks\n- Data formatting issues \u2192 validation and template standardization\n- Performance issues with large datasets \u2192 optimization and chunking\n- User interface confusion \u2192 intuitive design and clear instructions\n\n**Script Purpose:** Bronze data loading with Excel integration",
+      "labels": [
+        "feature",
+        "xlwings",
+        "excel-integration",
+        "phase-phase-3:-xlwings-integration-layer"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 3: xlwings Integration Layer",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-06",
+        "end_date": "2024-02-13",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[FEATURE] Create xlwings Data Processor",
+      "body": "## What should this workflow do?\nCreate xlwings custom script for DuckDB processing with Excel controls with Excel integration and user-friendly interface.\n\n## How does it start (trigger)?\n- Excel button clicks from custom ribbon\n- Manual script execution from Python\n- Scheduled execution (future enhancement)\n- Workflow automation triggers\n\n## Step-by-step process\n1. Create `src/xlwings_scripts/data_processor.py` with @script decorator\n2. Implement Excel data reading and validation\n3. Add DuckDB integration for data processing\n4. Create formatted Excel output with CellPrinter class\n5. Add error handling and user notifications\n6. Implement progress tracking and status updates\n7. Create comprehensive testing and validation\n\n## What services does it connect to?\n- Excel workbooks via xlwings\n- DuckDB processing engine\n- Data validation system\n- User notification system\n- File system for templates and outputs\n\n## What should be the output?\n- Fully functional xlwings script with Excel integration\n- Formatted Excel outputs with professional styling\n- Error handling and user-friendly notifications\n- Progress tracking and status indicators\n- Comprehensive documentation and examples\n\n## What could go wrong?\n- Excel file locks \u2192 proper file handling and user guidance\n- xlwings API errors \u2192 comprehensive error handling and fallbacks\n- Data formatting issues \u2192 validation and template standardization\n- Performance issues with large datasets \u2192 optimization and chunking\n- User interface confusion \u2192 intuitive design and clear instructions\n\n**Script Purpose:** DuckDB processing with Excel controls",
+      "labels": [
+        "feature",
+        "xlwings",
+        "excel-integration",
+        "phase-phase-3:-xlwings-integration-layer"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 3: xlwings Integration Layer",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-08",
+        "end_date": "2024-02-15",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[FEATURE] Create xlwings Dashboard Generator",
+      "body": "## What should this workflow do?\nCreate xlwings custom script for Interactive dashboards and KPIs with Excel integration and user-friendly interface.\n\n## How does it start (trigger)?\n- Excel button clicks from custom ribbon\n- Manual script execution from Python\n- Scheduled execution (future enhancement)\n- Workflow automation triggers\n\n## Step-by-step process\n1. Create `src/xlwings_scripts/dashboard_generator.py` with @script decorator\n2. Implement Excel data reading and validation\n3. Add DuckDB integration for data processing\n4. Create formatted Excel output with CellPrinter class\n5. Add error handling and user notifications\n6. Implement progress tracking and status updates\n7. Create comprehensive testing and validation\n\n## What services does it connect to?\n- Excel workbooks via xlwings\n- DuckDB processing engine\n- Data validation system\n- User notification system\n- File system for templates and outputs\n\n## What should be the output?\n- Fully functional xlwings script with Excel integration\n- Formatted Excel outputs with professional styling\n- Error handling and user-friendly notifications\n- Progress tracking and status indicators\n- Comprehensive documentation and examples\n\n## What could go wrong?\n- Excel file locks \u2192 proper file handling and user guidance\n- xlwings API errors \u2192 comprehensive error handling and fallbacks\n- Data formatting issues \u2192 validation and template standardization\n- Performance issues with large datasets \u2192 optimization and chunking\n- User interface confusion \u2192 intuitive design and clear instructions\n\n**Script Purpose:** Interactive dashboards and KPIs",
+      "labels": [
+        "feature",
+        "xlwings",
+        "excel-integration",
+        "phase-phase-3:-xlwings-integration-layer"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 3: xlwings Integration Layer",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-10",
+        "end_date": "2024-02-17",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[FEATURE] Create xlwings Report Generator",
+      "body": "## What should this workflow do?\nCreate xlwings custom script for Automated report generation with Excel integration and user-friendly interface.\n\n## How does it start (trigger)?\n- Excel button clicks from custom ribbon\n- Manual script execution from Python\n- Scheduled execution (future enhancement)\n- Workflow automation triggers\n\n## Step-by-step process\n1. Create `src/xlwings_scripts/report_generator.py` with @script decorator\n2. Implement Excel data reading and validation\n3. Add DuckDB integration for data processing\n4. Create formatted Excel output with CellPrinter class\n5. Add error handling and user notifications\n6. Implement progress tracking and status updates\n7. Create comprehensive testing and validation\n\n## What services does it connect to?\n- Excel workbooks via xlwings\n- DuckDB processing engine\n- Data validation system\n- User notification system\n- File system for templates and outputs\n\n## What should be the output?\n- Fully functional xlwings script with Excel integration\n- Formatted Excel outputs with professional styling\n- Error handling and user-friendly notifications\n- Progress tracking and status indicators\n- Comprehensive documentation and examples\n\n## What could go wrong?\n- Excel file locks \u2192 proper file handling and user guidance\n- xlwings API errors \u2192 comprehensive error handling and fallbacks\n- Data formatting issues \u2192 validation and template standardization\n- Performance issues with large datasets \u2192 optimization and chunking\n- User interface confusion \u2192 intuitive design and clear instructions\n\n**Script Purpose:** Automated report generation",
+      "labels": [
+        "feature",
+        "xlwings",
+        "excel-integration",
+        "phase-phase-3:-xlwings-integration-layer"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 3: xlwings Integration Layer",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-12",
+        "end_date": "2024-02-19",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Interactive Dashboard Components",
+      "body": "## What should this workflow do?\nCreate interactive dashboard components with KPI calculations, filtering capabilities, and drill-down functionality.\n\n## How does it start (trigger)?\n- Dashboard refresh requests from Excel\n- Data update notifications\n- Scheduled dashboard generation\n- User interaction events\n\n## Step-by-step process\n1. Implement CellPrinter class for formatted Excel output\n2. Create DataProcessing class for dashboard data preparation\n3. Add KPI calculation functions (total deals, win rate, pipeline value)\n4. Implement interactive filtering capabilities by various dimensions\n5. Add matplotlib chart generation and Excel integration\n6. Create drill-down functionality by pipeline type and stage\n7. Implement caching for performance optimization\n\n## What services does it connect to?\n- Excel via xlwings for interactive interface\n- DuckDB for data aggregation and filtering\n- matplotlib for chart generation\n- Business logic engine for KPI calculations\n\n## What should be the output?\n- Interactive Excel dashboards with professional formatting\n- Dynamic KPI calculations with real-time updates\n- Interactive charts and visualizations\n- Filtering and drill-down capabilities\n- Performance-optimized data loading\n\n## What could go wrong?\n- Performance issues with complex dashboards \u2192 caching and optimization\n- Chart rendering problems \u2192 matplotlib compatibility and error handling\n- Interactive filter conflicts \u2192 proper state management\n- Excel UI responsiveness \u2192 asynchronous processing and progress indicators\n- Data consistency issues \u2192 validation and refresh procedures",
+      "labels": [
+        "feature",
+        "dashboard",
+        "kpi",
+        "visualization",
+        "phase-phase-3:-xlwings-integration-layer"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 3: xlwings Integration Layer",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-14",
+        "end_date": "2024-02-22",
+        "estimated_hours": 64
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Forecast Analysis",
+      "body": "## What should this workflow do?\nImplement forecast analysis capabilities with weighted pipeline values and forecasting models.\n\n## How does it start (trigger)?\n- Analytics dashboard requests\n- Scheduled analytical processing\n- Management reporting requirements\n- Performance review cycles\n\n## Step-by-step process\n1. Design analytical models and algorithms\n2. Implement data aggregation and statistical processing\n3. Create visualization components for insights\n4. Add trend detection and pattern recognition\n5. Implement predictive modeling capabilities\n6. Create automated insight generation\n7. Add comprehensive testing and validation\n\n## What services does it connect to?\n- DuckDB for analytical processing\n- Historical data repositories\n- Statistical analysis libraries\n- Visualization and reporting systems\n\n## What should be the output?\n- Advanced analytical insights and recommendations\n- Interactive visualizations and reports\n- Automated trend detection and alerts\n- Predictive models with accuracy metrics\n- Performance benchmarks and optimization\n\n## What could go wrong?\n- Model accuracy issues \u2192 continuous validation and improvement\n- Performance degradation with large datasets \u2192 optimization and sampling\n- Complex statistical calculations \u2192 validation and testing procedures\n- Data quality affecting predictions \u2192 robust preprocessing and validation\n- User interpretation of complex analytics \u2192 clear documentation and training\n\n**Feature Focus:** Weighted pipeline values and forecasting models",
+      "labels": [
+        "feature",
+        "analytics",
+        "advanced",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-02-16",
+        "end_date": "2024-02-22",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Risk Assessment",
+      "body": "## What should this workflow do?\nImplement risk assessment capabilities with high/medium/low risk categorization based on certainty.\n\n## How does it start (trigger)?\n- Analytics dashboard requests\n- Scheduled analytical processing\n- Management reporting requirements\n- Performance review cycles\n\n## Step-by-step process\n1. Design analytical models and algorithms\n2. Implement data aggregation and statistical processing\n3. Create visualization components for insights\n4. Add trend detection and pattern recognition\n5. Implement predictive modeling capabilities\n6. Create automated insight generation\n7. Add comprehensive testing and validation\n\n## What services does it connect to?\n- DuckDB for analytical processing\n- Historical data repositories\n- Statistical analysis libraries\n- Visualization and reporting systems\n\n## What should be the output?\n- Advanced analytical insights and recommendations\n- Interactive visualizations and reports\n- Automated trend detection and alerts\n- Predictive models with accuracy metrics\n- Performance benchmarks and optimization\n\n## What could go wrong?\n- Model accuracy issues \u2192 continuous validation and improvement\n- Performance degradation with large datasets \u2192 optimization and sampling\n- Complex statistical calculations \u2192 validation and testing procedures\n- Data quality affecting predictions \u2192 robust preprocessing and validation\n- User interpretation of complex analytics \u2192 clear documentation and training\n\n**Feature Focus:** High/Medium/Low risk categorization based on certainty",
+      "labels": [
+        "feature",
+        "analytics",
+        "advanced",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-02-18",
+        "end_date": "2024-02-24",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Trend Analysis",
+      "body": "## What should this workflow do?\nImplement trend analysis capabilities with historical pipeline progression and patterns.\n\n## How does it start (trigger)?\n- Analytics dashboard requests\n- Scheduled analytical processing\n- Management reporting requirements\n- Performance review cycles\n\n## Step-by-step process\n1. Design analytical models and algorithms\n2. Implement data aggregation and statistical processing\n3. Create visualization components for insights\n4. Add trend detection and pattern recognition\n5. Implement predictive modeling capabilities\n6. Create automated insight generation\n7. Add comprehensive testing and validation\n\n## What services does it connect to?\n- DuckDB for analytical processing\n- Historical data repositories\n- Statistical analysis libraries\n- Visualization and reporting systems\n\n## What should be the output?\n- Advanced analytical insights and recommendations\n- Interactive visualizations and reports\n- Automated trend detection and alerts\n- Predictive models with accuracy metrics\n- Performance benchmarks and optimization\n\n## What could go wrong?\n- Model accuracy issues \u2192 continuous validation and improvement\n- Performance degradation with large datasets \u2192 optimization and sampling\n- Complex statistical calculations \u2192 validation and testing procedures\n- Data quality affecting predictions \u2192 robust preprocessing and validation\n- User interpretation of complex analytics \u2192 clear documentation and training\n\n**Feature Focus:** Historical pipeline progression and patterns",
+      "labels": [
+        "feature",
+        "analytics",
+        "advanced",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-02-20",
+        "end_date": "2024-02-26",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Conversion Analytics",
+      "body": "## What should this workflow do?\nImplement conversion analytics capabilities with stage conversion rates and success metrics.\n\n## How does it start (trigger)?\n- Analytics dashboard requests\n- Scheduled analytical processing\n- Management reporting requirements\n- Performance review cycles\n\n## Step-by-step process\n1. Design analytical models and algorithms\n2. Implement data aggregation and statistical processing\n3. Create visualization components for insights\n4. Add trend detection and pattern recognition\n5. Implement predictive modeling capabilities\n6. Create automated insight generation\n7. Add comprehensive testing and validation\n\n## What services does it connect to?\n- DuckDB for analytical processing\n- Historical data repositories\n- Statistical analysis libraries\n- Visualization and reporting systems\n\n## What should be the output?\n- Advanced analytical insights and recommendations\n- Interactive visualizations and reports\n- Automated trend detection and alerts\n- Predictive models with accuracy metrics\n- Performance benchmarks and optimization\n\n## What could go wrong?\n- Model accuracy issues \u2192 continuous validation and improvement\n- Performance degradation with large datasets \u2192 optimization and sampling\n- Complex statistical calculations \u2192 validation and testing procedures\n- Data quality affecting predictions \u2192 robust preprocessing and validation\n- User interpretation of complex analytics \u2192 clear documentation and training\n\n**Feature Focus:** Stage conversion rates and success metrics",
+      "labels": [
+        "feature",
+        "analytics",
+        "advanced",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-02-22",
+        "end_date": "2024-02-28",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[FEATURE] Implement Deal Outcome Prediction",
+      "body": "## What should this workflow do?\nImplement deal outcome prediction capabilities with predictive models for deal success probability.\n\n## How does it start (trigger)?\n- Analytics dashboard requests\n- Scheduled analytical processing\n- Management reporting requirements\n- Performance review cycles\n\n## Step-by-step process\n1. Design analytical models and algorithms\n2. Implement data aggregation and statistical processing\n3. Create visualization components for insights\n4. Add trend detection and pattern recognition\n5. Implement predictive modeling capabilities\n6. Create automated insight generation\n7. Add comprehensive testing and validation\n\n## What services does it connect to?\n- DuckDB for analytical processing\n- Historical data repositories\n- Statistical analysis libraries\n- Visualization and reporting systems\n\n## What should be the output?\n- Advanced analytical insights and recommendations\n- Interactive visualizations and reports\n- Automated trend detection and alerts\n- Predictive models with accuracy metrics\n- Performance benchmarks and optimization\n\n## What could go wrong?\n- Model accuracy issues \u2192 continuous validation and improvement\n- Performance degradation with large datasets \u2192 optimization and sampling\n- Complex statistical calculations \u2192 validation and testing procedures\n- Data quality affecting predictions \u2192 robust preprocessing and validation\n- User interpretation of complex analytics \u2192 clear documentation and training\n\n**Feature Focus:** Predictive models for deal success probability",
+      "labels": [
+        "feature",
+        "analytics",
+        "advanced",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "Medium",
+        "start_date": "2024-02-24",
+        "end_date": "2024-03-01",
+        "estimated_hours": 48
+      }
+    },
+    {
+      "title": "[INFRA] Performance Optimization Implementation",
+      "body": "## What should this workflow do?\nImplement comprehensive performance optimization across all system components with monitoring and benchmarking.\n\n## How does it start (trigger)?\n- Performance degradation detection\n- Capacity planning requirements\n- User experience improvement needs\n- System scaling requirements\n\n## Step-by-step process\n1. Add lazy loading for large datasets\n2. Optimize SQL queries for better performance\n3. Implement caching strategy for Bronze and processed data\n4. Add memory management for large Excel workbooks\n5. Create performance monitoring and benchmarking\n6. Implement automated performance testing\n7. Add capacity planning and scaling guidance\n\n## What services does it connect to?\n- All system components for performance monitoring\n- Memory management systems\n- Caching infrastructure\n- Performance testing frameworks\n\n## What should be the output?\n- Optimized system performance across all components\n- Comprehensive performance monitoring dashboard\n- Automated performance testing suite\n- Capacity planning documentation\n- Performance benchmarks and SLAs\n\n## What could go wrong?\n- Over-optimization causing complexity \u2192 balance performance with maintainability\n- Memory leaks in optimization code \u2192 comprehensive testing and monitoring\n- Caching inconsistency issues \u2192 proper cache invalidation strategies\n- Performance regression \u2192 continuous monitoring and alerting\n- Resource contention under load \u2192 proper resource management and throttling",
+      "labels": [
+        "infrastructure",
+        "performance",
+        "optimization",
+        "phase-phase-4:-advanced-features-&-optimization"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 4: Advanced Features & Optimization",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-02-26",
+        "end_date": "2024-03-05",
+        "estimated_hours": 64
+      }
+    },
+    {
+      "title": "[INFRA] Implement Error Handling & Logging",
+      "body": "## What should this workflow do?\nImplement error handling & logging with centralized error handling with structured logging.\n\n## How does it start (trigger)?\n- Production readiness requirements\n- Quality assurance milestones\n- User onboarding needs\n- Compliance and audit requirements\n\n## Step-by-step process\n1. Design comprehensive error handling & logging framework\n2. Implement all required components and procedures\n3. Create automation and monitoring capabilities\n4. Add comprehensive validation and testing\n5. Create documentation and training materials\n6. Implement continuous improvement processes\n7. Add performance metrics and success criteria\n\n## What services does it connect to?\n- All system components for monitoring and quality assurance\n- External monitoring and alerting systems\n- Documentation and training platforms\n- Compliance and audit systems\n\n## What should be the output?\n- Production-ready error handling & logging system\n- Comprehensive documentation and procedures\n- Automated monitoring and alerting\n- Training materials and user guides\n- Quality metrics and success indicators\n\n## What could go wrong?\n- Incomplete coverage \u2192 comprehensive auditing and gap analysis\n- Complex procedures \u2192 clear documentation and automation\n- Training effectiveness \u2192 user feedback and continuous improvement\n- Documentation becoming outdated \u2192 automated updates and maintenance\n- Quality degradation over time \u2192 continuous monitoring and improvement\n\n**Focus Area:** Centralized error handling with structured logging",
+      "labels": [
+        "infrastructure",
+        "production",
+        "quality",
+        "phase-phase-5:-production-deployment-&-monitoring"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 5: Production Deployment & Monitoring",
+      "custom_fields": {
+        "criticality": "Critical",
+        "start_date": "2024-02-28",
+        "end_date": "2024-03-06",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[INFRA] Implement Testing & Quality Assurance",
+      "body": "## What should this workflow do?\nImplement testing & quality assurance with comprehensive testing suite with >90% coverage.\n\n## How does it start (trigger)?\n- Production readiness requirements\n- Quality assurance milestones\n- User onboarding needs\n- Compliance and audit requirements\n\n## Step-by-step process\n1. Design comprehensive testing & quality assurance framework\n2. Implement all required components and procedures\n3. Create automation and monitoring capabilities\n4. Add comprehensive validation and testing\n5. Create documentation and training materials\n6. Implement continuous improvement processes\n7. Add performance metrics and success criteria\n\n## What services does it connect to?\n- All system components for monitoring and quality assurance\n- External monitoring and alerting systems\n- Documentation and training platforms\n- Compliance and audit systems\n\n## What should be the output?\n- Production-ready testing & quality assurance system\n- Comprehensive documentation and procedures\n- Automated monitoring and alerting\n- Training materials and user guides\n- Quality metrics and success indicators\n\n## What could go wrong?\n- Incomplete coverage \u2192 comprehensive auditing and gap analysis\n- Complex procedures \u2192 clear documentation and automation\n- Training effectiveness \u2192 user feedback and continuous improvement\n- Documentation becoming outdated \u2192 automated updates and maintenance\n- Quality degradation over time \u2192 continuous monitoring and improvement\n\n**Focus Area:** Comprehensive testing suite with >90% coverage",
+      "labels": [
+        "infrastructure",
+        "production",
+        "quality",
+        "phase-phase-5:-production-deployment-&-monitoring"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 5: Production Deployment & Monitoring",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-03-01",
+        "end_date": "2024-03-08",
+        "estimated_hours": 56
+      }
+    },
+    {
+      "title": "[INFRA] Implement Documentation & Training",
+      "body": "## What should this workflow do?\nImplement documentation & training with user manuals, api docs, and training materials.\n\n## How does it start (trigger)?\n- Production readiness requirements\n- Quality assurance milestones\n- User onboarding needs\n- Compliance and audit requirements\n\n## Step-by-step process\n1. Design comprehensive documentation & training framework\n2. Implement all required components and procedures\n3. Create automation and monitoring capabilities\n4. Add comprehensive validation and testing\n5. Create documentation and training materials\n6. Implement continuous improvement processes\n7. Add performance metrics and success criteria\n\n## What services does it connect to?\n- All system components for monitoring and quality assurance\n- External monitoring and alerting systems\n- Documentation and training platforms\n- Compliance and audit systems\n\n## What should be the output?\n- Production-ready documentation & training system\n- Comprehensive documentation and procedures\n- Automated monitoring and alerting\n- Training materials and user guides\n- Quality metrics and success indicators\n\n## What could go wrong?\n- Incomplete coverage \u2192 comprehensive auditing and gap analysis\n- Complex procedures \u2192 clear documentation and automation\n- Training effectiveness \u2192 user feedback and continuous improvement\n- Documentation becoming outdated \u2192 automated updates and maintenance\n- Quality degradation over time \u2192 continuous monitoring and improvement\n\n**Focus Area:** User manuals, API docs, and training materials",
+      "labels": [
+        "infrastructure",
+        "production",
+        "quality",
+        "phase-phase-5:-production-deployment-&-monitoring"
+      ],
+      "assignees": [
+        "Wkayaobama"
+      ],
+      "milestone": "Phase 5: Production Deployment & Monitoring",
+      "custom_fields": {
+        "criticality": "High",
+        "start_date": "2024-03-03",
+        "end_date": "2024-03-10",
+        "estimated_hours": 56
+      }
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Phase 1: Foundation Infrastructure",
+      "description": "Complete database connections, Bronze layer extraction, and DuckDB processing engine",
+      "due_date": "2024-02-15",
+      "state": "open"
+    },
+    {
+      "title": "Phase 2: Core Data Model Implementation",
+      "description": "Entity relationships, business logic engine, and pipeline mapping",
+      "due_date": "2024-03-15",
+      "state": "open"
+    },
+    {
+      "title": "Phase 3: xlwings Integration Layer",
+      "description": "Excel integration, custom scripts, and interactive dashboards",
+      "due_date": "2024-04-15",
+      "state": "open"
+    },
+    {
+      "title": "Phase 4: Advanced Features & Optimization",
+      "description": "Analytics engine, performance optimization, and advanced features",
+      "due_date": "2024-05-15",
+      "state": "open"
+    },
+    {
+      "title": "Phase 5: Production Deployment & Monitoring",
+      "description": "Error handling, testing, documentation, and production readiness",
+      "due_date": "2024-06-15",
+      "state": "open"
+    }
+  ],
+  "project_metadata": {
+    "total_issues": 25,
+    "estimated_total_days": 164.0,
+    "project_start": "2024-01-15",
+    "estimated_completion": "2024-07-13"
+  }
+}

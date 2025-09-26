@@ -1,0 +1,1359 @@
+record_id,deal_name,pipeline,deal_stage,deal_status,transformation_notes,deal_amount,deal_forecast,deal_certainty,deal_type,deal_source,deal_brand,deal_notes,deal_category,deal_created_date,deal_close_date,deal_company_id,deal_contact_id,deal_owner,original_stage,original_status,processing_date
+3,MARSIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),292000.0,292000.0,10,FTK,Telephone,ICALPS,ASIC acquisition du signal. projet en XFAB0.35,Opportunity,2025-09-18 12:25:00,2025-09-18,3,4.0,27,Identification,Abandonne,18/09/2025
+4,ASIC pour application Automobile,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,Telephone,ICALPS,Projet de développement d'ASIC pour automobile. Besoin éval surface coût et planning,Study,,2025-09-18,1089,1093.0,27,Identification,Abandonne,18/09/2025
+5,Projet pompe insuline,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,Telephone,ICALPS,Projet de miniaturisation pour la V2,Study,,2025-09-18,1156,1245.0,27,Identification,Abandonne,18/09/2025
+1005,ASIC : TEJAT,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,2392000.0,2392000.0,0,,Telephone,ICALPS,"ASIC pour chaussures connectées
+
+Raison de la perte : 
+Sélection d'une offre concurrente (IDMOS) avec NRE moins élevé (de ~500 k€) que notre proposition.
+
+",Opportunity,2025-09-18 08:46:00,2025-09-18,2159,2231.0,27,Negotiating,Lost,18/09/2025
+2005,ACAMAR pré-étude,Studies Pipeline,Closed Won,Won,Deal successfully closed,28000.0,28000.0,100,Preetude,Telephone,ICALPS,"ASIC de contrôle de LED. 3 phases : faisabilité 3 semaines, 8 semaines de design et proto (non testé)
+
+Phase Préétude",Study,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+2006,Electra,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),255000.0,255000.0,1,FTK,Telephone,ICALPS,Ampli,Opportunity,2025-09-18 01:02:00,2025-09-18,1064,1027.0,27,Negotiating,Abandonne,18/09/2025
+2008,Pré-étude : ACQ2G,Studies Pipeline,Closed Won,Won,Deal successfully closed,185000.0,185000.0,100,Preetude,Telephone,ICALPS,Nouvelle génération de l'ASIC du système d'acquisition pour sonde echographique,Study,2025-09-18 11:22:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+2009,Pré-étude : xMUT,Studies Pipeline,Closed Won,Won,Deal successfully closed,65000.0,65000.0,100,Preetude,Telephone,ICALPS,Pré-étude portant sur l'ajout d’intelligence au plus près du capteur.,Study,2025-09-18 15:01:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+2010,Pré-étude DANA,Studies Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Preetude,Telephone,ICALPS,Analyse du système et proposition de mise en ASIC avec production des cout de développement et projection RC.,Study,2025-09-18 06:54:00,2025-09-18,3186,3291.0,27,Negotiating,Won,18/09/2025
+2011,ACAMAR Design,Sales Pipeline,Closed Won,Won,Deal successfully closed,33000.0,33000.0,100,FTK,Telephone,ICALPS,Phase design,Opportunity,2025-09-18 15:56:00,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+2012,ACAMAR Prototypage,Sales Pipeline,Closed Won,Won,Deal successfully closed,315000.0,315000.0,100,FTK,,ICALPS,Prototypage,Opportunity,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+2013,Etude exploratoire,Studies Pipeline,Closed Won,Won,Deal successfully closed,15000.0,15000.0,100,Preetude,,ICALPS,Etude faisa,Study,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+2014,NEKKAR : Pré-étude,Studies Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Preetude,,ICALPS,pré-étude en vu du développement d'un ASIC,Study,,2025-09-18,4196,4303.0,27,Negotiating,Won,18/09/2025
+2015,FIDIS : pré-étude,Studies Pipeline,Identified,In Progress,Default mapping applied,10000.0,10000.0,100,Preetude,,ICALPS,Offre de prestation à 1250 € / jour par intervenant,Study,,2025-09-18,4202,4310.0,27,Negotiating,Abandonne,18/09/2025
+3014,Acamar : phase 3 pré-étude,Studies Pipeline,Closed Won,Won,Deal successfully closed,18000.0,18000.0,100,Preetude,,ICALPS,Suite,Study,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+4014,MIRA-ACQ: ASIC,Sales Pipeline,Closed Won,Won,Deal successfully closed,1705000.0,1705000.0,100,FTK,,ICALPS,développement de l'ASIC ACQ,Opportunity,2025-09-18 01:29:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+4015,MIRA-PULSE: ASIC,Sales Pipeline,Closed Won,Won,Deal successfully closed,903000.0,903000.0,100,FTK,,ICALPS,Développement de l'ASIC PULSE,Opportunity,2025-09-18 02:25:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+4016,VEGA,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,30,FTK,,ICALPS,Sélection des IP,Opportunity,,2025-09-18,1119,1146.0,27,Qualified,Abandonne,18/09/2025
+4017,NAOS : Préétude,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),100000.0,100000.0,1,Preetude,,ICALPS,Etude intégration,Study,,2025-09-18,4349,4754.0,27,Qualified,Abandonne,18/09/2025
+4018,ISIDA - Préétude,Studies Pipeline,Closed Won,Won,Deal successfully closed,90000.0,90000.0,100,Preetude,,ICALPS,Développement ASIC,Study,,2025-09-18,1132,1175.0,27,Negotiating,Won,18/09/2025
+4020,Projet ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Projet ASIC Spatial...,Opportunity,,2025-09-18,1150,1222.0,27,Identification,Abandonne,18/09/2025
+4021,AFE pour cardio - préétude,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Réalisation de l'AFE pour capteurs CSEM,Opportunity,2025-09-18 04:35:00,2025-09-18,1128,1166.0,27,Identification,Abandonne,18/09/2025
+4022,ALFIRK,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1320000.0,1320000.0,5,FTK,,ICALPS,Migration de 6 FPGA,Opportunity,2025-09-18 06:10:00,2025-09-18,4311,8425.0,27,Construction offre,Abandonne,18/09/2025
+4023,TEREBELL : Service Design&Layout,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"CDC reçu
+----
+
+Ils ont finalement décidé de monter une équipe ASIC en interne.
+Sont incubé dans Silicon Catalyste (incubateur spécialisé dans les startup souhaitant faire des circuits intégrés)",Opportunity,,2025-09-18,7987,9603.0,27,Identification,Abandonne,18/09/2025
+4024,ASIC conversion CU/FO,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,A un composant en obsolescence : On ne saura pas faire l'IP,Opportunity,,2025-09-18,1081,1070.0,27,Identification,Abandonne,18/09/2025
+5024,ASIC Automotive PMU,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,FTK,,ICALPS,"CDC reçu le 17/10/2018
+
+Abandon : 
+On ne se positionne pas car les IP orientés automobile (CAN, LIN) ne sont pas disponibles pour nous. Tentative de prise de contact avec créative chips pour voir comment ils auraient pu nous aider => resté sans réponse de leur part. 
+Conséquence, nous ne sommes pas en mesure de faire une offre compétitive.",Opportunity,,2025-09-18,9046,10749.0,27,Identification,Abandonne,18/09/2025
+5025,CASTOR : Migration HALO - CT450,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),200000.0,200000.0,1,Desogn_Service,,ICALPS,"Redéfinition du projet pour limiter le budget à < 200 k€
+---
+Abandonné par le client.
+D'autres projets en priorité",Opportunity,2025-09-18 11:49:00,2025-09-18,9061,13814.0,27,Evaluation technique,Abandonne,18/09/2025
+5026,ASIC implant,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,ASIC pour implant avec monitoring tension et com et recharge RF,Opportunity,2025-09-18 09:05:00,2025-09-18,9020,10690.0,27,Identification,Abandonne,18/09/2025
+6028,TYL,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),57500.0,57500.0,1,Desogn_Service,,ICALPS,Développement logique,Opportunity,2025-09-18 05:24:00,2025-09-18,1074,1046.0,27,Construction offre,Abandonne,18/09/2025
+6029,Backend gros circuit 28FDSOI,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"pour projet SPA, il cherche des partenaires :
+•         Capables de gérer des gros circuits (il parle de circuit de 150 à 200 mm2 en 28FDSOI) , pouvant faire tout le Bacakend
+=> Il faudra rentrer chez ST sur techno FDSOI28 avant d'être consulté pour la partie Space en complément de EASII",Opportunity,,2025-09-18,4287,4556.0,27,Identification,Abandonne,18/09/2025
+6030,ASIC pour DAC X-IFU,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,Desogn_Service,,ICALPS,"Réalisation ASIC analog
+--
+Abandonné (réponse Aurélien) : 
+Bonjour Rémy,
+Oui, j’ai enfin une position ferme sur le DAC.
+
+Le DAC à développer était pour la solution FDM qui était la Baseline. 
+La solution FDM qui était plus élégante mais a rencontré plusieurs problèmes rendant le risque inacceptable. 
+
+Le projet a donc pris la décision de passer en TDM juste avant le confinement rendant le besoin de développer un DAC nul.",Opportunity,,2025-09-18,2160,7098.0,27,Identification,Abandonne,18/09/2025
+6031,Développement ASIC ULP (CHARA),Sales Pipeline,Closed Won,Won,Deal successfully closed,1430000.0,1430000.0,100,FTK,,ICALPS,"ASIC pour la fonction Pacing avec multiples blocs de monitoring et controle du Dispositif Medical.
+
+Projet ISO13485",Opportunity,,2025-09-18,3176,3277.0,27,Negotiating,Won,18/09/2025
+6032,pré-étude ASIC - part1,Studies Pipeline,Identified,In Progress,Default mapping applied,30000.0,30000.0,80,Preetude,,ICALPS,"Sur base du circuit TUDeltf
+design review, manufacturablilité, plan pour en faire un produit, potentiel d’optimisation, IP, industrialisation…",Study,,2025-09-18,3187,3294.0,27,Identification,Abandonne,18/09/2025
+6033,pré-étude ASIC - part 2,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),60000.0,60000.0,1,Preetude,,ICALPS,Base LIU,Study,,2025-09-18,3187,3294.0,27,Identification,Abandonne,18/09/2025
+6034,ACAMAR Seconde archi,Studies Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Preetude,,ICALPS,Ajout d'une seconde architecture dans le testchip,Study,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+6035,Industrialisation ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),495000.0,495000.0,5,FTK,,ICALPS,"Outre le GDS , de quelles informations auriez-vous besoin pour nous faire un chiffrage de la phase d’industrialisation comprenant la réalisation de 25 wafers chez Tower , et , la sous-traitance de la partie bumping sciage , amincissement et test électrique ?
+Une telle offre est-elle envisageable vis-à-vis de Tower ?",Opportunity,,2025-09-18,1154,1231.0,27,Construction offre,Abandonne,18/09/2025
+6036,SIRRAH : ASIC VGA,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,595000.0,595000.0,0,,,ICALPS,"Spec to GDSII.
+--------
+Selection d'un autre partenaire (prix ?)",Opportunity,,2025-09-18,11747,14218.0,27,Construction offre,Lost,18/09/2025
+6037,ASIC pour micropompe,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,A un projet d'ASIC (sera lancé d'ici 18 mois) pour intégrer plus leur électronique. Il y a une partie HV (200V) dans le design et souhaiterait ajouter des interfaces capteurs et un micro. Envoi info puis organiser un WebEx,Opportunity,,2025-09-18,10541,12792.0,27,Identification,Abandonne,18/09/2025
+6038,SADOR,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,Desogn_Service,,ICALPS,Etude performance ASIC processeur neuronal,Opportunity,,2025-09-18,10525,12764.0,27,Negotiating,Won,18/09/2025
+6039,pré-étude ASIC,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,"Sont en COTS pour leur système EEG.
+
+""Nous avons reporté le développement d’un ASIC propriétaire afin d’assurer la collecte de datas préliminaires suffisantes pour permettre de resserrer les spécifications techniques de notre électronique pour l’application clinique, ce qui devrait permettre de renforcer la faisabilité du design et de l’intégration finale.
+Nous reviendrons vers vous pour consultation dès que nous aurons obtenu suffisamment de données précliniques afin de rediscuter de ces points autour d’objectifs technologiques mieux définis au vue de l’application, probablement pas avant la fin 2021.""
+
+ASIC pas avant fin 2021",Study,,2025-09-18,4201,4308.0,27,Identification,Abandonne,18/09/2025
+6040,MIRA-PULSE: pièce méca,Sales Pipeline,Closed Won,Won,Deal successfully closed,8000.0,8000.0,100,FTK,,ICALPS,relatif à l'offre de pièce mecanique et daisy chain,Opportunity,,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+6041,Pré-étude ASIC,Studies Pipeline,Closed Won,Won,Deal successfully closed,38000.0,38000.0,100,Preetude,,ICALPS,Pour dispositif Haptique,Study,2025-09-18 14:04:00,2025-09-18,9065,14489.0,27,Negotiating,Won,18/09/2025
+6043,Migration,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Migration circuit GF130 obsolète en autre process,Opportunity,2025-09-18 11:02:00,2025-09-18,11748,14219.0,34,Identification,Abandonne,18/09/2025
+6044,VEGA -Design,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,3200000.0,3200000.0,1,,,ICALPS,Développement circuit logique,Opportunity,2025-09-18 15:32:00,2025-09-18,1119,1146.0,27,Negotiating,Lost,18/09/2025
+6045,ELNATH,Sales Pipeline,Closed Won,Won,Deal successfully closed,107000.0,107000.0,100,FTK,,ICALPS,Testchip pour eFPGA,Opportunity,,2025-09-18,11929,14684.0,27,Negotiating,Won,18/09/2025
+6046,MOPx,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Client potentiel,Study,2025-09-18 12:08:00,2025-09-18,4331,4722.0,27,Identification,Abandonne,18/09/2025
+6047,MOPx,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Intérêt dans MOPIC,Study,2025-09-18 17:17:00,2025-09-18,5779,14726.0,27,Identification,Abandonne,18/09/2025
+6048,Mopx,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Partenaire dans dépot FTI,Study,,2025-09-18,4230,14925.0,27,Identification,Abandonne,18/09/2025
+6049,MOPx,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Intérêt MOPx,Study,,2025-09-18,1146,14735.0,27,Identification,Abandonne,18/09/2025
+6050,UW9,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Migration ASIC,Opportunity,2025-09-18 03:03:00,2025-09-18,2147,2205.0,27,Identification,Abandonne,18/09/2025
+6051,Migration FPGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,FPGA + analog,Opportunity,2025-09-18 15:56:00,2025-09-18,7965,9544.0,27,Identification,Abandonne,18/09/2025
+6053,projet SATURN,Sales Pipeline,Closed Won,Won,Deal successfully closed,85000.0,85000.0,100,Desogn_Service,,ICALPS,développement interfaces digital (SPI/ABZ/HSM/memory Array/Angle engine extraction),Opportunity,,2025-09-18,9061,13814.0,27,Negotiating,Won,18/09/2025
+6054,MIRA-ACQ: pièce meca et Daisy Chain,Sales Pipeline,Closed Won,Won,Deal successfully closed,9000.0,9000.0,100,FTK,,ICALPS,"offre pour 
+pièce meca : 9k€
+Daisy chain : 16 k€
+hold à contact : 0€",Opportunity,,2025-09-18,3179,4726.0,27,Negotiating,Won,18/09/2025
+6055,projet VIPER,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),100000.0,100000.0,1,Desogn_Service,,ICALPS,"portage GF 130 > TOWER 130
+
+Circuit analog en boucle fermé, capteur angulaire Magnétique
+Plus de nouvelle de ce circuit",Opportunity,2025-09-18 06:56:00,2025-09-18,9061,13814.0,27,Identification,Abandonne,18/09/2025
+6056,Migration ASIC,Studies Pipeline,Identified,In Progress,Default mapping applied,45000.0,45000.0,50,Preetude,,ICALPS,Migration ASIC digital,Study,,2025-09-18,1057,1014.0,27,Negotiating,Abandonne,18/09/2025
+6057,ASIC médical,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Attente spec,Opportunity,,2025-09-18,10543,12795.0,27,Identification,Abandonne,18/09/2025
+6058,RFI ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1800000.0,1800000.0,10,FTK,,ICALPS,Possibilité reprise circuit HMT,Opportunity,,2025-09-18,9050,10767.0,27,Construction offre,Abandonne,18/09/2025
+6059,VIMES,Sales Pipeline,Identified,In Progress,Default mapping applied,500000.0,500000.0,50,FTK,,ICALPS,Asic pour imprimante,Opportunity,,2025-09-18,12086,14975.0,27,Construction offre,Abandonne,18/09/2025
+6060,ASIC design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,ASIC pour implant crânien alimenté en wireless pour ECG et EcoG,Opportunity,2025-09-18 04:11:00,2025-09-18,12058,14927.0,27,Identification,Abandonne,18/09/2025
+6061,Migration Std cell,Sales Pipeline,Closed Won,Won,Deal successfully closed,149000.0,149000.0,100,Desogn_Service,,ICALPS,"Portage 2 bilitohèque Asynchrone en 
+* GF22nm 
+* TSMC 16FFC",Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6062,Prototypage : ASIC development neuroprocesseur,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1425000.0,1425000.0,5,,,ICALPS,"Phase 1 : Prototypage
+Projet retardé de fin 2019 à mi-2020 minimum",Opportunity,,2025-09-18,3175,4728.0,31,Qualified,Abandonne,18/09/2025
+6063,KHARA,Sales Pipeline,Identified,In Progress,Default mapping applied,50000.0,50000.0,30,FTK,,ICALPS,Conception ASIC : AFE + DAC. Préétude,Opportunity,,2025-09-18,9135,14215.0,27,Construction offre,Abandonne,18/09/2025
+6064,ACAMAR : FPGA,Sales Pipeline,Closed Won,Won,Deal successfully closed,24000.0,24000.0,100,Desogn_Service,,ICALPS,Conception FPGA démo,Opportunity,2025-09-18 00:17:00,2025-09-18,1076,1119.0,27,Negotiating,Won,18/09/2025
+6065,Support: Diagnostic PMIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),70000.0,70000.0,1,Desogn_Service,,ICALPS,"Sur un biz model au temps passé
+
+2 morceaux
+- analyse schéma + simu (30 k)
+- dev env mesure + réalisation des mesure (30 k)
+- 10 k appro board de test
+
+PERDUE : projection de volume trop faible ne justifiant pas l'investissement dans un diagnostic payant.",Opportunity,2025-09-18 13:08:00,2025-09-18,7988,17042.0,27,Negotiating,Abandonne,18/09/2025
+6066,Pièces et carte sup,Sales Pipeline,Closed Won,Won,Deal successfully closed,6750.0,6750.0,100,FTK,,ICALPS,demandes complémentaires,Opportunity,2025-09-18 11:33:00,2025-09-18,1076,1119.0,27,Negotiating,Won,18/09/2025
+6067,Bloc digital + SW pour ASIC imageur,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,407500.0,407500.0,25,,,ICALPS,"RFI reçue le 11/06.
+
+Selection partenaire à fin juin.
+Démarrage travaux prévue en juillet",Opportunity,2025-09-18 13:26:00,2025-09-18,9016,18059.0,27,Negotiating,Lost,18/09/2025
+6068,Etude faisabilité,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),50000.0,50000.0,1,FTK,,ICALPS,ASIC traitement du signal,Opportunity,2025-09-18 23:29:00,2025-09-18,12062,14934.0,27,Identification,Abandonne,18/09/2025
+6069,EM01,Sales Pipeline,Identified,In Progress,Default mapping applied,26200.0,26200.0,50,Desogn_Service,,ICALPS,"Besoin un layouteur 2 mois
+
+A une ressource interne qui s'est libérée",Opportunity,,2025-09-18,7980,18074.0,27,Negotiating,Abandonne,18/09/2025
+6070,ACAMAR - Tranches remplacement,Sales Pipeline,Closed Won,Won,Deal successfully closed,33000.0,33000.0,100,FTK,,ICALPS,Remplacement des tranches détruites durant la production,Opportunity,,2025-09-18,1076,1119.0,27,Negotiating,Won,18/09/2025
+6071,Industrialisation : ASIC neuromorphic,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),2350000.0,2350000.0,1,FTK,,ICALPS,"Phase 2 : industrialisation
+=> Pas de visiblité sur l'indus... trop loin.",Opportunity,2025-09-18 14:58:00,2025-09-18,3175,4728.0,27,Identification,Abandonne,18/09/2025
+6075,design BlueNRG - Regu APMU-LP,Sales Pipeline,Closed Won,Won,Deal successfully closed,61500.0,61500.0,100,Desogn_Service,,ICALPS,Design du LDO APMU-LP - regu qui alimente la partie always-on de leur gamme de circuit BlueNRG.,Opportunity,,2025-09-18,11945,18078.0,27,Negotiating,Won,18/09/2025
+6076,accès license calibre,Sales Pipeline,Closed Won,Won,Deal successfully closed,2000.0,2000.0,100,Desogn_Service,,ICALPS,Besoin pour 2 semaines,Opportunity,2025-09-18 04:32:00,2025-09-18,14146,17058.0,27,Negotiating,Won,18/09/2025
+6077,ACAMAR : complement FPGA,Sales Pipeline,Closed Won,Won,Deal successfully closed,12000.0,12000.0,100,Desogn_Service,,ICALPS,Offre pour FPGA 15 j,Opportunity,,2025-09-18,1076,1119.0,27,Negotiating,Won,18/09/2025
+6078,Extension Devis D-Saturn,Sales Pipeline,Closed Won,Won,Deal successfully closed,155000.0,155000.0,100,Desogn_Service,,ICALPS,"Le périmètre à changé :
+Des fonction en plus, des modification de spécifications : 155 k€ ( 85 k€ déjà commandés)",Opportunity,2025-09-18 12:00:00,2025-09-18,9061,13814.0,27,Negotiating,Won,18/09/2025
+6079,Bloc Analog: Clock generator,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),50000.0,50000.0,0,Desogn_Service,,ICALPS,"Design d'un bloc en VIS 130 nm 
+devis 12 M.w
+
+Finalement, sera fait en interne chez Crocus",Opportunity,2025-09-18 15:22:00,2025-09-18,9061,13814.0,27,Negotiating,Abandonne,18/09/2025
+6080,ASIC development RFP,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,950000.0,950000.0,0,,,ICALPS,"See RFP / RFQ document
+
+--
+Your proposal was comprehensive and gave us all the information we requested, many thanks.
+As you are aware, there are significant challenges to be overcome in the design, in particular achieving the required current skimming resolution. We found a couple of companies who have previously done this and hence they scored high in our selection criteria. 
+At present we have therefore not shortlisted ICAlps. We have not however made our final decision and may want to come back for further discussions. Sorry it’s not better news.
+",Opportunity,,2025-09-18,17186,19117.0,27,Negotiating,Lost,18/09/2025
+6081,RFI pour ASIC control Radio,Sales Pipeline,Identified,In Progress,Default mapping applied,2300000.0,2300000.0,50,,,ICALPS,RFI à venir de Thales pour dev RTL => GDSII + gestion de la SCM,Opportunity,2025-09-18 19:38:00,2025-09-18,11664,14079.0,31,Evaluation technique,Abandonne,18/09/2025
+6082,ACQ2G: nouveau perimètre,Studies Pipeline,Closed Won,Won,Deal successfully closed,66000.0,66000.0,100,Preetude,,ICALPS,"Nouveau périmètre.
+75 k€ reportés de la précédente offre + 66 k€ d'extension de budget",Study,,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+6083,GRENAT,Sales Pipeline,Closed Won,Won,Deal successfully closed,2038000.0,2038000.0,100,FTK,,ICALPS,Implémentation physique et SC,Opportunity,2025-09-18 04:37:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6084,ASIC HV developement and supply,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,0,,,ICALPS,"- of the 500+ outputs, 90% is high voltage outputs and 10% is I/O. From the 10% only 20% is digital. 
+- Analog output currents  are 8mA per output
+- The signal accuracy could be estimated at around 5% current source source accuracy, 200mV max tolerance on high voltage output.
+- The HV voltage IO must leave on one side of the asic only. The bumps can be staggered in more rows. The Voltage Common Collector  supply voltage is 50V
+- Size of the two ASICs is larger than the usable reticle space",Opportunity,,2025-09-18,17208,19159.0,27,Identification,Lost,18/09/2025
+6085,GENESIS: ASIC (Moduleus),Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,FTK,,ICALPS,"Developpement potentiel de 2 ASIC pour une nouvelle application
+
+Specification à confirmer.
+----
+Projet Abandonné : il sera réalisé en COTS.",Opportunity,,2025-09-18,3179,3284.0,27,Identification,Abandonne,18/09/2025
+6086,RFI for 1 to 2 FPGA design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"RFI à recevoir
+---
+Thierry a reprit le compte.",Opportunity,,2025-09-18,1074,19175.0,27,Identification,Abandonne,18/09/2025
+6088,ACAMAR FPGA (fonction sup),Sales Pipeline,Identified,In Progress,Default mapping applied,7500.0,7500.0,90,Desogn_Service,,ICALPS,Fonction supplémentaire du FPGA,Opportunity,,2025-09-18,1076,1119.0,27,Construction offre,Abandonne,18/09/2025
+6089,ASIC empreinte,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,FTK,,ICALPS,ASIC pour aller avec leur capteur,Opportunity,,2025-09-18,1115,1137.0,27,Identification,Abandonne,18/09/2025
+6090,Pré-étude PULSE v2,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,"Pré-étude pour une deuxième version de PULSE.
+Objectif : Réduction de taille, réduction de consommation
+
+Sera à faire sur Mars, Avril, Mai 2020 => décalée car changement de priorité
+
+=>Pas d'actualité à fin 2020. probablement remis à 2022 ou plus tard.",Study,,2025-09-18,3179,3284.0,27,Identification,Abandonne,18/09/2025
+6091,Reprise PULSE,Sales Pipeline,Closed Won,Won,Deal successfully closed,155000.0,155000.0,100,FTK,,ICALPS,"Reprise du circuit PULSE v1.1 suite préétude.
+Option Mfix et Reprise",Opportunity,2025-09-18 01:06:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+6092,Reprise ACQ,Sales Pipeline,Closed Won,Won,Deal successfully closed,199000.0,199000.0,100,FTK,,ICALPS,proposition Mfix et Reprise de ACQ.,Opportunity,2025-09-18 02:08:00,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+6093,Gemma,Sales Pipeline,Closed Won,Won,Deal successfully closed,57000.0,57000.0,100,Desogn_Service,,ICALPS,Consulting,Opportunity,,2025-09-18,10391,19199.0,27,Negotiating,Won,18/09/2025
+6094,TANIA,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,220000.0,220000.0,1,,,ICALPS,FPGA. Perdu. On n'a pas le statut de PME,Opportunity,,2025-09-18,1074,19106.0,27,Negotiating,Lost,18/09/2025
+6095,ASIC NEKKAR,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),985000.0,985000.0,1,FTK,,ICALPS,"Développement ASIC Analogique suite étude de faisabilité
+---
+Le cout d'un ASIC n'est pas justifié car les volume sont trop faible et le ROI ne serait pas assuré.
+Pas de contrainte technique dure suffisante pour justifier le cout de développement.
+
+Serait envisageable pour la 2ème génération du DM visant la pédiatrie et où les contraintes de taille du DM seraient importantes.",Opportunity,2025-09-18 08:30:00,2025-09-18,4196,4303.0,27,Negotiating,Abandonne,18/09/2025
+6097,PYX01: Consulting Services,Sales Pipeline,Closed Won,Won,Deal successfully closed,23500.0,23500.0,100,Desogn_Service,,ICALPS,"Régie layout Backend
+
+35 jours de presta à 580 €",Opportunity,,2025-09-18,9016,10684.0,27,Negotiating,Won,18/09/2025
+6098,URKAB,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,15000.0,15000.0,50,,,ICALPS,Reprise layout digital,Opportunity,,2025-09-18,9027,10712.0,27,Negotiating,Lost,18/09/2025
+6099,ASICALPS,Sales Pipeline,Identified,In Progress,Default mapping applied,120000.0,120000.0,50,FTK,,ICALPS,Sous traitance dans le cadre du projet IPCEI pour le design et l'implémentation d'un ASIC MCU ultra low power en ST 28 FDSOI.,Opportunity,,2025-09-18,3176,3278.0,27,Negotiating,Abandonne,18/09/2025
+6100,ASIC pour jouet Lynxsemi,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,530000.0,530000.0,5,,,ICALPS,"ASIC de pilotage batterie + MCU + ecran pour application de jouet électronique.
+Objectif de ultra low cost.
+---
+PERDUE : 2 fois plus cher qu'offre alternative.",Opportunity,,2025-09-18,17230,19197.0,27,Negotiating,Lost,18/09/2025
+6101,EPSILON Préétude,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),40000.0,40000.0,1,Preetude,,ICALPS,"Etude de faisabilité pour implant orthopedique pour surveillance de la cicatrisation des os.
+--
+ASIC pas considéré pour l'instant = Abandonnée",Study,,2025-09-18,17253,19242.0,27,Qualified,Abandonne,18/09/2025
+6103,EM02,Sales Pipeline,Identified,In Progress,Default mapping applied,52000.0,52000.0,30,Desogn_Service,,ICALPS,Besoin de 2 logic et un layout pour 2 mois,Opportunity,,2025-09-18,7980,9578.0,27,Negotiating,Abandonne,18/09/2025
+6104,SUBRA - Préétude ADC,Studies Pipeline,Identified,In Progress,Default mapping applied,67000.0,67000.0,80,Preetude,,ICALPS,Préétude ADC high resolution,Study,,2025-09-18,1071,1041.0,27,Negotiating,Abandonne,18/09/2025
+6105,SUBRA - préétude SoC,Studies Pipeline,Identified,In Progress,Default mapping applied,40000.0,40000.0,50,Preetude,,ICALPS,Préétude SoC,Study,,2025-09-18,1071,1041.0,27,Negotiating,Abandonne,18/09/2025
+6107,TOLIMAN - Préétude,Studies Pipeline,Identified,In Progress,Default mapping applied,40000.0,40000.0,20,Preetude,,ICALPS,Préétude projet ASIC,Study,,2025-09-18,6899,8408.0,27,Construction offre,Abandonne,18/09/2025
+6108,TOLIMAN - Design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),2200000.0,2200000.0,10,FTK,,ICALPS,Design ASIC,Opportunity,,2025-09-18,6899,8408.0,27,Qualified,Abandonne,18/09/2025
+6109,STAR01,Sales Pipeline,Identified,In Progress,Default mapping applied,286650.0,286650.0,90,Desogn_Service,,ICALPS,Testchip en 28FDSOI,Opportunity,,2025-09-18,4287,19251.0,27,Negotiating,Abandonne,18/09/2025
+6110,I2C slave custom,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,60000.0,60000.0,50,,,ICALPS,I2C slave custom,Opportunity,2025-09-18 23:11:00,2025-09-18,12057,14922.0,27,Negotiating,Lost,18/09/2025
+6111,Program ORCA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"Au 20/05/2021: mail de Wayne indiquant redéfinition du périmètre projet en cours avec peu de visibilité sur une date de démarrage => re-passage en 01-identification...
+
+Développement de bloc IP analog et digital
+- ADC 16bit
+- DAC 8 bit (en courant)
+- DAC 7 bit (en courant)
+- interface SPI/I2C/JTAG/SENT/OPT ctrl",Opportunity,,2025-09-18,12067,14941.0,31,Identification,Abandonne,18/09/2025
+6112,Partition Digital STINGRAY,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"projet de partition digital pour un circuit de détection de courant.
+Client final Tesla et intermédiaire Murata.
+
+Plus de projet coté client",Opportunity,,2025-09-18,12067,14941.0,27,Identification,Abandonne,18/09/2025
+6113,PYX02: régie dev digital,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),55000.0,55000.0,1,Desogn_Service,,ICALPS,2 à 3 personnes sur 2 mois en développement digital,Opportunity,2025-09-18 01:24:00,2025-09-18,9016,10684.0,27,Identification,Abandonne,18/09/2025
+6114,Salle CC,Sales Pipeline,Closed Won,Won,Deal successfully closed,45000.0,45000.0,100,Desogn_Service,,ICALPS,mise  en place salle CC,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6116,LEM01,Sales Pipeline,Closed Won,Won,Deal successfully closed,1500.0,1500.0,100,Desogn_Service,,ICALPS,Audit vérification,Opportunity,,2025-09-18,17279,19302.0,27,Negotiating,Won,18/09/2025
+6117,ASIC MEMS,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Pas de levée de fond !,Opportunity,,2025-09-18,10412,12401.0,39,Identification,Abandonne,18/09/2025
+6118,TEGMEN,Sales Pipeline,Identified,In Progress,Default mapping applied,160000.0,160000.0,50,Desogn_Service,,ICALPS,DAC 12 bits,Opportunity,,2025-09-18,1074,19291.0,27,Negotiating,Abandonne,18/09/2025
+6119,SUALOCIN,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),32000.0,32000.0,1,Preetude,,ICALPS,Préétude,Study,,2025-09-18,15157,18080.0,27,Qualified,Abandonne,18/09/2025
+6120,VEGA-IP,Sales Pipeline,Closed Won,Won,Deal successfully closed,285000.0,285000.0,100,Desogn_Service,,ICALPS,Reprise IP vitec,Opportunity,,2025-09-18,1119,1149.0,27,Negotiating,Won,18/09/2025
+6121,ALE01,Sales Pipeline,Closed Won,Won,Deal successfully closed,2000.0,2000.0,100,Desogn_Service,,ICALPS,presta Layout,Opportunity,,2025-09-18,1076,19315.0,27,Negotiating,Won,18/09/2025
+6122,RFQ pour ASCI OCTOPUS4,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,2464000.0,2464000.0,0,,,ICALPS,"RFQ pour ASIC Octopus4 - Radio
+=> PERDU
+--
+Dear Mr Girin,
+
+Sorry for my late feedback. 
+First, I would like to thank you for the quality of your offer and for the time spend on it. 
+
+Following Internal review with Project team please find here under conclusion of our meeting on your offer. 
+
+•	Quality wise, the Compliance matrix had no critical point. 
+Therefore, rating is Green 
+
+•	Purchasing wise : you are average. 
+Offer still seems clear for our R&D and commercially it is comparable with others offers.
+Therefore, Rating is, purchasing wise, Orange. 
+
+•	Financial and company size:  only 20-49 employees : Difficult to face any project timing change due to resources constrains in case of problem. 
+Therefore, rating is Orange
+
+•	R&D wise : Offer is feting to our need, and we thank you for the support and guidance provided during this RFQ  
+Nevertheless, fact that you are using exclusively one tool provider is seen from our side as additional risk and we noted that you propose to use  tools  aligned  with our
+  usage but it is still a risk that we don’t have with the other design houses. 
+Therefore, rating is Yellow/Green
+
+•	Industrialization : 
+Good Level for industrialization but we  don’t  feel the same  proactivity in  the  proposal.
+
+Due to time constrains we need to select 2 Design houses to continue our RFQ.
+Due to the overall rating we didn’t selected IC Alps for the next step. 
+
+Based on the other criteria assessed, we would like to highlight the fact that we consider ICAlps as a legitimate candidate for further investigation and RFQ and will surely quote again for other projects. 
+
+I’ll be out of office for the next two weeks but If you have any questions, please feel free to ask or to call me when I come back on 5th of October . 
+
+Best regards,                                                                                     
+
+Pierre Endres
+Purchasing Commodity Leader
+",Opportunity,2025-09-18 03:28:00,2025-09-18,7988,17042.0,27,Negotiating,Lost,18/09/2025
+6123,Soustraitance Projet Europeen,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1000000.0,1000000.0,1,Desogn_Service,,ICALPS,Développement nouvelle architecture et livraison des pièces,Opportunity,,2025-09-18,1076,19308.0,27,Construction offre,Abandonne,18/09/2025
+6124,ASIC en obsolecence,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),660000.0,660000.0,0,FTK,,ICALPS,"Remplacement d'un composant obsolète
+
+Pour du militaire ou spatial => cycle décision long
+Client abandonne l'idée d'un ASIC... 
+Essaye de voir si d'autre fonction peuvent être intégrée.",Opportunity,,2025-09-18,17265,19269.0,27,Construction offre,Abandonne,18/09/2025
+6125,nouvelle étude,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Pas d'étude,Study,2025-09-18 08:30:00,2025-09-18,3175,4728.0,27,Identification,Abandonne,18/09/2025
+6127,SEM01,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,Prestation Thomas,Opportunity,,2025-09-18,4293,4608.0,27,Negotiating,Won,18/09/2025
+6128,Opportunité de Design analog,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Visibilité faible sur date de démarrage et besoin réel.,Opportunity,,2025-09-18,11945,18078.0,27,Identification,Abandonne,18/09/2025
+6129,Grenat - Avenant 1,Sales Pipeline,Closed Won,Won,Deal successfully closed,26000.0,26000.0,100,FTK,,ICALPS,Développement des boitiers,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6130,FPGA to ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,looking for an ASIC design and manufacturing. have a prototype based on an FPGA. plan to start production by end of 2021.,Opportunity,,2025-09-18,17476,19777.0,27,Identification,Abandonne,18/09/2025
+6131,P&R IP TESIC TSMC 16 nm & GF22,Sales Pipeline,Closed Won,Won,Deal successfully closed,88000.0,88000.0,100,Desogn_Service,,ICALPS,Implémentation d'un IP en TSMC 16nm,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6132,ASIC pour Abbott,Sales Pipeline,Closed Won,Won,Deal successfully closed,3440000.0,3440000.0,100,FTK,,ICALPS,"ASIC ultrason PZT
+
+Démarrage possible sur 2020 mais décision du client final à prévoir plutot début 2021.",Opportunity,2025-09-18 07:21:00,2025-09-18,3187,19954.0,31,Negotiating,Won,18/09/2025
+6133,ALE01-1,Sales Pipeline,Closed Won,Won,Deal successfully closed,1000.0,1000.0,100,Desogn_Service,,ICALPS,Ajout 2 jours suite modif spec,Opportunity,,2025-09-18,1076,19315.0,27,Negotiating,Won,18/09/2025
+6134,Grenat - Avenant 2,Sales Pipeline,Closed Won,Won,Deal successfully closed,49500.0,49500.0,100,FTK,,ICALPS,FLL,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6135,SEM01-1,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,Suite mission Thomas,Opportunity,2025-09-18 02:48:00,2025-09-18,4291,4604.0,27,Negotiating,Won,18/09/2025
+6136,Grenat - Avenant 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,736500.0,736500.0,100,FTK,,ICALPS,Surcout industrialisation,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6137,ASIC - pre-amplifier SDD detector,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,300000.0,300000.0,0,,,ICALPS,"ASIC detetector
+0.75 x 0.75 mm²
+Analog only
+---
+-	Not yet approved on Moxtek side. Need confidence in technical feasibility and cost estimation to get it approved by management.
+-	Reason to not use the current chip of XGlab is 100% cost - a way too expensive https://www.xglab.it/products/cube/ 
+-	Aims at doing a clone of the XGlab chip
+-	Forecasted volume is 8-10k unit/year - long life product (for info the chip size is 0.56 mm² => 40 ku per wafer in 0.18um…)
+-	No ITAR constraint
+-	Our estimated cost (300 k€ up to MPW proto) and schedule (9-10 months for 1st proto) is in the Moxtek’s expected range
+-	Expected decision and dev kick-off = Q1-2021
+-	Next step : shortlist selection in October 2020
+
+---
+=> PERDU
+Dear Remy
+ 
+For the last 2 weeks our team has discussing the pros and cons of each of the top 5 candidates for our ASIC development efforts.  At this point we have narrowed our selection down to those we believe will be best for us to work with at this time.  Unfortunately,ICAlps is not one of the companies we will be going forward with for this project at this time.  
+ 
+I’d like to thank you for your interest and effort in working with us thus far.  If something should change or another need comes up I will be sure to contact you again!
+ 
+Thank you and best regards,
+",Opportunity,2025-09-18 07:31:00,2025-09-18,17491,19815.0,27,Evaluation technique,Lost,18/09/2025
+6138,Running Springs - P&R Digital Soc IoT,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,155000.0,155000.0,0,,,ICALPS,"Lead Running Springs
+
+---
+Faire implementation DTF + P&R d'un digital en TSMC 55nm
+
+=> trop cher. 
+On choisi de prendre un contractor pour 45 k€. (avec license EDA pirate??)
+PERDU",Opportunity,,2025-09-18,17496,19823.0,27,Construction offre,Lost,18/09/2025
+6139,Design analog - Brevet,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Pour une personne souhaitant faire une implémentation d'un invention pour dépôt de brevet.,Opportunity,,2025-09-18,17498,19824.0,27,Identification,Abandonne,18/09/2025
+6140,MAIA1,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Desogn_Service,,ICALPS,P&R en 22FDX (Draft GDSII),Opportunity,,2025-09-18,4345,4750.0,27,Negotiating,Won,18/09/2025
+6141,Préétude,Studies Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,20,Preetude,,ICALPS,2 fonctions à mettre sur un ASIC,Study,,2025-09-18,1100,1115.0,27,Qualified,Abandonne,18/09/2025
+6142,Developpement numérique,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,Desogn_Service,,ICALPS,Besoin pour architecture -,Opportunity,,2025-09-18,9016,10684.0,27,Identification,Abandonne,18/09/2025
+6143,BEEMIN,Sales Pipeline,Closed Won,Won,Deal successfully closed,720000.0,720000.0,100,Desogn_Service,,ICALPS,A un projet avec 2 MCU ARM,Opportunity,2025-09-18 14:27:00,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+6144,Projet ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Projet,Opportunity,2025-09-18 15:33:00,2025-09-18,5787,12173.0,27,Identification,Abandonne,18/09/2025
+6145,SEM01-2,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,"Consulting Th. Gallay, Nov'20-Jan'21",Opportunity,,2025-09-18,4291,4604.0,27,Negotiating,Won,18/09/2025
+6146,Grenat - Avenant 4,Sales Pipeline,Closed Won,Won,Deal successfully closed,118500.0,118500.0,100,FTK,,ICALPS,Surcoût décalage,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6147,MIMOSA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),450000.0,450000.0,10,FTK,,ICALPS,Tache P&R via RedTree,Opportunity,2025-09-18 03:11:00,2025-09-18,17517,19858.0,27,Qualified,Abandonne,18/09/2025
+6148,SIRAH,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,4500000.0,4500000.0,20,,,ICALPS,"Deux asic en 0.7 um en obsolences
+
+Le NRE et le coût tranche en Tower trop haut. Va basculer sa fab en 8''",Opportunity,2025-09-18 21:47:00,2025-09-18,4233,4384.0,27,Construction offre,Lost,18/09/2025
+6150,ASIC pour ILR/ICD-s,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"projet de DMIA ILR - ASIC spec to production possible
+Projet ILR Abandonné mais potentiel besoin similaire dans un ICD sous cutané.
+Budget de ce projet sur 2022.
+
+Comme discuté il y a quelques semaines, nous avons besoin d'un circuit de mesure du signal cardiaque sous-cutané et nous explorons la possibilité de nous fournir à l'extérieur de Microport.
+Voici quelques informations pour cadrer notre besoin et démarrer un échange :
+•	Filtrage préalable : passe-bande 0.05 Hz ou 1 Hz à 128 Hz.
+•	Niveau de signal min : 100 uV pic
+•	Niveau de signal max : 5 mV pic
+•	Niveau de bruit ramené à l'entrée : 10 uV pic.
+•	Gain 255 (à discuter)
+•	Signal unipolaire ou différentiel
+•	Consommation : 0.5 uA max, moins si possible.
+ 
+La fonctionnalité complète comprendra un ADC et un filtrage numérique pour finaliser la mise en forme du signal. 
+Je vous propose d'entamer la discussion sur cette base et de confronter ces éléments de spécification aux IP dont vous disposez déjà.
+----
+Cycle de décision long. Verifier budget",Opportunity,,2025-09-18,4246,19846.0,27,Identification,Abandonne,18/09/2025
+6151,Pré-étude système piezo audio,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,"Etude pour voir si intérêt electronique specifique pour leur capteur Piezo pour écoute des bruits du coeurs en audio.
+Probablement pas de mouvement en 2021",Study,,2025-09-18,17490,19857.0,27,Identification,Abandonne,18/09/2025
+6152,MEDIA - ASIC processeur HWVEE,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),602000.0,602000.0,0,,,ICALPS,"traduire software en un RTL + developpement ASIC  +SCM
+
+En partie Via projet BPI en sous traitance.
+
+au 19/05/2021 :
+Projet BPI approuvé. (en revue d'expert) 
+Démarrage annoncé en septembre 2021.
+Pré contrat MiroEJ-IC'Alps échangé début 08/21 (avec compléments Annexe C et projection au delà de fin 2022) - sous forme d'options selon avancement du projet
+
+au 8/12/2022 :
+toujours difficile d'avoir un retour => passage en hold
+
+au 17/11/2023 :
+Du fait de l'absence de retours en dépit des nombreuses relances courriels + linkedin => abandon",Opportunity,,2025-09-18,17523,19879.0,31,Negotiating,Abandonne,18/09/2025
+6153,KHAN,Sales Pipeline,Identified,In Progress,Default mapping applied,5000000.0,5000000.0,50,FTK,,ICALPS,Projet ASIC + SCM  RF+ARM,Opportunity,2025-09-18 09:04:00,2025-09-18,17533,19895.0,27,Negotiating,Abandonne,18/09/2025
+6155,ASIC design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Projet indus+automotive avec 2 arm et analog,Opportunity,2025-09-18 18:17:00,2025-09-18,17493,19818.0,27,Identification,Abandonne,18/09/2025
+6156,CAIRPMU2,Sales Pipeline,Closed Won,Won,Deal successfully closed,848000.0,848000.0,100,,,ICALPS,"Suite au diagnotic
+Besoin de reprise Design + nouveau proto pour mise à dispo fin 2022",Opportunity,,2025-09-18,3176,3278.0,31,Negotiating,Won,18/09/2025
+6157,Diagnostic PMU,Sales Pipeline,Closed Won,Won,Deal successfully closed,34000.0,34000.0,100,Desogn_Service,,ICALPS,"test du proto PMU de Cairdac (chip designé par Shortlink + université)
+
+Modèle au temps passé.",Opportunity,,2025-09-18,3176,3278.0,27,Negotiating,Won,18/09/2025
+6158,Design DCDC converter,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"I need to enlarge the DC-DC converter portfolio of my business unit and I’m looking for some external support.
+
+Our products can spread from battery supplied converters (so VIN<7V, load current few Amps, low quiescent current) to industrial and automotive application (VIN from 20V up to 100V, load current from hundreds mA up to 10A and more).
+
+I would like to know if in your company there are guys (analog designers) with experience on this field.
+If yes, can you please give to me some examples of products where you have been involved?
+Any kind of info you can provide in this stage is very useful for me to understand if we can start a collaboration.
+
+Aucune visibilité sur le besoin réel.",Opportunity,,2025-09-18,11904,19913.0,27,Identification,Abandonne,18/09/2025
+6159,SEM01-3,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,Prolongation mission Thomas G jusqu'au 30 avril,Opportunity,,2025-09-18,4291,4604.0,27,Negotiating,Won,18/09/2025
+6160,MAIA2,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),95000.0,95000.0,10,Desogn_Service,,ICALPS,Automatisation du flot de P&R,Opportunity,,2025-09-18,4345,4750.0,27,Construction offre,Abandonne,18/09/2025
+6161,MAIA3,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),650000.0,650000.0,1,Desogn_Service,,ICALPS,"Projet en 28FDSOI pour un démonstrateur complet
+
+WP1- eFPGA IP (40 000 LCs avec 4 clocks et 1MB de RAM) physical implementation RTL->GDDSII
+•	Estimated Timeline : 2/3 mois
+•	Estimated Price : 95 k€
+•	Hypothesis : Scripts provided by Menta / DfT on Synopsys tool (DfT max and TetraMax) / work in secure space
+
+WP2 –Demonstrator design
+•	Estimated Timeline : 3/4 mois
+•	Estimated Price : 155 k€ 
+•	This price does not include the price for IP coming from ST (PLL 500MHz) 
+•	Hypothesis: Free access to DK 28FDSOI (standard cells,IO, memories) / No power regulator inside the testchip / Work in secure space (dedicated server)
+
+WP3 - Demonstrator supply management
+•	Estimated Timeline : 6 months
+•	Estimated Price : 290 k€ to 340 k€ 
+o	Including Silicon fabrication (through CMP – 2 MPW per year – for information in 2021 in March & Sept) : from 260 k€ (IP eFPGA 40k LC / 1MB RAM) to 310 k€ (IP eFPGA 50k LC/ 4MB RAM)  
+o	Including a first estimation for packaging price (WireBonding / without package identification)",Opportunity,,2025-09-18,4345,4750.0,27,Construction offre,Abandonne,18/09/2025
+6162,Grenat - Avenant 5,Sales Pipeline,Closed Won,Won,Deal successfully closed,251000.0,251000.0,100,FTK,,ICALPS,"Mise à jour pour industrialisation (45 layers, ES proto, simu EM...",Opportunity,2025-09-18 10:12:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6163,Etude faisabilité,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"PAs de budget pour un gros projet de développement mais possible de faire une étude sur 2021 autour de l'utilisation des perf du nanopower ECG.
+
+A voir en Janvier 2021 pour une spec.
+
+Processus de decision semble long et compliqué
+------
+
+Client à décidé de ne pas aller dans la voie ASIC. Va faire son produit en COTS.",Opportunity,,2025-09-18,4246,19846.0,27,Identification,Abandonne,18/09/2025
+6164,NUNKI,Sales Pipeline,Closed Won,Won,Deal successfully closed,170000.0,170000.0,100,Desogn_Service,,ICALPS,P&R pour le projet Facebook du cluster venant de l'ETHZ,Opportunity,2025-09-18 16:43:00,2025-09-18,17525,19881.0,27,Negotiating,Won,18/09/2025
+6165,MIMOSA,Sales Pipeline,Closed Won,Won,Deal successfully closed,853000.0,853000.0,100,FTK,,ICALPS,"Projet ASIC bancaire avec 4 SERDES et IP MOSAIC
+Doit trouver un financement pour l'ASIC et contractualisation probablement compliquée (avec exclusivité et n'apprécie pas de payer un Rep)",Opportunity,,2025-09-18,17556,19942.0,27,Negotiating,Won,18/09/2025
+6166,Etude système souffle,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Système à base de MOX
+
+Chereche toujours à lever des fonds...
+
+A priori, pas grand chose à prévoir avant Q4-2021",Opportunity,,2025-09-18,17280,19931.0,27,Identification,Abandonne,18/09/2025
+6167,Etude ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"A voir avec le nouveau responsable BE.
+=>pas de projet même à long terme.
+
+--
+le savoir-faire de Titan aviation ne demande pas du tout à ce jour ce genre de compétence et technologie. Nous sommes intégrateur de solutions embarqués et n’avons, à ce jour, aucunement l’ambition de développer des cartes électroniques et encore moins des ASIC !",Opportunity,,2025-09-18,12065,14939.0,27,Identification,Abandonne,18/09/2025
+6168,NASH : ASIC MOX,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1900000.0,1900000.0,10,FTK,,ICALPS,"Plutôt à moyen terme - levée de fond (prévue en sept 2021) nécessaire pour avancer.
+
+BQ envoyée le 22/12/22",Opportunity,,2025-09-18,17506,19838.0,27,Identification,Abandonne,18/09/2025
+6169,Avenant reprise CHARA,Sales Pipeline,Closed Won,Won,Deal successfully closed,1515000.0,1515000.0,100,FTK,,ICALPS,Avenant pour la reprise - suite du developpement,Opportunity,,2025-09-18,3176,3278.0,27,Negotiating,Won,18/09/2025
+6170,CS01,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Demande de P&R,Opportunity,2025-09-18 04:47:00,2025-09-18,4284,4537.0,27,Qualified,Abandonne,18/09/2025
+6171,LESATH,Sales Pipeline,Closed Won,Won,Deal successfully closed,240000.0,240000.0,100,Desogn_Service,,ICALPS,design & P&R,Opportunity,2025-09-18 06:44:00,2025-09-18,7965,9540.0,27,Negotiating,Won,18/09/2025
+6172,VEGA-IP2,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,,,ICALPS,Nouvelle demande de conception d'IP logique depuis la spec,Opportunity,2025-09-18 10:03:00,2025-09-18,1119,19284.0,27,Qualified,Abandonne,18/09/2025
+6173,TRIXELL: Analyse de defaillance,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),95000.0,95000.0,10,,,ICALPS,"Diag à faire sur un imageur : mission de 6 mois
+
+=> on ne se positionne pas car pas de ressource et modalité pas OK",Opportunity,,2025-09-18,9111,17054.0,27,Evaluation technique,Abandonne,18/09/2025
+6174,WavIoT: ASIC digitial,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Développement d'un ASIC digital en Spec to Proto avec plein d'IP
+
+Mauvaise visibilité sur le budget, la pertinance du projet (sont en phase de discussion interne pour savoir si ce projet est viable...)
+=> probabilité très fiable",Opportunity,,2025-09-18,17561,19956.0,27,Identification,Abandonne,18/09/2025
+6175,Intégration ASIC capteur,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Intergation de l'électronique capteur dans un ASIC,Opportunity,,2025-09-18,17554,19947.0,27,Identification,Abandonne,18/09/2025
+6176,Demonstrateur GF 22 nm,Sales Pipeline,Closed Won,Won,Deal successfully closed,70000.0,70000.0,100,Desogn_Service,,ICALPS,"Contrat signé pour Réalisation d'un démonstrateur en GF22 sur base de RISC V
+Commande OK pour mission grégoire (43 k€) 
+Reste le test chip en GF 22",Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6177,Developpement systeme ARM,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Possible besoin de support pour développement autour d'un coeur ARM.
+
+Au 17/05/2021 :
+Tim devrait avoir des nouvelles d'ici mi-juin/fin juin.
+Le projet n'est pas gagné - il estime ses chances à 50%",Opportunity,,2025-09-18,4369,19964.0,27,Identification,Abandonne,18/09/2025
+6178,Grenat - Avenant 6,Sales Pipeline,Closed Won,Won,Deal successfully closed,-72844.0,-72844.0,100,FTK,,ICALPS,"Update prix masque et wafer avec taux en dollar actuel
+Travaux de mars",Opportunity,2025-09-18 10:03:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6179,VEZAD,Sales Pipeline,Closed Won,Won,Deal successfully closed,80000.0,80000.0,100,Desogn_Service,,ICALPS,Design + P&R digital block,Opportunity,2025-09-18 15:12:00,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+6180,Beemin-IP analogique,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,340000.0,340000.0,1,,,ICALPS,"ADC, DAC Faits par leur partenaire layout
+Buck : cherche un partenaire avec de l'expérience en buck...",Opportunity,2025-09-18 16:55:00,2025-09-18,1072,19803.0,27,Construction offre,Lost,18/09/2025
+6181,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet ASIC adc,Opportunity,,2025-09-18,11652,19979.0,27,Identification,Abandonne,18/09/2025
+6182,TESIC + TALITA en GF 40,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),120000.0,120000.0,1,,,ICALPS,"Std cell migration & TESIC P&R in GF 40nm
+
+Pour la fin 2021 / début 2022
+Finalement le Client ne fera pas de dev en 40nm. Passera directement en GF22.
+=> abandonné",Opportunity,,2025-09-18,9103,10859.0,27,Identification,Abandonne,18/09/2025
+6183,RFQ flash & voter,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),250000.0,250000.0,5,Desogn_Service,,ICALPS,"Please consider this RFQ as confidential.
+
+We need to know if you have the capability to design and to provide wafer for similar memory (see attached data sheet) or an alternative with a dice for majority vote.
+
+It is for space application so no SEL and low probability for SEU
+My customer wants to use this memory to configurate an another parts (FPGA) : their parts are configured by loading the bitstream into internal configuration memory using one of these following modes: 
+• JTAG, 
+• Slave Parallel 8bits, 
+• Slave SpaceWire, compliant ECSS-E-ST-50-12C link, 
+• Master SPI, compliant with SPI JESD68.01, 
+• Master Dump. 
+
+What is the cost for this design (Rough estimation) and to produce low quantity of dice (1000-2000). Assembly and test done by ATN.
+
+Another scenario is to use memory dice  from ISSI (3 dice inside a module) but with a fourth dice to implement majority vote of the 3 memories (to be designed by IC Alps up to wafer delivery). 
+
+Rough estimation is requested as this customer will analyze different approachs",Opportunity,,2025-09-18,17265,19269.0,27,Identification,Abandonne,18/09/2025
+6184,WIS01,Sales Pipeline,Closed Won,Won,Deal successfully closed,7000.0,7000.0,100,Desogn_Service,,ICALPS,Conseil layout et flot,Opportunity,,2025-09-18,15153,18072.0,27,Negotiating,Won,18/09/2025
+6185,ASIC pour implant neurostim,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,0,,,ICALPS,"ASIC pour un implant de neurostimulmation du nerf vague.
+
+=> PERDU. 
+Neuroloop ne souhaite pas travailler avec nous car ""trop jeune"" et souhaite s'appuyer sur un partenaire plus ""experimenté"" - IC'Sense ??
+
+",Opportunity,,2025-09-18,18583,20986.0,27,Construction offre,Lost,18/09/2025
+6186,Gemma2,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,Transformation algo en hard,Opportunity,2025-09-18 12:26:00,2025-09-18,10391,19199.0,31,Qualified,Abandonne,18/09/2025
+6187,SEM01-5,Sales Pipeline,Closed Won,Won,Deal successfully closed,24000.0,24000.0,100,Desogn_Service,,ICALPS,Prolongation Thomas,Opportunity,2025-09-18 22:54:00,2025-09-18,4293,4613.0,27,Negotiating,Won,18/09/2025
+6189,ASIC pour driver LED,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),4500000.0,4500000.0,5,FTK,,ICALPS,"Travaille en ce moment sur l'architecture de leur chip.
+Design start prévu en mi-2022
+Devrait revenir vers nous pour consultation à début 2022.",Opportunity,2025-09-18 03:10:00,2025-09-18,18597,22002.0,27,Construction offre,Abandonne,18/09/2025
+6190,Grenat - Avenant 7,Sales Pipeline,Closed Won,Won,Deal successfully closed,120000.0,120000.0,100,FTK,,ICALPS,Avenant travaux avril - mai et réécriture paragraphe 3.9 pour export,Opportunity,2025-09-18 05:25:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6191,Block Temp Sensor,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,50000.0,50000.0,0,,,ICALPS,"Développement d'un bloc Température sensor CMOS en TSMC 22 nm.
+
+=> Perdu
+Font faire par Ensilica à 35 k£ (41 k€) - nous étions à 50 k€
+
+",Opportunity,,2025-09-18,17568,19965.0,27,Negotiating,Lost,18/09/2025
+6192,PHAD P&R,Sales Pipeline,Closed Won,Won,Deal successfully closed,48000.0,48000.0,100,Desogn_Service,,ICALPS,"P&R sur design easics
+1 dry-run
+2 à 3 netlists
+en TSMC40 nm",Opportunity,,2025-09-18,17581,19980.0,27,Negotiating,Won,18/09/2025
+6193,Support synthèse,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),40000.0,40000.0,1,Desogn_Service,,ICALPS,Besoin de support synthèse pour 4-6 mois,Opportunity,,2025-09-18,4710,22005.0,27,Evaluation technique,Abandonne,18/09/2025
+6194,EDASICH WP2-spec,Studies Pipeline,Identified,In Progress,Default mapping applied,170000.0,170000.0,50,Preetude,,ICALPS,"ASIC avec SERDES, eFPGA accronix et IP ENYX. Qques 100ènes à livrer
+
+LEADS REDTREE",Study,,2025-09-18,5745,6988.0,27,Negotiating,Abandonne,18/09/2025
+6195,Avenant 5 - MIRA-PULSE,Sales Pipeline,Closed Won,Won,Deal successfully closed,205000.0,205000.0,100,FTK,,ICALPS,Avenant 5 couvrant les preprise complementaire et le jeu de masque SLM.,Opportunity,,2025-09-18,3179,3284.0,27,Negotiating,Won,18/09/2025
+6196,Prestation Design Syntheses Tiempo,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,"Grégoire pour une prestation de synthèse et DFT sur le test chip GF 22
+
+720 € / jours sur 50 jours",Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6197,Assemblage LGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Il s’agit d’un produit GaN Power dans un boitier LGA.
+
+Les prévisions de volume sont :
+2022 : 500 ku
+2023 : 1 Mu
+2024 : 5 Mu
+
+Finalement le client final (Wise integration) va gérer le packaging lui meme avec ASE. => Abandonné",Opportunity,2025-09-18 00:53:00,2025-09-18,17265,22037.0,27,Evaluation technique,Abandonne,18/09/2025
+6198,ASIC pour patch medical,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Leads approtée par Adi (KAL)
+Développement ASIC.",Opportunity,2025-09-18 01:58:00,2025-09-18,18619,22040.0,31,Identification,Abandonne,18/09/2025
+6199,SEM01-6,Sales Pipeline,Closed Won,Won,Deal successfully closed,14400.0,14400.0,100,Desogn_Service,,ICALPS,Prolongation juin Thomas,Opportunity,2025-09-18 05:11:00,2025-09-18,4291,4604.0,27,Negotiating,Won,18/09/2025
+6200,TEST CHIP TESIC ST28FDSOI,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),97000.0,97000.0,10,,,ICALPS,test chip avec TESIC en ST28FDSOI pour projet DGA,Opportunity,2025-09-18 18:18:00,2025-09-18,9103,10859.0,27,Construction offre,Abandonne,18/09/2025
+6201,TALITA & THETA TSMC 22nm,Sales Pipeline,Closed Won,Won,Deal successfully closed,118000.0,118000.0,100,Desogn_Service,,ICALPS,"TALITA: dev de bibliothèque ASC (identique TSMC 16nm) en TSMC 22nm
+THETA : P&R de TESIC+MRAM en TSMC 22nm MRAM",Opportunity,2025-09-18 20:17:00,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+6202,ASIC SPD6,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),3900000.0,3900000.0,0,,,ICALPS," ASIC for cochlear implant system
+Perimeter reduced 1 ASIC SPD6
+for BETCC re-use in internal an ASIC already developed
+
+Référencement IC'Alps en cours ...
+
+Abandon le 1/8 car pas d'avancée, pas de retour en direct ... 0 réponse des différents contacts en Europe et aux USA (et de nombreuses évolutions sur fin Q1-début Q2'22 comme pour le juridique",Opportunity,,2025-09-18,18632,22061.0,31,Construction offre,Abandonne,18/09/2025
+6203,PROTSION Préétude,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),90000.0,90000.0,0,,,ICALPS,"1st estimation to be provided.
+Possible Prestudy/feasibility end of Q3'2023. après levée de fonds
+
+=> Steve Stoffels m'a informé ce 31/05 que la levée de fonds ne s'est pas fait et que du coup fin en l'état de ce projet (et réduction de la taille de l'équipe à 4 personnes Daniel / Marco / Jo et ...) avec retour de la techno capteur au sein de l'IMEC",Opportunity,,2025-09-18,18629,22057.0,27,Evaluation technique,Abandonne,18/09/2025
+6204,Design PCB+ASIC implant,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,ASIC + PCB design,Opportunity,,2025-09-18,18592,20996.0,27,Identification,Abandonne,18/09/2025
+6205,ASIC analog,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,500000.0,500000.0,1,,,ICALPS,"Schema en COTS reçu.
+A analyser.",Opportunity,2025-09-18 12:15:00,2025-09-18,18622,22042.0,27,Evaluation technique,Lost,18/09/2025
+6207,Equipe dédiée,Sales Pipeline,Closed Won,Won,Deal successfully closed,1200000.0,1200000.0,100,Desogn_Service,,ICALPS,"Equipe de 1 architecte + 3 analog + 1 layout
+avec possibilité de comlpéments selon les travaux
+Mise en place sur Q4'21 avec équipe complète visée pour fin 2021
+et engagement de 2 ans de Crocus",Opportunity,,2025-09-18,9061,13814.0,31,Negotiating,Won,18/09/2025
+6208,ASIC pour robot de chirurgie,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Premiers échanges autour de leurs positionnement sur la pose de stents par robot (avec l'implication de Truffle capital).
+Visite prévue chez IC'Alps fin Q3 début Q4",Opportunity,2025-09-18 20:31:00,2025-09-18,18634,23070.0,31,Identification,Abandonne,18/09/2025
+6209,ASIC mesure,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Venue le 31/08 avec François Vieillard,Opportunity,2025-09-18 22:54:00,2025-09-18,18635,23073.0,27,Identification,Abandonne,18/09/2025
+6210,CALX : préétude,Studies Pipeline,Closed Won,Won,Deal successfully closed,40000.0,40000.0,100,Preetude,,ICALPS,ASIC avec ARM et analogique,Study,,2025-09-18,18621,22041.0,27,Negotiating,Won,18/09/2025
+6211,ASIC companion chip NFC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,FTK,,ICALPS,ASIC pour digitalisation de points de ventes,Opportunity,,2025-09-18,17472,19773.0,27,Identification,Abandonne,18/09/2025
+6212,SHEDDI : préétude,Studies Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Preetude,,ICALPS,ASIC pour smart disjoncteur,Study,,2025-09-18,2191,19943.0,27,Negotiating,Won,18/09/2025
+6213,P&R,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,2,,,ICALPS,projet externalisation migration 130 vers 65 nm,Opportunity,,2025-09-18,7962,9529.0,27,Identification,Abandonne,18/09/2025
+6214,LESATH-Layout,Sales Pipeline,Closed Won,Won,Deal successfully closed,261150.0,261150.0,100,Desogn_Service,,ICALPS,"Layout des blocs analogiques
+avec implication de 1 à 2 experts layout de début novembre 2021 à août 2022",Opportunity,,2025-09-18,7965,9539.0,27,Negotiating,Won,18/09/2025
+6215,SEM01-7,Sales Pipeline,Closed Won,Won,Deal successfully closed,38500.0,38500.0,100,Desogn_Service,,ICALPS,Prolongation Thomas,Opportunity,,2025-09-18,4291,4604.0,27,Negotiating,Won,18/09/2025
+6216,DENEB,Sales Pipeline,Closed Won,Won,Deal successfully closed,350000.0,350000.0,100,Desogn_Service,,ICALPS,Besoin de 2-3 personnes sur 2022,Opportunity,,2025-09-18,4299,4629.0,27,Negotiating,Won,18/09/2025
+6217,PHAET Layout,Sales Pipeline,Closed Won,Won,Deal successfully closed,65000.0,65000.0,100,Desogn_Service,,ICALPS,"Layout XFab 0.18 µm
+Schematics deja réalisé par le client sous Tanner (Siemens)
+CR d'appel du 07/09 à venir",Opportunity,2025-09-18 11:50:00,2025-09-18,18638,23081.0,27,Negotiating,Won,18/09/2025
+6218,Grenat - Avenant 9,Sales Pipeline,Closed Won,Won,Deal successfully closed,68000.0,68000.0,100,FTK,,ICALPS,Compléments pour travaux jusqu'à fin 09/2021,Opportunity,2025-09-18 17:31:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6219,ACAMAR : Offre Lot Engineering / 6 wafers,Sales Pipeline,Identified,In Progress,Default mapping applied,34800.0,34800.0,30,,,ICALPS,Besoin 1 lot engineering 6 wafers,Opportunity,,2025-09-18,1076,20984.0,27,Negotiating,Abandonne,18/09/2025
+6221,ASIC pour tracker de soleil,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),3000000.0,3000000.0,1,,,ICALPS,"Monitoring analogique + coeur processeur dans un ASIC avec contraintes de conso ...
+Leur solution actuelle sur carte leur coute environ $20 à $25 de composants
+
+Suite à session ce 23/09, une première offre budgétaire à faire pour mi octobre ...
+Et visé une première commande avec étude de faisabilité !",Opportunity,,2025-09-18,18644,23091.0,27,Qualified,Abandonne,18/09/2025
+6222,CHARA Avenant 2,Sales Pipeline,Closed Won,Won,Deal successfully closed,1100000.0,1100000.0,100,FTK,,ICALPS,splitter WP4,Opportunity,,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+6223,ERRAI Design & Supply,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),6000000.0,6000000.0,0,,,ICALPS,"Design Asic et Supply
+
+Abandon le 1/08 car 0 retour aux différentes et nombreuses relances (LinkedIn, mail, voice mail, ...)",Opportunity,,2025-09-18,18639,23084.0,31,Construction offre,Abandonne,18/09/2025
+6224,Assemblage puces théta 22,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,23050.0,23050.0,1,,,ICALPS,Assemblage des puces,Opportunity,,2025-09-18,9103,10859.0,27,Construction offre,Lost,18/09/2025
+6225,Projet eFPGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Test chip avec efpga de menta,Opportunity,,2025-09-18,9103,10859.0,27,Identification,Abandonne,18/09/2025
+6226,FOSTeR,Sales Pipeline,Identified,In Progress,Default mapping applied,400000.0,400000.0,80,,,ICALPS,Projet rapid,Opportunity,,2025-09-18,4345,4750.0,27,Construction offre,Abandonne,18/09/2025
+6227,REDA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),6400000.0,6400000.0,0,,,ICALPS,"Circuit pour infra 5G avec interfaces 10G en techno 28nm
+(projet 100G en techno 16nm à priori reporté à ce stade pour cause des investissements et ROI d'un marché peut être trop émergeant).
+
+Objectif initial : être notifié du WP1 pour avancer plus avant dans le projet et aller au delà des estimations budgétaires
+
+A noter que client via KAL notre agent en Israel
+
+Décision de RAD de ne pas aller au bout car pas le budget en lien avec leurs ambitions ...",Opportunity,2025-09-18 08:35:00,2025-09-18,18600,22006.0,31,Construction offre,Abandonne,18/09/2025
+6228,SHEDDI : Design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1500000.0,1500000.0,1,,,ICALPS,Design ASIC analogique,Opportunity,2025-09-18 23:11:00,2025-09-18,2191,19943.0,27,Negotiating,Abandonne,18/09/2025
+6229,Grenat - Avenant 11,Sales Pipeline,Closed Won,Won,Deal successfully closed,160750.0,160750.0,100,FTK,,ICALPS,MW octobre + indus...,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6230,ASIC Design Services,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,,,ICALPS,Service,Opportunity,,2025-09-18,4719,23110.0,34,Identification,Abandonne,18/09/2025
+6231,VEZAD - FPGA,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,91000.0,91000.0,1,,,ICALPS,FPGA de démonstration,Opportunity,,2025-09-18,17566,19963.0,27,Negotiating,Lost,18/09/2025
+6232,Pré-étude ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),10000.0,10000.0,5,,,ICALPS,dispositif tout-en-un de suivi d’état physique et cérébral,Opportunity,,2025-09-18,18661,23114.0,27,Identification,Abandonne,18/09/2025
+6233,Grenat - Avenant 10,Sales Pipeline,Closed Won,Won,Deal successfully closed,35500.0,35500.0,100,FTK,,ICALPS,6 wafers supp,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6234,EDASICH - Préétude,Studies Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Preetude,,ICALPS,Essais Performances,Study,,2025-09-18,5745,6988.0,27,Negotiating,Won,18/09/2025
+6235,WESAT,Sales Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Desogn_Service,,ICALPS,P&R en Skywater,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+6236,Virgo,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1300000.0,1300000.0,50,,,ICALPS,"en technologie ST 28FDSOI ...
+cf email de CR
+
+Sur recommandation de Synopsys
+Et flot exclusivement Synopsys à considérer ...",Opportunity,,2025-09-18,4718,4915.0,27,Negotiating,Lost,18/09/2025
+6237,CAIRPMU2 : WP2+WP3,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,875000.0,875000.0,0,,,ICALPS,"WP2+WP3 - 1 273 000 €
+
+avec stratégie MLM + WLCSP
+offre partagée au client le 22/04
+
+Et ODG donné pour Industrialisation et PU en production
+
+Retex interne le 10/03",Opportunity,,2025-09-18,3176,3277.0,31,Negotiating,Lost,18/09/2025
+6238,WESAT : I/O characterization,Sales Pipeline,Closed Won,Won,Deal successfully closed,5000.0,5000.0,100,Desogn_Service,,ICALPS,Characterization of one I/O,Opportunity,2025-09-18 10:28:00,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+6239,THETA/TALITA GF12,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),290000.0,290000.0,10,,,ICALPS,GF 12,Opportunity,,2025-09-18,9103,10859.0,27,Evaluation technique,Abandonne,18/09/2025
+6240,Beemin-Avenant1,Sales Pipeline,Closed Won,Won,Deal successfully closed,64000.0,64000.0,100,Desogn_Service,,ICALPS,Ajout de blocs et complexité,Opportunity,2025-09-18 05:09:00,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+6241,ASIC lunettes connectées,Studies Pipeline,01-Identification,In Progress,Mapped to Studies Pipeline,40000.0,40000.0,1,Preetude,,ICALPS,Asic pour pilotage lentille fluidique,Study,2025-09-18 11:33:00,2025-09-18,14106,22022.0,27,Identification,In Progress,18/09/2025
+6242,FPGA 22FDX,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),5000000.0,5000000.0,1,,,ICALPS,FPGA en 22FDX,Opportunity,2025-09-18 15:14:00,2025-09-18,4345,4750.0,27,Construction offre,Abandonne,18/09/2025
+6243,CHARA version 2,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),500000.0,500000.0,1,,,ICALPS,"Estimation / pré budget à proposer pour une version 2 pour adresser les spécifications en consommation ...
+
+A voir une fois Chara v1b finalisé",Opportunity,,2025-09-18,3176,3277.0,31,Identification,Abandonne,18/09/2025
+6244,TRNG pour FPGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),30000.0,30000.0,10,,,ICALPS,"pour un client dans la Défense
+Avec processus de sélection et test en labo sur début 2022",Opportunity,,2025-09-18,10423,23204.0,31,Evaluation technique,Abandonne,18/09/2025
+6245,ASIC pour ILR faible conso,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,,,ICALPS,"Leur solution COTS est trop consommante même si OK sur les performances techniques ...
+Donc réflexion initiée pour IP ou ASIC ULP
+
+Réunion chez IC'Alps pour début 02/2022",Opportunity,2025-09-18 07:04:00,2025-09-18,4246,23168.0,27,Identification,Abandonne,18/09/2025
+6246,NUNKI-Nano,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,Desogn_Service,,ICALPS,"Version commerciale de Nunki
+
+Aucune retour depuis de longs mois",Opportunity,,2025-09-18,17525,19881.0,31,Evaluation technique,Abandonne,18/09/2025
+6247,Grenat - Avenant 8,Sales Pipeline,Closed Won,Won,Deal successfully closed,94500.0,94500.0,100,FTK,,ICALPS,MW juillet aout,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6248,CAIRPMU2 - complément faisabilité WP1b,Studies Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Preetude,,ICALPS,"Avec priorité à la performance et non plus au planning.
+offre envoyée ce 4/01, puis évolutions ...",Study,2025-09-18 19:38:00,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+6249,VEZAD - Model emulation,Sales Pipeline,Closed Won,Won,Deal successfully closed,28000.0,28000.0,100,Desogn_Service,,ICALPS,Modèle de simulation pour émuler vezad,Opportunity,,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+6250,OKDA - ASIC Pulser + Switch,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),20000.0,20000.0,0,Preetude,,ICALPS,"Pour leur patch ultrason avec matrice CMUT de Philips
+
+Projet en sommeil jusqu'à leur levée de fonds ...
+Des essais cliniques attendus avec leur levée Seed et ce pour H2'23",Study,,2025-09-18,18706,23210.0,31,Construction offre,Abandonne,18/09/2025
+6251,Grenat - Avenant 12,Sales Pipeline,Closed Won,Won,Deal successfully closed,3500.0,3500.0,100,FTK,,ICALPS,Model IBIS boîtier,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6253,Grenat - Avenant 12 (fin IBIS),Sales Pipeline,Closed Won,Won,Deal successfully closed,23500.0,23500.0,100,FTK,,ICALPS,Modelisation IBIS IO et assemblage IBIS boîtier,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6254,Grenat - Dicing wafer,Sales Pipeline,Closed Won,Won,Deal successfully closed,3750.0,3750.0,100,FTK,,ICALPS,Dicing et Grinding d'un wafer,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6255,ACAMAR - Conservation des masques,Sales Pipeline,Closed Won,Won,Deal successfully closed,10000.0,10000.0,100,Desogn_Service,,ICALPS,Conservation des masques 24 mois,Opportunity,,2025-09-18,1076,20984.0,27,Negotiating,Won,18/09/2025
+6256,LESATH OTT layout,Sales Pipeline,Identified,In Progress,Default mapping applied,85000.0,85000.0,50,,,ICALPS,Prestation layout,Opportunity,,2025-09-18,7965,23221.0,27,Negotiating,Abandonne,18/09/2025
+6257,GRENAT - Avenant 13,Sales Pipeline,Closed Won,Won,Deal successfully closed,48500.0,48500.0,100,FTK,,ICALPS,Early preseries et adder mise au point prgm test,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6258,Wesat : WP3,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Desogn_Service,,ICALPS,Compensation temps passé,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+6259,P&R pour Axellera-AI,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1500000.0,1500000.0,5,,,ICALPS,Gros projet en 12nm pour Axcellera-AI...,Opportunity,,2025-09-18,17471,19772.0,27,Construction offre,Abandonne,18/09/2025
+6260,CLAVA,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1800000.0,1800000.0,10,,,ICALPS,ASIC détecteur proximité,Opportunity,,2025-09-18,18611,22026.0,27,Construction offre,Lost,18/09/2025
+6261,ALYA-Spécification,Sales Pipeline,Closed Won,Won,Deal successfully closed,50000.0,50000.0,100,Desogn_Service,,ICALPS,Nouvelle architecture,Opportunity,,2025-09-18,1076,20984.0,27,Negotiating,Won,18/09/2025
+6262,ASIC pour circuit Automotive,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),750000.0,750000.0,0,,,ICALPS,"Circuit en 28 nm
+avec ISO26262
+et besoin d'un partenaire pour DfT en 28 nm + IP verification + Support à l'implémentation physique
+
+NDA en cours de signature
+
+Décision mars-avril, pour démarrage dans la foulée
+95% du code RTL existant mais ajout de fonctions complémentaires, et besoin de vérification ++
+Avec un TO objectif à fin 2022
+
+A priori difficile d'avoir un budget - mis en hold au 20/05 jusqu'à avoir d'autres infos",Opportunity,,2025-09-18,4235,4390.0,31,Evaluation technique,Abandonne,18/09/2025
+6263,Renfort Layout-1.1,Sales Pipeline,Closed Won,Won,Deal successfully closed,38800.0,38800.0,100,Desogn_Service,,ICALPS,"Layout sur techno XFab 0.18
+intervention de juin à octobre (TO planifié en 11/2022)
+avec possibilité de travail en remote (après 2 à 3 jours sur site à Clamart)
+1 contrainte : utilisation des outils Mentor (Microport en contrat avec Mentor jusqu'à fin 2022, avant d'envisager un basculement vers Cadence/Virtuoso pour l efutur)",Opportunity,,2025-09-18,4246,19846.0,34,Negotiating,Won,18/09/2025
+6264,ALYA-Design,Sales Pipeline,Closed Won,Won,Deal successfully closed,250000.0,250000.0,100,Desogn_Service,,ICALPS,Design une fois contrat en place,Opportunity,2025-09-18 16:42:00,2025-09-18,1076,20984.0,27,Negotiating,Won,18/09/2025
+6265,Grenat - Avenant 14 - eps2,Sales Pipeline,Closed Won,Won,Deal successfully closed,6500.0,6500.0,100,FTK,,ICALPS,Processing second wafer,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+6266,Nunki - Power analysis,Sales Pipeline,Closed Won,Won,Deal successfully closed,10000.0,10000.0,100,Desogn_Service,,ICALPS,Analyse conso,Opportunity,,2025-09-18,17525,19881.0,27,Negotiating,Won,18/09/2025
+6267,Nunki Packaging,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,50000.0,50000.0,5,,,ICALPS,Mise en boîtier Nunki,Opportunity,,2025-09-18,17525,19881.0,27,Negotiating,Lost,18/09/2025
+6268,Projet ASIC autour N25,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),800000.0,800000.0,10,,,ICALPS,"Projet ASIC autour N25
+
+Lead de Raphael",Opportunity,2025-09-18 07:02:00,2025-09-18,7930,9470.0,27,Construction offre,Abandonne,18/09/2025
+6269,ASIC comm RFID,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,ASIC comm RFID,Opportunity,2025-09-18 10:30:00,2025-09-18,18718,23230.0,27,Qualified,Abandonne,18/09/2025
+6270,ASIC pour AR dans lunettes,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),4500000.0,4500000.0,1,,,ICALPS,"cf description du projet dans les courriels entrants
+
+BQ ce 31/03 pour 4,5 M€ +/-10% hors IP
+et entre 6M€ et 8 M€ pour les IPs ...
+
+Tant que pas de retour sur la faisabilité, dév ASIC en abandonné",Opportunity,,2025-09-18,18721,23232.0,31,Evaluation technique,Abandonne,18/09/2025
+6271,ASIC Power Management,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,70000.0,70000.0,1,,,ICALPS,ASIC micro BMS,Opportunity,,2025-09-18,18722,23235.0,34,Construction offre,Lost,18/09/2025
+6272,VEZAD2,Sales Pipeline,Closed Won,Won,Deal successfully closed,250000.0,250000.0,100,Desogn_Service,,ICALPS,Projet reprise design VEZAD,Opportunity,2025-09-18 05:28:00,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7272,WESAD - Power cut cell,Sales Pipeline,Closed Won,Won,Deal successfully closed,5000.0,5000.0,100,Desogn_Service,,ICALPS,réalisation de la cellule power cut en SW,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7273,@Adi Katav - Formulaire Contact Site Web 22/03/22,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"Transmise à Adi Katav le 22/03/2022
+
+
+Hi, We would like to learn about your capabilities in:
+Analog design
+Physical design
+Avi",Opportunity,2025-09-18 22:17:00,2025-09-18,18723,23239.0,27,Identification,Abandonne,18/09/2025
+7274,P&R ASIC en 12nm,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,700000.0,700000.0,0,,,ICALPS,"Effort de P&R pour 3 personnes pendant 14 mois (TO visé vers 05/23) - BQ à 700 k€
++ si infra IC'Alps - BQ 50 k€
++ si EDA Cadence par IC'Alps - BQ çàà  k€+/- 10%
+
+ASIC en 12 nm + flot Cadence
+
+Concurrence - Blue Wave Wireless en UK qui a fait le circuit précédent 
+Mais IC'Alps recommandé par Cadence, et avantage du CIR",Opportunity,2025-09-18 07:56:00,2025-09-18,18724,23240.0,31,Qualified,Lost,18/09/2025
+7275,PQFP160,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),12000.0,12000.0,5,,,ICALPS,Packaging de 70 circuits,Opportunity,,2025-09-18,18725,23241.0,27,Negotiating,Abandonne,18/09/2025
+7276,Tramontana - WP1,Studies Pipeline,Closed Won,Won,Deal successfully closed,45000.0,45000.0,100,Preetude,,ICALPS,"Mesure de l'état de santé et de l'état de charge des éléments d'une batterie via solution ultrason.
+1er marché visé : ordinateur portable",Study,,2025-09-18,18726,23242.0,31,Negotiating,Won,18/09/2025
+7277,Tramontana - ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),88000.0,88000.0,0,,,ICALPS,"Design & prototypage
+
+Sans nouvelle depuis 1 an => passage en Abandon",Opportunity,,2025-09-18,18726,23242.0,31,Construction offre,Abandonne,18/09/2025
+7278,Préétude,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),30000.0,30000.0,10,,,ICALPS,ASIC mesure diabète,Opportunity,,2025-09-18,4242,19201.0,27,Qualified,Abandonne,18/09/2025
+7279,EDASICH-Design,Sales Pipeline,Identified,In Progress,Default mapping applied,4000000.0,4000000.0,50,FTK,,ICALPS,Design ASIC finance,Opportunity,,2025-09-18,5745,6988.0,27,Evaluation technique,Abandonne,18/09/2025
+7280,BEEMIN Amendment2,Sales Pipeline,Closed Won,Won,Deal successfully closed,22000.0,22000.0,100,Desogn_Service,,ICALPS,Travail additionnel,Opportunity,,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+7281,Projet Equipe ASIC dédié ?,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet Equipe ASIC dédié ?,Opportunity,,2025-09-18,4214,23248.0,27,Identification,Abandonne,18/09/2025
+7282,BOTEIN-Spec,Studies Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Preetude,,ICALPS,Projet DCDC,Study,,2025-09-18,18618,22038.0,27,Negotiating,Won,18/09/2025
+7283,BOTEIN-Design,Sales Pipeline,Closed Won,Won,Deal successfully closed,270000.0,270000.0,100,Desogn_Service,,ICALPS,Projet DCDC en 40nm,Opportunity,,2025-09-18,18618,22038.0,27,Negotiating,Won,18/09/2025
+7284,ASIC pour AR - faisabilité,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),80000.0,80000.0,1,,,ICALPS,"Phase de faisabilité pour définir l'ASIC, les responsabilités, faire des projections performances, planing et couts ...
+
+Avec implication d'Adi sur ce client en Israel
+
+Offre et détails partagés le 20/04 - puis mise à jour le 27/04 avec responsabilité exemple SW
+
+Pas de nouvelles et aucune réponse aux sollicitation - déclaré en abandon au 17/8/22",Opportunity,,2025-09-18,18721,23232.0,31,Negotiating,Abandonne,18/09/2025
+7285,Wezen,Sales Pipeline,Closed Won,Won,Deal successfully closed,1265000.0,1265000.0,100,Desogn_Service,,ICALPS,"Wisekey n'ayant plus d’équipe Design depuis 2021, ils nous demandent de les accompagner dans le développement de leur nouvelle plateforme sécurisée PKI.
+
+Pour financer ce projet, Wiseky répond à un Appel A Projet de la BPI sur le Post Quantique. Réponse attendu sur l'AAP en Juin pour un déblocage des fonds fin 2022/ 
+
+Etapes : 
+Prise en main de Volcano TC2 puis Vesuve TC1/TC2/Final
+
+le tout en espace CC sur serveur dédié à Wezen et propriété de Wisekey",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7286,PYX02,Sales Pipeline,Closed Won,Won,Deal successfully closed,92500.0,92500.0,100,Desogn_Service,,ICALPS,P&R,Opportunity,,2025-09-18,9016,23259.0,27,Negotiating,Won,18/09/2025
+7287,ASIC clone FPGA,Sales Pipeline,Identified,In Progress,Default mapping applied,8000000.0,8000000.0,30,,,ICALPS,"Clone FPGA Lattice
+
+Piste REDTREE",Opportunity,,2025-09-18,19736,23264.0,27,Construction offre,Abandonne,18/09/2025
+7288,ASIC radio + contrôle digital,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,,,ICALPS,"Technologie radio dans la bande 400 MHz - 868 MHz
+en solution concurrente de LoRA
+pouvant transmettre qq 10 à 100 kbits/s
+A priori échantillonnage entre 4 et 10 MHz",Opportunity,,2025-09-18,19738,23271.0,27,Qualified,Abandonne,18/09/2025
+7289,SiriusII,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,Desogn_Service,,ICALPS,"Approche avec ASIC low cost
+sur technologie xfab à Corbeille-Essonne",Opportunity,2025-09-18 08:08:00,2025-09-18,9061,13814.0,31,Negotiating,Won,18/09/2025
+7290,Projet P&R,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,5460000.0,5460000.0,0,,,ICALPS,"Nouveau projet
+Développement Test chip en TSCM 7nm
+ASIC Multicoeurs RISCV
+
+IC'Alps non retenu - cf courriel du 18/11",Opportunity,,2025-09-18,10456,23273.0,34,Construction offre,Lost,18/09/2025
+7291,Design ASIC pour capteur SIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Capteur en carbure de Silicium pour la radiothérapie et le nucléaire,Opportunity,,2025-09-18,18729,23247.0,27,Qualified,Abandonne,18/09/2025
+7292,Etude faisabilité ASIC,Studies Pipeline,Closed Won,Won,Deal successfully closed,50000.0,50000.0,100,Preetude,,ICALPS,"Interface et commande de la pile à combustible miniature Papier/Enzymes
+Technologie à déterminer",Study,,2025-09-18,18691,23288.0,31,Negotiating,Won,18/09/2025
+7293,WESAT-WP3,Sales Pipeline,Closed Won,Won,Deal successfully closed,32000.0,32000.0,100,Desogn_Service,,ICALPS,Final run,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7294,VELA WP2 à WP4,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),2900000.0,2900000.0,0,FTK,,ICALPS,"Initialement
+Design jusqu'à prototypes
+Stratégie MLR
+
+Désormais vision avec 1 silicium
+et reprise non présentée dans le contrat avec le client final
+
+En hold car la priorité a changé chez le client final et rien désormais pour 2024",Opportunity,,2025-09-18,3187,19954.0,31,Negotiating,Abandonne,18/09/2025
+7295,MIMOSA - essai synthèse,Studies Pipeline,Closed Won,Won,Deal successfully closed,15000.0,15000.0,100,Preetude,,ICALPS,essai perf sur leur code en 28HPC+,Study,,2025-09-18,17556,19942.0,27,Negotiating,Won,18/09/2025
+7296,PHAD extra works,Sales Pipeline,Closed Won,Won,Deal successfully closed,4500.0,4500.0,100,Desogn_Service,,ICALPS,Travaux optimisation conso,Opportunity,2025-09-18 00:12:00,2025-09-18,17581,19980.0,27,Negotiating,Won,18/09/2025
+7297,COXA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1600000.0,1600000.0,1,,,ICALPS,A des ASIC en obsolescence. Prévoit nouveau design,Opportunity,,2025-09-18,19751,23286.0,27,Construction offre,Abandonne,18/09/2025
+7298,Migration FPGA->ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Problème appro spartan6,Opportunity,,2025-09-18,4260,4470.0,27,Identification,Abandonne,18/09/2025
+7299,ASIC avec ADC 140db,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,ASIC avec ADC 140db,Opportunity,,2025-09-18,1148,1219.0,27,Identification,Abandonne,18/09/2025
+7300,LESATH Embauche David,Sales Pipeline,Closed Won,Won,Deal successfully closed,6500.0,6500.0,100,Desogn_Service,,ICALPS,Compensation embauche David,Opportunity,,2025-09-18,7965,9540.0,27,Negotiating,Won,18/09/2025
+7301,Grenat - Avenant 14 - Metalfix,Sales Pipeline,Closed Won,Won,Deal successfully closed,114500.0,114500.0,100,FTK,,ICALPS,et processing des wafers,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7302,FPGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,ASIC avec eFPGA,Opportunity,,2025-09-18,19736,23264.0,27,Identification,Abandonne,18/09/2025
+7303,CALX,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,2730000.0,2730000.0,30,,,ICALPS,Projet ASIC avec MCU,Opportunity,,2025-09-18,18621,22041.0,27,Negotiating,Lost,18/09/2025
+7304,VEZAD2-WP1,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,Spec,Opportunity,,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7305,Préétude ASIC,Studies Pipeline,Closed Won,Won,Deal successfully closed,80000.0,80000.0,100,Preetude,,ICALPS,Etude ASIC pour application LED : Driver LED + Colonne,Study,,2025-09-18,19754,24442.0,27,Negotiating,Won,18/09/2025
+7306,STAR02 (Projet P),Sales Pipeline,Closed Won,Won,Deal successfully closed,272000.0,272000.0,100,Desogn_Service,,ICALPS,2 personnes en BE,Opportunity,,2025-09-18,11945,23309.0,27,Negotiating,Won,18/09/2025
+7307,Grenat - Avenant 14 post-traitement,Sales Pipeline,Closed Won,Won,Deal successfully closed,158000.0,158000.0,100,FTK,,ICALPS,Post-processing des wafers metal fixés,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7308,RTC Design,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1100000.0,1100000.0,1,,,ICALPS,"Design RTC (Real Time Clock) En remplacement du produit actuel RV-4162-C7 (TSMC 0.35nm)
+Technologie et nœud a déterminer.",Opportunity,2025-09-18 17:45:00,2025-09-18,17569,19966.0,34,Negotiating,Lost,18/09/2025
+7309,Design Carte A puce,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),4000000.0,4000000.0,0,FTK,,ICALPS,"Développer leur propre carte SIM (Hardware) pour permettre de mutualiser la plateforme et de l’utiliser seule ou en embarquée sur un SOC.
+C’est donc 2 projets en 1 : Carte sim classique puis embarquée.
+Coeur ARM ou RiscV, RAM, Flash, Cryptographic accelerator, RNG, interface UART + IP Securisée.
+
+Au regard de la baisse actuelle du prix des cartes SIM, et des éléments issus de l'étude de faisabilité, Valid a décidé (07/08/2023) de mettre en suspend ce projet ... A voir quand la situation évoluera à nouveau ...",Opportunity,,2025-09-18,19776,24435.0,31,Evaluation technique,Abandonne,18/09/2025
+7310,Lesath-Layout avenant#2,Sales Pipeline,Closed Won,Won,Deal successfully closed,31750.0,31750.0,100,Desogn_Service,,ICALPS,Jours complémentaires pour tape out retardé,Opportunity,2025-09-18 07:23:00,2025-09-18,7965,9540.0,27,Negotiating,Won,18/09/2025
+7311,CAPELLA-Testchip,Sales Pipeline,Closed Won,Won,Deal successfully closed,143684.0,143684.0,100,Desogn_Service,,ICALPS,Finalisation P&R,Opportunity,,2025-09-18,17484,24353.0,27,Negotiating,Won,18/09/2025
+7312,Grenat-Avenant#14 - patterns supplémentaires,Sales Pipeline,Closed Won,Won,Deal successfully closed,6000.0,6000.0,100,FTK,,ICALPS,6 parterns supplémentaires,Opportunity,2025-09-18 12:22:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7313,POLLUX Design,Sales Pipeline,Identified,In Progress,Default mapping applied,940000.0,940000.0,80,,,ICALPS,Design ASIC intégrant un réseau de neurone en technologie S90 (Skywater),Opportunity,,2025-09-18,11714,24374.0,27,Negotiating,Abandonne,18/09/2025
+7314,Grenat Test 1 wafer,Sales Pipeline,Closed Won,Won,Deal successfully closed,6500.0,6500.0,100,FTK,,ICALPS,Test d'un wafer,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7315,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"Application Ultrason dans le médical proche des applications de Vermon. 
+
+Le concurrent et l'application etant trop proche des applications de Vermon, le groupe Doliam a décidé qu'IC'ALPS ne donnerait pas suite sur ce projet.
+Fin des discussion avec Pytheas sur ce projet. Les autres applications/projets peuvent tout de même être discuté avec Pytheas. Pour les applications ultrason, il faut consulter le groupe pour vérifier si nous pouvons avancer sur le projet.",Opportunity,,2025-09-18,18623,22047.0,34,Identification,Abandonne,18/09/2025
+7316,Grenat - lot prod 1-2,Sales Pipeline,Closed Won,Won,Deal successfully closed,450000.0,450000.0,100,Production,,ICALPS,Premiers lots de production,Opportunity,2025-09-18 03:55:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7317,Grenat - Régularisation $,Sales Pipeline,Closed Won,Won,Deal successfully closed,4750.0,4750.0,100,FTK,,ICALPS,Régulariser le prix des dépenses en $ au réél,Opportunity,2025-09-18 05:26:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7318,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet ASIC mais pas de budget pour 2022,Opportunity,2025-09-18 06:17:00,2025-09-18,19761,23307.0,27,Identification,Abandonne,18/09/2025
+7319,P&R,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,20,,,ICALPS,Besoin P&R,Opportunity,2025-09-18 07:10:00,2025-09-18,11580,13866.0,27,Qualified,Abandonne,18/09/2025
+7320,NX-TC7,Sales Pipeline,Identified,In Progress,Default mapping applied,195000.0,195000.0,40,Desogn_Service,,ICALPS,P&R testchip en 7nm,Opportunity,2025-09-18 08:15:00,2025-09-18,3180,23327.0,27,Construction offre,Abandonne,18/09/2025
+7321,Renfort Layout-2,Sales Pipeline,Closed Won,Won,Deal successfully closed,24600.0,24600.0,100,Desogn_Service,,ICALPS,Suite mission Layout sur techno XFab 0.18,Opportunity,,2025-09-18,4246,19846.0,34,Negotiating,Won,18/09/2025
+7322,MIRZA - portage MIRA sur noeuds avancés,Studies Pipeline,Closed Won,Won,Deal successfully closed,35000.0,35000.0,100,Preetude,,ICALPS,"Etude de faisabilité pour envisager un portage de 
+- PULSE vers techno SOI 180nm ou un peu plus fine (XT018 -> XT011 ou autres ...?)
+- ACQ vers 22 nm (GF ?)",Study,,2025-09-18,3179,3284.0,31,Negotiating,Won,18/09/2025
+7323,STAR03,Sales Pipeline,Closed Won,Won,Deal successfully closed,157000.0,157000.0,100,Desogn_Service,,ICALPS,Design et P&R,Opportunity,,2025-09-18,4287,4554.0,27,Negotiating,Won,18/09/2025
+7324,CEIBO,Sales Pipeline,Identified,In Progress,Default mapping applied,445000.0,445000.0,50,,,ICALPS,"Design et P&R sous système avec MCU
+
+Devis sans CPU à 375 k",Opportunity,,2025-09-18,1095,1104.0,27,Construction offre,Abandonne,18/09/2025
+7325,Renfort Layout-1.2,Sales Pipeline,Closed Won,Won,Deal successfully closed,13200.0,13200.0,100,Desogn_Service,,ICALPS,"Layout sur techno XFab 0.18
+intervention de juin à octobre (TO planifié en 11/2022)
+avec possibilité de travail en remote (après 2 à 3 jours sur site à Clamart)
+1 contrainte : utilisation des outils Mentor (Microport en contrat avec Mentor jusqu'à fin 2022, avant d'envisager un basculement vers Cadence/Virtuoso pour l efutur)
+
+2e commande sur l'offre Renfort Layout",Opportunity,,2025-09-18,4246,19846.0,34,Negotiating,Won,18/09/2025
+7326,Design ASIC,Sales Pipeline,Closed Won,Won,Deal successfully closed,70000.0,70000.0,100,Desogn_Service,,ICALPS,"Application : Interface capteur Gaz
+Partition logique 
+Design RTL
+Synthèse RTL 
+PnR",Opportunity,,2025-09-18,19796,24377.0,34,Negotiating,Won,18/09/2025
+7327,Support CAD,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),40000.0,40000.0,0,,,ICALPS,"Mission de support CAD sur l'année
+Ressource 20% d'un temps plein
+
+Pas de ressource pour répondre à ce besoin",Opportunity,,2025-09-18,4246,19846.0,31,Construction offre,Abandonne,18/09/2025
+7328,Etude Faisabilité POLLUX,Studies Pipeline,Closed Won,Won,Deal successfully closed,105000.0,105000.0,100,Preetude,,ICALPS,"Étude de faisabilité pour l'analyse du Neurone : Surface et performance.
+L’étude doit permettre de prendre une décision de GO/NoGo de la part du client.",Study,2025-09-18 00:57:00,2025-09-18,11714,24374.0,27,Negotiating,Won,18/09/2025
+7329,DENEB Avenant 1-WP1,Sales Pipeline,Closed Won,Won,Deal successfully closed,175000.0,175000.0,100,Desogn_Service,,ICALPS,+50% IPO/IP3,Opportunity,2025-09-18 22:32:00,2025-09-18,4299,4629.0,27,Negotiating,Won,18/09/2025
+7330,LESATH-OTT,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,50,Desogn_Service,,ICALPS,Reprise bloc digital et P&R,Opportunity,2025-09-18 06:47:00,2025-09-18,7965,9540.0,27,Qualified,Abandonne,18/09/2025
+7331,Design ASIC - Carte SIM,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1800000.0,1800000.0,0,FTK,,ICALPS,"En partenariat avec Tiempo
+
+Abandon car aucun retour de longs mois ...",Opportunity,2025-09-18 14:57:00,2025-09-18,19801,24381.0,31,Construction offre,Abandonne,18/09/2025
+7332,ADC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,5,Desogn_Service,,ICALPS,"Design d'un ASIC intégrant un ADC
+Application : Impedance Spectroscopy",Opportunity,,2025-09-18,19787,24350.0,27,Qualified,Abandonne,18/09/2025
+7333,Etude faisabilité VENATOR,Studies Pipeline,Closed Won,Won,Deal successfully closed,80000.0,80000.0,100,Preetude,,ICALPS,Étude de faisabilité pour déterminer le prix par puce atteignable.,Study,,2025-09-18,19776,24332.0,31,Negotiating,Won,18/09/2025
+7334,DENEB-Avenant 1 WP1.1,Sales Pipeline,Closed Won,Won,Deal successfully closed,548000.0,548000.0,100,Desogn_Service,,ICALPS,"Débug IP0 à IP3 48
+IP4-7 250
+Top level 250
+
+discussion complexe pour finaliser IP0-IP3 avant les autres IP + le top",Opportunity,2025-09-18 21:33:00,2025-09-18,4299,4629.0,27,Negotiating,Won,18/09/2025
+7335,TTT22 avenant 1,Sales Pipeline,Closed Won,Won,Deal successfully closed,21000.0,21000.0,100,Desogn_Service,,ICALPS,Affermissement Option power switch,Opportunity,2025-09-18 13:44:00,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7336,Banga,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1030000.0,1030000.0,0,,,ICALPS,"Low-Power SRAM Test-Chip
+
+Sélection d'un partenaire plus gros : IC'Alps trop petit et pas assez d'expérience sur noeud avancé => Retex à faire car pas possible de continuer à répondre si toujours le même retour",Opportunity,,2025-09-18,10456,23299.0,31,Negotiating,Lost,18/09/2025
+7337,DAC IP - 5nm - Migration,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,,,ICALPS,"At this moment, we are looking for a DAC IP, in an AVS application shown below. The DAC resides in our ASIC which will be on 5nm TSMC process node. 
+We want to interface with an external DC/DC converter and control its output – Vavs. 
+
+Technical Specs
+•	Resolution: 8 bit
+•	Voltage range: [0.4-0.8]*0.6 = 0.24V to 0.48V.
+                    LSB step size is 240 mV / 256 = 0.9375 mV 
+•	INL/DNL <= 1 LSB
+•	Output resistance: TBD
+•	Current driving capability: TBD",Opportunity,,2025-09-18,19809,24386.0,27,Identification,Abandonne,18/09/2025
+7338,PYX02-Avenant1,Sales Pipeline,Closed Won,Won,Deal successfully closed,12000.0,12000.0,100,Desogn_Service,,ICALPS,Prolongation mission,Opportunity,2025-09-18 20:31:00,2025-09-18,9016,23259.0,27,Negotiating,Won,18/09/2025
+7339,LESATH-Avenant1,Sales Pipeline,Closed Won,Won,Deal successfully closed,55000.0,55000.0,100,Desogn_Service,,ICALPS,Reprise code RTL,Opportunity,,2025-09-18,7965,9540.0,27,Negotiating,Won,18/09/2025
+7340,ALYA-Avenant1,Sales Pipeline,Closed Won,Won,Deal successfully closed,80000.0,80000.0,100,Desogn_Service,,ICALPS,Poursuite préétude,Opportunity,,2025-09-18,1076,20984.0,27,Negotiating,Won,18/09/2025
+7341,GRENAT - Marge prod lot1-2,Sales Pipeline,Closed Won,Won,Deal successfully closed,20172.0,20172.0,100,Production,,ICALPS,marge sur prod,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7342,Avenant 1,Sales Pipeline,Closed Won,Won,Deal successfully closed,12000.0,12000.0,100,Desogn_Service,,ICALPS,Design partition logique Asic OxygenB,Opportunity,2025-09-18 05:12:00,2025-09-18,19796,24377.0,34,Negotiating,Won,18/09/2025
+7343,CAPH,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1200000.0,1200000.0,1,FTK,,ICALPS,Nettoyage panneau solaire. Driveur et pulse du piezo. Envoi email mais données trop floues,Opportunity,,2025-09-18,19839,24456.0,27,Construction offre,In Progress,18/09/2025
+7344,Traitement wafer 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,4500.0,4500.0,100,FTK,,ICALPS,Test d'un 3ème wafer,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7345,Chara v1b,Sales Pipeline,Closed Won,Won,Deal successfully closed,468000.0,468000.0,100,FTK,,ICALPS,"v1b - 12 mois - 488 k€ (GDSII en 3 mois ...)
+avec évolution à minima
++ ajout hot lot (20k€)
+- tooling WLCSP (40 k€) à facturer que si nouveau",Opportunity,2025-09-18 06:11:00,2025-09-18,3176,3278.0,31,Negotiating,Won,18/09/2025
+7346,Etude conso Chara v2,Sales Pipeline,Closed Won,Won,Deal successfully closed,40000.0,40000.0,100,FTK,,ICALPS,"étude chara v2 - 3 à 4 mois - 70 k€
+réduction à 2 mois pour essai avant chara v1b => 40 k€",Opportunity,2025-09-18 07:07:00,2025-09-18,3176,3278.0,31,Negotiating,Won,18/09/2025
+7347,Pré industrialisation Chara v1,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),245000.0,245000.0,0,,,ICALPS,7 à 9 mois - 245 k€,Opportunity,2025-09-18 09:06:00,2025-09-18,3176,3278.0,31,Negotiating,Abandonne,18/09/2025
+7348,ASIC BLE+M23,Sales Pipeline,Identified,In Progress,Default mapping applied,400000.0,400000.0,30,,,ICALPS,Bloc BLE+M23,Opportunity,,2025-09-18,4342,24462.0,27,Construction offre,Abandonne,18/09/2025
+7349,Design ADC Ultra Low Power,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Pour un ASIC qui sera réalisé par IC-Logic,Opportunity,2025-09-18 00:58:00,2025-09-18,19844,24461.0,34,Identification,Abandonne,18/09/2025
+7350,ASIC Driver LED,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,1,,,ICALPS,"Developpement d'un ASIC pour une plateforme de Driver LED.
+Marché : Automobile
+A l'etude comme solution alternative aux COTS actuels.",Opportunity,2025-09-18 12:16:00,2025-09-18,19841,24458.0,27,Identification,Abandonne,18/09/2025
+7351,SUBRA2-TIA,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,75000.0,75000.0,30,,,ICALPS,"Besoin d'une préétude pour design analogique.
+SERCEL n'a pas ressentit l'aspect collaboratif chez IC'Alps.
+",Opportunity,,2025-09-18,1071,1041.0,39,Construction offre,Lost,18/09/2025
+7353,Projet collaboratif,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Dois regarder notre participation à un projet,Opportunity,,2025-09-18,9187,11012.0,27,Identification,Abandonne,18/09/2025
+7354,LILII,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1480000.0,1480000.0,1,FTK,,ICALPS,NDA en cours de signature,Opportunity,,2025-09-18,19821,24415.0,27,Construction offre,Abandonne,18/09/2025
+7355,LESATH-Avenant2,Sales Pipeline,Closed Won,Won,Deal successfully closed,15000.0,15000.0,100,Desogn_Service,,ICALPS,Modification du LEF,Opportunity,,2025-09-18,7965,9540.0,27,Negotiating,Won,18/09/2025
+7356,BEEMIN - Avenant3,Sales Pipeline,Closed Won,Won,Deal successfully closed,8000.0,8000.0,100,Desogn_Service,,ICALPS,Add work,Opportunity,,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+7357,P&R circuit GF 22,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,50,,,ICALPS,Projet avec ATOS et Menta. P&R du ciircuit complet,Opportunity,,2025-09-18,9103,10859.0,27,Qualified,Abandonne,18/09/2025
+7358,TTU55,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),245000.0,245000.0,1,,,ICALPS,Theta et Talita en UMC55,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Abandonne,18/09/2025
+7359,TTT22 - 6 corners add,Sales Pipeline,Closed Won,Won,Deal successfully closed,6000.0,6000.0,100,Desogn_Service,,ICALPS,6 corners add selon option contrat,Opportunity,2025-09-18 11:16:00,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7360,Asic Design for 2 customers,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,5,FTK,,ICALPS,A clarifier avec Joao,Opportunity,,2025-09-18,19835,24447.0,27,Identification,Abandonne,18/09/2025
+7361,ASIC en interface avec MEMS,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,5,FTK,,ICALPS,Développement d'un ASIC en interface avec les MEMS de Memperience,Opportunity,,2025-09-18,19843,24460.0,27,Identification,Abandonne,18/09/2025
+7362,P&R TSMC N5A,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,500000.0,500000.0,0,Desogn_Service,,ICALPS,"Discussion préliminaire pour P&R + supply d'un circuit en TSMC 7nm pour application automotive
+
+Suite à hebdo du 01/06, choix de la techno en N5A
+Et session à 3 avec GUC le 27/06 chez VSora
+
++ call toutes les 2 semaines avec Khaled
+
+Pas top embarqué avec l'arrivée de Alphawave dans le périmètre (info de début 02/2024)",Opportunity,2025-09-18 19:56:00,2025-09-18,1139,1190.0,31,Evaluation technique,Lost,18/09/2025
+7363,Cellule DFF spécifique,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),23000.0,23000.0,0,,,ICALPS,"en technologie GF22
+
+Echanges avec Thomas/Lucille/Guillaume : Ok pour offre budgétaire ce 24/01
+
+Mais décision marketing pas encore entérinée chez Menta
+
+0 nouvelle + départ de Philippe Piquet => passage en Abandon ce 17/11/23",Opportunity,2025-09-18 16:42:00,2025-09-18,4345,24513.0,31,Evaluation technique,Abandonne,18/09/2025
+7364,Bloc MSC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"IP MicroSecond Channel - RTL design + verification (selon spécifications document Infineon) pour application automotive
+
+Et demandes complémentaires pour DfT et implémentation physique
+
+Décision le 30/01 de ne pas se positionner car ressources fort occupées + priorité aux projets ASIC complets et production si possible plutôt que bloc RTL",Opportunity,2025-09-18 22:18:00,2025-09-18,4235,4390.0,31,Qualified,Abandonne,18/09/2025
+7365,ASIC avec eFPGA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,,,ICALPS,"Mise en contact par Menta
+ASIC pour application de véhicule à conduite autonome",Opportunity,,2025-09-18,19884,24514.0,31,Qualified,Abandonne,18/09/2025
+7366,Grenat - Lot Prod 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,234261.0,234261.0,100,Production,,ICALPS,Prod + 7% energy,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7367,GRENAT - Marge prod lot 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,10086.0,10086.0,100,Production,,ICALPS,Marge Lot prod 3,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7368,CAIRCPU,Studies Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Preetude,,ICALPS,"CPU ARM pour ebarquer la thérapie entre Chara et le RSL10
+Offre jusqu'à GDSII : 240 k€
+Pototypage restant à budgéter + planning selon choix de la technologie
+
+Commande passé pour la phase de faisabilité",Study,2025-09-18 13:10:00,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+7370,GRENAT- Avenant#16,Sales Pipeline,Closed Won,Won,Deal successfully closed,39000.0,39000.0,100,FTK,,ICALPS,Update prix indus et accompte MW Metal Fix 2,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7371,LESATH-AB,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),70000.0,70000.0,5,,,ICALPS,Reprise anablue,Opportunity,,2025-09-18,7965,24384.0,27,Negotiating,Abandonne,18/09/2025
+7372,Grenat-Avenant 17,Sales Pipeline,Closed Won,Won,Deal successfully closed,303500.0,303500.0,100,FTK,,ICALPS,Metal fix 2,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7373,ASIC pour empreinte,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,,,ICALPS,Projet ASIC pour capteur empreinte digital pour Smartphone,Opportunity,2025-09-18 01:46:00,2025-09-18,1115,4975.0,27,Identification,Abandonne,18/09/2025
+7374,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet ASIC,Opportunity,2025-09-18 02:43:00,2025-09-18,5768,24450.0,27,Identification,Abandonne,18/09/2025
+7375,ALYA-Avenant2,Sales Pipeline,Identified,In Progress,Default mapping applied,25000.0,25000.0,50,,,ICALPS,Faisabilité,Opportunity,,2025-09-18,1076,20984.0,27,Negotiating,Abandonne,18/09/2025
+7376,ERRAKIS,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1200000.0,1200000.0,30,,,ICALPS,P&R en GF22FDX,Opportunity,,2025-09-18,19891,24532.0,27,Construction offre,Lost,18/09/2025
+7377,DENEB - Avenant2 WP1.a,Sales Pipeline,Closed Won,Won,Deal successfully closed,27000.0,27000.0,100,Desogn_Service,,ICALPS,Change uArch IP2,Opportunity,,2025-09-18,4299,4629.0,27,Negotiating,Won,18/09/2025
+7378,SALM,Studies Pipeline,Closed Won,Won,Deal successfully closed,130000.0,130000.0,100,Preetude,,ICALPS,"Feasibility pour circuit avec RISC-V
+Circuit HT 230°C
+
+Commandé par Partenaires FC",Study,2025-09-18 16:11:00,2025-09-18,1157,1249.0,27,Negotiating,Won,18/09/2025
+7379,Charav1b - complement conso,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,FTK,,ICALPS,Réduction de conso suite à WP4 Charav1b,Opportunity,2025-09-18 18:14:00,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+7380,BEEMIN Avenant 4,Sales Pipeline,Closed Won,Won,Deal successfully closed,8000.0,8000.0,100,Desogn_Service,,ICALPS,10 jours supp,Opportunity,,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+7381,ASIC BATEN,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1600000.0,1600000.0,0,,,ICALPS,"Selon résultat étude de faisabilité
+Décision au niveau CA de BeFC au regard des montants pour faire l'ASIC ...
+
+Abandon car jugé investissement trop grand avec cette levée de fonds en Série A ... Aleksandrs ""déçu"" et des paroles très positives sur l'expérience avec l'équipe.
+
+Planifier appel régulier - dans 6 mois ...",Opportunity,,2025-09-18,18691,23288.0,31,Construction offre,Abandonne,18/09/2025
+7382,CAIRCPU-ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),180000.0,180000.0,10,,,ICALPS,"Selon les résultats de la phase de faisabilité
+
+Peu de retour de Cairdac à ce stade (à voir après le break estival)
+
+Aucun retour du client sur ce projet - intérêt ou priorité manifestement très bas",Opportunity,2025-09-18 20:54:00,2025-09-18,3176,3277.0,31,Evaluation technique,Abandonne,18/09/2025
+7383,SUBRA2-FDC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,150000.0,150000.0,20,,,ICALPS,"Etude faisa
+
+SERCEL n'a pas ressentit l'aspect collaboratif chez IC'Alps.
+",Opportunity,,2025-09-18,1071,1041.0,39,Construction offre,Lost,18/09/2025
+7384,SUBRA2-AAC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,20,,,ICALPS,Etude Faisa,Opportunity,,2025-09-18,1071,1041.0,39,Qualified,Lost,18/09/2025
+7385,BEEMIN2,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,400000.0,400000.0,10,Desogn_Service,,ICALPS,P&R Target et Performance en autre process,Opportunity,,2025-09-18,1072,19803.0,27,Identification,In Progress,18/09/2025
+7386,Migration design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Migration d'un design,Opportunity,,2025-09-18,5795,7079.0,27,Qualified,Abandonne,18/09/2025
+7387,Adaptation TPMP (P&R) sur circuit existant,Sales Pipeline,Identified,In Progress,Default mapping applied,100000.0,100000.0,25,,,ICALPS,"Estimation : 2 mois de travail
+Budget 100 k€
+A faire en salle sécurisé si notifié (le client essaye de voir si une approche par RDL possible de leur côté)",Opportunity,2025-09-18 03:34:00,2025-09-18,2153,2217.0,31,Qualified,Abandonne,18/09/2025
+7388,GIENA - Préétude,Studies Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Preetude,,ICALPS,Etude soc MCU,Study,2025-09-18 19:24:00,2025-09-18,20932,25596.0,27,Negotiating,Won,18/09/2025
+7389,TTT07,Sales Pipeline,Identified,In Progress,Default mapping applied,560000.0,560000.0,20,,,ICALPS,Theta et Talita en N7 de TSMC,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Abandonne,18/09/2025
+7390,TTS18,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),399000.0,399000.0,10,,,ICALPS,Theta et Talita en ST P18,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Abandonne,18/09/2025
+7391,Grenat - Avenant xx BGA,Sales Pipeline,Identified,In Progress,Default mapping applied,460000.0,460000.0,20,FTK,,ICALPS,BGA,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Abandonne,18/09/2025
+7392,VERITATE,Sales Pipeline,Identified,In Progress,Default mapping applied,1300000.0,1300000.0,30,,,ICALPS,Projet ASIC,Opportunity,2025-09-18 01:37:00,2025-09-18,19826,24426.0,27,Construction offre,Abandonne,18/09/2025
+7393,OxygenB-CG,Sales Pipeline,Identified,In Progress,Default mapping applied,20000.0,20000.0,50,,,ICALPS,Ajout clock gating,Opportunity,2025-09-18 02:58:00,2025-09-18,19796,24377.0,27,Construction offre,Abandonne,18/09/2025
+7394,ASIC Ledger inside - Lavrec,Sales Pipeline,Identified,In Progress,Default mapping applied,5000000.0,5000000.0,30,,,ICALPS,"Projet crypto paiement.
+Projet en HOLD, décision du management.",Opportunity,2025-09-18 04:15:00,2025-09-18,11675,25593.0,39,Construction offre,Abandonne,18/09/2025
+7395,Hot Lot Wafer - proto Chara v1b,Sales Pipeline,Closed Won,Won,Deal successfully closed,8000.0,8000.0,100,FTK,,ICALPS,Accélérer la fab wafer avec option hot lot wafer,Opportunity,,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+7396,Grenat - Lot Prod 4,Sales Pipeline,Closed Won,Won,Deal successfully closed,234261.0,234261.0,100,Production,,ICALPS,Lot de prod 4,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7397,GRENAT - Marge prod lot 4,Sales Pipeline,Closed Won,Won,Deal successfully closed,10086.0,10086.0,100,Production,,ICALPS,Marge prod lot 4,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7398,ASIC pour MEMS - faisabilité,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),70000.0,70000.0,1,,,ICALPS,"ASIC pour piloter leur MEMS dans application haut-parleur dans écouteur.
+
+Démarche commerciale via Adi - KAL notre agent en Israel
+
+Dossier complexe avec discussion SonicEdge - DOLIAM pour partenariat plus complet ... Probablement pas d'avancée côté ASIC avec IC'Alps tant que pas picture globale",Opportunity,,2025-09-18,20936,25598.0,27,Negotiating,Abandonne,18/09/2025
+7399,Clone du circuit Vishay SI9117,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"Obsolescence mais nombre de produits chez eux avec ce circuits.
+
+Compte géré via notre agent en Israel : Adi de KAL
+
+Enercon a trouvé une société avec des circuits (clone ?) déjà disponibles - à voir dans un second temps si ces circuits ne répondent pas à l'intégralité des features ??? => Abandon",Opportunity,2025-09-18 17:30:00,2025-09-18,20937,25601.0,31,Evaluation technique,Abandonne,18/09/2025
+7400,TTT22 - Av2,Sales Pipeline,Closed Won,Won,Deal successfully closed,17600.0,17600.0,100,Desogn_Service,,ICALPS,optimisation vitesse,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7401,VEZAD2-IPConv,Sales Pipeline,Closed Won,Won,Deal successfully closed,27000.0,27000.0,100,Desogn_Service,,ICALPS,Dev IP Convolution,Opportunity,,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7402,WEZEN - Amendement 1,Sales Pipeline,Closed Won,Won,Deal successfully closed,295000.0,295000.0,100,Desogn_Service,,ICALPS,"Evolution de la stratégie (sans test chip)
++options complémentaires
+
+Décision avant fin juin 2023
+
+290 k€ de plus",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7403,Grenat - Avenant 18 ESD,Sales Pipeline,Closed Won,Won,Deal successfully closed,7500.0,7500.0,100,FTK,,ICALPS,Add work esd,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7404,Suite projet ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Décliné car client trop compliqué,Opportunity,,2025-09-18,1119,1149.0,27,Identification,Abandonne,18/09/2025
+7405,Projet ASIC médical,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,ASIC medical,Opportunity,,2025-09-18,20931,25591.0,27,Qualified,Abandonne,18/09/2025
+7406,Design sous system,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Sous-systeme PCIe ou DDR,Opportunity,,2025-09-18,17288,19319.0,27,Evaluation technique,Abandonne,18/09/2025
+7407,Tristan,Sales Pipeline,Closed Won,Won,Deal successfully closed,365000.0,365000.0,100,Desogn_Service,,ICALPS,"Evocation lors de rencontre Synopsys le 15/06 à Grenoble d'un besoin à venir après l'été sur l'adaptation de bloc, voire le portage d'AISC vers différentes technos (manque de ressources en interne chez eux)",Opportunity,,2025-09-18,4718,4915.0,27,Negotiating,Won,18/09/2025
+7409,REDA100G - specification & architecture,Studies Pipeline,Identified,In Progress,Default mapping applied,100000.0,100000.0,50,Preetude,,ICALPS,"Le retour du circuit à 100G
+
+L'ASIC 10G en cours avec une équipe de Design intel mais cela ne se passe pas au top semble-t-il ...
+RfQ reçue ce 24/08
+
+Compte géré par Adi
+
+Nouvelle spec à venir avant fin 2023
+
+New offer on 05/13/2024
+
+=> intégrer dans l'offre complète avec fais + design + proto + production",Study,2025-09-18 18:05:00,2025-09-18,18600,25616.0,31,Negotiating,Abandonne,18/09/2025
+7410,NTAG21X clone asic,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,"NFC Tag, clone d'un produit NXP.
+Mauvais service pendant la période d'allocation.
+Aucune nouvelle du client qui ne semble plus intéressé pour le clonage",Opportunity,,2025-09-18,20940,25617.0,39,Qualified,Abandonne,18/09/2025
+7411,MIRZA,Sales Pipeline,Closed Won,Won,Deal successfully closed,7255000.0,7255000.0,100,FTK,,ICALPS,"Rx et Tx Testchip puis ASIC finaux
+potentiellement en TSMC 40nm et en XFab 0.18um
+
+7.25M€ + 0.83 en options pour indus des 22 circuits + 0.36 pour Metal fix Rx ....",Opportunity,2025-09-18 17:04:00,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7412,ADHIL - préétude,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,90000.0,90000.0,5,,,ICALPS,ASIC pour AD-TEC,Opportunity,,2025-09-18,4282,4519.0,27,Construction offre,Lost,18/09/2025
+7413,ADHIL-ASIC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1420000.0,1420000.0,5,,,ICALPS,WP2 à 4,Opportunity,,2025-09-18,4282,4519.0,27,Construction offre,Lost,18/09/2025
+7414,WEZEN - Avenant 1 - IP IO PAD,Sales Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Desogn_Service,,ICALPS,Développement IO PAD,Opportunity,2025-09-18 15:57:00,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7415,GRENAT - Additional partern,Sales Pipeline,Closed Won,Won,Deal successfully closed,3300.0,3300.0,100,FTK,,ICALPS,Commande nouveaux paterns,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7416,ALYA : Avenant 2,Sales Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Desogn_Service,,ICALPS,nouveau DK,Opportunity,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+7417,Dosimetre,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet autour de FG,Opportunity,,2025-09-18,1075,1049.0,27,Evaluation technique,Abandonne,18/09/2025
+7418,Alboran,Sales Pipeline,Closed Won,Won,Deal successfully closed,58000.0,58000.0,100,Desogn_Service,,ICALPS,"Design service BU ISS / MSP. 
+Meeting le 13 Sept 2023 à Meylan
+RFQ pour implémentation physique numérique.
+Offre envoyé le 13 Oct 2023.",Opportunity,,2025-09-18,10263,12139.0,39,Negotiating,Won,18/09/2025
+7419,ASIC Image controller,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,FTK,,ICALPS,"Pense à un ASIC pour la fonction Image controller.
+L'ASIC sera fait avec un de leur partenaire.",Opportunity,2025-09-18 02:53:00,2025-09-18,17476,25629.0,39,Identification,Lost,18/09/2025
+7420,GRENAT - Prod lot 5 (23 wafers),Sales Pipeline,Closed Won,Won,Deal successfully closed,194543.33,194543.33,100,Production,,ICALPS,Commande des 23 wafers de bacup,Opportunity,2025-09-18 01:25:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7421,Grenat - Lot 5 marge,Sales Pipeline,Closed Won,Won,Deal successfully closed,9279.1,9279.1,100,Production,,ICALPS,Marge pour lot de 23 wafers,Opportunity,2025-09-18 02:43:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7422,Diomede Prestudy WP0 (AL8892Q),Studies Pipeline,Closed Won,Won,Deal successfully closed,61300.0,61300.0,100,Preetude,,ICALPS,"Automotive 2 channels led driver
+ASIC ""clone"" TI avec IP de Diodes
+Offre pour la pré-etude WP0. 65k$ sur 8 semaines
+Le projet total sera de 900-1200k$, à confirmer à la fin du WP0",Study,,2025-09-18,20942,25618.0,39,Negotiating,Won,18/09/2025
+7423,"Interface MIPI -> Ethernet, SpaceWire et/ou MIPI",Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,FTK,,ICALPS,"Un chiffrage préliminaire pour un développement et une production d’ASIC avec les paramètres suivants :
+-	Technologie 28nm FDSOI de ST (remplaçable par une technologie équivalente si besoin)
+-	Contrôleur Ethernet + PHY
+-	Environ 500 K portes logiques. Le design numérique sera fourni par 3D PLUS sous forme de RTL non synthétisé.
+-	LDO pour générer la tension cœur depuis une tension externe de 1,8 V
+-	Un oscillateur (en option)
+-	Interface DDR3 16 bits (en option)
+-	Livraison en puces nues découpées, quantité TBC en fonction des contraintes de MPW.
+
+L’objectif de cet ASIC sera de faire l’interface en un capteur vidéo d’un côté (en interface MIPI), et une interface utilisateur de l’autre (Ethernet, SpaceWire et/ou MIPI).
+Il embarquera différents algorithmes de traitements vidéos développés par 3D PLUS, et inclus dans les portes logiques.
+
+En Hold chez le cleint, pas de budget pour l'instant",Opportunity,2025-09-18 02:07:00,2025-09-18,1150,1223.0,39,,Abandonne,18/09/2025
+7424,Reprise Capella,Sales Pipeline,Closed Won,Won,Deal successfully closed,80000.0,80000.0,100,Desogn_Service,,ICALPS,Reprise RDL,Opportunity,,2025-09-18,17484,24385.0,27,Negotiating,Won,18/09/2025
+7425,Projet Arm33,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,0,,,ICALPS,Dualcore,Opportunity,,2025-09-18,4342,25635.0,27,Evaluation technique,Lost,18/09/2025
+7426,TG22,Sales Pipeline,Identified,In Progress,Default mapping applied,70000.0,70000.0,80,Desogn_Service,,ICALPS,Reprise macro TESIC,Opportunity,,2025-09-18,9103,10859.0,27,Construction offre,Abandonne,18/09/2025
+7427,7 CH LDOs,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Target process interne Diodes  5V SPFAB,Opportunity,,2025-09-18,20942,25618.0,39,Qualified,Abandonne,18/09/2025
+7428,ASIC Emmergy light,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,,,ICALPS,N'est plus à l'ordre du jour.,Opportunity,2025-09-18 03:22:00,2025-09-18,20953,25633.0,39,Identification,Abandonne,18/09/2025
+7429,ASIC pour Lidar,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Alim pour driver,Opportunity,,2025-09-18,20963,25644.0,27,Qualified,Abandonne,18/09/2025
+7430,WESAT2,Sales Pipeline,Closed Won,Won,Deal successfully closed,15000.0,15000.0,100,Desogn_Service,,ICALPS,Nouvelle version,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7431,Equipe pour verification UVM,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"cf courriel associé - 
+équipe de 5 à 6 personnes avec ramp-up courant Q4'23 pour environ 9 à 12 mois sur un gros projet (équipe de verif de 20 personnes)
+
+abandon - car pas assez de ressources pour répondre sereinement au besoin exprimé par Elsys",Opportunity,,2025-09-18,5808,25651.0,31,Qualified,Abandonne,18/09/2025
+7432,Grenat - Avenant 19 - HTOL 1000hours,Sales Pipeline,Closed Won,Won,Deal successfully closed,5500.0,5500.0,100,FTK,,ICALPS,en complément du HTOL 162 heures,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7433,ALYA - Avenant 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,10000.0,10000.0,100,Desogn_Service,,ICALPS,reprise avec protection ESD,Opportunity,,2025-09-18,1076,4686.0,31,Negotiating,Won,18/09/2025
+7434,Wezen IP DMA AHB,Sales Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Desogn_Service,,ICALPS,Design et vérification unitaire d'un DMA sur bus AHB,Opportunity,2025-09-18 02:53:00,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7435,Grenat - Lot prod 6-9,Sales Pipeline,Closed Won,Won,Deal successfully closed,936273.88,936273.88,100,Production,,ICALPS,4 lots octobre,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7436,Grenat - Marge lots 6-9,Sales Pipeline,Closed Won,Won,Deal successfully closed,40344.0,40344.0,100,Production,,ICALPS,Marge sur les lots d'octobre,Opportunity,,2025-09-18,4247,4428.0,27,Negotiating,Won,18/09/2025
+7437,CIS01-Phase1-3,Sales Pipeline,Closed Won,Won,Deal successfully closed,32000.0,32000.0,100,Desogn_Service,,ICALPS,Layout en régie,Opportunity,,2025-09-18,1095,1104.0,27,Negotiating,Won,18/09/2025
+7438,SOC Faisabilité,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,,,ICALPS,Projet gros soc,Opportunity,,2025-09-18,4214,23248.0,27,Identification,Abandonne,18/09/2025
+7439,Deign service,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Suport Design et P&R,Opportunity,,2025-09-18,18713,23222.0,27,Identification,Abandonne,18/09/2025
+7440,LEM02,Sales Pipeline,Closed Won,Won,Deal successfully closed,61200.0,61200.0,100,Desogn_Service,,ICALPS,Besoin 1 personne 2 mois,Opportunity,,2025-09-18,7965,24384.0,27,Negotiating,Won,18/09/2025
+7441,P&R,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Besoin P&R en 22FDX,Opportunity,,2025-09-18,18604,25675.0,27,Identification,Abandonne,18/09/2025
+7442,Redevances,Sales Pipeline,Closed Won,Won,Deal successfully closed,274000.0,274000.0,100,Desogn_Service,,ICALPS,Redvance sur prod,Opportunity,,2025-09-18,4299,4629.0,27,Negotiating,Won,18/09/2025
+7443,ALYA - Avenant 4 - nouveau floorplan,Sales Pipeline,Closed Won,Won,Deal successfully closed,7500.0,7500.0,100,Desogn_Service,,ICALPS,Passage à un pitch de 185,Opportunity,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+7444,VEZAD3-Spec,Sales Pipeline,Closed Won,Won,Deal successfully closed,36000.0,36000.0,100,Desogn_Service,,ICALPS,Projet Lyra,Opportunity,2025-09-18 17:56:00,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7445,RADICUS,Sales Pipeline,Closed Won,Won,Deal successfully closed,300000.0,300000.0,100,Desogn_Service,,ICALPS,"Opportunité pour projet R&D amont
+avec dépôt pour demande de financement par Vermon avant fin 2023
+
+Briques de bases pour dérisquer des circuits pour sondes US actives
+
+Alignement sur description du dépôt de projet pour financement par Vermon",Opportunity,2025-09-18 19:19:00,2025-09-18,3187,19954.0,31,Negotiating,Won,18/09/2025
+7446,FLORES - WP0 pré étude,Studies Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,Preetude,,ICALPS,Faisabilité pour un implant mini invasif pour imagerie US (matrice 100 x 100) du cerveau,Study,2025-09-18 10:24:00,2025-09-18,20982,25680.0,31,Negotiating,Won,18/09/2025
+7447,P&R Chiplet en P18,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,,,ICALPS,"Support avec experts en P&R sur techno P18 pour intervention sur une durée de 6 à 8 semaines (1 à 2 personnes)
+
+=> décision d'internaliser les travaux (éduction budgétaire semble-t-il ...)",Opportunity,,2025-09-18,4287,25682.0,31,Evaluation technique,Abandonne,18/09/2025
+7448,High-Performance BLDC pre-driver,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,"Actia a déjà choisi son partenaire de développement.
+L'acheteur ne veut pas perdre son temps à discuter avec nous.",Opportunity,2025-09-18 10:37:00,2025-09-18,20983,25683.0,39,Identification,Abandonne,18/09/2025
+7449,CIS01-Phase4,Sales Pipeline,Closed Won,Won,Deal successfully closed,32000.0,32000.0,100,Desogn_Service,,ICALPS,Phase 4,Opportunity,,2025-09-18,1095,1104.0,27,Negotiating,Won,18/09/2025
+7450,DRAPEAU,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,800000.0,800000.0,0,,,ICALPS,"Projet pour PUF sur FPGA et ASIC (techno ST)
+
+En collaboration avec Tiempo - lead du marche public via IC'Alps
+
+Non retenu:
+- 2eme
+- de loin la meilleure offre technique
+- mais Secure-IC a fait une offre au moins 11% moins cher (< 1060 k€ là où nous étions à 1.2 M€ avec Tiempo)",Opportunity,2025-09-18 00:18:00,2025-09-18,10310,25699.0,31,Negotiating,Lost,18/09/2025
+7451,GIENA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),6680000.0,6680000.0,10,FTK,,ICALPS,"Design, proto et indus",Opportunity,2025-09-18 19:14:00,2025-09-18,20932,25596.0,27,Construction offre,Abandonne,18/09/2025
+7452,Avenant 21 - patterns additionnels ESR 1.2,Sales Pipeline,Closed Won,Won,Deal successfully closed,22200.0,22200.0,100,FTK,,ICALPS, patterns additionnels ESR 1.2,Opportunity,2025-09-18 20:30:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7453,TTT22 avenant 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,5000.0,5000.0,100,Desogn_Service,,ICALPS,Nouveau code ROM,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7454,Plateforme Image,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Plateforme Image,Study,,2025-09-18,9063,25697.0,27,Evaluation technique,Abandonne,18/09/2025
+7455,TRISTAN - WP5,Sales Pipeline,Closed Won,Won,Deal successfully closed,135000.0,135000.0,100,Desogn_Service,,ICALPS,RF glitch detector,Opportunity,2025-09-18 20:05:00,2025-09-18,4718,4915.0,27,Negotiating,Won,18/09/2025
+7456,Safety,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,20,Desogn_Service,,ICALPS,Besoin support en Safety,Opportunity,2025-09-18 23:16:00,2025-09-18,17484,24385.0,27,Qualified,Abandonne,18/09/2025
+7457,CAPELLA-RF-MPW2,Sales Pipeline,Closed Won,Won,Deal successfully closed,45000.0,45000.0,100,Desogn_Service,,ICALPS,Modifi bloc PMU + Nvx P&R,Opportunity,,2025-09-18,17484,25640.0,27,Negotiating,Won,18/09/2025
+7458,CAPELLA Full mask,Sales Pipeline,Closed Won,Won,Deal successfully closed,340000.0,340000.0,100,Desogn_Service,,ICALPS,P&R,Opportunity,,2025-09-18,17484,25640.0,27,Negotiating,Won,18/09/2025
+7459,FLORES - WP1 Spec ASIC,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,300000.0,300000.0,49,FTK,,ICALPS,En standby jusqu'à début 2025,Opportunity,2025-09-18 00:24:00,2025-09-18,20982,25680.0,39,Negotiating,In Progress,18/09/2025
+7460,RADIUS - WP1,Studies Pipeline,Closed Won,Won,Deal successfully closed,150000.0,150000.0,100,Preetude,,ICALPS,"Engagement effort R&D sur fonds propres pour aller vers la propriété d'une solution capteur PMUT + ASIC pour sonde active (avec microbeamforming)
+
+Effort VELA + XT4SENS à valoriser",Study,2025-09-18 07:56:00,2025-09-18,3187,3293.0,31,Negotiating,Won,18/09/2025
+7461,Diomede ASIC WP1-WP2-WP3 (AL8892Q),Sales Pipeline,Closed Won,Won,Deal successfully closed,1350000.0,1350000.0,100,Desogn_Service,,ICALPS,Certain Work pack seront en option,Opportunity,,2025-09-18,20942,25618.0,39,Negotiating,Won,18/09/2025
+7462,ALYA - Avenant 5,Sales Pipeline,Closed Won,Won,Deal successfully closed,10000.0,10000.0,100,Desogn_Service,,ICALPS,Second Tape-out,Opportunity,2025-09-18 09:47:00,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+7463,TTT22B,Sales Pipeline,Closed Won,Won,Deal successfully closed,70000.0,70000.0,100,Desogn_Service,,ICALPS,Version améliorée de TTT22,Opportunity,2025-09-18 15:13:00,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7464,ALYA-FPGA,Sales Pipeline,Closed Won,Won,Deal successfully closed,155000.0,155000.0,100,Desogn_Service,,ICALPS,Dév FPGA démo,Opportunity,,2025-09-18,1076,1050.0,27,Negotiating,Won,18/09/2025
+7465,Grenat-Avenant 22 corner,Sales Pipeline,Identified,In Progress,Default mapping applied,165000.0,165000.0,40,FTK,,ICALPS,Corner,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Abandonne,18/09/2025
+7466,GRENAT-Avenant 22 Caract temp TT,Sales Pipeline,Identified,In Progress,Default mapping applied,8000.0,8000.0,80,FTK,,ICALPS,Caract temp TT,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Abandonne,18/09/2025
+7467,Besoin Concepteur,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,Desogn_Service,,ICALPS,Cherche un concepteur PMU,Opportunity,,2025-09-18,20990,25705.0,27,Evaluation technique,Abandonne,18/09/2025
+7468,Besoin de développement,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Doit envoyer un CDC,Opportunity,,2025-09-18,20990,25705.0,27,Identification,Abandonne,18/09/2025
+7469,SALM - Design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),3400000.0,3400000.0,1,FTK,,ICALPS,Version ASIC de Salm,Opportunity,,2025-09-18,1157,1249.0,27,Construction offre,Abandonne,18/09/2025
+7470,Support Fusa,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,30,FTK,,ICALPS,Va présenter ses besoins - Traité pendant le design,Opportunity,,2025-09-18,20973,25667.0,27,Qualified,Abandonne,18/09/2025
+7471,URANUS 2 (CT digital image sensor),Sales Pipeline,Closed Won,Won,Deal successfully closed,135360.0,135360.0,100,Desogn_Service,,ICALPS,"Design, verification, and layout for a digital imaging sensor device for Computer Tomography applications. The existing database and simulation will be provided as a Cadence database. The RTL code of the digital block will be provided in VHDL.
+The device needs to be implemented in the ams OSRAM C35 CMOS process.",Opportunity,2025-09-18 10:57:00,2025-09-18,11778,,39,Negotiating,Won,18/09/2025
+7472,Equipe dédiée 2024 - 3 mois,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,Desogn_Service,,ICALPS,"Dans le cadre du contrat annuel, et avec avenant 2 pour réévaluation des prix (hm et EDA)
+
+Discussions initiées avec Crocus => Allegro microsystems
+mais probabilité forte que dénonciation du contrat sous 3 mois soit facturation de janvier à avril.
+
+Si prolongation par Allegro Microsystems alors nouvelle entrée à saisir",Opportunity,,2025-09-18,9061,,31,Negotiating,Won,18/09/2025
+7473,RADIUS - WP2 & WP3,Sales Pipeline,Closed Won,Won,Deal successfully closed,450000.0,450000.0,100,Desogn_Service,,ICALPS,"Tranches optionnelles du projet RADIUS avec dev de blocs transceiver et microbeamforming
+puis Testchip
+
+Décision Vermon sur H1'24",Opportunity,2025-09-18 16:34:00,2025-09-18,3187,3293.0,31,Negotiating,Won,18/09/2025
+7474,CAPELLA-Digital-MPW2,Sales Pipeline,Closed Won,Won,Deal successfully closed,325000.0,325000.0,100,Desogn_Service,,ICALPS,Reprise puce RF,Opportunity,,2025-09-18,17484,25640.0,27,Negotiating,Won,18/09/2025
+7475,SAMOS,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),2600000.0,2600000.0,1,Desogn_Service,,ICALPS,P&R 2 puces,Opportunity,2025-09-18 05:53:00,2025-09-18,19881,24510.0,27,Construction offre,Abandonne,18/09/2025
+7476,Livraison Chara v1b en Waffle Pack,Sales Pipeline,Closed Won,Won,Deal successfully closed,8400.0,8400.0,100,Desogn_Service,,ICALPS,Pour livraison des 2300 circuits WLSP,Opportunity,2025-09-18 21:12:00,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+7477,Charav1b - cartes de démo/dev,Sales Pipeline,Closed Won,Won,Deal successfully closed,11200.0,11200.0,100,Desogn_Service,,ICALPS,10 cartes de démo/dev avec Chara v1b en QFN + accéléromètre fournis par le client,Opportunity,2025-09-18 22:22:00,2025-09-18,3176,3277.0,31,Negotiating,Won,18/09/2025
+7478,OXYGENB-Respin,Sales Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Desogn_Service,,ICALPS,Reprise du design OxyB,Opportunity,,2025-09-18,19796,24377.0,27,Negotiating,Won,18/09/2025
+7479,Beemin-Amendment5,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,Desogn_Service,,ICALPS,Change request Target,Opportunity,,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+7480,Besoin support DfT,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),20000.0,20000.0,10,Desogn_Service,,ICALPS,Reprise analyse STA,Opportunity,,2025-09-18,17581,24467.0,27,Evaluation technique,Abandonne,18/09/2025
+7481,Wallis,Sales Pipeline,Identified,In Progress,Default mapping applied,950000.0,950000.0,80,FTK,,ICALPS,Companion chip Mosfet GAN,Opportunity,,2025-09-18,15153,18072.0,27,Negotiating,Abandonne,18/09/2025
+7482,WESAT-DB130,Sales Pipeline,Closed Won,Won,Deal successfully closed,65000.0,65000.0,100,Desogn_Service,,ICALPS,Circuit en DongBu,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7483,Pollux-ADC/DAC,Sales Pipeline,Identified,In Progress,Default mapping applied,195000.0,195000.0,50,Desogn_Service,,ICALPS,design ADC et DAC en Skywater,Opportunity,,2025-09-18,11714,24374.0,27,Negotiating,Abandonne,18/09/2025
+7484,ASIC Ultralow power - Génération de courant,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,1,FTK,,ICALPS,Génération de courant pour dispositif de sudation sur patch monitoring taux de glucose,Opportunity,2025-09-18 05:04:00,2025-09-18,21004,25719.0,35,Identification,Abandonne,18/09/2025
+7485,Selon application client - ultralowpower - wearabl,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1.0,1.0,1,FTK,,ICALPS,Gammao conçoit un dispositif de génération de courant par électrostatique. Possibilité de besoin selon application client,Opportunity,2025-09-18 07:26:00,2025-09-18,21006,25721.0,35,Identification,Abandonne,18/09/2025
+7486,Capella-PMU-Validation SIP1,Sales Pipeline,Identified,In Progress,Default mapping applied,150000.0,150000.0,50,Desogn_Service,,ICALPS,Carac PMU,Opportunity,,2025-09-18,17484,25640.0,27,Construction offre,Abandonne,18/09/2025
+7487,AT,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Besoin de 4-5 personnes,Opportunity,,2025-09-18,1074,1046.0,27,Qualified,Abandonne,18/09/2025
+7488,IZAR,Sales Pipeline,Qualified,In Progress,Mapped to Sales Pipeline,3100000.0,3100000.0,10,FTK,,ICALPS,ASIC,Opportunity,,2025-09-18,21009,25725.0,27,Qualified,In Progress,18/09/2025
+7489,Design ECC&BIST pour SRAM TSMC 90nm.,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"Design ECC&BIST pour SRAM TSMC 90nm.
+Co-Design entre ams-OSRAM et un client",Opportunity,,2025-09-18,11778,,39,Identification,Abandonne,18/09/2025
+7490,Migration FPGA to ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Migration FPGA to ASIC partner with DA-integrated,Opportunity,,2025-09-18,21013,25730.0,39,Identification,Abandonne,18/09/2025
+7491,Implantable Device SoC Design Service,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Implantable Device SoC Design Service,Opportunity,2025-09-18 02:17:00,2025-09-18,21012,25729.0,39,Identification,Abandonne,18/09/2025
+7492,Alboran-Amendment1,Sales Pipeline,Closed Won,Won,Deal successfully closed,13000.0,13000.0,100,Desogn_Service,,ICALPS,Change request,Opportunity,2025-09-18 12:56:00,2025-09-18,10263,12139.0,39,Negotiating,Won,18/09/2025
+7493,VEZAD3-P&R,Sales Pipeline,Closed Won,Won,Deal successfully closed,140000.0,140000.0,100,Desogn_Service,,ICALPS,Design,Opportunity,,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7494,QUEMENES,Sales Pipeline,Identified,In Progress,Default mapping applied,670000.0,670000.0,33,FTK,,ICALPS,ASIC,Opportunity,,2025-09-18,20933,25737.0,27,Construction offre,Abandonne,18/09/2025
+7495,ASIC design,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Earbud,Opportunity,,2025-09-18,21023,25743.0,27,Identification,Abandonne,18/09/2025
+7496,Support en 7nm,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Besoin de 15 personnes,Opportunity,2025-09-18 22:26:00,2025-09-18,11945,25744.0,27,Identification,Abandonne,18/09/2025
+7497,P&R en 12nm,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Regardent pour projet en 2025,Opportunity,2025-09-18 23:34:00,2025-09-18,21011,25726.0,27,Identification,Abandonne,18/09/2025
+7498,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,Projet à qualiifer,Opportunity,,2025-09-18,21015,25734.0,27,Identification,Abandonne,18/09/2025
+7499,SALM-22FDX,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Nouvelle préétude,Study,,2025-09-18,1157,25707.0,27,Identification,Abandonne,18/09/2025
+7500,Vildiur,Studies Pipeline,Closed Won,Won,Deal successfully closed,24000.0,24000.0,100,Preetude,,ICALPS,Étude en vue ASIC,Study,,2025-09-18,10299,19916.0,27,Negotiating,Won,18/09/2025
+7501,URANUS 2 amendment,Sales Pipeline,Closed Won,Won,Deal successfully closed,181440.0,181440.0,100,Desogn_Service,,ICALPS,"Suite du projet, probablement au temps passé",Opportunity,2025-09-18 10:45:00,2025-09-18,11778,,39,Negotiating,Won,18/09/2025
+7502,Migration production AMKOR,Sales Pipeline,Identified,In Progress,Default mapping applied,130000.0,130000.0,50,FTK,,ICALPS,Migration production AMKOR,Opportunity,,2025-09-18,4247,19104.0,27,Construction offre,Abandonne,18/09/2025
+7503,CAPELLA-PMU-Validation MPW2,Sales Pipeline,Identified,In Progress,Default mapping applied,165000.0,165000.0,50,Desogn_Service,,ICALPS,Validation MPW2,Opportunity,,2025-09-18,17484,25640.0,27,Construction offre,Abandonne,18/09/2025
+7504,CAPELLA-PMU-Validation Full Mask,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),100000.0,100000.0,10,Desogn_Service,,ICALPS,Validation PMU final,Opportunity,,2025-09-18,17484,25640.0,27,Construction offre,Abandonne,18/09/2025
+7505,Services avec équipes 2 ETP,Sales Pipeline,Closed Won,Won,Deal successfully closed,240000.0,240000.0,100,Desogn_Service,,ICALPS,"d'avril à fin décembre 2024 dans la continuité de la collaboration avec Crocus avant rachat.
+Au temps passé avec facturation mensuelle min de 25 k€ et max de 30 k€ (avec réduction sur la période estivale avec juillet:août comptabilisés comme 1 mois)",Opportunity,,2025-09-18,9061,25733.0,31,Negotiating,Won,18/09/2025
+7506,TTT22B-WP1,Sales Pipeline,Closed Won,Won,Deal successfully closed,5000.0,5000.0,100,Desogn_Service,,ICALPS,Commande de l'analyse du DK,Opportunity,,2025-09-18,9103,10859.0,27,Negotiating,Won,18/09/2025
+7507,SHAG-ValidPlan,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),15000.0,15000.0,0,Desogn_Service,,ICALPS,"Support & conseils pour Validation PLan, analyse de résultats dans labo SilMach, et proposition pour mise en place de tests industriels (wafer et circuits packagés)
+
+0 news sur le besoin en dépit des relances ...",Opportunity,,2025-09-18,17205,25694.0,31,Negotiating,Abandonne,18/09/2025
+7508,ASIC Design,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,10,FTK,,ICALPS,Asic,Opportunity,,2025-09-18,19850,24470.0,27,Qualified,NoGo,18/09/2025
+7509,Wallis-Préétude,Sales Pipeline,Closed Won,Won,Deal successfully closed,100000.0,100000.0,100,FTK,,ICALPS,Analyse des points durs,Opportunity,,2025-09-18,15153,18072.0,27,Negotiating,Won,18/09/2025
+7510,SAMOA,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),3150000.0,3150000.0,10,FTK,,ICALPS,Medical,Opportunity,,2025-09-18,21029,25747.0,27,Construction offre,Abandonne,18/09/2025
+7511,Implant monitoring hydrocéphalie,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,FTK,,ICALPS,"Cf CR du 23/04/2024
+
+Avec probablement une phase de faisabilité pour commencer
+
+Société en liquidation depuis 09/24",Opportunity,2025-09-18 08:53:00,2025-09-18,21044,25763.0,31,Identification,Abandonne,18/09/2025
+7512,Quemenes ASIC,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,450000.0,450000.0,1,FTK,,ICALPS,Proto,Opportunity,2025-09-18 15:04:00,2025-09-18,20933,25737.0,27,Identification,In Progress,18/09/2025
+7513,Flores - WP2- Testchip,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,1100000.0,1100000.0,10,Desogn_Service,,ICALPS,Offre à mettre à jour après le WP1,Opportunity,,2025-09-18,20982,,39,Identification,In Progress,18/09/2025
+7514,3 licences X100 pour 3 mois,Sales Pipeline,Closed Won,Won,Deal successfully closed,21400.0,21400.0,100,Desogn_Service,,ICALPS,"Installation de 3 licences X100 sur le serveur pour Wisekey et ce pour une durée de 3 mois
+ou installation de 8 Questa Sim pour 1 mois + 4 questa pour 2 mois (options 2 et 3)",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7515,REDA100G ASIC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,10920000.0,10920000.0,0,FTK,,ICALPS,"complete design up to industrialization (ball park)
+
+MAJ ce 13/06 avec boitier BGA qu'avec l'ASIC + IP de Synosys",Opportunity,2025-09-18 06:15:00,2025-09-18,18600,25616.0,31,Negotiating,Lost,18/09/2025
+7516,Avenant 23,Sales Pipeline,Closed Won,Won,Deal successfully closed,45170.0,45170.0,100,FTK,,ICALPS,Finalisation TPEC,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7517,WESAT-DB130-Amd1,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Desogn_Service,,ICALPS,Add work,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7518,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,FTK,,ICALPS,ASIC pour pacemaker,Opportunity,,2025-09-18,21037,25756.0,27,Identification,Abandonne,18/09/2025
+7519,Suze (2 ASICs dans ZeUS),Sales Pipeline,Closed Won,Won,Deal successfully closed,2558000.0,2558000.0,100,FTK,,ICALPS,"avec RADICUS2 (v2 de Radicus pour sonde ICE)
++ ASIC pour échographie cardiaque ou transoesophagienne
++ ASIC neurostimulation",Opportunity,,2025-09-18,3187,3293.0,31,Negotiating,Won,18/09/2025
+7520,Mérapi,Sales Pipeline,Design Win,In Progress,Deal on hold (Sleap),995000.0,995000.0,55,Desogn_Service,,ICALPS,"avec USB pour application type Yubikey
+sur la base d'un dérivé du circuit Vésuve
+Position du client de démarrer ce projet sur fond propre, potentiellement avant fin Q2-25
+
+Mise en sommeil 17/04/2025 car manifestement nouvelle priorité SEALSQ via leur plateforme et le fait que Goggle ne passe pas commande à ce stade ...
+A suivre",Opportunity,,2025-09-18,2153,2217.0,31,Construction offre,Sleap,18/09/2025
+7521,Design & verification,Sales Pipeline,Identified,In Progress,Default mapping applied,1000000.0,1000000.0,49,Desogn_Service,,ICALPS,"Le service juridique de Cap Gemini en Espagne a fait une due diligence auprès de OpenChip et ils auraient/ont trouvé des malversations entre OpenChip et certaines personnes dans des instances étatiques en Espagne (corruption ou rétro commission ou quelque chose du genre).
+",Opportunity,,2025-09-18,21048,25770.0,39,Evaluation technique,Abandonne,18/09/2025
+7522,MOLENE-WP1,Sales Pipeline,Identified,In Progress,Default mapping applied,90000.0,90000.0,80,Desogn_Service,,ICALPS,Conception d'un ASIC,Opportunity,,2025-09-18,21054,25778.0,27,Negotiating,Abandonne,18/09/2025
+7523,PEGASUS - WP1 Specification,Sales Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,FTK,,ICALPS,"BCI (Brain Computer Interface) ASIC
+WP1- 60k€
+WP2 Design 700k€
+WP3 Prototyping 600k€
+WP4- Industrialization 750k€",Opportunity,,2025-09-18,21056,25779.0,39,Negotiating,Won,18/09/2025
+7524,15 cartes de proto Charav1b + accéléro,Sales Pipeline,Closed Won,Won,Deal successfully closed,13400.0,13400.0,100,FTK,,ICALPS,"Tout est dans le titre ...
+Cartes comme celles livrées en Q1'24",Opportunity,2025-09-18 12:37:00,2025-09-18,3176,25780.0,31,Negotiating,Won,18/09/2025
+7525,URANUS 2 amendment 2,Sales Pipeline,Closed Won,Won,Deal successfully closed,122880.0,122880.0,100,Desogn_Service,,ICALPS,Commande supplémentaire pour finir le projet,Opportunity,2025-09-18 17:17:00,2025-09-18,11778,,39,Negotiating,Won,18/09/2025
+7526,SCM SEISAD WP1,Sales Pipeline,Closed Won,Won,Deal successfully closed,8000.0,8000.0,100,Production,,ICALPS,Reprise de la supply chain d'un ASIC conçu par EESY-IC,Opportunity,2025-09-18 05:02:00,2025-09-18,1071,1041.0,39,Negotiating,Won,18/09/2025
+7527,QUISTI,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,460000.0,460000.0,1,Desogn_Service,,ICALPS,"Besoin de personne pour projet 22FDX
+
+Ils ont regardé sur la seconde quinzaine les 4 offres reçues : on a été classé en 3ème position. 
+•	On est très bien sur l’expérience (grenat) et la qualité des échanges
+•	Notre offre était compétitive
+•	Par contre, ce qui a été contre nous :
+o	Tape out souhaité en décembre (nous étions sur un tape out en février)
+o	On ne pouvait pas début début août 
+o	Et ils ont jugé que l’on était trop petit et que si un de nos designers avait un problème, c’était un risque…
+Je ne sais pas qui ils ont retenu mais ils ont commencé début août avec eux.
+
+Je vais suivre pour savoir si le tape-out a bien été fait comme annoncé
+",Opportunity,,2025-09-18,21052,25774.0,27,Construction offre,Lost,18/09/2025
+7528,MOLENE-WP2 Design,Sales Pipeline,Identified,In Progress,Default mapping applied,850000.0,850000.0,80,Desogn_Service,,ICALPS,Design,Opportunity,,2025-09-18,21054,25778.0,27,Negotiating,Abandonne,18/09/2025
+7529,ASIC Switch ETH,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),10000000.0,10000000.0,0,FTK,,ICALPS,"Switch Eth avec 8 x 10 G + 2 x 40 G ....
+Discussion préliminaires avec Ceragon via Adi pour pousser une étude de faisabilité
+
+Et échanges avec fournisseurs IP Switch (Packet Architects et ComCores) pour le core de l'ASIC + autres IPs d'interfaces similaires à REDA
+
+Décision qui ne se prend pas côté client - à voir quand le besoin se fera à nouveau voir",Opportunity,,2025-09-18,21018,25742.0,31,Identification,Abandonne,18/09/2025
+7530,MIRZA- WP7 à WP9,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,FTK,,ICALPS,"Ajout de 3 WP pour
+- prototypage FPGA
+- nouvelles fonctionalités
+- IP LVDS",Opportunity,,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7531,GRENAT-Avenant 21 - Commande 2 nouveaux Patterns,Sales Pipeline,Closed Won,Won,Deal successfully closed,3700.0,3700.0,100,FTK,,ICALPS,Commande 2 nouveaux Patterns,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7532,ASIC Photonics,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,"Photonic Driver Testchip, project OLGA",Opportunity,2025-09-18 05:14:00,2025-09-18,4282,4519.0,39,Identification,Abandonne,18/09/2025
+7533,WESAT-DB130-Amd2,Sales Pipeline,Closed Won,Won,Deal successfully closed,15000.0,15000.0,100,Desogn_Service,,ICALPS,Add work,Opportunity,2025-09-18 03:08:00,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7534,ISIDA,Sales Pipeline,Identified,In Progress,Default mapping applied,20250000.0,20250000.0,40,FTK,,ICALPS,Design à Indus,Opportunity,,2025-09-18,1132,1175.0,27,Construction offre,Abandonne,18/09/2025
+7535,Lot Prod 10 et 11,Sales Pipeline,Closed Won,Won,Deal successfully closed,415837.8,415837.8,100,Production,,ICALPS,2 lots,Opportunity,2025-09-18 15:37:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7536,Lot Production 10 et 11 - Marge,Sales Pipeline,Closed Won,Won,Deal successfully closed,21000.0,21000.0,100,Production,,ICALPS,Marge sur lot 10 et 11,Opportunity,2025-09-18 20:53:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7537,P&R et Top test chip,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Desogn_Service,,ICALPS,Gros projet,Opportunity,2025-09-18 23:13:00,2025-09-18,9027,10708.0,27,Identification,Abandonne,18/09/2025
+7538,Chara-v1b-Pré-indus,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,FTK,,ICALPS,Finalisation de 3 wafers,Opportunity,2025-09-18 19:22:00,2025-09-18,3176,25780.0,31,Negotiating,Won,18/09/2025
+7539,Support pour faisabilité,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,Preetude,,ICALPS,Projet iDémo,Study,,2025-09-18,19802,25782.0,27,Identification,Abandonne,18/09/2025
+7540,Besoin sous système numérique,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,30,Desogn_Service,,ICALPS,I2C + RTL,Opportunity,,2025-09-18,21065,25790.0,27,Evaluation technique,NoGo,18/09/2025
+7541,TTT03,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),500000.0,500000.0,10,Desogn_Service,,ICALPS,Tetha + Talita en N3,Opportunity,,2025-09-18,9103,25588.0,27,Negotiating,Abandonne,18/09/2025
+7542,CROZET - WP1,Studies Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),100000.0,100000.0,0,Preetude,,ICALPS,"ASIC Switch ETH Faisabilité pour ASIC complet
+
+Décision qui ne se prend pas côté client - à voir quand le besoin se fera à nouveau voir",Study,2025-09-18 02:23:00,2025-09-18,21018,25742.0,31,Negotiating,Abandonne,18/09/2025
+7543,Chara v1b - Préindus avec EWS et qualif WLCSP,Sales Pipeline,Closed Won,Won,Deal successfully closed,286000.0,286000.0,100,FTK,,ICALPS,"mise en place solution de qualif pour puces WLCSP sur socket + qualif sur une soixantaine de circuits
+mise en place de la solution EWS et tests de 2 wafers puis livraison en tape & reel",Opportunity,2025-09-18 05:41:00,2025-09-18,3176,25780.0,31,Negotiating,Won,18/09/2025
+7544,WESAT-DB130-Amd2-V2,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,Desogn_Service,,ICALPS,Version avec nouveau RTL,Opportunity,2025-09-18 15:32:00,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7545,Preindus Charav1b - WP7a,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,14000.0,14000.0,49,FTK,,ICALPS,Option pour spare probe card EWS,Opportunity,,2025-09-18,3176,25780.0,31,Negotiating,In Progress,18/09/2025
+7546,MIRZA - WP7 + 8 + 9,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,FTK,,ICALPS,"Tâches supplémentaires avec 
+- prototypage FPGA (WP7)
+- ajout de fonctions (WP8)
+- Travaux LVDS (WP9)",Opportunity,2025-09-18 00:43:00,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7547,Addendum Change request DC/DC-UART,Sales Pipeline,Closed Won,Won,Deal successfully closed,110000.0,110000.0,100,Desogn_Service,,ICALPS,120k$,Opportunity,,2025-09-18,20942,25618.0,39,Negotiating,Won,18/09/2025
+7548,Uranus2 -Amendment 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,19200.0,19200.0,100,Desogn_Service,,ICALPS,20 jours supplémentaires,Opportunity,2025-09-18 21:05:00,2025-09-18,11778,,39,Negotiating,Won,18/09/2025
+7549,SUMBA - Faisabilité IP petite,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),40000.0,40000.0,0,Desogn_Service,,ICALPS,"Réutilisation des éléments pour une version plus simple mais avec une criticité sur la taille de la puce
+
+Démarrage par une phase de faisabilité car le client demande aussi de réduire le nombre de layer avec lib moins de tracks (économiser sur prix masques et wafers)",Opportunity,,2025-09-18,2153,2217.0,31,Qualified,Abandonne,18/09/2025
+7550,ZLARIN,Sales Pipeline,Closed Won,Won,Deal successfully closed,83000.0,83000.0,100,Desogn_Service,,ICALPS,Essais de synthese,Opportunity,,2025-09-18,21067,25794.0,27,Negotiating,Won,18/09/2025
+7551,Grenat - Lot 12-13,Sales Pipeline,Closed Won,Won,Deal successfully closed,428660.41,428660.41,100,Production,,ICALPS,Commande de 2 lots Supplémentaires,Opportunity,2025-09-18 05:06:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7552,VULCANO II,Sales Pipeline,Design Win,In Progress,Deal on hold (Sleap),2625000.0,2625000.0,49,FTK,,ICALPS,Gate Drive Booster ASIC for power semiconductors,Opportunity,,2025-09-18,20954,,39,Negotiating,Sleap,18/09/2025
+7553,VULCANO I,Sales Pipeline,Design Win,In Progress,Deal on hold (Sleap),2000000.0,2000000.0,1,FTK,,ICALPS,Isolated DC/DC transformer driver for automotive application,Opportunity,,2025-09-18,20954,,39,Construction offre,Sleap,18/09/2025
+7554,UCIe,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,Desogn_Service,,ICALPS,Développement d'un IP UCIe,Opportunity,2025-09-18 03:57:00,2025-09-18,4345,4750.0,27,Identification,NoGo,18/09/2025
+7555,CSI2,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,Desogn_Service,,ICALPS,Développement IP Phy et CTRL en ST130IMG,Opportunity,2025-09-18 07:58:00,2025-09-18,4305,25766.0,27,Identification,NoGo,18/09/2025
+7556,Grenat - Marge lot 12 et 13,Sales Pipeline,Closed Won,Won,Deal successfully closed,21000.0,21000.0,100,Production,,ICALPS,Marges prod,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7557,Miniaturisation POC,Sales Pipeline,Design Win,In Progress,Deal on hold (Sleap),25000.0,25000.0,25,FTK,,ICALPS,"Suite présentation du 27/08 au MIC SMH
+Besoin de réfléchir à miniaturisation pour leur patch NO / NO2-
+Avec potentiellement étude de faisabilité sur Q4'24 pour qu'ils puissent avoir les éléments pour leur dépôt de iDemo
+
+Repoussé de 3 mois tous les 3 mois ... peut-être des choses après l'été 2025 ... ?",Opportunity,,2025-09-18,21073,25805.0,31,Negotiating,Sleap,18/09/2025
+7558,Wezen - Amendment 3 - RNG Charac,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,35000.0,35000.0,49,Desogn_Service,,ICALPS,"Characterization of Customer RNG
+
+Mise au budget pour 2025 ...",Opportunity,2025-09-18 16:49:00,2025-09-18,2153,2217.0,31,Negotiating,In Progress,18/09/2025
+7559,extra EDA,Sales Pipeline,Closed Won,Won,Deal successfully closed,24000.0,24000.0,100,FTK,,ICALPS,licences simulation + pack analogique,Opportunity,2025-09-18 13:26:00,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7560,ASIC PM,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,2500000.0,2500000.0,1,FTK,,ICALPS,Besoin ASIC HV,Opportunity,,2025-09-18,21071,25800.0,27,Construction offre,Lost,18/09/2025
+7561,VESAT-WP3,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),700000.0,700000.0,1,Desogn_Service,,ICALPS,Démonstrateur FPGA,Opportunity,,2025-09-18,19754,24442.0,27,Construction offre,Abandonne,18/09/2025
+7562,GRENAT-Avenant 24,Sales Pipeline,Closed Won,Won,Deal successfully closed,60000.0,60000.0,100,FTK,,ICALPS,Carte de test additionnelle,Opportunity,2025-09-18 06:03:00,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7563,VEZAD3-Handoff,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Desogn_Service,,ICALPS,Hand-off au temps passé,Opportunity,2025-09-18 07:53:00,2025-09-18,17566,19963.0,27,Negotiating,Won,18/09/2025
+7564,WEZEN - support indus WP3,Sales Pipeline,Closed Won,Won,Deal successfully closed,100000.0,100000.0,100,Desogn_Service,,ICALPS,"Travaux au temps passé avec :
+- 50 k€ pour livraisons à fin 09/24
+- 50 k€ pour livraison en 02/25",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7565,RADICUS - prototypage MLM,Sales Pipeline,Closed Won,Won,Deal successfully closed,267000.0,267000.0,100,FTK,,ICALPS,Startégie MLM plutôt que MPW afin d'avoir des wafers complets et pouvoir tester jusqu'à 400 circuits bons pour montage sur sonde US,Opportunity,,2025-09-18,3187,3293.0,31,Negotiating,Won,18/09/2025
+7566,MIRZA Avenant 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,10.0,10.0,100,FTK,,ICALPS,"Selon le nouveau plan demandé par ID4US
+
+Redistribution des tâches, planning, et plan de facturation ...",Opportunity,2025-09-18 17:52:00,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7567,PEGASUS - WP2- ASIC Design kick-off,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,FTK,,ICALPS,"Design only.
+Prototyping and industrialization in WP3 & WP4
+Order for month 1 while negotiating the contract",Opportunity,,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7568,ASIC Cryptomining,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,FTK,,ICALPS,"CY-KOR, une startup spécialisée dans le minage de crypto-monnaies (cryptomining).
+L'entreprise souhaite déployer une solution d'accélération disruptive capable de
+réduire les exigences en mémoire d’un algorithme de hachage cible.
+L'objectif du projet est d'implémenter cette solution d’accélération dans une
+architecture ASIC existante, ou de concevoir une nouvelle architecture si nécessaire.
+Cette approche holistique, combinant matériel et logiciel, vise à réaliser des gains
+significatifs en matière de performances et d'efficacité dans le processus de hachage.",Opportunity,,2025-09-18,21082,26810.0,39,Identification,NoGo,18/09/2025
+7569,Wallis - Blocs,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,25,Desogn_Service,,ICALPS,Conception et layout de blocs,Opportunity,,2025-09-18,15153,18072.0,27,Qualified,Abandonne,18/09/2025
+7570,EM03,Sales Pipeline,Identified,In Progress,Default mapping applied,0.0,0.0,20,Desogn_Service,,ICALPS,Besoin 1 personne en conception et 2 en validation,Opportunity,,2025-09-18,7980,26809.0,27,Evaluation technique,Abandonne,18/09/2025
+7571,WESAT-DB130-Amdt3,Sales Pipeline,Closed Won,Won,Deal successfully closed,20000.0,20000.0,100,Desogn_Service,,ICALPS,Essais de synthèse,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7572,Grenat-Avenant 25 (TPEC2),Sales Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,FTK,,ICALPS,2ème version du TPEC,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7573,Grenat - Régul TPEC,Sales Pipeline,Closed Won,Won,Deal successfully closed,8100.0,8100.0,100,FTK,,ICALPS,Régularisation d'heures,Opportunity,,2025-09-18,4247,19104.0,27,Negotiating,Won,18/09/2025
+7574,DENEB-Avenant Top,Sales Pipeline,Identified,In Progress,Default mapping applied,157000.0,157000.0,80,Desogn_Service,,ICALPS,Régularisation budget,Opportunity,,2025-09-18,4299,4629.0,27,Negotiating,Abandonne,18/09/2025
+7575,PEGASUS - WP2 = ASIC Design Month 1,Sales Pipeline,Closed Won,Won,Deal successfully closed,200000.0,200000.0,100,FTK,,ICALPS,"Design only
+Prototyping and industrialization in WP3 & WP4",Opportunity,2025-09-18 07:36:00,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7576,CYTHERE,Sales Pipeline,Identified,In Progress,Default mapping applied,950000.0,950000.0,30,Desogn_Service,,ICALPS,Appel offre infructueux. ,Opportunity,,2025-09-18,2,26818.0,27,Negotiating,Abandonne,18/09/2025
+7577,ASIC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,FTK,,ICALPS,ASIC télépéage. RF + digital. Coût important,Opportunity,,2025-09-18,11764,26817.0,27,Identification,NoGo,18/09/2025
+7578,P&R,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,215.0,215.0,1,Desogn_Service,,ICALPS,P&R en 7nm,Opportunity,,2025-09-18,19891,24533.0,27,Construction offre,Lost,18/09/2025
+7579,ASIC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,ASIC pour minage,Opportunity,,2025-09-18,21087,26815.0,27,Identification,Abandonne,18/09/2025
+7580,DARIUS Change Request,Sales Pipeline,Closed Won,Won,Deal successfully closed,16000.0,16000.0,100,Desogn_Service,,ICALPS,Avenant 4 à Mirza,Opportunity,2025-09-18 05:32:00,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7581,PEGASUS - WP2 = ASIC Design Month 2,Sales Pipeline,Closed Won,Won,Deal successfully closed,160000.0,160000.0,100,FTK,,ICALPS,"Design only
+Prototyping and industrialization in WP3 & WP4",Opportunity,,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7582,ADC pour application SONAR,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,FTK,,ICALPS,ADC haute précisions et basse conso pour applications SONAR (en comparaison avec la ref d'un circuit TI utilisé à ce jour),Opportunity,,2025-09-18,18623,27845.0,31,Qualified,Abandonne,18/09/2025
+7583,ASIC pour client commun,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,5,FTK,,ICALPS,via un projet Eurostar pour financement,Opportunity,2025-09-18 02:56:00,2025-09-18,22107,27846.0,31,Identification,Abandonne,18/09/2025
+7584,Addendum 2 UART VARIANT + ESD,Sales Pipeline,Closed Won,Won,Deal successfully closed,52400.0,52400.0,100,Desogn_Service,,ICALPS,"Addendum Change request, UART VARIANT + ESD",Opportunity,2025-09-18 05:06:00,2025-09-18,20942,25618.0,39,Negotiating,Won,18/09/2025
+7585,IP DC/DC Automotive,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),1000000.0,1000000.0,1,Desogn_Service,,ICALPS,"IP DC/DC Automotive selon spécifications.
+Projet abandonné",Opportunity,2025-09-18 09:59:00,2025-09-18,10263,12139.0,39,Construction offre,Abandonne,18/09/2025
+7586,PEGASUS - WP2 = ASIC Design Month 3,Sales Pipeline,Closed Won,Won,Deal successfully closed,160000.0,160000.0,100,FTK,,ICALPS,"Design only
+Prototyping and industrialization in WP3 & WP4",Opportunity,,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7587,PEGASUS - WP3 Prototyping & Pre-Indus,Sales Pipeline,Closed Won,Won,Deal successfully closed,1420000.0,1420000.0,100,FTK,,ICALPS,WP3 Prototyping and Pre-industrialisation,Opportunity,2025-09-18 11:11:00,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7588,PEGASUS - WP4 Industrialisation,Sales Pipeline,Closed Won,Won,Deal successfully closed,736660.0,736660.0,100,FTK,,ICALPS, Industrialisation,Opportunity,2025-09-18 13:27:00,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7589,ASIC High Temp,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1490000.0,1490000.0,10,FTK,,ICALPS,Spécification préliminaire recue,Opportunity,2025-09-18 00:13:00,2025-09-18,1071,24453.0,39,Construction offre,In Progress,18/09/2025
+7590,VILDIUR-ASIC,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1850000.0,1850000.0,10,FTK,,ICALPS,WP1 à WP4 pour ASIC design,Opportunity,,2025-09-18,10299,19916.0,27,Construction offre,In Progress,18/09/2025
+7591,MAIA2,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,665000.0,665000.0,50,Desogn_Service,,ICALPS,GF22,Opportunity,2025-09-18 18:43:00,2025-09-18,4345,4750.0,27,Construction offre,In Progress,18/09/2025
+7592,P&R SCL,Sales Pipeline,Qualified,In Progress,Mapped to Sales Pipeline,300000.0,300000.0,5,Desogn_Service,,ICALPS,SCL018,Opportunity,2025-09-18 20:06:00,2025-09-18,4345,4750.0,27,Qualified,In Progress,18/09/2025
+7593,Beemin-Avenant6,Sales Pipeline,Closed Won,Won,Deal successfully closed,186800.0,186800.0,100,Desogn_Service,,ICALPS,Travaux sup,Opportunity,2025-09-18 22:51:00,2025-09-18,1072,19803.0,27,Negotiating,Won,18/09/2025
+7594,SpiceX,Sales Pipeline,Identified,In Progress,Default mapping applied,250000.0,250000.0,50,Desogn_Service,,ICALPS,Travail sur flot carac,Opportunity,,2025-09-18,7980,26809.0,27,Construction offre,Abandonne,18/09/2025
+7595,Licences EDA - suite,Sales Pipeline,Closed Won,Won,Deal successfully closed,30000.0,30000.0,100,Desogn_Service,,ICALPS,"Licences analog sur 3 mois
+Licence simulation digitale sur 12 mois",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7596,Licences Questa Prime,Sales Pipeline,Closed Won,Won,Deal successfully closed,27000.0,27000.0,100,Desogn_Service,,ICALPS,"- 4 pour 3 mois
+- puis 8 pour 1 mois quand netlist finale disponible",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7597,RADICUS - petite puce,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),70000.0,70000.0,0,FTK,,ICALPS,"Evolution de la stratégie pour basculer vers une puce = 1:4 circuit complet (qui est trop gros : risque pour assemblage et montage sur carte)
+Avenant au contrat en cours avec quantification des travaux supplémentaires (avec hypothèse d'arrêt immédiat (s02) des efforts pour GDSII grosse puce)",Opportunity,,2025-09-18,3187,3296.0,31,Construction offre,Abandonne,18/09/2025
+7598,ASIC peut-être,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,FTK,,ICALPS,"Discussion lors d'Electronica et on en saura plus quand NDA en place ...
+
+0 retour en dépit des nombreuses relances ...",Opportunity,2025-09-18 13:58:00,2025-09-18,22111,27856.0,31,Identification,Abandonne,18/09/2025
+7599,Partenariat avec équipe Layout,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,Desogn_Service,,ICALPS,"Pour implication en particulier avec équipe Apple à Munich
+et démarrage à 3 ou 4 en layout pour potentiellement aller vers > 10 personnes (a confirmer)
+
+Avec Assesment financier finalisé ce 13/01/25
+Et volonté de Carlos d'avancer sur la structuration du partenariat ...
+
+Achats Apple demandait des prix pour des expérimentés < à nos coûts pour des débutants !",Opportunity,2025-09-18 16:29:00,2025-09-18,22112,27859.0,31,Qualified,Abandonne,18/09/2025
+7600,ASIC,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1850000.0,1850000.0,1,FTK,,ICALPS,2nde source,Opportunity,2025-09-18 11:17:00,2025-09-18,22113,27860.0,27,Construction offre,In Progress,18/09/2025
+7601,ASIC digital,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,10,FTK,,ICALPS,Reprise Alya FPGA,Opportunity,,2025-09-18,1076,1050.0,27,Identification,Abandonne,18/09/2025
+7602,B24-06316,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,0,Desogn_Service,,ICALPS,Nouvel appel d'offre. On ne répond pas car pas de solution pour réduire le montant par 3...,Opportunity,2025-09-18 21:04:00,2025-09-18,2,26818.0,27,Identification,NoGo,18/09/2025
+7603,Diotima - ADC audio Delta-Sigma,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,400000.0,400000.0,20,Desogn_Service,,ICALPS,Second source TI/ADI,Opportunity,,2025-09-18,20942,25618.0,39,Evaluation technique,Lost,18/09/2025
+7604,ASIC Automotive,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,"High Level Product Requirement:
+•	Single-channel gate driver IC for automotive traction inverter applications
+•	Hybrid power stage (Voltage source driver & current source driver) to drive discrete SiC transistors, SiC power modules or Hybrid power modules (SiC + IGBT with individual gate pins)
+•	Configurable gate drive strength profiles
+Minimum Requirements:
+•	Supplier shall have proven experience in the design for automotive applications
+•	Supplier shall have proven experience in the design of ICs with ISO26262 functional requirements
+Supplier should have proven experience in the design of ICs including requirements with ASIL D on system level
+
+Suite via Presto",Opportunity,,2025-09-18,11778,25664.0,39,Identification,Abandonne,18/09/2025
+7605,UHF ASIC RFID,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,0,FTK,,ICALPS,No Go,Opportunity,,2025-09-18,11778,25664.0,39,Identification,NoGo,18/09/2025
+7606,SoC Asic,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,1,FTK,,ICALPS,"Qualification en cours
+réponse RFI le 21 mars 2025",Opportunity,,2025-09-18,22115,27864.0,39,Evaluation technique,Abandonne,18/09/2025
+7607,SOMMERSET,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1400000.0,1400000.0,25,Desogn_Service,,ICALPS,Dual M33 + corstone-021 + ...,Opportunity,,2025-09-18,22114,27862.0,31,Construction offre,In Progress,18/09/2025
+7608,Besoin P&R pour ASIC Automotive,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),0.0,0.0,0,Desogn_Service,,ICALPS,"Info préliminaire
+
+piste non poursuivie - basculement dans un mode de réponse conjointe à des RFQ clients (2 projets en cours de discussion pour Thyssen et pour Bosch)",Opportunity,,2025-09-18,9072,10800.0,31,Identification,Abandonne,18/09/2025
+7609,WESAT-S130-IP,Sales Pipeline,Identified,In Progress,Default mapping applied,44000.0,44000.0,80,Desogn_Service,,ICALPS,Version hard de l'IP ReRAM,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Abandonne,18/09/2025
+7610,WESAT-On65,Sales Pipeline,Closed Won,Won,Deal successfully closed,95000.0,95000.0,100,Desogn_Service,,ICALPS,Testchip en 65 de OnSemi,Opportunity,,2025-09-18,18686,23167.0,27,Negotiating,Won,18/09/2025
+7611,Cendric investigations,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,Desogn_Service,,ICALPS,Consulting,Opportunity,2025-09-18 09:43:00,2025-09-18,4255,25670.0,39,Negotiating,Won,18/09/2025
+7612,ASIC automotive,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,5000000.0,5000000.0,1,FTK,,ICALPS,PM,Opportunity,,2025-09-18,22116,27865.0,27,Construction offre,In Progress,18/09/2025
+7613,ASIC basic digital,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,FTK,,ICALPS,Cherche à faire un 5440. Quantité très faible et budget pour NRE et prod inférieur à 10k donc noGo,Opportunity,2025-09-18 08:40:00,2025-09-18,21091,26820.0,27,Identification,NoGo,18/09/2025
+7614,High-Side Switch,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,1912000.0,1912000.0,5,FTK,,ICALPS,Famille de switch haute tension pour appli automobile,Opportunity,,2025-09-18,20942,25618.0,39,Construction offre,Lost,18/09/2025
+7615,Wezen - 8 licences X100,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,100,Desogn_Service,,ICALPS,"Soit pour 1 mois (WP1), soit pour 3 mois (WP2)
+Seul WP2 comptabilisé car plus crédible",Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+7616,PEGASUS - WP2 = ASIC Design month 4,Sales Pipeline,Closed Won,Won,Deal successfully closed,160000.0,160000.0,100,FTK,,ICALPS,Design only,Opportunity,,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+7617,MIRZA - Avenant6,Sales Pipeline,Closed Won,Won,Deal successfully closed,2346000.0,2346000.0,100,FTK,,ICALPS,"Reprise Rx + ajout ADC
++caractérisation Tx
++support intégration système",Opportunity,2025-09-18 11:20:00,2025-09-18,20946,25625.0,31,Negotiating,Won,18/09/2025
+7618,Embiez,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1300000.0,1300000.0,50,Desogn_Service,,ICALPS,P&R GF 22,Opportunity,,2025-09-18,20965,27871.0,27,Construction offre,In Progress,18/09/2025
+7619,Design pour ASIC Bosch,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,0.0,0.0,10,Desogn_Service,,ICALPS,Réponse commune ASIC Bosch,Opportunity,,2025-09-18,9072,10800.0,27,Identification,In Progress,18/09/2025
+7620,PEGASUS - WP2 = ASIC Design,Sales Pipeline,Closed Won,Won,Deal successfully closed,320000.0,320000.0,100,FTK,,ICALPS,Design only,Opportunity,2025-09-18 02:34:00,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+8620,Control ASIC,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,0.0,0.0,1,FTK,,ICALPS,interested in making custom ASICs for quantum computer control electronics. This would mean both MW and BB. Highest frequencies would be around 8GHz,Opportunity,,2025-09-18,22129,27887.0,39,Identification,NoGo,18/09/2025
+8621,Avenant RADICUS MLM pour PCB,Sales Pipeline,Closed Won,Won,Deal successfully closed,0.0,0.0,100,FTK,,ICALPS,"Modification du WP5d pour remplacer les wafers complémentaires par les travaux pour PCB et assemblage des puces par Valtronic
+
+Avenant1",Opportunity,2025-09-18 18:40:00,2025-09-18,3187,,31,Negotiating,Won,18/09/2025
+8622,Carac,Sales Pipeline,Qualified,In Progress,Mapped to Sales Pipeline,250000.0,250000.0,30,Desogn_Service,,ICALPS,Besoin flot carac (idem projet EM),Opportunity,2025-09-18 11:44:00,2025-09-18,4293,4608.0,27,Qualified,In Progress,18/09/2025
+8623,Besoin design,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,0.0,0.0,1,Desogn_Service,,ICALPS,besoin 4-5 personnes,Opportunity,2025-09-18 12:39:00,2025-09-18,4293,4608.0,27,Identification,In Progress,18/09/2025
+8624,ECC,Sales Pipeline,Closed Dead,Lost,Moved to Closed Dead (abandoned + low certainty),25000.0,25000.0,10,Desogn_Service,,ICALPS,Besoin ECC,Opportunity,2025-09-18 13:35:00,2025-09-18,18686,23167.0,27,Evaluation technique,Abandonne,18/09/2025
+8625,CENDRIC investigation,Sales Pipeline,Closed Won,Won,Deal successfully closed,25000.0,25000.0,90,Desogn_Service,,ICALPS,"idem opportunité Continental, partagé 50/50",Opportunity,,2025-09-18,22131,27889.0,39,Negotiating,Won,18/09/2025
+8626,ALCR Design support,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,450000.0,450000.0,70,Desogn_Service,,ICALPS,"onsemi, represented by Brno Czech republic design center, is looking for subcontracting support for primary digital change of an existing design.",Opportunity,,2025-09-18,22132,27890.0,39,Negotiating,In Progress,18/09/2025
+8627,ASIC/SoC design,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,0.0,0.0,1,Desogn_Service,,ICALPS,"Various Design opportunities
+Design Services RFI",Opportunity,,2025-09-18,22133,27892.0,39,Identification,In Progress,18/09/2025
+8628,PEGASUS - WP2 = ASIC Design month 5,Sales Pipeline,Closed Won,Won,Deal successfully closed,160000.0,160000.0,100,FTK,,ICALPS,Design only,Opportunity,,2025-09-18,21085,26814.0,39,Negotiating,Won,18/09/2025
+8629,ZLARIN W1-WP3,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,40000000.0,40000000.0,5,FTK,,ICALPS,Design et supply suite étude faisabilité avec structuration partenariat design avec CG,Opportunity,2025-09-18 12:47:00,2025-09-18,21067,25794.0,27,Construction offre,In Progress,18/09/2025
+8630,CHARA-Test 40 pcs,Sales Pipeline,Closed Won,Won,Deal successfully closed,5000.0,5000.0,100,FTK,,ICALPS,"Test manuel au labo de 40 puces supplémentaires + commande d'un socket de backup
+
+Option socket de spare non retenue (3k€ de prix avec 2,2k€ de couts)",Opportunity,2025-09-18 20:33:00,2025-09-18,3176,3277.0,27,Negotiating,Won,18/09/2025
+8631,Vesuve - support caracterisation,Sales Pipeline,Closed Won,Won,Deal successfully closed,108000.0,108000.0,100,Desogn_Service,,ICALPS,"Au temps passé - 90 jours à 1,2 k€
+pour doc pour certification RNG, ROMGEN, et support carac VEsuve Rev-A et Rev-B",Opportunity,2025-09-18 02:45:00,2025-09-18,2153,2217.0,31,Negotiating,Won,18/09/2025
+8632,ASIC digital,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,1500000.0,1500000.0,10,FTK,,ICALPS,Interposeur audio,Opportunity,,2025-09-18,4256,4458.0,27,Construction offre,In Progress,18/09/2025
+8633,YILDIZ,Sales Pipeline,Identified,In Progress,Default mapping applied,125000.0,125000.0,20,Desogn_Service,,ICALPS,P&R efpga,Opportunity,,2025-09-18,21011,25726.0,27,Evaluation technique,Abandonne,18/09/2025
+8634,Daisy chain wafers,Sales Pipeline,Closed Lost,Lost,Deal closed as lost,85000.0,85000.0,80,Desogn_Service,,ICALPS,Wafer for assembly setup / short-loop / Bumping / daisy chains,Opportunity,,2025-09-18,21085,26814.0,39,Evaluation technique,Lost,18/09/2025
+8635,toll ASIC,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,450000.0,450000.0,5,FTK,,ICALPS,ASIC uLP pour tolling system,Opportunity,,2025-09-18,22150,27902.0,39,Identification,In Progress,18/09/2025
+8636,Collaboration ASIC,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,0.0,0.0,5,Desogn_Service,,ICALPS,Service conception ASIC automotive,Opportunity,2025-09-18 15:06:00,2025-09-18,11737,27904.0,39,Identification,In Progress,18/09/2025
+8637,Driver uLED GAN,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,500000.0,500000.0,1,Desogn_Service,,ICALPS,Cherche un DC pour le Driver. ST projet européen,Opportunity,,2025-09-18,2,27891.0,27,Identification,In Progress,18/09/2025
+8638,QLC01,Sales Pipeline,Design In,In Progress,Mapped to Sales Pipeline,500000.0,500000.0,20,Desogn_Service,,ICALPS,Support pour le design,Opportunity,,2025-09-18,22142,27895.0,27,Evaluation technique,In Progress,18/09/2025
+8639,Besoin support,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,144000.0,144000.0,80,Desogn_Service,,ICALPS,1 vérif et un design,Opportunity,2025-09-18 01:16:00,2025-09-18,9103,10859.0,27,Negotiating,In Progress,18/09/2025
+8640,Projet ASIC,Sales Pipeline,Qualified,In Progress,Mapped to Sales Pipeline,0.0,0.0,1,FTK,,ICALPS,DAC du CEA,Opportunity,2025-09-18 03:00:00,2025-09-18,20973,25667.0,27,Qualified,In Progress,18/09/2025
+8641,Ventes GAP8,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,100000.0,100000.0,75,Production,,ICALPS,Distribution de GAP8 en stock,Opportunity,,2025-09-18,22153,27907.0,31,Construction offre,In Progress,18/09/2025
+8642,Ventes GAP9,Sales Pipeline,Negotiate,In Progress,Mapped to Sales Pipeline,600000.0,600000.0,60,FTK,,ICALPS,"Distribution des GAP9 propriétés d'IC'Alps avec NewCo en mode agent.
+
+Projection d'un besoin de 850k circuits sur 3,5 ans.
+Ici opportunité que pour 2025 (et voir que nous arrivons à démarrer le modus operandi convenu par MOU)",Opportunity,,2025-09-18,22153,27907.0,31,Construction offre,In Progress,18/09/2025
+8643,Grenat-suite,Sales Pipeline,Qualified,In Progress,Mapped to Sales Pipeline,0.0,0.0,49,FTK,,ICALPS,selon besoins d'Essilor ayant repris les assets de Greenwaves,Opportunity,,2025-09-18,22154,27908.0,31,Qualified,In Progress,18/09/2025
+8644,Test de 100 puces au labo + socket,Sales Pipeline,Closed Won,Won,Deal successfully closed,15500.0,15500.0,100,FTK,,ICALPS,"Car besoin de puces testées par Cairdac pour montage dans les capsules (100 ASAP pour juillet, et 100 en aout a priori)
+Et commande d'une socket de rechange",Opportunity,,2025-09-18,3176,27926.0,31,Negotiating,Won,18/09/2025
+8645,Socket test Chara v1b,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,3000.0,3000.0,90,FTK,,ICALPS,"suite au problème sur le socket utilisé, conformément à l'offre d'avril",Opportunity,,2025-09-18,3176,27926.0,31,Negotiating,In Progress,18/09/2025
+8646,Support utilisation de Chara dans environnement ap,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,30000.0,30000.0,90,Desogn_Service,,ICALPS,"Car plus aucun ingénieur chez Cairdac présent depuis le départ ...
+et donc besoin de rendre la phase actuelle de prise en mains plus efficace et comprendre comment activer Chara, ou contourner si des limitations détectées ...",Opportunity,,2025-09-18,3176,3277.0,31,Negotiating,In Progress,18/09/2025
+8647,Design incremental ADC,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,350000.0,350000.0,5,Desogn_Service,,ICALPS,design service. Estimation à confirmer 4 ingénieurs / 4 mois,Opportunity,2025-09-18 11:50:00,2025-09-18,11625,24531.0,39,Identification,In Progress,18/09/2025
+8648,Design services,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,320000.0,320000.0,5,Desogn_Service,,ICALPS,layout analog 16 nmFF,Opportunity,,2025-09-18,22167,27931.0,39,Identification,In Progress,18/09/2025
+8649,1 licence X100 pour 6 mois,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,7000.0,7000.0,90,FTK,,ICALPS,Nouvelle demande de licence X100,Opportunity,,2025-09-18,2153,2217.0,31,Negotiating,In Progress,18/09/2025
+8650,SABA-Phase préétude,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,45000.0,45000.0,80,Desogn_Service,,ICALPS,Compréhension du projet pour chiffrage,Opportunity,,2025-09-18,20973,25667.0,27,Negotiating,In Progress,18/09/2025
+8651,SEM02,Sales Pipeline,Design Win,In Progress,Mapped to Sales Pipeline,22000.0,22000.0,50,Desogn_Service,,ICALPS,Support pendant réétude,Opportunity,,2025-09-18,4293,4608.0,27,Negotiating,In Progress,18/09/2025
+8652,ASIC,Sales Pipeline,Identified,In Progress,Mapped to Sales Pipeline,0.0,0.0,10,Desogn_Service,,ICALPS,Sous système digital,Opportunity,,2025-09-18,22166,27928.0,27,Identification,In Progress,18/09/2025

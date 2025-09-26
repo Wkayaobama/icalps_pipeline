@@ -1,0 +1,265 @@
+Comp_CompanyId,Comp_Name,Comp_Website,bronze_extracted_at,bronze_source_file,website_valid,company_category
+2,Cea Grenoble,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3,Malvern Panalytical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1057,Insightness,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1064,Elichens,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1071,Sercel,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1072,Baumer Electric Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1074,Thales Alenia Space Toulouse,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1075,Redtree Solutions,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1076,Aledia,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1081,Framatome,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1089,Sp3H,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1095,Cissoid  S.A.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1100,Carmat,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1115,Isorg,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1119,Vitec Video Innovation,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1128,@-Health,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1132,Intopix S.A.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1139,Vsora,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1146,Adept Neuro Sa,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+1148,Safran Sensing Norway,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+1150,3D-Plus,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1154,Nipson Technology,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1156,Debiotech,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+1157,Slb,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+2147,Scubapro Uwatec,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+2153,Seal Sq France,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+2159,Zhortech,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+2160,Cnes,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+2191,Schneider Electric Eybens,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3175,Anotherbrain,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3176,Cairdac,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3179,Moduleus,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3180,Nanoxplore,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3186,Sentinhealth,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+3187,Vermon,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4196,Neurallys,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4201,Panaxium,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4202,Fine Heart,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4214,Valeo Pouillon,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4230,Sensimed,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4233,Sicpa,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4235,Silicon Mobility,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4242,Diabeloop,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4246,Sorin Crm S.A.S.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4247,Greenwaves Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+4255,Continental Toulouse,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4256,Continental Rambouillet,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4260,Alstom,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4282,Imec Asic Services,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4284,Csem Neuchatel,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4287,Stmicroelectronics (Crolles2) Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+4291,Semtech France Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+4293,Semtech Neuchâtel,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4299,Dream,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4305,Lynred,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4311,Alstom Aix,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4331,Synergia Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4342,Melexis Tessenderlo,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4345,Menta Valbonne,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4349,Neelogy,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4369,Guc,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4710,Rambus,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4718,Thales Dis Design Services,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+4719,Idemia Meyreuil,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+5745,Enyx,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+5768,Emka Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+5779,Biofourmis,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+5787,Sodern,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+5795,Senis,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+5808,Elsys Design 06,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+6899,Thales Avs Mérignac,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+7930,Advanced Silicon Sa,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+7962,Cern,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+7965,Lem,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+7980,Em Microelectronic,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+7987,Trameto,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+7988,Forvia Nanterre,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9016,Pyxalis,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9020,Helbling Technik Bern Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9027,Upmem,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9046,Computime,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9050,Thales Avs Valence,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9061,Allegro Microsystems France Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+9063,Exosens,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9065,Hap2U,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9072,Presto Engineering Inc,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+9103,Tiempo-Secure,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9111,Trixell,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9135,Kapflex Sensors,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+9187,Eth Zurich Gloriastrasse,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10263,Ams-Osram Ag Rapperswill,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10299,Vibiscus,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10310,Dga Bruz,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10391,Gopro Technology France Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+10412,Airmems,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10423,Reflex Ces,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10456,Meta,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10525,Satt Sayens,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+10541,Bartels Mikrotechnik,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+10543,Hco,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11580,Easics,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11625,Ams-Osram Valencia,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11652,Withings,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11664,Thales Six Gennevilliers,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11675,Ledger,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11714,Polyn Technology Ltd.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+11737,Continental Regensburg,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11747,Sifemto,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11748,Cegitek Innovation,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11764,Kapsch Trafficcom Vienna,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11778,Ams-Osram Ag Premstaetten,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11904,Stmicroelectronics Catania,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11929,Ensta,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+11945,Stmicroelectronics (Grenoble 2) Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+12057,Senbiosys,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+12058,Woodwelding Sa,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+12062,Olythe,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+12065,Titan Defense,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+12067,Allegro Microsystems Milpitas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+12086,Vermes Microdispensing,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+14106,Laclarée Vision,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+14146,Isd Integrated System Development,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+15153,Wise Integration,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+15157,Switchess,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17186,Trinamix Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+17205,Silmach,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17208,Sagax,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+17230,Lynxemi,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17253,Nuvasive Paris,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17265,Alter Technology (France),,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17279,Bme Consulting Suisse,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17280,Boydsense Hq,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17288,Sipearl,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17471,Equipic,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17472,Centiloc,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17476,Trilite Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+17484,Faurecia Clarion Electronics Europe (Fr60),,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17490,Rds Rhythm Diagnostic Systems (Strasbourg),,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17491,Moxtek,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17493,Eusil,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17496,Netlink Communication Corp,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+17498,Eric Desplanches,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17506,Nanoz Group,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17517,Milandr,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17523,Microej,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17525,Numem,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17533,Kineis,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17554,Sense In,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17556,Mosaic Finance,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+17561,Waviot,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17566,Voxelsensors Srl,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17568,Crypto Quantique,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17569,Micro Crystal,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+17581,Pharrowtech Bv,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18583,Neuroloop,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18592,Nyxoah,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18597,Micledi,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18600,Rad Data Communications,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18604,Synthara Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18611,Crouzet,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18618,Bosch Sensortec Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+18619,Virility Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18621,Cebi Electromechanical Components Spain S.A.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18622,Datacan,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18623,Pytheas Technology,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18629,Pulsify Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18632,Advanced Bionics Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18634,Caranx Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18635,Axem Technology,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18638,Picotech,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18639,Eyyes,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18644,Pv Hardware Solutions,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18661,Manitty,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18686,Weebitnano France,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18691,Befc,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18706,Orcasonics Innovation Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+18713,Applied Brain Research Inc.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+18718,Equilibr.Io,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18721,Everysight,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18722,Pellenc Energy,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18723,Neologic (Vlsi),,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18724,Sequans Israel,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18725,Universidad De Zaragoza,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+18726,"Titan Advanced Energy Solutions, Inc",,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+18729,Siclade Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+19736,B&R Automation,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19738,Ternwaves,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19751,Crane Aerospace,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19754,Valeo Vision France Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+19761,Ram Solutions Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+19776,Valid Soluciones Tecnologicas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19787,Ilmsens Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+19796,Vocsens,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19801,Orga+,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19802,Wheere,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19809,Infinera,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19821,Lightricity Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+19826,Vandewiele,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19835,Batchone,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19839,Cleardrop,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19841,Tyri Sweden Ab,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19843,Memperience,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19844,Ic-Logic,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19850,Arçelik Global,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19881,Semidynamics,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+19884,Intron Electronic Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+19891,Efficient Computer,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20931,Impli Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20932,Watermelon Co.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20933,Quside Technologies S.L.,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+20936,Sonicedge Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+20937,Enercon Technologies Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+20940,Syrma Sgs,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20942,"Diodes, Inc",,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+20946,Id4Us,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20953,Legrand France Pyrénées,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20954,Schaeffler Toulouse,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20963,Cnrs Crhea,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20965,Eviden Sophia,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20973,Steerlight,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20982,Forest Neurotech Llc,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+20983,Actia Automotive,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+20990,Joulwatt,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21004,Smartpatch Health,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21006,Gammao,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21009,Imperial Brand,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21011,Yongatek,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21012,Hazelton Technologies Pty Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+21013,Calian Ltd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+21015,Tandemlaunch,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21018,Ceragon,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21023,Idun Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+21029,Liom,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21037,Ceryx Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21044,Esploratis,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21048,Openchip And Software Technologies Sl,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+21052,Qualinx,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21054,Monolithicpowersystems,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21056,Precision Neuroscience Corporation Usd,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+21065,Sicoya Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+21067,Zama,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21071,Innoviz Technologies,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Startup
+21073,Noptrack,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21082,Cy-Cor Sas,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,SME
+21085,Precision Neuroscience Euro,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21087,Kmc Component,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+21091,Kwazar-Is,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22107,Cisteo Medical,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22111,Mstech Europe,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22112,Apple Cupertino,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22113,Yitran,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22114,Spark Microsystems,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22115,Schaeffler Regensburg,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22116,Thyssenkrupp Presta Ag,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22129,Iqm,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22131,Nxp Semiconductors Austria Gmbh,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Enterprise
+22132,Onsemi Brno Design Center,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22133,Global Foundries Malta,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22142,Qualcomm Colombes,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22150,Movyon Electronics S.R.L,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22153,Newco,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22154,Essilorluxottica,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22166,Ingage,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown
+22167,Optiver,,2025-09-18 11:03:09.159339,Legacy_companies.csv,,Unknown

@@ -1,0 +1,115 @@
+name: 📚 Documentation
+description: Documentation tasks for the IC'ALPS pipeline project
+title: "[DOCS] "
+labels: ["documentation", "needs-triage"]
+assignees:
+  - Wkayaobama
+body:
+  - type: input
+    id: doc-title
+    attributes:
+      label: Documentation Title
+      description: What documentation needs to be created/updated?
+      placeholder: ex. "API documentation for data processors"
+    validations:
+      required: true
+
+  - type: textarea
+    id: doc-purpose
+    attributes:
+      label: What should this documentation accomplish?
+      description: Purpose and target audience
+      placeholder: |
+        This documentation will help developers understand how to:
+        - Use the data processing API
+        - Extend business logic components
+        - Troubleshoot common issues
+        - Follow coding standards and patterns
+    validations:
+      required: true
+
+  - type: textarea
+    id: doc-trigger
+    attributes:
+      label: When is this documentation needed?
+      description: What triggers the need for this documentation?
+      placeholder: |
+        - New feature completion requiring user guidance
+        - Developer onboarding requirements
+        - Support ticket patterns indicating knowledge gaps
+        - Compliance or audit requirements
+    validations:
+      required: true
+
+  - type: textarea
+    id: doc-structure
+    attributes:
+      label: Documentation structure and content
+      description: Outline of sections and key topics to cover
+      placeholder: |
+        1. Overview and architecture
+        2. Getting started guide
+        3. API reference with examples
+        4. Configuration options
+        5. Troubleshooting guide
+        6. Best practices and patterns
+        7. FAQ section
+    validations:
+      required: true
+
+  - type: textarea
+    id: doc-tools
+    attributes:
+      label: What tools and systems are involved?
+      description: Documentation tools, systems, and integration points
+      placeholder: |
+        - GitHub README/Wiki
+        - Code comments and docstrings
+        - Jupyter notebooks for tutorials
+        - Excel templates with instructions
+        - Video recordings for complex workflows
+    validations:
+      required: true
+
+  - type: textarea
+    id: doc-deliverables
+    attributes:
+      label: Expected documentation deliverables
+      description: Specific documents, formats, and outputs
+      placeholder: |
+        - README.md with comprehensive setup guide
+        - API documentation with code examples
+        - Video walkthrough of key workflows
+        - Template files with embedded instructions
+        - Troubleshooting guide with common solutions
+    validations:
+      required: true
+
+  - type: dropdown
+    id: doc-priority
+    attributes:
+      label: Documentation Priority
+      description: How urgent is this documentation?
+      options:
+        - High - Blocks user adoption
+        - Medium - Improves user experience
+        - Low - Nice to have reference
+    validations:
+      required: true
+
+  - type: input
+    id: target-date
+    attributes:
+      label: Target Completion Date
+      description: When should this documentation be complete? (YYYY-MM-DD)
+      placeholder: "2024-02-01"
+
+  - type: textarea
+    id: doc-context
+    attributes:
+      label: Additional Context
+      description: Related features, user feedback, or specific requirements
+      placeholder: |
+        - Related to Phase 5: Production Deployment & Monitoring
+        - User feedback: Need better error message explanations
+        - Compliance requirement for audit trail documentation

@@ -1,0 +1,635 @@
+﻿2,CEA Grenoble,NULL,www.cea.fr,7576,CYTHERE
+2,CEA Grenoble,NULL,www.cea.fr,7602,B24-06316
+2,CEA Grenoble,NULL,www.cea.fr,8637,Driver uLED GAN
+3,Malvern Panalytical,NULL,http://www.panalytical.com,3,MARSIC
+1057,Insightness,NULL,http://www.insightness.com/,6056,Migration ASIC
+1064,eLichens,NULL,http://www.elichens.com/,2006,Electra
+1071,SERCEL,NULL,NULL,6104,SUBRA - Préétude ADC
+1071,SERCEL,NULL,NULL,6105,SUBRA - préétude SoC
+1071,SERCEL,NULL,NULL,7351,SUBRA2-TIA
+1071,SERCEL,NULL,NULL,7589,ASIC High Temp
+1071,SERCEL,NULL,NULL,7526,SCM SEISAD WP1
+1071,SERCEL,NULL,NULL,7383,SUBRA2-FDC
+1071,SERCEL,NULL,NULL,7384,SUBRA2-AAC
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,6143,BEEMIN
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,6180,Beemin-IP analogique
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,6240,Beemin-Avenant1
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7280,BEEMIN Amendment2
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7356,BEEMIN - Avenant3
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7380,BEEMIN Avenant 4
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7385,BEEMIN2
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7479,Beemin-Amendment5
+1072,BAUMER ELECTRIC AG,NULL,http://www.baumer.com,7593,Beemin-Avenant6
+1074,THALES ALENIA SPACE Toulouse,NULL,https://www.thalesgroup.com/fr/global/activities/espace,6028,TYL
+1074,THALES ALENIA SPACE Toulouse,NULL,https://www.thalesgroup.com/fr/global/activities/espace,6086,RFI for 1 to 2 FPGA design
+1074,THALES ALENIA SPACE Toulouse,NULL,https://www.thalesgroup.com/fr/global/activities/espace,6094,TANIA
+1074,THALES ALENIA SPACE Toulouse,NULL,https://www.thalesgroup.com/fr/global/activities/espace,6118,TEGMEN
+1074,THALES ALENIA SPACE Toulouse,NULL,https://www.thalesgroup.com/fr/global/activities/espace,7487,AT
+1075,Redtree Solutions,NULL,http://redtree-solutions.com/,7417,Dosimetre
+1076,ALEDIA,NULL,www.aledia.com,2005,ACAMAR pré-étude
+1076,ALEDIA,NULL,www.aledia.com,2011,ACAMAR Design
+1076,ALEDIA,NULL,www.aledia.com,2012,ACAMAR Prototypage
+1076,ALEDIA,NULL,www.aledia.com,2013,Etude exploratoire
+1076,ALEDIA,NULL,www.aledia.com,3014,Acamar : phase 3 pré-étude
+1076,ALEDIA,NULL,www.aledia.com,6034,ACAMAR Seconde archi
+1076,ALEDIA,NULL,www.aledia.com,7601,ASIC digital
+1076,ALEDIA,NULL,www.aledia.com,7433,ALYA - Avenant 3
+1076,ALEDIA,NULL,www.aledia.com,7443,ALYA - Avenant 4 - nouveau floorplan
+1076,ALEDIA,NULL,www.aledia.com,7462,ALYA - Avenant 5
+1076,ALEDIA,NULL,www.aledia.com,7464,ALYA-FPGA
+1076,ALEDIA,NULL,www.aledia.com,6261,ALYA-Spécification
+1076,ALEDIA,NULL,www.aledia.com,6264,ALYA-Design
+1076,ALEDIA,NULL,www.aledia.com,7340,ALYA-Avenant1
+1076,ALEDIA,NULL,www.aledia.com,7375,ALYA-Avenant2
+1076,ALEDIA,NULL,www.aledia.com,7416,ALYA : Avenant 2
+1076,ALEDIA,NULL,www.aledia.com,6121,ALE01
+1076,ALEDIA,NULL,www.aledia.com,6123,Soustraitance Projet Europeen
+1076,ALEDIA,NULL,www.aledia.com,6133,ALE01-1
+1076,ALEDIA,NULL,www.aledia.com,6219,ACAMAR : Offre Lot Engineering / 6 wafers
+1076,ALEDIA,NULL,www.aledia.com,6255,ACAMAR - Conservation des masques
+1076,ALEDIA,NULL,www.aledia.com,6064,ACAMAR : FPGA
+1076,ALEDIA,NULL,www.aledia.com,6066,Pièces et carte sup
+1076,ALEDIA,NULL,www.aledia.com,6070,ACAMAR - Tranches remplacement
+1076,ALEDIA,NULL,www.aledia.com,6077,ACAMAR : complement FPGA
+1076,ALEDIA,NULL,www.aledia.com,6088,ACAMAR FPGA (fonction sup)
+1081,FRAMATOME,NULL,http://www.rolls-royce.com,4024,ASIC conversion CU/FO
+1089,SP3H,NULL,http://www.sp3h.com,4,ASIC pour application Automobile
+1095,CISSOID  S.A.,NULL,http://www.cissoid.com/,7324,CEIBO
+1095,CISSOID  S.A.,NULL,http://www.cissoid.com/,7437,CIS01-Phase1-3
+1095,CISSOID  S.A.,NULL,http://www.cissoid.com/,7449,CIS01-Phase4
+1100,CARMAT,NULL,http://www.carmatsa.com,6141,Préétude
+1115,ISORG,NULL,http://www.isorg.fr,6089,ASIC empreinte
+1115,ISORG,NULL,http://www.isorg.fr,7373,ASIC pour empreinte
+1119,VITEC Video Innovation,NULL,http://www.vitec.com,4016,VEGA
+1119,VITEC Video Innovation,NULL,http://www.vitec.com,6044,VEGA -Design
+1119,VITEC Video Innovation,NULL,http://www.vitec.com,6120,VEGA-IP
+1119,VITEC Video Innovation,NULL,http://www.vitec.com,6172,VEGA-IP2
+1119,VITEC Video Innovation,NULL,http://www.vitec.com,7404,Suite projet ASIC
+1128,@-health,NULL,http://www.healthcardionexion.com,4021,AFE pour cardio - préétude
+1132,intoPIX S.A.,NULL,https://www.intopix.com/,4018,ISIDA - Préétude
+1132,intoPIX S.A.,NULL,https://www.intopix.com/,7534,ISIDA
+1139,VSORA,NULL,http://www.vsora.com,7362,P&R TSMC N5A
+1146,Adept Neuro SA,NULL,http://www.aleva-neuro.com,6049,MOPx
+1148,Safran Sensing Norway,NULL,http://www.sensonor.com,7299,ASIC avec ADC 140db
+1150,3D-plus,NULL,www.3d-plus.com,4020,Projet ASIC
+1150,3D-plus,NULL,www.3d-plus.com,7423,"Interface MIPI -> Ethernet, SpaceWire et/ou MIPI"
+1154,NIPSON Technology,NULL,http://www.nipson.com/,6035,Industrialisation ASIC
+1156,DEBIOTECH,NULL,https://www.debiotech.com/page/index.php?page=home,5,Projet pompe insuline
+1157,SLB,NULL,http://www.slb.com,7378,SALM
+1157,SLB,NULL,http://www.slb.com,7469,SALM - Design
+1157,SLB,NULL,http://www.slb.com,7499,SALM-22FDX
+2147,Scubapro Uwatec,NULL,https://ww2.scubapro.com,6050,UW9
+2153,Seal SQ France,NULL,http://www.wisekey.com,7285,Wezen
+2153,Seal SQ France,NULL,http://www.wisekey.com,8649,1 licence X100 pour 6 mois
+2153,Seal SQ France,NULL,http://www.wisekey.com,7564,WEZEN - support indus WP3
+2153,Seal SQ France,NULL,http://www.wisekey.com,7595,Licences EDA - suite
+2153,Seal SQ France,NULL,http://www.wisekey.com,7596,Licences Questa Prime
+2153,Seal SQ France,NULL,http://www.wisekey.com,7615,Wezen - 8 licences X100
+2153,Seal SQ France,NULL,http://www.wisekey.com,8631,Vesuve - support caracterisation
+2153,Seal SQ France,NULL,http://www.wisekey.com,7514,3 licences X100 pour 3 mois
+2153,Seal SQ France,NULL,http://www.wisekey.com,7520,Mérapi
+2153,Seal SQ France,NULL,http://www.wisekey.com,7549,SUMBA - Faisabilité IP petite
+2153,Seal SQ France,NULL,http://www.wisekey.com,7558,Wezen - Amendment 3 - RNG Charac
+2153,Seal SQ France,NULL,http://www.wisekey.com,7559,extra EDA
+2153,Seal SQ France,NULL,http://www.wisekey.com,7387,Adaptation TPMP (P&R) sur circuit existant
+2153,Seal SQ France,NULL,http://www.wisekey.com,7402,WEZEN - Amendement 1
+2153,Seal SQ France,NULL,http://www.wisekey.com,7414,WEZEN - Avenant 1 - IP IO PAD
+2153,Seal SQ France,NULL,http://www.wisekey.com,7434,Wezen IP DMA AHB
+2159,Zhortech,NULL,https://zhortech.com/,1005,ASIC : TEJAT
+2160,CNES,NULL,https://cnes.fr/,6030,ASIC pour DAC X-IFU
+2191,SCHNEIDER Electric Eybens,NULL,https://www.schneider-electric.fr/fr/,6212,SHEDDI : préétude
+2191,SCHNEIDER Electric Eybens,NULL,https://www.schneider-electric.fr/fr/,6228,SHEDDI : Design
+3175,AnotherBrain,NULL,https://anotherbrain.ai/fr/,6062,Prototypage : ASIC development neuroprocesseur
+3175,AnotherBrain,NULL,https://anotherbrain.ai/fr/,6071,Industrialisation : ASIC neuromorphic
+3175,AnotherBrain,NULL,https://anotherbrain.ai/fr/,6125,nouvelle étude
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6031,Développement ASIC ULP (CHARA)
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6099,ASICALPS
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6156,CAIRPMU2
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6157,Diagnostic PMU
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6169,Avenant reprise CHARA
+3176,CAIRDAC,NULL,http://www.cairdac.com/,8644,Test de 100 puces au labo + socket
+3176,CAIRDAC,NULL,http://www.cairdac.com/,8645,Socket test Chara v1b
+3176,CAIRDAC,NULL,http://www.cairdac.com/,8646,Support utilisation de Chara dans environnement ap
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7477,Charav1b - cartes de démo/dev
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7524,15 cartes de proto Charav1b + accéléro
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7538,Chara-v1b-Pré-indus
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7543,Chara v1b - Préindus avec EWS et qualif WLCSP
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7545,Preindus Charav1b - WP7a
+3176,CAIRDAC,NULL,http://www.cairdac.com/,8630,CHARA-Test 40 pcs
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7347,Pré industrialisation Chara v1
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7368,CAIRCPU
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7379,Charav1b - complement conso
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7382,CAIRCPU-ASIC
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7395,Hot Lot Wafer - proto Chara v1b
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7476,Livraison Chara v1b en Waffle Pack
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6222,CHARA Avenant 2
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6237,CAIRPMU2 : WP2+WP3
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6243,CHARA version 2
+3176,CAIRDAC,NULL,http://www.cairdac.com/,6248,CAIRPMU2 - complément faisabilité WP1b
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7345,Chara v1b
+3176,CAIRDAC,NULL,http://www.cairdac.com/,7346,Etude conso Chara v2
+3179,Moduleus,NULL,http://www.moduleus.com/,2008,Pré-étude : ACQ2G
+3179,Moduleus,NULL,http://www.moduleus.com/,2009,Pré-étude : xMUT
+3179,Moduleus,NULL,http://www.moduleus.com/,4014,MIRA-ACQ: ASIC
+3179,Moduleus,NULL,http://www.moduleus.com/,4015,MIRA-PULSE: ASIC
+3179,Moduleus,NULL,http://www.moduleus.com/,6040,MIRA-PULSE: pièce méca
+3179,Moduleus,NULL,http://www.moduleus.com/,6054,MIRA-ACQ: pièce meca et Daisy Chain
+3179,Moduleus,NULL,http://www.moduleus.com/,7322,MIRZA - portage MIRA sur noeuds avancés
+3179,Moduleus,NULL,http://www.moduleus.com/,6082,ACQ2G: nouveau perimètre
+3179,Moduleus,NULL,http://www.moduleus.com/,6085,GENESIS: ASIC (Moduleus)
+3179,Moduleus,NULL,http://www.moduleus.com/,6090,Pré-étude PULSE v2
+3179,Moduleus,NULL,http://www.moduleus.com/,6091,Reprise PULSE
+3179,Moduleus,NULL,http://www.moduleus.com/,6092,Reprise ACQ
+3179,Moduleus,NULL,http://www.moduleus.com/,6195,Avenant 5 - MIRA-PULSE
+3180,NanoXplore,NULL,http://www.nanoxplore.com/,7320,NX-TC7
+3186,SentinHealth,NULL,http://sentinhealth.com/,2010,Pré-étude DANA
+3187,VERMON,NULL,http://www.vermon.com,6032,pré-étude ASIC - part1
+3187,VERMON,NULL,http://www.vermon.com,6033,pré-étude ASIC - part 2
+3187,VERMON,NULL,http://www.vermon.com,6132,ASIC pour Abbott
+3187,VERMON,NULL,http://www.vermon.com,7294,VELA WP2 à WP4
+3187,VERMON,NULL,http://www.vermon.com,7445,RADICUS
+3187,VERMON,NULL,http://www.vermon.com,7460,RADIUS - WP1
+3187,VERMON,NULL,http://www.vermon.com,7473,RADIUS - WP2 & WP3
+3187,VERMON,NULL,http://www.vermon.com,7519,Suze (2 ASICs dans ZeUS)
+3187,VERMON,NULL,http://www.vermon.com,7565,RADICUS - prototypage MLM
+3187,VERMON,NULL,http://www.vermon.com,7597,RADICUS - petite puce
+3187,VERMON,NULL,http://www.vermon.com,8621,Avenant RADICUS MLM pour PCB
+4196,"Neurallys ",NULL,http://www.neurallys.com,2014,NEKKAR : Pré-étude
+4196,"Neurallys ",NULL,http://www.neurallys.com,6095,ASIC NEKKAR
+4201,Panaxium,NULL,http://www.panaxium.com,6039,pré-étude ASIC
+4202,Fine Heart,NULL,http://www.fine-heart.com/,2015,FIDIS : pré-étude
+4214,VALEO Pouillon,NULL,http://www.valeo.com,7281,Projet Equipe ASIC dédié ?
+4214,VALEO Pouillon,NULL,http://www.valeo.com,7438,SOC Faisabilité
+4230,Sensimed,NULL,http://www.sensimed.com,6048,Mopx
+4233,SICPA,NULL,http://www.sicpa.com,6148,SIRAH
+4235,Silicon Mobility,NULL,http://www.scaleochip.com,6262,ASIC pour circuit Automotive
+4235,Silicon Mobility,NULL,http://www.scaleochip.com,7364,Bloc MSC
+4242,Diabeloop,NULL,http://www.diabeloop.fr/,7278,Préétude
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,6150,ASIC pour ILR/ICD-s
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,6163,Etude faisabilité
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,6245,ASIC pour ILR faible conso
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,6263,Renfort Layout-1.1
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,7321,Renfort Layout-2
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,7325,Renfort Layout-1.2
+4246,Sorin CRM S.A.S.,NULL,http://www.microport.com/en/media.php?curr_page=news_details&id=607,7327,Support CAD
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6083,GRENAT
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6129,Grenat - Avenant 1
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6134,Grenat - Avenant 2
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6136,Grenat - Avenant 3
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6146,Grenat - Avenant 4
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6162,Grenat - Avenant 5
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7572,Grenat-Avenant 25 (TPEC2)
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7573,Grenat - Régul TPEC
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7535,Lot Prod 10 et 11
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7536,Lot Production 10 et 11 - Marge
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7551,Grenat - Lot 12-13
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7556,Grenat - Marge lot 12 et 13
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7562,GRENAT-Avenant 24
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7466,GRENAT-Avenant 22 Caract temp TT
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7502,Migration production AMKOR
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7516,Avenant 23
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7531,GRENAT-Avenant 21 - Commande 2 nouveaux Patterns
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7421,Grenat - Lot 5 marge
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7432,Grenat - Avenant 19 - HTOL 1000hours
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7435,Grenat - Lot prod 6-9
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7436,Grenat - Marge lots 6-9
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7452,Avenant 21 - patterns additionnels ESR 1.2
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7465,Grenat-Avenant 22 corner
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7391,Grenat - Avenant xx BGA
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7396,Grenat - Lot Prod 4
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7397,GRENAT - Marge prod lot 4
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7403,Grenat - Avenant 18 ESD
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7415,GRENAT - Additional partern
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7420,GRENAT - Prod lot 5 (23 wafers)
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7341,GRENAT - Marge prod lot1-2
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7344,Traitement wafer 3
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7366,Grenat - Lot Prod 3
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7367,GRENAT - Marge prod lot 3
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7370,GRENAT- Avenant#16
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7372,Grenat-Avenant 17
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7301,Grenat - Avenant 14 - Metalfix
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7307,Grenat - Avenant 14 post-traitement
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7312,Grenat-Avenant#14 - patterns supplémentaires
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7314,Grenat Test 1 wafer
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7316,Grenat - lot prod 1-2
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,7317,Grenat - Régularisation $
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6247,Grenat - Avenant 8
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6251,Grenat - Avenant 12
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6253,Grenat - Avenant 12 (fin IBIS)
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6254,Grenat - Dicing wafer
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6257,GRENAT - Avenant 13
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6265,Grenat - Avenant 14 - eps2
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6178,Grenat - Avenant 6
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6190,Grenat - Avenant 7
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6218,Grenat - Avenant 9
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6229,Grenat - Avenant 11
+4247,GreenWaves Technologies,NULL,http://greenwaves-technologies.com,6233,Grenat - Avenant 10
+4255,CONTINENTAL Toulouse,NULL,http://www.conti-online.com,7611,Cendric investigations
+4256,CONTINENTAL Rambouillet,NULL,http://www.conti-online.com,8632,ASIC digital
+4260,Alstom,NULL,http://www.alstom.fr/,7298,Migration FPGA->ASIC
+4282,IMEC ASIC Services,NULL,NULL,7412,ADHIL - préétude
+4282,IMEC ASIC Services,NULL,NULL,7413,ADHIL-ASIC
+4282,IMEC ASIC Services,NULL,NULL,7532,ASIC Photonics
+4284,CSEM Neuchatel,NULL,http://www.csem.ch,6170,CS01
+4287,STMicroelectronics (Crolles2) SAS,NULL,www.st.com,6029,Backend gros circuit 28FDSOI
+4287,STMicroelectronics (Crolles2) SAS,NULL,www.st.com,6109,STAR01
+4287,STMicroelectronics (Crolles2) SAS,NULL,www.st.com,7323,STAR03
+4287,STMicroelectronics (Crolles2) SAS,NULL,www.st.com,7447,P&R Chiplet en P18
+4291,SEMTECH FRANCE SAS,NULL,www.semtech.com,6135,SEM01-1
+4291,SEMTECH FRANCE SAS,NULL,www.semtech.com,6145,SEM01-2
+4291,SEMTECH FRANCE SAS,NULL,www.semtech.com,6159,SEM01-3
+4291,SEMTECH FRANCE SAS,NULL,www.semtech.com,6199,SEM01-6
+4291,SEMTECH FRANCE SAS,NULL,www.semtech.com,6215,SEM01-7
+4293,SEMTECH Neuchâtel,NULL,www.semtech.com,6127,SEM01
+4293,SEMTECH Neuchâtel,NULL,www.semtech.com,6187,SEM01-5
+4293,SEMTECH Neuchâtel,NULL,www.semtech.com,8622,Carac
+4293,SEMTECH Neuchâtel,NULL,www.semtech.com,8623,Besoin design
+4293,SEMTECH Neuchâtel,NULL,www.semtech.com,8651,SEM02
+4299,DREAM,NULL,NULL,6216,DENEB
+4299,DREAM,NULL,NULL,7329,DENEB Avenant 1-WP1
+4299,DREAM,NULL,NULL,7334,DENEB-Avenant 1 WP1.1
+4299,DREAM,NULL,NULL,7377,DENEB - Avenant2 WP1.a
+4299,DREAM,NULL,NULL,7442,Redevances
+4299,DREAM,NULL,NULL,7574,DENEB-Avenant Top
+4305,LYNRED,NULL,http://www.lynred.com,7555,CSI2
+4311,Alstom Aix,NULL,https://www.alstom.com,4022,ALFIRK
+4331,SYNERGIA Medical,NULL,http://www.synergiam.com/,6046,MOPx
+4342,Melexis Tessenderlo,NULL,http://www.melexis.com,7348,ASIC BLE+M23
+4342,Melexis Tessenderlo,NULL,http://www.melexis.com,7425,Projet Arm33
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,6140,MAIA1
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,6160,MAIA2
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,6161,MAIA3
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,6226,FOSTeR
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,6242,FPGA 22FDX
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,7363,Cellule DFF spécifique
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,7554,UCIe
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,7591,MAIA2
+4345,MENTA Valbonne,NULL,http://www.menta.fr/,7592,P&R SCL
+4349,Neelogy,NULL,http://www.neelogy.com/,4017,NAOS : Préétude
+4369,GUC,NULL,http://www.guc-asic.com,6177,Developpement systeme ARM
+4710,RAMBUS,NULL,http://www.plda.com,6193,Support synthèse
+4718,THALES DIS Design Services,NULL,http://www.invia.fr,6236,Virgo
+4718,THALES DIS Design Services,NULL,http://www.invia.fr,7407,Tristan
+4718,THALES DIS Design Services,NULL,http://www.invia.fr,7455,TRISTAN - WP5
+4719,IDEMIA Meyreuil,NULL,http://www.starchip-ic.com,6230,ASIC Design Services
+5745,ENYX,NULL,http://www.enyx.com,6194,EDASICH WP2-spec
+5745,ENYX,NULL,http://www.enyx.com,6234,EDASICH - Préétude
+5745,ENYX,NULL,http://www.enyx.com,7279,EDASICH-Design
+5768,EMKA TECHNOLOGIES,NULL,http://www.emka.fr/,7374,ASIC
+5779,BIOFOURMIS,NULL,http://www.biovotion.com,6047,MOPx
+5787,SODERN,NULL,www.sodern.com,6144,Projet ASIC
+5795,SENIS,NULL,http://www.senis.ch,7386,Migration design
+5808,ELSYS Design 06,NULL,http://www.elsys-design.com/,7431,Equipe pour verification UVM
+6899,THALES AVS Mérignac,NULL,https://www.thalesgroup.com/fr/global/activities/aeronautique,6107,TOLIMAN - Préétude
+6899,THALES AVS Mérignac,NULL,https://www.thalesgroup.com/fr/global/activities/aeronautique,6108,TOLIMAN - Design
+7930,Advanced Silicon SA,NULL,www.advancedsilicon.com,6268,Projet ASIC autour N25
+7962,CERN,NULL,https://home.cern/fr/contact,6213,P&R
+7965,LEM,NULL,http://www.lem.com,6051,Migration FPGA
+7965,LEM,NULL,http://www.lem.com,6171,LESATH
+7965,LEM,NULL,http://www.lem.com,6214,LESATH-Layout
+7965,LEM,NULL,http://www.lem.com,6256,LESATH OTT layout
+7965,LEM,NULL,http://www.lem.com,7300,LESATH Embauche David
+7965,LEM,NULL,http://www.lem.com,7310,Lesath-Layout avenant#2
+7965,LEM,NULL,http://www.lem.com,7330,LESATH-OTT
+7965,LEM,NULL,http://www.lem.com,7339,LESATH-Avenant1
+7965,LEM,NULL,http://www.lem.com,7355,LESATH-Avenant2
+7965,LEM,NULL,http://www.lem.com,7371,LESATH-AB
+7965,LEM,NULL,http://www.lem.com,7440,LEM02
+7980,EM Microelectronic,NULL,www.emmicroelectronic.com,6069,EM01
+7980,EM Microelectronic,NULL,www.emmicroelectronic.com,6103,EM02
+7980,EM Microelectronic,NULL,www.emmicroelectronic.com,7570,EM03
+7980,EM Microelectronic,NULL,www.emmicroelectronic.com,7594,SpiceX
+7987,Trameto,NULL,https://trameto.com/,4023,TEREBELL : Service Design&Layout
+7988,FORVIA Nanterre,NULL,http://www.faurecia.com,6065,Support: Diagnostic PMIC
+7988,FORVIA Nanterre,NULL,http://www.faurecia.com,6122,RFQ pour ASCI OCTOPUS4
+9016,PYXALIS,NULL,http://pyxalis.com/,6067,Bloc digital + SW pour ASIC imageur
+9016,PYXALIS,NULL,http://pyxalis.com/,6097,PYX01: Consulting Services
+9016,PYXALIS,NULL,http://pyxalis.com/,6113,PYX02: régie dev digital
+9016,PYXALIS,NULL,http://pyxalis.com/,6142,Developpement numérique
+9016,PYXALIS,NULL,http://pyxalis.com/,7286,PYX02
+9016,PYXALIS,NULL,http://pyxalis.com/,7338,PYX02-Avenant1
+9020,Helbling Technik Bern AG,NULL,http://www.helbling.ch,5026,ASIC implant
+9027,UPMEM,NULL,http://www.upmem.com,6098,URKAB
+9027,UPMEM,NULL,http://www.upmem.com,7537,P&R et Top test chip
+9046,Computime,NULL,http://www.computime.com,5024,ASIC Automotive PMU
+9050,THALES AVS Valence,NULL,https://www.thalesgroup.com/fr/global/activities/aeronautique,6058,RFI ASIC
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,5025,CASTOR : Migration HALO - CT450
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,6053,projet SATURN
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,6055,projet VIPER
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,6078,Extension Devis D-Saturn
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,6079,Bloc Analog: Clock generator
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,6207,Equipe dédiée
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,7289,SiriusII
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,7472,Equipe dédiée 2024 - 3 mois
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,NULL,https://www.allegromicro.com/en/,7505,Services avec équipes 2 ETP
+9063,EXOSENS,NULL,http://www.device-alab.com/,7454,Plateforme Image
+9065,HAP2U,NULL,http://www.hap2u.net,6041,Pré-étude ASIC
+9072,Presto Engineering Inc,NULL,http://www.presto-eng.com/,7608,Besoin P&R pour ASIC Automotive
+9072,Presto Engineering Inc,NULL,http://www.presto-eng.com/,7619,Design pour ASIC Bosch
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6061,Migration Std cell
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6114,Salle CC
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6131,P&R IP TESIC TSMC 16 nm & GF22
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6176,Demonstrateur GF 22 nm
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6182,TESIC + TALITA en GF 40
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6196,Prestation Design Syntheses Tiempo
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7426,TG22
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7453,TTT22 avenant 3
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7463,TTT22B
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7506,TTT22B-WP1
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7541,TTT03
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,8639,Besoin support
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7357,P&R circuit GF 22
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7358,TTU55
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7359,TTT22 - 6 corners add
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7389,TTT07
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7390,TTS18
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7400,TTT22 - Av2
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6200,TEST CHIP TESIC ST28FDSOI
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6201,TALITA & THETA TSMC 22nm
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6224,Assemblage puces théta 22
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6225,Projet eFPGA
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,6239,THETA/TALITA GF12
+9103,TIEMPO-SECURE,NULL,http://www.tiempo-ic.com,7335,TTT22 avenant 1
+9111,TRIXELL,NULL,https://www.trixell.com/,6173,TRIXELL: Analyse de defaillance
+9135,Kapflex Sensors,NULL,http://www.kapflex.com,6063,KHARA
+9187,ETH Zurich Gloriastrasse,NULL,https://www.ethz.ch/en.html,7353,Projet collaboratif
+10263,ams-OSRAM AG Rapperswill,NULL,http://ams.com/eng,7418,Alboran
+10263,ams-OSRAM AG Rapperswill,NULL,http://ams.com/eng,7492,Alboran-Amendment1
+10263,ams-OSRAM AG Rapperswill,NULL,http://ams.com/eng,7585,IP DC/DC Automotive
+10299,VIBISCUS,NULL,NULL,7500,Vildiur
+10299,VIBISCUS,NULL,NULL,7590,VILDIUR-ASIC
+10310,DGA Bruz,NULL,http://www.defense.gouv.fr/dga,7450,DRAPEAU
+10391,GoPro Technology France SAS,NULL,https://fr.gopro.com/,6093,Gemma
+10391,GoPro Technology France SAS,NULL,https://fr.gopro.com/,6186,Gemma2
+10412,airmems,NULL,www.airmems.com/,6117,ASIC MEMS
+10423,REFLEX CES,NULL,https://www.reflexces.com/,6244,TRNG pour FPGA
+10456,Meta,NULL,http://facebook.com,7290,Projet P&R
+10456,Meta,NULL,http://facebook.com,7336,Banga
+10525,SATT SAYENS,NULL,https://sayens.fr/,6038,SADOR
+10541,Bartels Mikrotechnik,NULL,http://www.bartels-mikrotechnik.de,6037,ASIC pour micropompe
+10543,HCO,NULL,http://www.healthcareoriginals.com,6057,ASIC médical
+11580,Easics,NULL,www.easics.com/,7319,P&R
+11625,ams-OSRAM Valencia,NULL,http://ams-osram.com,8647,Design incremental ADC
+11652,Withings,NULL,www.withings.com/fr,6181,ASIC
+11664,THALES SIX Gennevilliers,NULL,https://www.thalesgroup.com/fr,6081,RFI pour ASIC control Radio
+11675,Ledger,NULL,https://www.ledger.com,7394,ASIC Ledger inside - Lavrec
+11714,Polyn Technology Ltd.,NULL,http://space-ic.com,7313,POLLUX Design
+11714,Polyn Technology Ltd.,NULL,http://space-ic.com,7328,Etude Faisabilité POLLUX
+11714,Polyn Technology Ltd.,NULL,http://space-ic.com,7483,Pollux-ADC/DAC
+11737,CONTINENTAL Regensburg,NULL,http://www.conti-online.com,8636,Collaboration ASIC
+11747,Sifemto,NULL,http://www.sifemto.com/,6036,SIRRAH : ASIC VGA
+11748,Cegitek Innovation,NULL,http://cegitek.com/index.php,6043,Migration
+11764,Kapsch TrafficCom Vienna,NULL,https://www.kapsch.net,7577,ASIC
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7471,URANUS 2 (CT digital image sensor)
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7489,Design ECC&BIST pour SRAM TSMC 90nm.
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7501,URANUS 2 amendment
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7525,URANUS 2 amendment 2
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7548,Uranus2 -Amendment 3
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7604,ASIC Automotive
+11778,ams-OSRAM AG Premstaetten,NULL,http://ams.com/eng,7605,UHF ASIC RFID
+11904,STMicroelectronics Catania,NULL,www.st.com,6158,Design DCDC converter
+11929,ENSTA,NULL,www.ensta-bretagne.fr,6045,ELNATH
+11945,STMicroelectronics (Grenoble 2) SAS,NULL,https://www.st.com/,7496,Support en 7nm
+11945,STMicroelectronics (Grenoble 2) SAS,NULL,https://www.st.com/,7306,STAR02 (Projet P)
+11945,STMicroelectronics (Grenoble 2) SAS,NULL,https://www.st.com/,6128,Opportunité de Design analog
+11945,STMicroelectronics (Grenoble 2) SAS,NULL,https://www.st.com/,6075,design BlueNRG - Regu APMU-LP
+12057,Senbiosys,NULL,https://www.senbiosys.com/,6110,I2C slave custom
+12058,WoodWelding SA,NULL,http://www.woodwelding.com/,6060,ASIC design
+12062,OLYTHE,NULL,http://www.olythe.io,6068,Etude faisabilité
+12065,TITAN DEFENSE,NULL,http://www.titan-defense.com,6167,Etude ASIC
+12067,Allegro Microsystems Milpitas,NULL,https://www.allegromicro.com/en/,6111,Program ORCA
+12067,Allegro Microsystems Milpitas,NULL,https://www.allegromicro.com/en/,6112,Partition Digital STINGRAY
+12086,VERMES Microdispensing,NULL,https://www.vermes.com/en/,6059,VIMES
+14106,Laclarée Vision,NULL,http://www.laclaree-vision.com/,6241,ASIC lunettes connectées
+14146,ISD Integrated System Development,NULL,https://www.isd.gr,6076,accès license calibre
+15153,Wise Integration,NULL,http://wise-integration.com/,7569,Wallis - Blocs
+15153,Wise Integration,NULL,http://wise-integration.com/,7481,Wallis
+15153,Wise Integration,NULL,http://wise-integration.com/,7509,Wallis-Préétude
+15153,Wise Integration,NULL,http://wise-integration.com/,6184,WIS01
+15157,SwitchESS,NULL,http://www.switchess.fr,6119,SUALOCIN
+17186,Trinamix GmbH,NULL,http://www.trinamix.de,6080,ASIC development RFP
+17205,SILMACH,NULL,http://silmach.com/index.php/acceuil/,7507,SHAG-ValidPlan
+17208,SagaX,NULL,https://sagax.tech,6084,ASIC HV developement and supply
+17230,LYNXEMI,NULL,http://www.lynxemi.com,6100,ASIC pour jouet Lynxsemi
+17253,NuVasive Paris,NULL,https://endotact.com/,6101,EPSILON Préétude
+17265,ALTER Technology (France),NULL,http://www.altertechnology.com,6124,ASIC en obsolecence
+17265,ALTER Technology (France),NULL,http://www.altertechnology.com,6183,RFQ flash & voter
+17265,ALTER Technology (France),NULL,http://www.altertechnology.com,6197,Assemblage LGA
+17279,BME Consulting Suisse,NULL,http://www.sourcing-force.com,6116,LEM01
+17280,BOYDSENSE HQ,NULL,https://www.boydsense.com/,6166,Etude système souffle
+17288,SiPearl,NULL,https://sipearl.com/,7406,Design sous system
+17471,EQUIPIC,NULL,http://www.equipic.com/,6259,P&R pour Axellera-AI
+17472,CENTILOC,NULL,http://www.centiloc.com/,6211,ASIC companion chip NFC
+17476,Trilite Technologies,NULL,http://www.trilite-tech.com,6130,FPGA to ASIC
+17476,Trilite Technologies,NULL,http://www.trilite-tech.com,7419,ASIC Image controller
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7311,CAPELLA-Testchip
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7424,Reprise Capella
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7456,Safety
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7457,CAPELLA-RF-MPW2
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7458,CAPELLA Full mask
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7474,CAPELLA-Digital-MPW2
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7486,Capella-PMU-Validation SIP1
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7503,CAPELLA-PMU-Validation MPW2
+17484,Faurecia Clarion Electronics Europe (FR60),NULL,https://www.faurecia-clarion.com/fr/node/2,7504,CAPELLA-PMU-Validation Full Mask
+17490,RDS Rhythm Diagnostic Systems (strasbourg),NULL,https://rdsdiag.com/,6151,Pré-étude système piezo audio
+17491,Moxtek,NULL,https://moxtek.com/,6137,ASIC - pre-amplifier SDD detector
+17493,EUSIL,NULL,http://www.eusil.eu,6155,ASIC design
+17496,Netlink communication corp,NULL,https://opulinks.com,6138,Running Springs - P&R Digital Soc IoT
+17498,Eric Desplanches,NULL,http://,6139,Design analog - Brevet
+17506,Nanoz group,NULL,http://nanoz-group.eu/,6168,NASH : ASIC MOX
+17517,MILANDR,NULL,http://www.milandr.biz,6147,MIMOSA
+17523,MicroEJ,NULL,https://www.microej.com/,6152,MEDIA - ASIC processeur HWVEE
+17525,Numem,NULL,http://www.numem.com,6164,NUNKI
+17525,Numem,NULL,http://www.numem.com,6246,NUNKI-Nano
+17525,Numem,NULL,http://www.numem.com,6266,Nunki - Power analysis
+17525,Numem,NULL,http://www.numem.com,6267,Nunki Packaging
+17533,KINEIS,NULL,https://www.kineis.com/,6153,KHAN
+17554,SENSE in,NULL,https://sense-in.fr/,6175,Intégration ASIC capteur
+17556,MOSAIC Finance,NULL,http://www.mosaicfinance.fr,6165,MIMOSA
+17556,MOSAIC Finance,NULL,http://www.mosaicfinance.fr,7295,MIMOSA - essai synthèse
+17561,Waviot,NULL,https://waviot.com/,6174,WavIoT: ASIC digitial
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,6179,VEZAD
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,6231,VEZAD - FPGA
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,6249,VEZAD - Model emulation
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,6272,VEZAD2
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,7304,VEZAD2-WP1
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,7401,VEZAD2-IPConv
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,7444,VEZAD3-Spec
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,7493,VEZAD3-P&R
+17566,VoxelSensors SRL,NULL,https://www.voxelsensors.com/,7563,VEZAD3-Handoff
+17568,Crypto Quantique,NULL,https://www.cryptoquantique.com/,6191,Block Temp Sensor
+17569,MICRO CRYSTAL,NULL,https://www.microcrystal.com/,7308,RTC Design
+17581,Pharrowtech BV,NULL,NULL,6192,PHAD P&R
+17581,Pharrowtech BV,NULL,NULL,7296,PHAD extra works
+17581,Pharrowtech BV,NULL,NULL,7480,Besoin support DfT
+18583,Neuroloop,NULL,https://neuroloop.de/,6185,ASIC pour implant neurostim
+18592,Nyxoah,NULL,http://nyxoah.com,6204,Design PCB+ASIC implant
+18597,micledi,NULL,https://www.micledi.com,6189,ASIC pour driver LED
+18600,RAD Data Communications,NULL,https://www.rad.com,6227,REDA
+18600,RAD Data Communications,NULL,https://www.rad.com,7409,REDA100G - specification & architecture
+18600,RAD Data Communications,NULL,https://www.rad.com,7515,REDA100G ASIC
+18604,Synthara AG,NULL,https://www.synthara.ai/,7441,P&R
+18611,CROUZET,NULL,http://www.crouzet.com,6260,CLAVA
+18618,Bosch Sensortec GmbH,NULL,www.bosch-sensortec.com,7282,BOTEIN-Spec
+18618,Bosch Sensortec GmbH,NULL,www.bosch-sensortec.com,7283,BOTEIN-Design
+18619,Virility Medical,NULL,www.virilitymedical.com,6198,ASIC pour patch medical
+18621,Cebi Electromechanical Components Spain S.A.,NULL,https://www.cebi.com/en,6210,CALX : préétude
+18621,Cebi Electromechanical Components Spain S.A.,NULL,https://www.cebi.com/en,7303,CALX
+18622,DataCan,NULL,https://www.datacan.ca/,6205,ASIC analog
+18623,PYTHEAS Technology,NULL,http://pytheas-technology.com/,7315,ASIC
+18623,PYTHEAS Technology,NULL,http://pytheas-technology.com/,7582,ADC pour application SONAR
+18629,Pulsify Medical,NULL,https://pulsify-medical.com/,6203,PROTSION Préétude
+18632,Advanced Bionics AG,NULL," https://advancedbionics.com",6202,ASIC SPD6
+18634,Caranx Medical,NULL,https://caranx-medical.com,6208,ASIC pour robot de chirurgie
+18635,AXEM Technology,NULL,https://www.axemtec.com/fr/,6209,ASIC mesure
+18638,Picotech,NULL,https://picotechscanner.com/fr/,6217,PHAET Layout
+18639,EYYES,NULL,http://www.eyyes.com,6223,ERRAI Design & Supply
+18644,PV Hardware Solutions,NULL,https://pvhardware.com/,6221,ASIC pour tracker de soleil
+18661,MANITTY,NULL,https://www.manitty.com/fr/elementor-622/,6232,Pré-étude ASIC
+18686,WeebitNano France,NULL,NULL,6235,WESAT
+18686,WeebitNano France,NULL,NULL,6238,WESAT : I/O characterization
+18686,WeebitNano France,NULL,NULL,6258,Wesat : WP3
+18686,WeebitNano France,NULL,NULL,7272,WESAD - Power cut cell
+18686,WeebitNano France,NULL,NULL,7293,WESAT-WP3
+18686,WeebitNano France,NULL,NULL,7430,WESAT2
+18686,WeebitNano France,NULL,NULL,7610,WESAT-On65
+18686,WeebitNano France,NULL,NULL,8624,ECC
+18686,WeebitNano France,NULL,NULL,7482,WESAT-DB130
+18686,WeebitNano France,NULL,NULL,7517,WESAT-DB130-Amd1
+18686,WeebitNano France,NULL,NULL,7533,WESAT-DB130-Amd2
+18686,WeebitNano France,NULL,NULL,7544,WESAT-DB130-Amd2-V2
+18686,WeebitNano France,NULL,NULL,7571,WESAT-DB130-Amdt3
+18686,WeebitNano France,NULL,NULL,7609,WESAT-S130-IP
+18691,BeFC,NULL,http://BeFC.global,7292,Etude faisabilité ASIC
+18691,BeFC,NULL,http://BeFC.global,7381,ASIC BATEN
+18706,Orcasonics Innovation Ltd,NULL,http://,6250,OKDA - ASIC Pulser + Switch
+18713,Applied Brain Research Inc.,NULL,https://appliedbrainresearch.com/,7439,Deign service
+18718,Equilibr.io,NULL,https://www.equilibr.io/,6269,ASIC comm RFID
+18721,Everysight,NULL,https://everysight.com/,6270,ASIC pour AR dans lunettes
+18721,Everysight,NULL,https://everysight.com/,7284,ASIC pour AR - faisabilité
+18722,Pellenc Energy,NULL,https://www.pellenc-energy.com/,6271,ASIC Power Management
+18723,Neologic (VLSI),NULL,https://www.neologicvlsi.com/,7273,@Adi Katav - Formulaire Contact Site Web 22/03/22
+18724,SEQUANS ISRAEL,NULL,http://www.sequans;com,7274,P&R ASIC en 12nm
+18725,Universidad de Zaragoza,NULL,https://capa.unizar.es/,7275,PQFP160
+18726,"Titan Advanced Energy Solutions, Inc",NULL,NULL,7276,Tramontana - WP1
+18726,"Titan Advanced Energy Solutions, Inc",NULL,NULL,7277,Tramontana - ASIC
+18729,Siclade Technologies,NULL,www.siclade-technologies.com,7291,Design ASIC pour capteur SIC
+19736,B&R automation,NULL,https://www.br-automation.com/,7287,ASIC clone FPGA
+19736,B&R automation,NULL,https://www.br-automation.com/,7302,FPGA
+19738,Ternwaves,NULL,https://www.ternwaves.com,7288,ASIC radio + contrôle digital
+19751,Crane Aerospace,NULL,http://www.craneae.com,7297,COXA
+19754,Valeo Vision France SAS,NULL,http://www.valeo.fr,7305,Préétude ASIC
+19754,Valeo Vision France SAS,NULL,http://www.valeo.fr,7561,VESAT-WP3
+19761,RAM Solutions GmbH,NULL,www.ramglobal.com,7318,ASIC
+19776,VALID SOLUCIONES TECNOLOGICAS,NULL,https://valid.com/,7309,Design Carte A puce
+19776,VALID SOLUCIONES TECNOLOGICAS,NULL,https://valid.com/,7333,Etude faisabilité VENATOR
+19787,Ilmsens GmbH,NULL,http://,7332,ADC
+19796,VOCSENS,NULL,https://vocsens.com/,7326,Design ASIC
+19796,VOCSENS,NULL,https://vocsens.com/,7342,Avenant 1
+19796,VOCSENS,NULL,https://vocsens.com/,7393,OxygenB-CG
+19796,VOCSENS,NULL,https://vocsens.com/,7478,OXYGENB-Respin
+19801,Orga+,NULL,http://www.orgaplus.lu/,7331,Design ASIC - Carte SIM
+19802,WHEERE,NULL,http://www.wheere.io,7539,Support pour faisabilité
+19809,Infinera,NULL,https://www.infinera.com/,7337,DAC IP - 5nm - Migration
+19821,LIGHTRICITY LTD,NULL,http://www.lightricity.co.uk,7354,LILII
+19826,VANDEWIELE,NULL,https://www.vandewiele.com/en,7392,VERITATE
+19835,Batchone,NULL,http://www.batchone.com/,7360,Asic Design for 2 customers
+19839,CLEARDROP,NULL,https://www.cleardrop.tech/,7343,CAPH
+19841,TYRI SWEDEN AB,NULL,http://,7350,ASIC Driver LED
+19843,MEMPERIENCE,NULL,www.memperience.com,7361,ASIC en interface avec MEMS
+19844,IC-LOGIC,NULL,www.ic-logic.de,7349,Design ADC Ultra Low Power
+19850,Arçelik Global,NULL,http://www.arcelikglobal.com,7508,ASIC Design
+19881,Semidynamics,NULL,https://semidynamics.com/,7475,SAMOS
+19884,Intron Electronic Gmbh,NULL,https://www.intron-tech.com/en/index.php,7365,ASIC avec eFPGA
+19891,Efficient Computer,NULL,https://www.efficient.computer/,7376,ERRAKIS
+19891,Efficient Computer,NULL,https://www.efficient.computer/,7578,P&R
+20931,IMPLI AG,NULL,https://www.impli.org/,7405,Projet ASIC médical
+20932,Watermelon Co.,NULL,http://www.watermelon-games.com/,7388,GIENA - Préétude
+20932,Watermelon Co.,NULL,http://www.watermelon-games.com/,7451,GIENA
+20933,Quside Technologies S.L.,NULL,www.quside.com,7494,QUEMENES
+20933,Quside Technologies S.L.,NULL,www.quside.com,7512,Quemenes ASIC
+20936,SonicEdge Ltd,NULL,https://sonicedge.io/,7398,ASIC pour MEMS - faisabilité
+20937,ENERCON Technologies Ltd,NULL,https://enercon.co.il/,7399,Clone du circuit Vishay SI9117
+20940,SYRMA SGS,NULL,https://syrmasgs.com,7410,NTAG21X clone asic
+20942,"DIODES, INC",NULL,https://www.diodes.com,7422,Diomede Prestudy WP0 (AL8892Q)
+20942,"DIODES, INC",NULL,https://www.diodes.com,7427,7 CH LDOs
+20942,"DIODES, INC",NULL,https://www.diodes.com,7461,Diomede ASIC WP1-WP2-WP3 (AL8892Q)
+20942,"DIODES, INC",NULL,https://www.diodes.com,7547,Addendum Change request DC/DC-UART
+20942,"DIODES, INC",NULL,https://www.diodes.com,7584,Addendum 2 UART VARIANT + ESD
+20942,"DIODES, INC",NULL,https://www.diodes.com,7603,Diotima - ADC audio Delta-Sigma
+20942,"DIODES, INC",NULL,https://www.diodes.com,7614,High-Side Switch
+20946,ID4US,NULL,https://www.id4us.fr/,7411,MIRZA
+20946,ID4US,NULL,https://www.id4us.fr/,7530,MIRZA- WP7 à WP9
+20946,ID4US,NULL,https://www.id4us.fr/,7546,MIRZA - WP7 + 8 + 9
+20946,ID4US,NULL,https://www.id4us.fr/,7566,MIRZA Avenant 3
+20946,ID4US,NULL,https://www.id4us.fr/,7580,DARIUS Change Request
+20946,ID4US,NULL,https://www.id4us.fr/,7617,MIRZA - Avenant6
+20953,Legrand France Pyrénées,NULL,http://,7428,ASIC Emmergy light
+20954,Schaeffler Toulouse,NULL,https://www.schaeffler.com/en/,7552,VULCANO II
+20954,Schaeffler Toulouse,NULL,https://www.schaeffler.com/en/,7553,VULCANO I
+20963,CNRS CRHEA,NULL,http://www.crhea.cnrs.fr/,7429,ASIC pour Lidar
+20965,EVIDEN Sophia,NULL,http://,7618,Embiez
+20973,Steerlight,NULL,https://steerlight.com/,7470,Support Fusa
+20973,Steerlight,NULL,https://steerlight.com/,8640,Projet ASIC
+20973,Steerlight,NULL,https://steerlight.com/,8650,SABA-Phase préétude
+20982,Forest Neurotech LLC,NULL,https://forestneurotech.org/,7446,FLORES - WP0 pré étude
+20982,Forest Neurotech LLC,NULL,https://forestneurotech.org/,7459,FLORES - WP1 Spec ASIC
+20982,Forest Neurotech LLC,NULL,https://forestneurotech.org/,7513,Flores - WP2- Testchip
+20983,ACTIA Automotive,NULL,https://www.actia.com/fr/,7448,High-Performance BLDC pre-driver
+20990,JoulWatt,NULL,http://,7467,Besoin Concepteur
+20990,JoulWatt,NULL,http://,7468,Besoin de développement
+21004,SmartPatch Health,NULL,http://,7484,ASIC Ultralow power - Génération de courant
+21006,Gammao,NULL,https://www.gammao.fr/?lang=fr,7485,Selon application client - ultralowpower - wearabl
+21009,Imperial Brand,NULL,http://,7488,IZAR
+21011,Yongatek,NULL,https://www.yongatek.com/,7497,P&R en 12nm
+21011,Yongatek,NULL,https://www.yongatek.com/,8633,YILDIZ
+21012,Hazelton Technologies Pty Ltd,NULL,http://www.hazeltontechnologies.com,7491,Implantable Device SoC Design Service
+21013,Calian Ltd,NULL,https://www.calian.com/,7490,Migration FPGA to ASIC
+21015,TandemLaunch,NULL,https://www.tandemlaunch.com/fr/,7498,ASIC
+21018,CERAGON,NULL,http://www.ceragon.com,7529,ASIC Switch ETH
+21018,CERAGON,NULL,http://www.ceragon.com,7542,CROZET - WP1
+21023,IDUN Technologies,NULL,https://iduntechnologies.com/,7495,ASIC design
+21029,LIOM,NULL,http://www.spiden.com,7510,SAMOA
+21037,Ceryx Medical,NULL,www.ceryxmedical.com,7518,ASIC
+21044,Esploratis,NULL,NULL,7511,Implant monitoring hydrocéphalie
+21048,Openchip And Software Technologies SL,NULL,https://openchip.com/,7521,Design & verification
+21052,QUALINX,NULL,https://qualinx.io/,7527,QUISTI
+21054,MonolithicPowerSystems,NULL,http://monolithicpower.com,7522,MOLENE-WP1
+21054,MonolithicPowerSystems,NULL,http://monolithicpower.com,7528,MOLENE-WP2 Design
+21056,Precision Neuroscience Corporation USD,NULL,https://precisionneuro.io/,7523,PEGASUS - WP1 Specification
+21065,SICOYA GmbH,NULL,http://www.sicoya.com,7540,Besoin sous système numérique
+21067,ZAMA,NULL,https://www.zama.ai/,7550,ZLARIN
+21067,ZAMA,NULL,https://www.zama.ai/,8629,ZLARIN W1-WP3
+21071,Innoviz Technologies,NULL,https://innoviz.tech/,7560,ASIC PM
+21073,NOpTRACK,NULL,http://www.noptrack.fr,7557,Miniaturisation POC
+21082,CY-COR SAS,NULL,http://,7568,ASIC Cryptomining
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7567,PEGASUS - WP2- ASIC Design kick-off
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7575,PEGASUS - WP2 = ASIC Design Month 1
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7581,PEGASUS - WP2 = ASIC Design Month 2
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7586,PEGASUS - WP2 = ASIC Design Month 3
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7587,PEGASUS - WP3 Prototyping & Pre-Indus
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7588,PEGASUS - WP4 Industrialisation
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7616,PEGASUS - WP2 = ASIC Design month 4
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,7620,PEGASUS - WP2 = ASIC Design
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,8628,PEGASUS - WP2 = ASIC Design month 5
+21085,PRECISION NEUROSCIENCE EURO,NULL,https://precisionneuro.io/,8634,Daisy chain wafers
+21087,KMC Component,NULL,www.kmckomponentteknoloji.com,7579,ASIC
+21091,KWAZAR-IS,NULL,http://,7613,ASIC basic digital
+22107,CISTEO Medical,NULL,www.cisteomedical.com,7583,ASIC pour client commun
+22111,MSTech Europe,NULL,https://www.mstechcorp.eu/,7598,ASIC peut-être
+22112,APPLE Cupertino,NULL,http://www.apple.com,7599,Partenariat avec équipe Layout
+22113,Yitran,NULL,https://yitran.com/,7600,ASIC
+22114,Spark Microsystems,NULL,https://www.sparkmicro.com/,7607,SOMMERSET
+22115,Schaeffler Regensburg,NULL,https://www.schaeffler.com/en/,7606,SoC Asic
+22116,thyssenkrupp Presta AG,NULL,https://www.thyssenkrupp-automotive-technology.com/,7612,ASIC automotive
+22129,IQM,NULL,https://www.meetiqm.com/,8620,Control ASIC
+22131,NXP Semiconductors Austria GmbH,NULL,http://nxp.com,8625,CENDRIC investigation
+22132,onsemi BRNO Design Center,NULL,http://onsemi.com,8626,ALCR Design support
+22133,Global Foundries Malta,NULL,http://,8627,ASIC/SoC design
+22142,Qualcomm Colombes,NULL,http://,8638,QLC01
+22150,Movyon Electronics S.r.l,NULL,https://www.movyon.com/en/,8635,toll ASIC
+22153,NewCo,NULL,http://,8641,Ventes GAP8
+22153,NewCo,NULL,http://,8642,Ventes GAP9
+22154,EssilorLuxottica,NULL,https://www.essilorluxottica.com/fr/,8643,Grenat-suite
+22166,iNGage,NULL,https://www.ingage-mems.com/,8652,ASIC
+22167,Optiver,NULL,https://optiver.com/,8648,Design services

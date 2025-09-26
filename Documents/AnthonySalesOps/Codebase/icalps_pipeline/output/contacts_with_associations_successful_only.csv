@@ -1,0 +1,911 @@
+contact_record_id,first_name,last_name,email,company_name,legacy_contact_id,legacy_company_id,hubspot_company_id,contact_association_status,create_date
+,Pierre,Vincent,pierre.vincent@cea.fr,CEA Grenoble,2,2,TBD,PENDING,09/18/2025 11:13
+,Jean-René,Lequepeys,jean-rene.lequepeys@cea.fr,CEA Grenoble,3,2,TBD,PENDING,09/18/2025 11:13
+,Wim,Vos,wim.vos@panalytical.com,Malvern Panalytical,4,3,TBD,PENDING,09/18/2025 11:13
+,Roelof,De Vries,roelof.de.vries@panalytical.com,Malvern Panalytical,5,3,TBD,PENDING,09/18/2025 11:13
+,Hervé,Yvinec,herve.yvinec@elichens.com,eLichens,1027,1064,TBD,PENDING,09/18/2025 11:13
+,Wahid,Issa,wahid.issa@elichens.com,eLichens,1028,1064,TBD,PENDING,09/18/2025 11:13
+,Marc,Attia,marc.attia@elichens.com,eLichens,1029,1064,TBD,PENDING,09/18/2025 11:13
+,Jérôme,Lainé,jerome.laine@sercel.com,SERCEL,1041,1071,TBD,PENDING,09/18/2025 11:13
+,Joachim,Tiedeke,jtiedeke@baumer.com,BAUMER ELECTRIC AG,1042,1072,TBD,PENDING,09/18/2025 11:13
+,Denis,Lagarde,denis.lagarde@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,1046,1074,TBD,PENDING,09/18/2025 11:13
+,Philippe,Ayzac,philippe.ayzac@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,1047,1074,TBD,PENDING,09/18/2025 11:13
+,Jean-Marie,Houillon,jmhouillon@redtree-solutions.com,Redtree Solutions,1049,1075,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Mercier,frederic.mercier@aledia.com,ALEDIA,1050,1076,TBD,PENDING,09/18/2025 11:13
+,Erwan,Dornel,erwan.dornel@aledia.com,ALEDIA,1051,1076,TBD,PENDING,09/18/2025 11:13
+,Xavier,Hugon,xavier.hugon@aledia.com,ALEDIA,1053,1076,TBD,PENDING,09/18/2025 11:13
+,Ivan-Christophe,Robin,ivan-christophe.robin@aledia.com,ALEDIA,1056,1076,TBD,PENDING,09/18/2025 11:13
+,Matthieu,Charbonnier,matthieu.charbonnier@aledia.com,ALEDIA,1057,1076,TBD,PENDING,09/18/2025 11:13
+,Philippe,Gilet,philippe.gilet@aledia.com,ALEDIA,1058,1076,TBD,PENDING,09/18/2025 11:13
+,Sander,Weijers,sander.weijers@panalytical.com,Malvern Panalytical,1066,3,TBD,PENDING,09/18/2025 11:13
+,Vladimir,Jovanovic,vladimir.jovanovic@panalytical.com,Malvern Panalytical,1067,3,TBD,PENDING,09/18/2025 11:13
+,Daniel,Chaix,daniel.chaix@framatome.com,FRAMATOME,1072,1081,TBD,PENDING,09/18/2025 11:13
+,Julien,Marianne,julien.marianne_consultant@framatome.com,FRAMATOME,1073,1081,TBD,PENDING,09/18/2025 11:13
+,Olivier,Salmon,olivier.salmon@framatome.com,FRAMATOME,1074,1081,TBD,PENDING,09/18/2025 11:13
+,Rémy,Astier,remy.astier@framatome.com,FRAMATOME,1077,1081,TBD,PENDING,09/18/2025 11:13
+,Jean-François,Mascaro,jean-francois.mascaro@sp3h.fr,SP3H,1093,1089,TBD,PENDING,09/18/2025 11:13
+,Alain,Lunati,alain.lunati@sp3h.fr,SP3H,1094,1089,TBD,PENDING,09/18/2025 11:13
+,Etienne,Vanzieleghem,etienne.vanzieleghem@cissoid.com,CISSOID  S.A.,1103,1095,TBD,PENDING,09/18/2025 11:13
+,Pierre,Delatte,pierre.delatte@cissoid.com,CISSOID  S.A.,1104,1095,TBD,PENDING,09/18/2025 11:13
+,Jean-Marc,Parquet,jean-marc.parquet@carmatsas.com,CARMAT,1114,1100,TBD,PENDING,09/18/2025 11:13
+,Paul,Kohler,paul.kohler@carmatsas.com,CARMAT,1115,1100,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Mayer,frederic.mayer@aledia.com,ALEDIA,1119,1076,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Quesne,nicolas.quesne@vitec.com,VITEC Video Innovation,1146,1119,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Moatti,alexandre.moatti@vitec.com,VITEC Video Innovation,1147,1119,TBD,PENDING,09/18/2025 11:13
+,Dominique,Pinet,dominique.pinet@vitecmm.com,VITEC Video Innovation,1148,1119,TBD,PENDING,09/18/2025 11:13
+,Philippe,Wetzel,philippe.wetzel@vitec.com,VITEC Video Innovation,1149,1119,TBD,PENDING,09/18/2025 11:13
+,Franck,Lascaux,franck.lascaux@elichens.com,eLichens,1157,1064,TBD,PENDING,09/18/2025 11:13
+,David,Coulon,dcoulon@healthcardionexion.com,@-health,1166,1128,TBD,PENDING,09/18/2025 11:13
+,Pierre-Paul,Goiffon,ppgoiffon@healthcardionexion.com,@-health,1167,1128,TBD,PENDING,09/18/2025 11:13
+,Gaël,Rouvroy,g.rouvroy@intopix.com,intoPIX S.A.,1175,1132,TBD,PENDING,09/18/2025 11:13
+,Jean-Baptiste,Lorent,jb.lorent@intopix.com,intoPIX S.A.,1176,1132,TBD,PENDING,09/18/2025 11:13
+,Khaled,Maalej,kmaalej@vsora.com,VSORA,1190,1139,TBD,PENDING,09/18/2025 11:13
+,André,Mercanzini,andre.mercanzini@aleva-neuro.com,Adept Neuro SA,1215,1146,TBD,PENDING,09/18/2025 11:13
+,Alain,Jordan,alain.jordan@aleva-neuro.com,Adept Neuro SA,1216,1146,TBD,PENDING,09/18/2025 11:13
+,Reidar,Holm,reidar.holm@sensonor.no,Safran Sensing Norway,1219,1148,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Fiant,nfiant@3d-plus.com,3D-plus,1222,1150,TBD,PENDING,09/18/2025 11:13
+,Charles,Sellier,csellier@3d-plus.com,3D-plus,1223,1150,TBD,PENDING,09/18/2025 11:13
+,Pierre-Eric,Berthet,peberthet@3d-plus.com,3D-plus,1224,1150,TBD,PENDING,09/18/2025 11:13
+,Dominique,Zwingelstein,dominique.zwingelstein@technology.nipson.com,NIPSON Technology,1231,1154,TBD,PENDING,09/18/2025 11:13
+,Etienne,Membre,etienne.membre@technology.nispon.com,NIPSON Technology,1232,1154,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Renaudot,n.renaudot@debiotech.com,DEBIOTECH,1245,1156,TBD,PENDING,09/18/2025 11:13
+,Romain,Gloor,r.gloor@debiotech.com,DEBIOTECH,1248,1156,TBD,PENDING,09/18/2025 11:13
+,Claire,Tassin,ctassin@slb.com,SLB,1249,1157,TBD,PENDING,09/18/2025 11:13
+,Toshihiro,Nomura,tnomura@slb.com,SLB,1250,1157,TBD,PENDING,09/18/2025 11:13
+,Pablo,Asshoff,pablo.asshoff@johnsonoutdoors.com,Scubapro Uwatec,2205,2147,TBD,PENDING,09/18/2025 11:13
+,Jean-Pierre,Enguent,jpenguent@sealsq.com,Seal SQ France,2217,2153,TBD,PENDING,09/18/2025 11:13
+,Karim,Oumnia,k.oumnia@digitsole.com,Zhortech,2231,2159,TBD,PENDING,09/18/2025 11:13
+,Alain,Bardoux,alain.bardoux@cnes.fr,CNES,2233,2160,TBD,PENDING,09/18/2025 11:13
+,Jean-Marc,Biffi,jean-marc.biffi@cnes.fr,CNES,2235,2160,TBD,PENDING,09/18/2025 11:13
+,Massimiliano,Calaprice,massimiliano.calaprice@cnes.fr,CNES,2237,2160,TBD,PENDING,09/18/2025 11:13
+,Michel,Pignol,michel.pignol@cnes.fr,CNES,2238,2160,TBD,PENDING,09/18/2025 11:13
+,Rodolphe,Clédassou,rodolphe.cledassou@cnes.fr,CNES,2240,2160,TBD,PENDING,09/18/2025 11:13
+,Romain,Desplats,romain.desplats@cnes.fr,CNES,2241,2160,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Peizerat,arnaud.peizerat@cea.fr,CEA Grenoble,2260,2,TBD,PENDING,09/18/2025 11:13
+,Bénédicte,Robin,benedicte.robin@cea.fr,CEA Grenoble,2261,2,TBD,PENDING,09/18/2025 11:13
+,Bernard,Dieny,bernard.dieny@cea.fr,CEA Grenoble,2262,2,TBD,PENDING,09/18/2025 11:13
+,Bertrand,Gomez,bertrand.gomez@cea.fr,CEA Grenoble,2264,2,TBD,PENDING,09/18/2025 11:13
+,Caroline,Arnaud,caroline.arnaud@cea.fr,CEA Grenoble,2266,2,TBD,PENDING,09/18/2025 11:13
+,Christine,Raynaud,christine.raynaud@cea.fr,CEA Grenoble,2267,2,TBD,PENDING,09/18/2025 11:13
+,Cyrille,Laviron,cyrille.laviron@cea.fr,CEA Grenoble,2271,2,TBD,PENDING,09/18/2025 11:13
+,Diego,Puschini,diego.puschini@cea.fr,CEA Grenoble,2273,2,TBD,PENDING,09/18/2025 11:13
+,Dominique,Noguet,dominique.noguet@cea.fr,CEA Grenoble,2274,2,TBD,PENDING,09/18/2025 11:13
+,Eric,Gouze,eric.gouze@cea.fr,CEA Grenoble,2276,2,TBD,PENDING,09/18/2025 11:13
+,Eric,Mercier,eric.mercier@cea.fr,CEA Grenoble,2277,2,TBD,PENDING,09/18/2025 11:13
+,Fabien,Clermidy,fabien.clermidy@cea.fr,CEA Grenoble,2279,2,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Guellec,fabrice.guellec@cea.fr,CEA Grenoble,2281,2,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Rothan,frederic.rothan@cea.fr,CEA Grenoble,2286,2,TBD,PENDING,09/18/2025 11:13
+,Gérald,Cibrario,gerald.cibrario@cea.fr,CEA Grenoble,2287,2,TBD,PENDING,09/18/2025 11:13
+,Carine,Glas,carine.glas@se.com,SCHNEIDER Electric Eybens,2307,2191,TBD,PENDING,09/18/2025 11:13
+,Luc,Meysenc,luc.meysenc@se.com,SCHNEIDER Electric Eybens,2309,2191,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Delbaere,stephane.delbaere@se.com,SCHNEIDER Electric Eybens,2311,2191,TBD,PENDING,09/18/2025 11:13
+,Alaa,Makdissi,alaa.makdissi@cairdac.com,CAIRDAC,3277,3176,TBD,PENDING,09/18/2025 11:13
+,Willy,Regnier,willy.regnier@cairdac.com,CAIRDAC,3279,3176,TBD,PENDING,09/18/2025 11:13
+,Mathieu,Roy,mathieu.roy@moduleus.com,Moduleus,3284,3179,TBD,PENDING,09/18/2025 11:13
+,Thibault,Parmentier,thibault.parmentier@sentinhealth.com,SentinHealth,3291,3186,TBD,PENDING,09/18/2025 11:13
+,Martin,Flesch,m.flesch@vermon.com,VERMON,3293,3187,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Felix,n.felix@vermon.com,VERMON,3294,3187,TBD,PENDING,09/18/2025 11:13
+,Philippe,Vince,p.vince@vermon.com,VERMON,3295,3187,TBD,PENDING,09/18/2025 11:13
+,Guillaume,Ferin,g.ferin@vermon.com,VERMON,3296,3187,TBD,PENDING,09/18/2025 11:13
+,Philippe,Auvray,philippe.auvray@neurallys.com,Neurallys,4303,4196,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Flory,sylvain.flory@panaxium.com,Panaxium,4308,4201,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Mascarell,arnaud.mascarell@fine-heart.com,Fine Heart,4310,4202,TBD,PENDING,09/18/2025 11:13
+,Raphael,Fritschi,raphael_fritschi@sensimed.ch,Sensimed,4377,4230,TBD,PENDING,09/18/2025 11:13
+,Alfio,Gastaldo,alfio.gastaldo@sicpa.com,SICPA,4384,4233,TBD,PENDING,09/18/2025 11:13
+,Pascal,Jullien,pascal.jullien@silicon-mobility.com,Silicon Mobility,4390,4235,TBD,PENDING,09/18/2025 11:13
+,Daniel,Kroiss,daniel.kroiss@crm.microport.com,Sorin CRM S.A.S.,4413,4246,TBD,PENDING,09/18/2025 11:13
+,Karima,Amara,karima.amara@crm.microport.com,Sorin CRM S.A.S.,4419,4246,TBD,PENDING,09/18/2025 11:13
+,Michel,Plaszczynski,michel.plaszczynski@crm.microport.com,Sorin CRM S.A.S.,4420,4246,TBD,PENDING,09/18/2025 11:13
+,Bruno,Eon,bruno.eon@crm.microport.com,Sorin CRM S.A.S.,4423,4246,TBD,PENDING,09/18/2025 11:13
+,Eric,Flamand,eric.flamand@greenwaves-technologies.com,GreenWaves Technologies,4426,4247,TBD,PENDING,09/18/2025 11:13
+,Joël,Cambonie,joel.cambonie@greenwaves-technologies.com,GreenWaves Technologies,4427,4247,TBD,PENDING,09/18/2025 11:13
+,Loïc,Lietar,loic.lietar@greenwaves-technologies.com,GreenWaves Technologies,4428,4247,TBD,PENDING,09/18/2025 11:13
+,Olivier,Costes,olivier.costes@continental-corporation.com,CONTINENTAL Toulouse,4452,4255,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Dieudonné,arnaud.dieudonne@continental-corporation.com,CONTINENTAL Rambouillet,4453,4256,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Kopp,emmanuel.kopp@continental-corporation.com,CONTINENTAL Rambouillet,4456,4256,TBD,PENDING,09/18/2025 11:13
+,Guillaume,Lemoine,guillaume.lemoine@continental-corporation.com,CONTINENTAL Rambouillet,4457,4256,TBD,PENDING,09/18/2025 11:13
+,Jean,Sbaldi,jean.sbaldi@continental-corporation.com,CONTINENTAL Rambouillet,4458,4256,TBD,PENDING,09/18/2025 11:13
+,Philippe,Corné,philippe.corne@continental-corporation.com,CONTINENTAL Rambouillet,4461,4256,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Nelias,stephane.nelias@continental-corporation.com,CONTINENTAL Rambouillet,4462,4256,TBD,PENDING,09/18/2025 11:13
+,Damien,Autran,damien.autran@alstomgroup.com,Alstom,4468,4260,TBD,PENDING,09/18/2025 11:13
+,Marc,Lefevbre,marc.lefebvre@alstomgroup.com,Alstom,4470,4260,TBD,PENDING,09/18/2025 11:13
+,Olivier,Agopian,olivier.agopian@alstomgroup.com,Alstom,4471,4260,TBD,PENDING,09/18/2025 11:13
+,Patrick,Kenny,patrick.kenny@alstomgroup.com,Alstom,4474,4260,TBD,PENDING,09/18/2025 11:13
+,Olivier,Lepape,olepape@nanoxplore.com,NanoXplore,4498,3180,TBD,PENDING,09/18/2025 11:13
+,Kaya-Can,Akyel,kaya-can.akyel@nanoxplore.com,NanoXplore,4499,3180,TBD,PENDING,09/18/2025 11:13
+,Anne,Van Den Bosch,anne.vandenbosch@imec.be,IMEC ASIC Services,4502,4282,TBD,PENDING,09/18/2025 11:13
+,Bas,Dorren,bas.dorren@imec.be,IMEC ASIC Services,4503,4282,TBD,PENDING,09/18/2025 11:13
+,Danny,Lambrichts,danny.lambrichts@imec.be,IMEC ASIC Services,4505,4282,TBD,PENDING,09/18/2025 11:13
+,Diederick,Verkest,diederik.verkest@imec.be,IMEC ASIC Services,4506,4282,TBD,PENDING,09/18/2025 11:13
+,Gabriel,Marlier,marlier@imec.be,IMEC ASIC Services,4508,4282,TBD,PENDING,09/18/2025 11:13
+,Geert,Thys,geert.thys@imec.be,IMEC ASIC Services,4509,4282,TBD,PENDING,09/18/2025 11:13
+,Geert,Vanwijnsberghe,geert.vanwijnsberghe@imec.be,IMEC ASIC Services,4510,4282,TBD,PENDING,09/18/2025 11:13
+,Hiam,Sinno,hiam.sinno@imec.be,IMEC ASIC Services,4511,4282,TBD,PENDING,09/18/2025 11:13
+,Hugo,De Man,deman@imec.be,IMEC ASIC Services,4512,4282,TBD,PENDING,09/18/2025 11:13
+,Jan,Wouters,jan.wouters@imec.be,IMEC ASIC Services,4513,4282,TBD,PENDING,09/18/2025 11:13
+,Luc,Laeveren,luc.laeveren@imec.be,IMEC ASIC Services,4514,4282,TBD,PENDING,09/18/2025 11:13
+,Marc,Dingenen,marc.dingenen@imec.be,IMEC ASIC Services,4515,4282,TBD,PENDING,09/18/2025 11:13
+,Ozlem,Cangar-Souffreau,ozlem.cangar@imec.be,IMEC ASIC Services,4516,4282,TBD,PENDING,09/18/2025 11:13
+,Paul,Malisse,paul.malisse@imec.be,IMEC ASIC Services,4518,4282,TBD,PENDING,09/18/2025 11:13
+,Paul,Zuber,paul.zuber@imec.be,IMEC ASIC Services,4519,4282,TBD,PENDING,09/18/2025 11:13
+,Peter,Vanbekbergen,peter.vanbekbergen@huawei.com,IMEC ASIC Services,4520,4282,TBD,PENDING,09/18/2025 11:13
+,Petr,Dobrovolny,petr.dobrovolny@imec.be,IMEC ASIC Services,4521,4282,TBD,PENDING,09/18/2025 11:13
+,Stefan,Donnay,donnay@imec.be,IMEC ASIC Services,4523,4282,TBD,PENDING,09/18/2025 11:13
+,Stefan,Vanhaeverbeke,stefan.vanhaeverbeke@imec.be,IMEC ASIC Services,4524,4282,TBD,PENDING,09/18/2025 11:13
+,Steve,Beckers,steve.beckers@imec.be,IMEC ASIC Services,4525,4282,TBD,PENDING,09/18/2025 11:13
+,Steven,Redant,steven.redant@imec.be,IMEC ASIC Services,4526,4282,TBD,PENDING,09/18/2025 11:13
+,Veerle,Derudder,derudder@imec.be,IMEC ASIC Services,4527,4282,TBD,PENDING,09/18/2025 11:13
+,Wouter,De Groot,wouter.degroot@imec.be,IMEC ASIC Services,4528,4282,TBD,PENDING,09/18/2025 11:13
+,Alain-Serge,Porret,asp@csem.ch,CSEM Neuchatel,4530,4284,TBD,PENDING,09/18/2025 11:13
+,Bahaa,Roustom,bahaa.roustom@csem.ch,CSEM Neuchatel,4532,4284,TBD,PENDING,09/18/2025 11:13
+,Daniel,Severac,daniel.severac@csem.ch,CSEM Neuchatel,4535,4284,TBD,PENDING,09/18/2025 11:13
+,Daniel,Sigg,daniel.sigg@csem.ch,CSEM Neuchatel,4536,4284,TBD,PENDING,09/18/2025 11:13
+,Dragan,Manic,dragan.manic@csem.ch,CSEM Neuchatel,4537,4284,TBD,PENDING,09/18/2025 11:13
+,Erwan,Le Roux,erwan.leroux@csem.ch,CSEM Neuchatel,4538,4284,TBD,PENDING,09/18/2025 11:13
+,Jean-Luc,Nagel,jean-luc.nagel@csem.ch,CSEM Neuchatel,4542,4284,TBD,PENDING,09/18/2025 11:13
+,Jean-Marc,Masgonty,jean-marc.masgonty@csem.ch,CSEM Neuchatel,4543,4284,TBD,PENDING,09/18/2025 11:13
+,Pierre-François,Rüedi,pierre-francois.ruedi@csem.ch,CSEM Neuchatel,4546,4284,TBD,PENDING,09/18/2025 11:13
+,Simon,Gray,simon.gray@csem.ch,CSEM Neuchatel,4547,4284,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Emery,stephane.emery@csem.ch,CSEM Neuchatel,4548,4284,TBD,PENDING,09/18/2025 11:13
+,Bertrand,Borot,bertrand.borot@st.com,STMicroelectronics (Crolles2) SAS,4554,4287,TBD,PENDING,09/18/2025 11:13
+,Cyril,Colin-Madan,cyril.colin-madan@st.com,STMicroelectronics (Crolles2) SAS,4555,4287,TBD,PENDING,09/18/2025 11:13
+,François,Martin,francois.martin@st.com,STMicroelectronics (Crolles2) SAS,4556,4287,TBD,PENDING,09/18/2025 11:13
+,Laurent,Malier,laurent.malier@st.com,STMicroelectronics (Crolles2) SAS,4559,4287,TBD,PENDING,09/18/2025 11:13
+,Ludovic,Champion,lchampion@semtech.com,SEMTECH FRANCE SAS,4605,4291,TBD,PENDING,09/18/2025 11:13
+,Frantz,Prianon,fprianon@semtech.com,SEMTECH Neuchâtel,4608,4293,TBD,PENDING,09/18/2025 11:13
+,Joaquim,Da Costa,jdacosta@semtech.com,SEMTECH Neuchâtel,4611,4293,TBD,PENDING,09/18/2025 11:13
+,Michel,Chevroulet,mchevroulet@semtech.com,SEMTECH Neuchâtel,4613,4293,TBD,PENDING,09/18/2025 11:13
+,Michel,Pierre,mpierre@semtech.com,SEMTECH Neuchâtel,4614,4293,TBD,PENDING,09/18/2025 11:13
+,Robert,Comanescu,rcomanescu@semtech.com,SEMTECH Neuchâtel,4615,4293,TBD,PENDING,09/18/2025 11:13
+,Serge,Durand,sdurand@semtech.com,SEMTECH Neuchâtel,4616,4293,TBD,PENDING,09/18/2025 11:13
+,Thierry,Melly,tmelly@semtech.com,SEMTECH Neuchâtel,4618,4293,TBD,PENDING,09/18/2025 11:13
+,Philippe,Lorent,plorent@dream.fr,DREAM,4629,4299,TBD,PENDING,09/18/2025 11:13
+,David,Billon-Lanfrey,david.billon-lanfrey@lynred.com,LYNRED,4643,4305,TBD,PENDING,09/18/2025 11:13
+,Eric,Falzon,eric.falzon@lynred.com,LYNRED,4645,4305,TBD,PENDING,09/18/2025 11:13
+,Eric,Sanson,eric.sanson@lynred.com,LYNRED,4646,4305,TBD,PENDING,09/18/2025 11:13
+,Marie-Noëlle,Chaix,marie-noelle.chaix@lynred.com,LYNRED,4649,4305,TBD,PENDING,09/18/2025 11:13
+,Michel,Vuillermet,michel.vuillermet@lynred.com,LYNRED,4650,4305,TBD,PENDING,09/18/2025 11:13
+,David,Blanchon,david.blanchon@lynred.com,LYNRED,4652,4305,TBD,PENDING,09/18/2025 11:13
+,Pierre,Jenouvrier,pierre.jenouvrier@lynred.com,LYNRED,4656,4305,TBD,PENDING,09/18/2025 11:13
+,Valérie,Largeau,valerie.largeau@lynred.com,LYNRED,4657,4305,TBD,PENDING,09/18/2025 11:13
+,Xavier,Breniere,xavier.breniere@lynred.com,LYNRED,4658,4305,TBD,PENDING,09/18/2025 11:13
+,Yves,Royer,yves.royer@lynred.com,LYNRED,4660,4305,TBD,PENDING,09/18/2025 11:13
+,Alain,Durand,alain.durand@lynred.com,LYNRED,4661,4305,TBD,PENDING,09/18/2025 11:13
+,Christophe,Minassian,christophe.minassian@lynred.com,LYNRED,4662,4305,TBD,PENDING,09/18/2025 11:13
+,David,Pochic,david.pochic@lynred.com,LYNRED,4663,4305,TBD,PENDING,09/18/2025 11:13
+,Hervé,Clerambault,herve.clerambault@lynred.com,LYNRED,4665,4305,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Calafat,nicolas.calafat@lynred.com,LYNRED,4667,4305,TBD,PENDING,09/18/2025 11:13
+,Joris,Eymard,joris.eymard@aledia.com,ALEDIA,4685,1076,TBD,PENDING,09/18/2025 11:13
+,Eric,Villot,comptabilite@aledia.com,ALEDIA,4686,1076,TBD,PENDING,09/18/2025 11:13
+,Laurent,Hazard,laurent.hazard@alstomgroup.com,Alstom Aix,4687,4311,TBD,PENDING,09/18/2025 11:13
+,Edgard,Jeanne,edgard.jeanne@moduleus.com,Moduleus,4699,3179,TBD,PENDING,09/18/2025 11:13
+,Pascal,Doguet,pascal.doguet@synergiam.com,SYNERGIA Medical,4722,4331,TBD,PENDING,09/18/2025 11:13
+,Franck,Dosseul,franck.dosseul@moduleus.com,Moduleus,4726,3179,TBD,PENDING,09/18/2025 11:13
+,Ben,Brike,bbr@melexis.com,Melexis Tessenderlo,4738,4342,TBD,PENDING,09/18/2025 11:13
+,Françoise,Chombar,rdw@melexis.com,Melexis Tessenderlo,4740,4342,TBD,PENDING,09/18/2025 11:13
+,Guido,Dupont,gdp@melexis.com,Melexis Tessenderlo,4741,4342,TBD,PENDING,09/18/2025 11:13
+,Marc,Biron,mbi@melexis.com,Melexis Tessenderlo,4742,4342,TBD,PENDING,09/18/2025 11:13
+,Yoan,Dupret,yoan.dupret@menta-efpga.com,MENTA Valbonne,4750,4345,TBD,PENDING,09/18/2025 11:13
+,Christelle,Faucon,christelle.faucon@guc-asic.com,GUC,4794,4369,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Garnier,arnaud.garnier@imec.com,IMEC ASIC Services,4795,4282,TBD,PENDING,09/18/2025 11:13
+,Erik,Huneker,erik@diabeloop.fr,Diabeloop,4803,4242,TBD,PENDING,09/18/2025 11:13
+,Bernard,Vian,bvian@wisekey.com,Seal SQ France,4815,2153,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Hauradou,shauradou@rambus.com,RAMBUS,4901,4710,TBD,PENDING,09/18/2025 11:13
+,Alain,Pomet,alain.pomet@thalesgroup.com,THALES DIS Design Services,4915,4718,TBD,PENDING,09/18/2025 11:13
+,Benjamin,Duval,benjamin.duval@thalesgroup.com,THALES DIS Design Services,4916,4718,TBD,PENDING,09/18/2025 11:13
+,Jean-Marc,Bedrine,jean-marc.bedrine@idemia.com,IDEMIA Meyreuil,4927,4719,TBD,PENDING,09/18/2025 11:13
+,Benjamin,Bouthinon,benjamin.bouthinon@isorg.fr,ISORG,4975,1115,TBD,PENDING,09/18/2025 11:13
+,Christophe,Desmouliers,christophe.desmouliers@enyx.fr,ENYX,6988,5745,TBD,PENDING,09/18/2025 11:13
+,Benjamin,Bouyssou,benjamin.bouyssou@faurecia.com,Faurecia Clarion Electronics Europe (FR60),6998,17484,TBD,PENDING,09/18/2025 11:13
+,Jean-Michel,Barreau,jm.barreau@emka.fr,EMKA TECHNOLOGIES,7022,5768,TBD,PENDING,09/18/2025 11:13
+,Wolgang,Werner,wolfgang.werner@biofourmis.com,BIOFOURMIS,7045,5779,TBD,PENDING,09/18/2025 11:13
+,Christophe,Pourrier,christophe.pourrier@sodern.fr,SODERN,7061,5787,TBD,PENDING,09/18/2025 11:13
+,Loïc,Malard,loic.malard@sodern.fr,SODERN,7062,5787,TBD,PENDING,09/18/2025 11:13
+,Pierre-Yves,Bretecher,pierre-yves.bretecher@sodern.fr,SODERN,7063,5787,TBD,PENDING,09/18/2025 11:13
+,Sasa,Spasic,spasic@senis.ch,SENIS,7079,5795,TBD,PENDING,09/18/2025 11:13
+,Aurélien,Ledot,aurelien.ledot@cnes.fr,CNES,7098,2160,TBD,PENDING,09/18/2025 11:13
+,Brad,Schmidt,brad.schmidt@panaxium.com,Panaxium,7233,4201,TBD,PENDING,09/18/2025 11:13
+,Clément,Sinibaldi,clement.sinibaldi@cnes.fr,CNES,7252,2160,TBD,PENDING,09/18/2025 11:13
+,Lionel,Rousseau,lionel.rousseau@esiee.fr,Neurallys,8256,4196,TBD,PENDING,09/18/2025 11:13
+,Bruno,Gagnou,bruno.gagnou@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,8309,1074,TBD,PENDING,09/18/2025 11:13
+,Jean-Didier,Gayrard,jean-didier.gayrard@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,8312,1074,TBD,PENDING,09/18/2025 11:13
+,Jean-Louis,Cazaux,jean-louis.cazaux@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,8313,1074,TBD,PENDING,09/18/2025 11:13
+,Pascal,Lassave,pascal.lassave@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,8315,1074,TBD,PENDING,09/18/2025 11:13
+,Renaud,Branchon,renaud.branchon@fr.thalesgroup.com,THALES AVS Mérignac,8403,6899,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Roger,emmanuel.roger@fr.thalesgroup.com,THALES AVS Mérignac,8407,6899,TBD,PENDING,09/18/2025 11:13
+,Franck,Jeulin,franck.jeulin@fr.thalesgroup.com,THALES AVS Mérignac,8408,6899,TBD,PENDING,09/18/2025 11:13
+,Mickaël,Brouillet,mickael.brouillet@fr.thalesgroup.com,THALES AVS Mérignac,8409,6899,TBD,PENDING,09/18/2025 11:13
+,Yannick,Menanteau,yannick.menanteau@fr.thalesgroup.com,THALES AVS Mérignac,8410,6899,TBD,PENDING,09/18/2025 11:13
+,Adrien,Bailly,adrien.bailly@moduleus.com,Moduleus,8411,3179,TBD,PENDING,09/18/2025 11:13
+,Luc,Garcia,luc.garcia@st.com,STMicroelectronics (Crolles2) SAS,8430,4287,TBD,PENDING,09/18/2025 11:13
+,François,Vuadens,francois.vuadens@advancedsilicon.com,Advanced Silicon SA,9469,7930,TBD,PENDING,09/18/2025 11:13
+,Hussein,Ballan,hballan@advancedsilicon.com,Advanced Silicon SA,9470,7930,TBD,PENDING,09/18/2025 11:13
+,Ilich,Dezotti,ilich.dezotti@advancedsilicon.com,Advanced Silicon SA,9471,7930,TBD,PENDING,09/18/2025 11:13
+,Adam,Horridge,adam.horridge@cern.ch,CERN,9524,7962,TBD,PENDING,09/18/2025 11:13
+,Alessandro,Marchioro,alessandro.marchioro@cern.ch,CERN,9525,7962,TBD,PENDING,09/18/2025 11:13
+,Dante,Gregorio,dante.gregorio@cern.ch,CERN,9526,7962,TBD,PENDING,09/18/2025 11:13
+,Kostas,Kloukinas,kostas.kloukinas@cern.ch,CERN,9529,7962,TBD,PENDING,09/18/2025 11:13
+,Michael,Campbell,michael.campbell@cern.ch,CERN,9530,7962,TBD,PENDING,09/18/2025 11:13
+,Walter,Snoeys,walter.snoeys@cern.ch,CERN,9532,7962,TBD,PENDING,09/18/2025 11:13
+,Wojciech,Bialas,wojciech.bialas@cern.ch,CERN,9533,7962,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Pernet,fpe@lem.com,LEM,9539,7965,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Salvi,fsa@lem.com,LEM,9540,7965,TBD,PENDING,09/18/2025 11:13
+,Julien,Feignon,jfe@lem.com,LEM,9543,7965,TBD,PENDING,09/18/2025 11:13
+,Xavier,Francois,xfr@lem.com,LEM,9544,7965,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Acovic,aacovic@emmicroelectronic.com,EM Microelectronic,9575,7980,TBD,PENDING,09/18/2025 11:13
+,Christian,Terrier,cterrier@emmicroelectronic.com,EM Microelectronic,9577,7980,TBD,PENDING,09/18/2025 11:13
+,Christophe,Ratajczak,cratajczak@emmicroelectronic.com,EM Microelectronic,9578,7980,TBD,PENDING,09/18/2025 11:13
+,Daniel,Luthi,daniel.luthi@emmicroelectronic.com,EM Microelectronic,9580,7980,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Walter,fwalter@emmicroelectronic.com,EM Microelectronic,9581,7980,TBD,PENDING,09/18/2025 11:13
+,Filippo,Marinelli,fmarinelli@emmicroelectronic.com,EM Microelectronic,9582,7980,TBD,PENDING,09/18/2025 11:13
+,Hugues,Blangy,hblangy@emmicroelectronic.com,EM Microelectronic,9584,7980,TBD,PENDING,09/18/2025 11:13
+,Philippe,Rochaix,philippe.rochaix@emmicroelectronic.com,EM Microelectronic,9586,7980,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Grosjean,sgrosjean@emmicroelectronic.com,EM Microelectronic,9588,7980,TBD,PENDING,09/18/2025 11:13
+,Thierry,Dutron,tdutron@emmicroelectronic.com,EM Microelectronic,9589,7980,TBD,PENDING,09/18/2025 11:13
+,Yves,Godat,ygodat@emmicroelectronic.com,EM Microelectronic,9590,7980,TBD,PENDING,09/18/2025 11:13
+,Laurence,Strong,laurence.strong@trameto.com,Trameto,9603,7987,TBD,PENDING,09/18/2025 11:13
+,Philippe,Rommeveaux,philippe.rommeveaux@pyxalis.com,PYXALIS,10682,9016,TBD,PENDING,09/18/2025 11:13
+,Sophie,Caranhac,sophie.caranhac@pyxalis.com,PYXALIS,10684,9016,TBD,PENDING,09/18/2025 11:13
+,Chantal,Boyer Chardonnens,chantal.boyerchardonnens@helbling.ch,Helbling Technik Bern AG,10688,9020,TBD,PENDING,09/18/2025 11:13
+,Jean-Noël,Fehr,jean-noel.fehr@helbling.ch,Helbling Technik Bern AG,10689,9020,TBD,PENDING,09/18/2025 11:13
+,Stefan,Bauer,stefan.bauer@helbling.ch,Helbling Technik Bern AG,10690,9020,TBD,PENDING,09/18/2025 11:13
+,Stefan,Troller,stefan.troller@helbling.ch,Helbling Technik Bern AG,10691,9020,TBD,PENDING,09/18/2025 11:13
+,Alexis,Guerin,aguerin@upmem.com,UPMEM,10708,9027,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Devaux,fdevaux@upmem.com,UPMEM,10709,9027,TBD,PENDING,09/18/2025 11:13
+,Gilles,Hamou,ghamou@upmem.com,UPMEM,10710,9027,TBD,PENDING,09/18/2025 11:13
+,Renaud,Ayrignac,rayrignac@upmem.com,UPMEM,10712,9027,TBD,PENDING,09/18/2025 11:13
+,Xavier,Martin,xmartin@upmem.com,UPMEM,10713,9027,TBD,PENDING,09/18/2025 11:13
+,Sum,Tsai,sumtsai@computime.com,Computime,10749,9046,TBD,PENDING,09/18/2025 11:13
+,Amandine,Milesi,amandine.milesi@fr.thalesgroup.com,THALES AVS Valence,10756,9050,TBD,PENDING,09/18/2025 11:13
+,Anne,Berto,anne.berto@fr.thalesgroup.com,THALES AVS Valence,10757,9050,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Barre,frederic.barre@fr.thalesgroup.com,THALES AVS Valence,10759,9050,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Cézilly,frederic.cezilly@fr.thalesgroup.com,THALES AVS Valence,10760,9050,TBD,PENDING,09/18/2025 11:13
+,Philippe,Chaffraix,philippe.chaffraix@fr.thalesgroup.com,THALES AVS Valence,10764,9050,TBD,PENDING,09/18/2025 11:13
+,Philippe,Grossi,philippe.grossi@fr.thalesgroup.com,THALES AVS Valence,10765,9050,TBD,PENDING,09/18/2025 11:13
+,Pierre-Jérôme,Clemenceau,pierre-jerome.clemenceau@fr.thalesgroup.com,THALES AVS Valence,10766,9050,TBD,PENDING,09/18/2025 11:13
+,Serge,Durand,serge.durand@fr.thalesgroup.com,THALES AVS Valence,10767,9050,TBD,PENDING,09/18/2025 11:13
+,Ken,Mackay,kmackay@crocus-technology.com,ALLEGRO MICROSYSTEMS FRANCE SAS,10781,9061,TBD,PENDING,09/18/2025 11:13
+,Cédric,Mayor,cedric.mayor@presto-eng.com,Presto Engineering Inc,10800,9072,TBD,PENDING,09/18/2025 11:13
+,Bertrand,Folco,bertrand.folco@tiempo-secure.com,TIEMPO-SECURE,10855,9103,TBD,PENDING,09/18/2025 11:13
+,Marc,Renaudin,marc.renaudin@tiempo-secure.com,TIEMPO-SECURE,10857,9103,TBD,PENDING,09/18/2025 11:13
+,Serge,Maginot,serge.maginot@tiempo-secure.com,TIEMPO-SECURE,10859,9103,TBD,PENDING,09/18/2025 11:13
+,Bruno,Bosset,bruno.bosset@trixell-thalesgroup.com,TRIXELL,10871,9111,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Rossignol,stephane.rossignol@trixell-thalesgroup.com,TRIXELL,10873,9111,TBD,PENDING,09/18/2025 11:13
+,Xavier,Favre,xavier.favre@trixell-thalesgroup.com,TRIXELL,10875,9111,TBD,PENDING,09/18/2025 11:13
+,Pierre,Bourriol,pierre.bouniol@fr.thalesgroup.com,THALES AVS Valence,10901,9050,TBD,PENDING,09/18/2025 11:13
+,Franck,Gürkaynak,kgf@iis.ee.ethz.ch,ETH Zurich Gloriastrasse,11011,9187,TBD,PENDING,09/18/2025 11:13
+,Luca,Benini,lbenini@iis.ee.ethz.ch,ETH Zurich Gloriastrasse,11012,9187,TBD,PENDING,09/18/2025 11:13
+,Lionel,Cima,lionel.cima@euresitechnia.com,Fine Heart,11015,4202,TBD,PENDING,09/18/2025 11:13
+,Sophie,Le,sophie.le@trixell-thalesgroup.com,TRIXELL,12108,9111,TBD,PENDING,09/18/2025 11:13
+,Primevère,Chapuis,primevere.chapuis@trixell-thalesgroup.com,TRIXELL,12109,9111,TBD,PENDING,09/18/2025 11:13
+,Ozgur,Gursoy,ozgur.gursoy@imec.be,IMEC ASIC Services,12119,4282,TBD,PENDING,09/18/2025 11:13
+,Thomas,Froehlich,thomas.froehlich@ams-osram.com,ams-OSRAM AG Rapperswill,12138,10263,TBD,PENDING,09/18/2025 11:13
+,Thomas,Troexler,thomas.troxler@ams-osram.com,ams-OSRAM AG Rapperswill,12139,10263,TBD,PENDING,09/18/2025 11:13
+,Franck,Bellelle,fbellelle@me.com,SODERN,12173,5787,TBD,PENDING,09/18/2025 11:13
+,Mahmoud,Addouche,mahmoud.addouche@femto-st.fr,VIBISCUS,12212,10299,TBD,PENDING,09/18/2025 11:13
+,William,Daniau,wdaniau@univ-fcomte.fr,VIBISCUS,12213,10299,TBD,PENDING,09/18/2025 11:13
+,Dominique,Kergoat,dominique.kergoat@intradef.gouv.fr,DGA Bruz,12226,10310,TBD,PENDING,09/18/2025 11:13
+,Olivier,Coppin,olivier.coppin@faurecia.com,FORVIA Nanterre,12299,7988,TBD,PENDING,09/18/2025 11:13
+,Romain,Stefanini,r.stefanini@airmems.com,airmems,12401,10412,TBD,PENDING,09/18/2025 11:13
+,Helene,Lefebvre,helene@diabeloop.fr,Diabeloop,12406,4242,TBD,PENDING,09/18/2025 11:13
+,Stéphanie,Jégu,stephanie.jegu@diabeloop.fr,Diabeloop,12407,4242,TBD,PENDING,09/18/2025 11:13
+,Gilles,Masson,gilles.masson@cea.fr,CEA Grenoble,12425,2,TBD,PENDING,09/18/2025 11:13
+,Jean-Charles,Barbe,jean-charles.barbe@cea.fr,CEA Grenoble,12428,2,TBD,PENDING,09/18/2025 11:13
+,Jean-Luc,Moro,jean-luc.moro@cea.fr,CEA Grenoble,12430,2,TBD,PENDING,09/18/2025 11:13
+,Jean-Michel,Leger,jean-michel.leger@cea.fr,CEA Grenoble,12431,2,TBD,PENDING,09/18/2025 11:13
+,Jean-Philippe,Noel,jean-philippe.noel@cea.fr,CEA Grenoble,12432,2,TBD,PENDING,09/18/2025 11:13
+,Jean-Philippe,Polizzi,jean-philippe.polizzi@cea.fr,CEA Grenoble,12433,2,TBD,PENDING,09/18/2025 11:13
+,Laurent,Fulbert,laurent.fulbert@cea.fr,CEA Grenoble,12440,2,TBD,PENDING,09/18/2025 11:13
+,Laurent,Ouvry,laurent.ouvry@cea.fr,CEA Grenoble,12441,2,TBD,PENDING,09/18/2025 11:13
+,Ludovic,Poupinet,ludovic.poupinet@cea.fr,CEA Grenoble,12442,2,TBD,PENDING,09/18/2025 11:13
+,Manuel,Pezzin,manuel.pezzin@cea.fr,CEA Grenoble,12443,2,TBD,PENDING,09/18/2025 11:13
+,Marion,Andrillat,marion.andrillat@cea.fr,CEA Grenoble,12445,2,TBD,PENDING,09/18/2025 11:13
+,Martin,Gallezot,martin.gallezot@cea.fr,CEA Grenoble,12446,2,TBD,PENDING,09/18/2025 11:13
+,Michaël,Pelissier,michael.pelissier@cea.fr,CEA Grenoble,12447,2,TBD,PENDING,09/18/2025 11:13
+,Michaël,Tchagaspanian,michael.tchagaspanian@cea.fr,CEA Grenoble,12448,2,TBD,PENDING,09/18/2025 11:13
+,Michel,Durr,michel.durr@cea.fr,CEA Grenoble,12449,2,TBD,PENDING,09/18/2025 11:13
+,Michel,Ida,michel.ida@cea.fr,CEA Grenoble,12450,2,TBD,PENDING,09/18/2025 11:13
+,Nathalie,Bernard-Henriques,nathalie.bernard-henriques@cea.fr,CEA Grenoble,12452,2,TBD,PENDING,09/18/2025 11:13
+,Nathalie,Marion,nmarion@cea.fr,CEA Grenoble,12453,2,TBD,PENDING,09/18/2025 11:13
+,Olivier,Faynot,olivier.faynot@cea.fr,CEA Grenoble,12455,2,TBD,PENDING,09/18/2025 11:13
+,Patrice,Rey,patrice.rey@cea.fr,CEA Grenoble,12456,2,TBD,PENDING,09/18/2025 11:13
+,Pierre,Castelein,pierre.castelein@cea.fr,CEA Grenoble,12462,2,TBD,PENDING,09/18/2025 11:13
+,Pierre-Yves,Martinez,pierre-yves.martinez@cea.fr,CEA Grenoble,12465,2,TBD,PENDING,09/18/2025 11:13
+,Raymond,Campagnolo,raymond.campagnolo@cea.fr,CEA Grenoble,12466,2,TBD,PENDING,09/18/2025 11:13
+,Sandrine,Locatelli,sandrine.locatelli@cea.fr,CEA Grenoble,12467,2,TBD,PENDING,09/18/2025 11:13
+,Sébastien,Barnola,sebastien.barnola@cea.fr,CEA Grenoble,12468,2,TBD,PENDING,09/18/2025 11:13
+,Stéphanie,Riche,stephanie.riche@cea.fr,CEA Grenoble,12473,2,TBD,PENDING,09/18/2025 11:13
+,Stéphanie,Robinet,stephanie.robinet@cea.fr,CEA Grenoble,12474,2,TBD,PENDING,09/18/2025 11:13
+,Sylvie,Joly,sylvie-j.joly@cea.fr,CEA Grenoble,12475,2,TBD,PENDING,09/18/2025 11:13
+,Thierry,Billon,thierry.billon@cea.fr,CEA Grenoble,12476,2,TBD,PENDING,09/18/2025 11:13
+,Vincent,Cachard,vincent.cachard@cea.fr,CEA Grenoble,12477,2,TBD,PENDING,09/18/2025 11:13
+,Yvain,Thonnard,yvain.thonnart@cea.fr,CEA Grenoble,12479,2,TBD,PENDING,09/18/2025 11:13
+,Yves,Fouillet,yves.fouillet@cea.fr,CEA Grenoble,12481,2,TBD,PENDING,09/18/2025 11:13
+,Olivier,Pineau,opineau@reflexces.com,REFLEX CES,12484,10423,TBD,PENDING,09/18/2025 11:13
+,Marco,Brambilla,marco.brambilla@fb.com,Meta,12562,10456,TBD,PENDING,09/18/2025 11:13
+,Eric,Jeng,eric.jeng@guc-asic.com,GUC,12564,4369,TBD,PENDING,09/18/2025 11:13
+,Anthony,Boscaro,anthony.bascaro@sayens.fr,SATT SAYENS,12764,10525,TBD,PENDING,09/18/2025 11:13
+,Michel,Desbard,mdesbard@crocus-technology.com,ALLEGRO MICROSYSTEMS FRANCE SAS,12765,9061,TBD,PENDING,09/18/2025 11:13
+,Frank,Bartels,bartels@bartels-mikrotechnik.de,Bartels Mikrotechnik,12792,10541,TBD,PENDING,09/18/2025 11:13
+,Jared,Dwarika,jared@healthcareoriginals.com,HCO,12795,10543,TBD,PENDING,09/18/2025 11:13
+,Christophe,Verjus,christophe.verjus@csem.ch,CSEM Neuchatel,12796,4284,TBD,PENDING,09/18/2025 11:13
+,Martin,Siaud,martin.siaud@trixell-thalesgroup.com,TRIXELL,13816,9111,TBD,PENDING,09/18/2025 11:13
+,Ramses,Valvekens,ramses@easics.be,Easics,13866,11580,TBD,PENDING,09/18/2025 11:13
+,Tim,Morlion,timm@easics.be,Easics,13868,11580,TBD,PENDING,09/18/2025 11:13
+,Jose,Vinau,jose.vinau@ams-osram.com,ams-OSRAM Valencia,13949,11625,TBD,PENDING,09/18/2025 11:13
+,Muriel,Mares,muriel.mares@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,13975,1074,TBD,PENDING,09/18/2025 11:13
+,Alexis,Normand,alexis.norman@withings.com,Withings,14016,11652,TBD,PENDING,09/18/2025 11:13
+,Xavier,Debreuil,xavier.debreuil@withings.com,Withings,14017,11652,TBD,PENDING,09/18/2025 11:13
+,Benoit,Deville,bdeville@slb.com,SLB,14034,1157,TBD,PENDING,09/18/2025 11:13
+,François,Barbara,barbara1@slb.com,SLB,14036,1157,TBD,PENDING,09/18/2025 11:13
+,Bernard,Candaele,bernard.candaele@fr.thalesgroup.com,THALES SIX Gennevilliers,14062,11664,TBD,PENDING,09/18/2025 11:13
+,Christophe,Antoine,christophe.antoine@fr.thalesgroup.com,THALES SIX Gennevilliers,14065,11664,TBD,PENDING,09/18/2025 11:13
+,Didier,Le Maitre,didier.lemaitre@fr.thalesgroup.com,THALES SIX Gennevilliers,14066,11664,TBD,PENDING,09/18/2025 11:13
+,Eric,Perpere,eric.perpere@thalesgroup.com,THALES SIX Gennevilliers,14067,11664,TBD,PENDING,09/18/2025 11:13
+,Eric,Teyssou,eric.teyssou@fr.thalesgroup.com,THALES SIX Gennevilliers,14068,11664,TBD,PENDING,09/18/2025 11:13
+,Florence,Jard,florence.jard@fr.thalesgroup.com,THALES SIX Gennevilliers,14069,11664,TBD,PENDING,09/18/2025 11:13
+,Franck,Roger,franck.roger@thalesgroup.com,THALES SIX Gennevilliers,14070,11664,TBD,PENDING,09/18/2025 11:13
+,Hervé,Le Bescont,herve.lebescont@thalesgroup.com,THALES SIX Gennevilliers,14072,11664,TBD,PENDING,09/18/2025 11:13
+,Jean-Pierre,Vernier,jean-pierre.vernier@thalesgroup.com,THALES SIX Gennevilliers,14073,11664,TBD,PENDING,09/18/2025 11:13
+,Jérôme,Soufflet,jerome.soufflet@fr.thalesgroup.com,THALES SIX Gennevilliers,14075,11664,TBD,PENDING,09/18/2025 11:13
+,Joël,Baranger,joel.baranger@thalesgroup.com,THALES SIX Gennevilliers,14076,11664,TBD,PENDING,09/18/2025 11:13
+,Karine,Renaud,karine.renaud@thalesgroup.com,THALES SIX Gennevilliers,14077,11664,TBD,PENDING,09/18/2025 11:13
+,Marc,Dufrois,marc-d.dufrois@thalesgroup.com,THALES SIX Gennevilliers,14078,11664,TBD,PENDING,09/18/2025 11:13
+,Michel,Sarlotte,michel.sarlotte@thalesgroup.com,THALES SIX Gennevilliers,14079,11664,TBD,PENDING,09/18/2025 11:13
+,Nelly,Salzmann,nelly.salzmann@thalesgroup.com,THALES SIX Gennevilliers,14080,11664,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Chastel,nicolas.chastel@thalesgroup.com,THALES SIX Gennevilliers,14082,11664,TBD,PENDING,09/18/2025 11:13
+,Philippe,Bourgon,philippe.bourgon@fr.thalesgroup.com,THALES SIX Gennevilliers,14083,11664,TBD,PENDING,09/18/2025 11:13
+,Pierre,Jeanne,pierre.jeanne@thalesgroup.com,THALES SIX Gennevilliers,14085,11664,TBD,PENDING,09/18/2025 11:13
+,Pierre-Yves,Fritsch,pierre-yves.fritsch@thalesgroup.com,THALES SIX Gennevilliers,14086,11664,TBD,PENDING,09/18/2025 11:13
+,Simon,Emeriau,simon.emeriau@thalesgroup.com,THALES SIX Gennevilliers,14087,11664,TBD,PENDING,09/18/2025 11:13
+,Sophie,Chague,sophie.chague@thalesgroup.com,THALES SIX Gennevilliers,14088,11664,TBD,PENDING,09/18/2025 11:13
+,Theodor,Maier,theodor.maier@continental-corporation.com,CONTINENTAL Regensburg,14204,11737,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Delorme,alexandre.delorme@kapflex.com,Kapflex Sensors,14215,9135,TBD,PENDING,09/18/2025 11:13
+,Dalius,Baranauskas,dalius@sifemto.com,Sifemto,14218,11747,TBD,PENDING,09/18/2025 11:13
+,Johan,Simoncini,johan.simoncini@cegitek.com,Cegitek Innovation,14219,11748,TBD,PENDING,09/18/2025 11:13
+,Andreas,Wild,andreas.wild@ams-osram.com,ams-OSRAM AG Premstaetten,14273,11778,TBD,PENDING,09/18/2025 11:13
+,Bernd,Janger,bernd.janger@ams-osram.com,ams-OSRAM AG Premstaetten,14275,11778,TBD,PENDING,09/18/2025 11:13
+,Christian,Mautner,christian.mautner@ams-osram.com,ams-OSRAM AG Premstaetten,14276,11778,TBD,PENDING,09/18/2025 11:13
+,Ehrenfried,Seebacher,ehrenfried.seebacher@ams-osram.com,ams-OSRAM AG Premstaetten,14277,11778,TBD,PENDING,09/18/2025 11:13
+,Gregor,Schatzberger,gregor.schatzberger@ams-osram.com,ams-OSRAM AG Premstaetten,14278,11778,TBD,PENDING,09/18/2025 11:13
+,Herbert,Truppe,herbert.truppe@ams-osram.com,ams-OSRAM AG Premstaetten,14279,11778,TBD,PENDING,09/18/2025 11:13
+,Johannes,Fellner,johannes.fellner@ams-osram.com,ams-OSRAM AG Premstaetten,14280,11778,TBD,PENDING,09/18/2025 11:13
+,Jörg,Schwemmlein,joerg.schwemmlein@ams-osram.com,ams-OSRAM AG Premstaetten,14281,11778,TBD,PENDING,09/18/2025 11:13
+,Jouni,Riihimäki,jouni.riihimaeki@ams-osram.com,ams-OSRAM AG Premstaetten,14282,11778,TBD,PENDING,09/18/2025 11:13
+,Michael,Boehm,michael.boehm@ams-osram.com,ams-OSRAM AG Premstaetten,14284,11778,TBD,PENDING,09/18/2025 11:13
+,Pete,Kammerlander,peter.kammerlander@ams-osram.com,ams-OSRAM AG Premstaetten,14286,11778,TBD,PENDING,09/18/2025 11:13
+,Peter,Pann,peter.pann@ams-osram.com,ams-OSRAM AG Premstaetten,14287,11778,TBD,PENDING,09/18/2025 11:13
+,Rainer,Minixhofer,rainer.minixhofer@ams-osram.com,ams-OSRAM AG Premstaetten,14289,11778,TBD,PENDING,09/18/2025 11:13
+,Reinhard,Spinotti,reinhard.spinotti@ams-osram.com,ams-OSRAM AG Premstaetten,14290,11778,TBD,PENDING,09/18/2025 11:13
+,Rene,Kautschitsch,rene.kautschitsch@ams-osram.com,ams-OSRAM AG Premstaetten,14291,11778,TBD,PENDING,09/18/2025 11:13
+,Thomas,Moerth,thomas.moerth@ams-osram.com,ams-OSRAM AG Premstaetten,14294,11778,TBD,PENDING,09/18/2025 11:13
+,Thomas,Riener,thomas.riener@ams-osram.com,ams-OSRAM AG Premstaetten,14295,11778,TBD,PENDING,09/18/2025 11:13
+,Thierry,Mondin,thierry.mondin@carmatsas.com,CARMAT,14341,1100,TBD,PENDING,09/18/2025 11:13
+,Attila,Borbath,attila.borbath@synergiam.com,SYNERGIA Medical,14344,4331,TBD,PENDING,09/18/2025 11:13
+,Alberto,Messina,alberto.messina@st.com,STMicroelectronics Catania,14619,11904,TBD,PENDING,09/18/2025 11:13
+,Alfredo,Licciardello,alfredo.licciardello@st.com,STMicroelectronics Catania,14621,11904,TBD,PENDING,09/18/2025 11:13
+,Antonino,Conte,antonino.conte@st.com,STMicroelectronics Catania,14622,11904,TBD,PENDING,09/18/2025 11:13
+,Antonio,Imbruglia,antonio.imbruglia@st.com,STMicroelectronics Catania,14623,11904,TBD,PENDING,09/18/2025 11:13
+,Elio,Guidetti,elio.guidetti@st.com,STMicroelectronics Catania,14627,11904,TBD,PENDING,09/18/2025 11:13
+,Francesco,Pulvirenti,francesco-cad.pulvirenti@st.com,STMicroelectronics Catania,14630,11904,TBD,PENDING,09/18/2025 11:13
+,Gionatan,Montoro,gionatan.montoro@st.com,STMicroelectronics Catania,14632,11904,TBD,PENDING,09/18/2025 11:13
+,Giorgio,Catanzaro,giorgio.catanzaro@st.com,STMicroelectronics Catania,14633,11904,TBD,PENDING,09/18/2025 11:13
+,Giuseppe,Arceri,giuseppe.arceri@st.com,STMicroelectronics Catania,14634,11904,TBD,PENDING,09/18/2025 11:13
+,Giuseppe,Pontorno,giuseppe-m5.pontorno@st.com,STMicroelectronics Catania,14635,11904,TBD,PENDING,09/18/2025 11:13
+,Irene,Giangreco,irene.giangreco@st.com,STMicroelectronics Catania,14636,11904,TBD,PENDING,09/18/2025 11:13
+,Matteo,Lo-Presti,matteo.lo-presti@st.com,STMicroelectronics Catania,14638,11904,TBD,PENDING,09/18/2025 11:13
+,Nunzio,Abbate,nunzio.abbate@st.com,STMicroelectronics Catania,14641,11904,TBD,PENDING,09/18/2025 11:13
+,Salvatore,Cosentino,salvatore.cosentino@st.com,STMicroelectronics Catania,14643,11904,TBD,PENDING,09/18/2025 11:13
+,Salvatore,Di Fazio,salvatore.difazio@st.com,STMicroelectronics Catania,14644,11904,TBD,PENDING,09/18/2025 11:13
+,Salvatore,Palaia,salvatore.palaia@st.com,STMicroelectronics Catania,14645,11904,TBD,PENDING,09/18/2025 11:13
+,Salvatore,Rinaudo,salvatore.rinaudo@st.com,STMicroelectronics Catania,14646,11904,TBD,PENDING,09/18/2025 11:13
+,Santo,Ilardo,santo.ilardo@st.com,STMicroelectronics Catania,14647,11904,TBD,PENDING,09/18/2025 11:13
+,Alix,Duclos,alix.duclos@kapflex.com,Kapflex Sensors,14671,9135,TBD,PENDING,09/18/2025 11:13
+,Odette,Heisler,odette.heisler@sayens.fr,SATT SAYENS,14676,10525,TBD,PENDING,09/18/2025 11:13
+,Loïc,Lagadec,loic.lagadec@ensta-bretagne.fr,ENSTA,14684,11929,TBD,PENDING,09/18/2025 11:13
+,Jean-Christophe,Le Lann,jean-christophe.le_lann@ensta-bretagne.fr,ENSTA,14686,11929,TBD,PENDING,09/18/2025 11:13
+,François,Vincent,francois.vincent-external@carmatsas.com,CARMAT,14699,1100,TBD,PENDING,09/18/2025 11:13
+,Mehdi,Terosiet,mehdi.terosiet@carmatsas.com,CARMAT,14700,1100,TBD,PENDING,09/18/2025 11:13
+,Hamid,Delmi,hamid.delmi@carmatsas.com,CARMAT,14701,1100,TBD,PENDING,09/18/2025 11:13
+,Armand,Castillejo,armand.castillejo@st.com,STMicroelectronics (Grenoble 2) SAS,14703,11945,TBD,PENDING,09/18/2025 11:13
+,Roald,Neuquelman,roald.neuquelman@st.com,STMicroelectronics (Grenoble 2) SAS,14704,11945,TBD,PENDING,09/18/2025 11:13
+,David,Camara,david.camara@emmicroelectronic.com,EM Microelectronic,14710,7980,TBD,PENDING,09/18/2025 11:13
+,Jason,Ruan,jason.ruan@aleva-neuro.com,Adept Neuro SA,14735,1146,TBD,PENDING,09/18/2025 11:13
+,Mario,Schlund,mario_schlund@sensimed.ch,Sensimed,14924,4230,TBD,PENDING,09/18/2025 11:13
+,Sacha,Cerboni,sacha_cerboni@sensimed.ch,Sensimed,14925,4230,TBD,PENDING,09/18/2025 11:13
+,Franz,Rudolf Von Rohr,franz.rvr@uwatec.ch,Scubapro Uwatec,14926,2147,TBD,PENDING,09/18/2025 11:13
+,Joerg,Mayer,joerg.mayer@spinewelding.ch,WoodWelding SA,14928,12058,TBD,PENDING,09/18/2025 11:13
+,Guillaume,Nesa,guillaume.nesa@olythe.com,OLYTHE,14934,12062,TBD,PENDING,09/18/2025 11:13
+,Yves,Amann,y.amann@titan-defense.com,TITAN DEFENSE,14939,12065,TBD,PENDING,09/18/2025 11:13
+,Zack,Deiri,zdeiri@crocus-technology.com,Allegro Microsystems Milpitas,14941,12067,TBD,PENDING,09/18/2025 11:13
+,Fabrice,Jovenin,fjovenin@redtree-solutions.com,Redtree Solutions,14970,1075,TBD,PENDING,09/18/2025 11:13
+,Lars,Vosskaemper,lars.vosskaemper@vermes.com,VERMES Microdispensing,14975,12086,TBD,PENDING,09/18/2025 11:13
+,Joshua,Davison,joshua.luke.davison@cern.ch,CERN,14979,7962,TBD,PENDING,09/18/2025 11:13
+,Bruno,Berge,bruno.berge@laclaree-vision.com,Laclarée Vision,17033,14106,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Lio Soon Shun,nicolas.liosoonshun@cea.fr,CEA Grenoble,17049,2,TBD,PENDING,09/18/2025 11:13
+,Rudi,Lannoo,rudi.lannoo@st.com,STMicroelectronics (Grenoble 2) SAS,17050,11945,TBD,PENDING,09/18/2025 11:13
+,Sergio,Nicoletti,sergio.nicoletti@cea.fr,CEA Grenoble,17053,2,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Siebert,stephane.siebert@cea.fr,CEA Grenoble,17055,2,TBD,PENDING,09/18/2025 11:13
+,Constantin,Papadas,papadas@isd.gr,ISD Integrated System Development,17058,14146,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Balmefrezol,alexandre.balmefrezol@st.com,STMicroelectronics (Grenoble 2) SAS,18061,11945,TBD,PENDING,09/18/2025 11:13
+,Valentin,Leveque,valentin.leveque@olythe.com,OLYTHE,18066,12062,TBD,PENDING,09/18/2025 11:13
+,Thierry,Bouchet,thierry.bouchet@wise-integration.com,Wise Integration,18072,15153,TBD,PENDING,09/18/2025 11:13
+,Luca,De Rosa,luca.derosa@emmicroelectronic.com,EM Microelectronic,18074,7980,TBD,PENDING,09/18/2025 11:13
+,Michel,Ayraud,michel.ayraud@st.com,STMicroelectronics (Grenoble 2) SAS,18077,11945,TBD,PENDING,09/18/2025 11:13
+,Maxime,Gueschir,gueschir@switchess.com,SwitchESS,18080,15157,TBD,PENDING,09/18/2025 11:13
+,François,Vasey,francois.vasey@cern.ch,CERN,18099,7962,TBD,PENDING,09/18/2025 11:13
+,Sandrine,Auguie,sandrine.auguie@thalesaleniaspace.com,THALES ALENIA SPACE Toulouse,19106,1074,TBD,PENDING,09/18/2025 11:13
+,Yannick,Gilbert,yannick.gilbert@sercel.com,SERCEL,19107,1071,TBD,PENDING,09/18/2025 11:13
+,Chris,Eden,chris.eden@trinamix.de,Trinamix GmbH,19117,17186,TBD,PENDING,09/18/2025 11:13
+,Ingmar,Bruder,ingmar.bruder@trinamix.de,Trinamix GmbH,19119,17186,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Liegeon,emmanuel.liegeon@fr.thalesgroup.com,THALES AVS Mérignac,19124,6899,TBD,PENDING,09/18/2025 11:13
+,Sebastian,Valouche,sebastian.valouch@trinamix.de,Trinamix GmbH,19143,17186,TBD,PENDING,09/18/2025 11:13
+,Athira,Subash,athira.subash@vermes.com,VERMES Microdispensing,19145,12086,TBD,PENDING,09/18/2025 11:13
+,Arvind,Anche,arvind.anche@vermes.com,VERMES Microdispensing,19146,12086,TBD,PENDING,09/18/2025 11:13
+,Siva,Gangarapu,siva.gangarapu@vermes.com,VERMES Microdispensing,19147,12086,TBD,PENDING,09/18/2025 11:13
+,Pierre,Vialemaringe,pierre.vialemaringe@fr.thalesgroup.com,THALES AVS Mérignac,19149,6899,TBD,PENDING,09/18/2025 11:13
+,-,Accounts Payable,invoice.esas@st.com,STMicroelectronics (Grenoble 2) SAS,19157,11945,TBD,PENDING,09/18/2025 11:13
+,Valentina,Vignola,valentina.vignola@st.com,STMicroelectronics (Grenoble 2) SAS,19158,11945,TBD,PENDING,09/18/2025 11:13
+,Alejandro,Sanz,asanz@sagax.tech,SagaX,19159,17208,TBD,PENDING,09/18/2025 11:13
+,Olivia,Peyrard,opeyrard@semtech.com,SEMTECH FRANCE SAS,19169,4291,TBD,PENDING,09/18/2025 11:13
+,Gürkan,Yilmaz,guerkan.yilmaz@csem.ch,CSEM Neuchatel,19186,4284,TBD,PENDING,09/18/2025 11:13
+,Paymon,Rasekhy,paymon@lynxemi.com,LYNXEMI,19197,17230,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Belardi,sbelardi@gopro.com,GoPro Technology France SAS,19198,10391,TBD,PENDING,09/18/2025 11:13
+,Vincent,Vacquerie,vvacquerie@gopro.com,GoPro Technology France SAS,19199,10391,TBD,PENDING,09/18/2025 11:13
+,Michael,Kraak,mkraak@gopro.com,GoPro Technology France SAS,19200,10391,TBD,PENDING,09/18/2025 11:13
+,Yann,Pinaroli,yann.pinaroli@diabeloop.fr,Diabeloop,19201,4242,TBD,PENDING,09/18/2025 11:13
+,Thomas,Dominique,dominique.thomas@st.com,STMicroelectronics (Crolles2) SAS,19214,4287,TBD,PENDING,09/18/2025 11:13
+,Nick,Van Helleputte,nick.vanhelleputte@imec.be,IMEC ASIC Services,19216,4282,TBD,PENDING,09/18/2025 11:13
+,Marc,Sworowski,msworowski@silmach.com,SILMACH,19234,17205,TBD,PENDING,09/18/2025 11:13
+,Valentin,Kerspern,vkerspern@endotact.com,NuVasive Paris,19242,17253,TBD,PENDING,09/18/2025 11:13
+,Benoit,Deschamps,benoit.deschamps@st.com,STMicroelectronics (Grenoble 2) SAS,19245,11945,TBD,PENDING,09/18/2025 11:13
+,Lionel,Graff,lionel.graff@st.com,STMicroelectronics (Grenoble 2) SAS,19246,11945,TBD,PENDING,09/18/2025 11:13
+,Christophe,Bouvier,christophe.bouvier@pyxalis.com,PYXALIS,19248,9016,TBD,PENDING,09/18/2025 11:13
+,Maryline,Parra,maryline.parra@st.com,STMicroelectronics (Crolles2) SAS,19251,4287,TBD,PENDING,09/18/2025 11:13
+,Cyrille,Gachon,cyrille.gachon@st.com,STMicroelectronics (Grenoble 2) SAS,19252,11945,TBD,PENDING,09/18/2025 11:13
+,Christopher,Malkin,cmalkin@rambus.com,RAMBUS,19261,4710,TBD,PENDING,09/18/2025 11:13
+,Norbert,Lartigue,norbert.lartigue@sp3h.fr,SP3H,19265,1089,TBD,PENDING,09/18/2025 11:13
+,Eric,Stempin,stempin@switchess.com,SwitchESS,19267,15157,TBD,PENDING,09/18/2025 11:13
+,Benoît,Gouhier,gouhier@switchess.com,SwitchESS,19268,15157,TBD,PENDING,09/18/2025 11:13
+,Xavier,Wiedemann,xavier.wiedemann@altertechnology.com,ALTER Technology (France),19269,17265,TBD,PENDING,09/18/2025 11:13
+,Laurence,Cordrey-Gale,laurence.cordrey-gale@pyxalis.com,PYXALIS,19279,9016,TBD,PENDING,09/18/2025 11:13
+,Laurent,Moulin,laurent.moulin@vitec.com,VITEC Video Innovation,19284,1119,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Moins,sms@lem.com,LEM,19304,7965,TBD,PENDING,09/18/2025 11:13
+,Gilles,De Preux,gilles.depreux@senbiosys.com,Senbiosys,19307,12057,TBD,PENDING,09/18/2025 11:13
+,Philippe,Notton,philippe.notton@sipearl.com,SiPearl,19319,17288,TBD,PENDING,09/18/2025 11:13
+,Torsten,Krause-Dukart,torsten@equipic.com,EQUIPIC,19772,17471,TBD,PENDING,09/18/2025 11:13
+,Romain,Palmade,romain.palmade@centiloc.com,CENTILOC,19773,17472,TBD,PENDING,09/18/2025 11:13
+,Gerhard,Schmid,schmid@trilite-tech.com,Trilite Technologies,19777,17476,TBD,PENDING,09/18/2025 11:13
+,Loïc,Henninot,loic.henninot@centiloc.com,CENTILOC,19792,17472,TBD,PENDING,09/18/2025 11:13
+,Christophe,Zydek,christophe.zydek@faurecia.com,Faurecia Clarion Electronics Europe (FR60),19796,17484,TBD,PENDING,09/18/2025 11:13
+,Cyril,Laury,cyril.laury@faurecia.com,Faurecia Clarion Electronics Europe (FR60),19797,17484,TBD,PENDING,09/18/2025 11:13
+,Olivier,Grenie,olivier.grenie@faurecia.com,Faurecia Clarion Electronics Europe (FR60),19799,17484,TBD,PENDING,09/18/2025 11:13
+,Michel,Gac,michel.gac@sipearl.com,SiPearl,19800,17288,TBD,PENDING,09/18/2025 11:13
+,Daniel,Braendle,dbraendle@baumer.com,BAUMER ELECTRIC AG,19803,1072,TBD,PENDING,09/18/2025 11:13
+,Dominique,Gross,d.gross@vermon.com,VERMON,19804,3187,TBD,PENDING,09/18/2025 11:13
+,Pascal,Mora,pascal.mora@aledia.com,ALEDIA,19807,1076,TBD,PENDING,09/18/2025 11:13
+,Vincent,Markus,vincent.markus@menta-efpga.com,MENTA Valbonne,19808,4345,TBD,PENDING,09/18/2025 11:13
+,Elie,Lobel,elie.lobel@rdsdiag.com,RDS Rhythm Diagnostic Systems (strasbourg),19814,17490,TBD,PENDING,09/18/2025 11:13
+,Joshua,Wong,jwong@moxtek.com,Moxtek,19815,17491,TBD,PENDING,09/18/2025 11:13
+,Christian,Heintz,christian.heintz@eusil.eu,EUSIL,19818,17493,TBD,PENDING,09/18/2025 11:13
+,Andrei,Stratilatov,astratilatov@moxtek.com,Moxtek,19821,17491,TBD,PENDING,09/18/2025 11:13
+,David,Hoffman,dhoffman@moxtek.com,Moxtek,19822,17491,TBD,PENDING,09/18/2025 11:13
+,Johnny,Lin,johnnylin@netlinkc.com,Netlink communication corp,19823,17496,TBD,PENDING,09/18/2025 11:13
+,Eric,Desplanches,edesplanches@gmail.com,Eric Desplanches,19824,17498,TBD,PENDING,09/18/2025 11:13
+,Julien,Michel,julien.michel@se.com,SCHNEIDER Electric Eybens,19835,2191,TBD,PENDING,09/18/2025 11:13
+,Michel,Dubeau,michel.dubeau@nanoz-group.com,Nanoz group,19837,17506,TBD,PENDING,09/18/2025 11:13
+,Thibaud,Sellam,thibaud.sellam@nanoz-group.com,Nanoz group,19838,17506,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Beguin,emmanuel.beguin@crm.microport.com,Sorin CRM S.A.S.,19846,4246,TBD,PENDING,09/18/2025 11:13
+,Eric,Labarre,labarre.eric1@gmail.com,@-health,19850,1128,TBD,PENDING,09/18/2025 11:13
+,Louis,Mayaud,louis.mayaud@rdsdiag.com,RDS Rhythm Diagnostic Systems (strasbourg),19857,17490,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Fuchs,emmanuel.fuchs@aledia.com,ALEDIA,19859,1076,TBD,PENDING,09/18/2025 11:13
+,Bruno,Thuillier,bruno.thuillier@boydsense.com,BOYDSENSE HQ,19868,17280,TBD,PENDING,09/18/2025 11:13
+,Fred,Rivard,fred.rivard@microej.com,MicroEJ,19879,17523,TBD,PENDING,09/18/2025 11:13
+,Jack,Guedj,jguedj@numem.com,Numem,19881,17525,TBD,PENDING,09/18/2025 11:13
+,Gweltas,Radenac,gradenac@wisekey.com,Seal SQ France,19884,2153,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Pauchard,alexandre.pauchard@csem.ch,CSEM Neuchatel,19887,4284,TBD,PENDING,09/18/2025 11:13
+,Pierre,Dautriche,pierre.dautriche@st.com,STMicroelectronics (Crolles2) SAS,19893,4287,TBD,PENDING,09/18/2025 11:13
+,Laurent,Savelli,laurent.savelli@st.com,STMicroelectronics (Crolles2) SAS,19894,4287,TBD,PENDING,09/18/2025 11:13
+,Rémi,Ferrier,rferrier@kineis.com,KINEIS,19895,17533,TBD,PENDING,09/18/2025 11:13
+,Nogaye,Loubradou,nloubradou@kineis.com,KINEIS,19899,17533,TBD,PENDING,09/18/2025 11:13
+,Hervé,Callewaert,hcallewaert@kineis.com,KINEIS,19900,17533,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Rivière,frederic.riviere@microej.com,MicroEJ,19910,17523,TBD,PENDING,09/18/2025 11:13
+,Régis,Latawiec,regis.latawiec@microej.com,MicroEJ,19911,17523,TBD,PENDING,09/18/2025 11:13
+,Benoît,Clinchamps,benoit.clinchamps@crm.microport.com,Sorin CRM S.A.S.,19912,4246,TBD,PENDING,09/18/2025 11:13
+,Lillo (Calogero),Ribellino,lillo.ribellino@st.com,STMicroelectronics Catania,19913,11904,TBD,PENDING,09/18/2025 11:13
+,Jérôme,Barbin,jerome.barbin@sodern.fr,SODERN,19914,5787,TBD,PENDING,09/18/2025 11:13
+,Gaël,Matten,gael@vibiscus.com,VIBISCUS,19916,10299,TBD,PENDING,09/18/2025 11:13
+,Sébastien,Pelletier,sebastien.pelletier@alpha-mos.com,BOYDSENSE HQ,19931,17280,TBD,PENDING,09/18/2025 11:13
+,Jean-Claude,Lenain,jc.lenain@sense-in.fr,SENSE in,19940,17554,TBD,PENDING,09/18/2025 11:13
+,Thomas,Blondel,thomas.blondel@mosaicfinance.fr,MOSAIC Finance,19942,17556,TBD,PENDING,09/18/2025 11:13
+,Vincent,Lenoir,vincent.lenoir@se.com,SCHNEIDER Electric Eybens,19943,2191,TBD,PENDING,09/18/2025 11:13
+,Kevin,Rondeau,k.rondeau@sense-in.fr,SENSE in,19947,17554,TBD,PENDING,09/18/2025 11:13
+,Isabelle,Cocquart,isabelle.cocquart@mosaicfinance.fr,MOSAIC Finance,19948,17556,TBD,PENDING,09/18/2025 11:13
+,Bruno,Maisonnier,bruno@anotherbrain.io,AnotherBrain,19952,3175,TBD,PENDING,09/18/2025 11:13
+,David,Savery,d.savery@vermon.com,VERMON,19954,3187,TBD,PENDING,09/18/2025 11:13
+,Etienne,Flesch,e.flesch@vermon.com,VERMON,19955,3187,TBD,PENDING,09/18/2025 11:13
+,Oleg,Gavrilov,ogavrilov@waviot.ru,Waviot,19956,17561,TBD,PENDING,09/18/2025 11:13
+,Frank,Sobel,f.sobel@sense-in.fr,SENSE in,19961,17554,TBD,PENDING,09/18/2025 11:13
+,Christian,Mourad,christian@voxelsensors.com,VoxelSensors SRL,19963,17566,TBD,PENDING,09/18/2025 11:13
+,Tim,Holden,tim.holden@guc-asic.com,GUC,19964,4369,TBD,PENDING,09/18/2025 11:13
+,Marc,Le Guyader,mleguyader@cryptoquantique.com,Crypto Quantique,19965,17568,TBD,PENDING,09/18/2025 11:13
+,Silvio,Dalla Piazza,dallapiazza.silvio@microcrystal.ch,MICRO CRYSTAL,19966,17569,TBD,PENDING,09/18/2025 11:13
+,Hugo,Gicquel,hugo.gicquel@st.com,STMicroelectronics (Grenoble 2) SAS,19977,11945,TBD,PENDING,09/18/2025 11:13
+,Victor,Ting,victor.ting@withings.com,Withings,19979,11652,TBD,PENDING,09/18/2025 11:13
+,Carl,De Ranter,carl@pharrowtech.com,Pharrowtech BV,19980,17581,TBD,PENDING,09/18/2025 11:13
+,Andrey,Orlov,aorlov@waviot.ru,Waviot,20983,17561,TBD,PENDING,09/18/2025 11:13
+,Max,Eickenscheidt,meickenscheidt@neuroloop.de,Neuroloop,20986,18583,TBD,PENDING,09/18/2025 11:13
+,Dennis,Plachta,dplachta@neuroloop.de,Neuroloop,20987,18583,TBD,PENDING,09/18/2025 11:13
+,Roi,Tsukran,roi.tuskran@nyxoah.com,Nyxoah,20997,18592,TBD,PENDING,09/18/2025 11:13
+,Soeren,Steudel,soeren.steudel@micledi.com,micledi,22002,18597,TBD,PENDING,09/18/2025 11:13
+,Colin,Gilly,cgilly@rambus.com,RAMBUS,22005,4710,TBD,PENDING,09/18/2025 11:13
+,Menachem,Bahat,menachem_b@contractor.rad.com,RAD Data Communications,22006,18600,TBD,PENDING,09/18/2025 11:13
+,Ofer,Cohen,ofer_c@rad.com,RAD Data Communications,22007,18600,TBD,PENDING,09/18/2025 11:13
+,Alessandro,Aimar,alessandro.aimar@synthara.ch,Synthara AG,22012,18604,TBD,PENDING,09/18/2025 11:13
+,Andrew,Karanicolas,akaranicolas@crocus-technology.com,Allegro Microsystems Milpitas,22016,12067,TBD,PENDING,09/18/2025 11:13
+,Wayne,Seto,wseto@crocus-technology.com,Allegro Microsystems Milpitas,22017,12067,TBD,PENDING,09/18/2025 11:13
+,Pierre,Prache,pierre.prache@laclaree-vision.com,Laclarée Vision,22022,14106,TBD,PENDING,09/18/2025 11:13
+,Bernard,Lopez,bernard.lopez@crouzet.com,CROUZET,22026,18611,TBD,PENDING,09/18/2025 11:13
+,Franck,Sterlin,franck.sterlin@sipearl.com,SiPearl,22033,17288,TBD,PENDING,09/18/2025 11:13
+,Hugues,Morin,hugues.morin@mosaicfinance.fr,MOSAIC Finance,22035,17556,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Derasse,arnaud.derasse@enyx.com,ENYX,22036,5745,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Tilhac,f.tilhac@altertechnology.fr,ALTER Technology (France),22037,17265,TBD,PENDING,09/18/2025 11:13
+,Sebastien,Therond,sebastien.therond@bosch-sensortec.com,Bosch Sensortec GmbH,22038,18618,TBD,PENDING,09/18/2025 11:13
+,Tal,Gollan,tal@virilitymedical.com,Virility Medical,22040,18619,TBD,PENDING,09/18/2025 11:13
+,Lesmes,Nicolas,lesmes.nicolas@cebi.com,Cebi Electromechanical Components Spain S.A.,22041,18621,TBD,PENDING,09/18/2025 11:13
+,Brad,Pound,brad.pound@datacan.ca,DataCan,22042,18622,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Mosca,frederic.mosca@pytheas-technology.com,PYTHEAS Technology,22047,18623,TBD,PENDING,09/18/2025 11:13
+,Peter,Deruytere,peter.deruytere@pulsify-med.com,Pulsify Medical,22057,18629,TBD,PENDING,09/18/2025 11:13
+,Steve,Stoffels,steve.stoffels@pulsify-med.com,Pulsify Medical,22058,18629,TBD,PENDING,09/18/2025 11:13
+,Pierre,Fontana,p.fontana@altertechnology.fr,ALTER Technology (France),22059,17265,TBD,PENDING,09/18/2025 11:13
+,Carlos,Baeza,carlos.baeza@sonova.com,Advanced Bionics AG,22061,18632,TBD,PENDING,09/18/2025 11:13
+,Marc,Secall,marc.secall@sonova.com,Advanced Bionics AG,22062,18632,TBD,PENDING,09/18/2025 11:13
+,Diane,Chang,diane.chang@advancedbionics.com,Advanced Bionics AG,22063,18632,TBD,PENDING,09/18/2025 11:13
+,Scott,Arfin,scott.arfin@advancedbionics.com,Advanced Bionics AG,22064,18632,TBD,PENDING,09/18/2025 11:13
+,Alok,Deshpande,alok.deshpande@advancedbionics.com,Advanced Bionics AG,22065,18632,TBD,PENDING,09/18/2025 11:13
+,Yadunandan,Nagarajaiah,yadunandan.nagarajaiah@advancedbionics.com,Advanced Bionics AG,22067,18632,TBD,PENDING,09/18/2025 11:13
+,Flavia,Amorosa,flavia.amorosa@st.com,STMicroelectronics (Grenoble 2) SAS,22069,11945,TBD,PENDING,09/18/2025 11:13
+,Pierre,Berthet-Rayne,pierre.berthet-rayne@caranx-medical.com,Caranx Medical,23070,18634,TBD,PENDING,09/18/2025 11:13
+,Éric,Sejor,eric.sejor@caranx-medical.com,Caranx Medical,23071,18634,TBD,PENDING,09/18/2025 11:13
+,Philippe,Mondon,p.mondon@axemtec.com,AXEM Technology,23073,18635,TBD,PENDING,09/18/2025 11:13
+,Arnaud,Carle,a.carle@axemtec.com,AXEM Technology,23074,18635,TBD,PENDING,09/18/2025 11:13
+,Shahram,Mossayebi,smossayebi@cryptoquantique.com,Crypto Quantique,23078,17568,TBD,PENDING,09/18/2025 11:13
+,Francis,Anghinolfi,francis.anghinolfi@picotechscanner.com,Picotech,23081,18638,TBD,PENDING,09/18/2025 11:13
+,Crispin,Williams,crispin.williams@picotechscanner.com,Picotech,23082,18638,TBD,PENDING,09/18/2025 11:13
+,Katayoun,Doroud,katayoun.doroud@cern.ch,Picotech,23083,18638,TBD,PENDING,09/18/2025 11:13
+,Johannes,Traxler,johannes.traxler@eyyes.com,EYYES,23084,18639,TBD,PENDING,09/18/2025 11:13
+,Laïla,Ayache,laila.ayache@cairdac.com,CAIRDAC,23090,3176,TBD,PENDING,09/18/2025 11:13
+,Ivan,Arkipoff,iarkipoff@pvhardware.es,PV Hardware Solutions,23091,18644,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Dumay,sdumay@redtree-solutions.com,Redtree Solutions,23092,1075,TBD,PENDING,09/18/2025 11:13
+,Oscar,Cabrero Bertram,ocabrero@pvhardware.es,PV Hardware Solutions,23094,18644,TBD,PENDING,09/18/2025 11:13
+,Sergio,Hernandez Montero,shernandez@pvhardware.es,PV Hardware Solutions,23095,18644,TBD,PENDING,09/18/2025 11:13
+,Martin,Schreiblehner,martin.schreiblehner@eyyes.com,EYYES,23096,18639,TBD,PENDING,09/18/2025 11:13
+,Thomas,Weigelhofer,thomas.weigelhofer@eyyes.com,EYYES,23098,18639,TBD,PENDING,09/18/2025 11:13
+,Aline,Jomard,aline.jomard@trixell-thalesgroup.com,TRIXELL,23100,9111,TBD,PENDING,09/18/2025 11:13
+,Matt,Douthwaite,mdouthwaite@cryptoquantique.com,Crypto Quantique,23105,17568,TBD,PENDING,09/18/2025 11:13
+,Andrea,Bonzo,andrea.bonzo@idemia.com,IDEMIA Meyreuil,23110,4719,TBD,PENDING,09/18/2025 11:13
+,Valeriy,Shunkov,vshunkov@polyn.ai,Polyn Technology Ltd.,23113,11714,TBD,PENDING,09/18/2025 11:13
+,Philippe,Blasquez,philippe.blasquez@manitty.com,MANITTY,23114,18661,TBD,PENDING,09/18/2025 11:13
+,Vincent,Leveaux,vincent.leveaux@crm.microport.com,Sorin CRM S.A.S.,23168,4246,TBD,PENDING,09/18/2025 11:13
+,Ian,Mc Nutt,imc@lem.com,LEM,23174,7965,TBD,PENDING,09/18/2025 11:13
+,Thomas,Hargé,tha@lem.com,LEM,23175,7965,TBD,PENDING,09/18/2025 11:13
+,Pascal,Garcin,pascal.garcin@manitty.com,MANITTY,23180,18661,TBD,PENDING,09/18/2025 11:13
+,Paul-Antoine,Libourel,pa.libourel@cnrs.fr,MANITTY,23181,18661,TBD,PENDING,09/18/2025 11:13
+,Paul,Eckly,paul.eckly@imec.be,IMEC ASIC Services,23192,4282,TBD,PENDING,09/18/2025 11:13
+,Jules,Hammond,jules.hammond@befc.fr,BeFC,23193,18691,TBD,PENDING,09/18/2025 11:13
+,Sergio,Diez,sergio.diez@cebi.com,Cebi Electromechanical Components Spain S.A.,23194,18621,TBD,PENDING,09/18/2025 11:13
+,Corentin,Godfroid,cgodfroid@reflexces.com,REFLEX CES,23204,10423,TBD,PENDING,09/18/2025 11:13
+,Johannes,Peeters,johannes@voxelsensors.com,VoxelSensors SRL,23209,17566,TBD,PENDING,09/18/2025 11:13
+,Mati,Shirizly,mati.shirizly@gmail.com,Orcasonics Innovation Ltd,23210,18706,TBD,PENDING,09/18/2025 11:13
+,Oz,Seadia,oz.seadia@hotmail.com,Orcasonics Innovation Ltd,23211,18706,TBD,PENDING,09/18/2025 11:13
+,Hamidreza,Hashempour,hamidreza.hashempour@micledi.com,micledi,23216,18597,TBD,PENDING,09/18/2025 11:13
+,Nolwenn,Falco,nfo@lem.com,LEM,23221,7965,TBD,PENDING,09/18/2025 11:13
+,Kevin,Conley,kevin.conley@appliedbrainresearch.com,Applied Brain Research Inc.,23222,18713,TBD,PENDING,09/18/2025 11:13
+,Vincent,Boulant,vincent.boulant@enyx.fr,ENYX,23223,5745,TBD,PENDING,09/18/2025 11:13
+,Axel,Poudes,axel.poudes@continental-corporation.com,CONTINENTAL Toulouse,23224,4255,TBD,PENDING,09/18/2025 11:13
+,Svetla,Alexandrov,svetla@equilibr.io,Equilibr.io,23230,18718,TBD,PENDING,09/18/2025 11:13
+,Giora,Yahav,giora@everysight.com,Everysight,23231,18721,TBD,PENDING,09/18/2025 11:13
+,Kobi,Kiviti,kobi@everysight.com,Everysight,23232,18721,TBD,PENDING,09/18/2025 11:13
+,Alex,Portnov,alex@everysight.com,Everysight,23233,18721,TBD,PENDING,09/18/2025 11:13
+,Hanan,Shamir,hanan@everysight.com,Everysight,23234,18721,TBD,PENDING,09/18/2025 11:13
+,Jean-Louis,Ferrandis,jl.ferrandis@pellenc.com,Pellenc Energy,23235,18722,TBD,PENDING,09/18/2025 11:13
+,Florian,Guigal,f.guigal@pellenc-energy.com,Pellenc Energy,23236,18722,TBD,PENDING,09/18/2025 11:13
+,Catherine,Stroobants,c.stroobants@intopix.com,intoPIX S.A.,23237,1132,TBD,PENDING,09/18/2025 11:13
+,Didier,Noel,didier.noel@nanoz-group.com,Nanoz group,23238,17506,TBD,PENDING,09/18/2025 11:13
+,Avi,Messica,avim@neologicvlsi.com,Neologic (VLSI),23239,18723,TBD,PENDING,09/18/2025 11:13
+,Ofir,Elizov,oelizov@sequans.com,SEQUANS ISRAEL,23240,18724,TBD,PENDING,09/18/2025 11:13
+,Javier,Galindo Guarch,javier.galindo@unizar.es,Universidad de Zaragoza,23241,18725,TBD,PENDING,09/18/2025 11:13
+,Shawn,Murphy,shawn@titanaes.com,"Titan Advanced Energy Solutions, Inc",23242,18726,TBD,PENDING,09/18/2025 11:13
+,Wilfried,Vervisch,wilfried.vervisch@siclade-technologies.com,Siclade Technologies,23247,18729,TBD,PENDING,09/18/2025 11:13
+,Daniel,Bourrel,daniel.bourrel@valeo.com,VALEO Pouillon,23248,4214,TBD,PENDING,09/18/2025 11:13
+,George,Kapodistrias,george@titanaes.com,"Titan Advanced Energy Solutions, Inc",23249,18726,TBD,PENDING,09/18/2025 11:13
+,Pierre,Jallon,pierre.jallon@elichens.com,eLichens,23250,1064,TBD,PENDING,09/18/2025 11:13
+,Sean,O'Day,sean@titanaes.com,"Titan Advanced Energy Solutions, Inc",23251,18726,TBD,PENDING,09/18/2025 11:13
+,Horst,Symanzik,horst.symanzik@bosch-sensortec.com,Bosch Sensortec GmbH,23258,18618,TBD,PENDING,09/18/2025 11:13
+,Aurélie,Boyeldieu,aurelie.boyeldieu@pyxalis.com,PYXALIS,23259,9016,TBD,PENDING,09/18/2025 11:13
+,Yingchih,Yang,yingchih.yang@sipearl.com,SiPearl,23263,17288,TBD,PENDING,09/18/2025 11:13
+,Robert,Resch,robert.resch@br-automation.com,B&R automation,23264,19736,TBD,PENDING,09/18/2025 11:13
+,Gerald,Pichler,gerald.pichler@br-automation.com,B&R automation,23265,19736,TBD,PENDING,09/18/2025 11:13
+,Jean-Xavier,Canonici,jeanxavier@ternwaves.com,Ternwaves,23270,19738,TBD,PENDING,09/18/2025 11:13
+,Bruno,Jechoux,bruno@ternwaves.com,Ternwaves,23271,19738,TBD,PENDING,09/18/2025 11:13
+,Edith,Beigne,edith.beigne@fb.com,Meta,23273,10456,TBD,PENDING,09/18/2025 11:13
+,Marc,Grimmé,marc.grimme@carmatsas.com,CARMAT,23284,1100,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Girerd,sgirerd@craneae.fr,Crane Aerospace,23286,19751,TBD,PENDING,09/18/2025 11:13
+,Aleksandrs,Sergejevs,aleksandrs.sergejevs@befc.fr,BeFC,23288,18691,TBD,PENDING,09/18/2025 11:13
+,Alban,Thierry,alban.thierry@befc.fr,BeFC,23289,18691,TBD,PENDING,09/18/2025 11:13
+,Julie,Declercq,julie@ternwaves.com,Ternwaves,23290,19738,TBD,PENDING,09/18/2025 11:13
+,José,Afonso,jose.afonso@valeo.com,Valeo Vision France SAS,23295,19754,TBD,PENDING,09/18/2025 11:13
+,Alexandre,Val,alexandre.val@valeo.com,Valeo Vision France SAS,23297,19754,TBD,PENDING,09/18/2025 11:13
+,Michael,Tong,tongmichael@fb.com,Meta,23298,10456,TBD,PENDING,09/18/2025 11:13
+,Harry,Kuo,harrykuo@fb.com,Meta,23299,10456,TBD,PENDING,09/18/2025 11:13
+,Karl,Kaiser,kkaiser@fb.com,Meta,23300,10456,TBD,PENDING,09/18/2025 11:13
+,William,Koven,koven@fb.com,Meta,23301,10456,TBD,PENDING,09/18/2025 11:13
+,Nilesh,Bhattad,nileshbhattad@fb.com,Meta,23302,10456,TBD,PENDING,09/18/2025 11:13
+,Salman,Mazhar,smazhar@fb.com,Meta,23303,10456,TBD,PENDING,09/18/2025 11:13
+,Sean,Sun,hssun@fb.com,Meta,23304,10456,TBD,PENDING,09/18/2025 11:13
+,Patrick,Abraham,patrick.abraham@lynred.com,LYNRED,23306,4305,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Ricome,nicolas.ricome@st.com,STMicroelectronics (Grenoble 2) SAS,23309,11945,TBD,PENDING,09/18/2025 11:13
+,Yannick,Deal,yannick.deal@alstomgroup.com,Alstom,23311,4260,TBD,PENDING,09/18/2025 11:13
+,Jean-Louis,Chauray,jean-louis.chauray@alstomgroup.com,Alstom,23312,4260,TBD,PENDING,09/18/2025 11:13
+,Marie,Lechantoux,marie.lechantoux@microej.com,MicroEJ,23325,17523,TBD,PENDING,09/18/2025 11:13
+,Alp,Kilic,alp.kilic@nanoxplore.com,NanoXplore,23327,3180,TBD,PENDING,09/18/2025 11:13
+,Andrea,Feuerstein,andrea.feuerstein@microcrystal.ch,MICRO CRYSTAL,23328,17569,TBD,PENDING,09/18/2025 11:13
+,Roland,Haeni,roland.haeni@microcrystal.ch,MICRO CRYSTAL,24331,17569,TBD,PENDING,09/18/2025 11:13
+,Martin,Kmec,martin.kmec@ilmsens.com,Ilmsens GmbH,24350,19787,TBD,PENDING,09/18/2025 11:13
+,Catalin,Stefu,catalin.stefu@emmicroelectronic.com,EM Microelectronic,24351,7980,TBD,PENDING,09/18/2025 11:13
+,Paul-Alexandre,Dupont,paul-alexandre.dupont@forvia.com,Faurecia Clarion Electronics Europe (FR60),24353,17484,TBD,PENDING,09/18/2025 11:13
+,Emiliano,D'Agostino,emiliano@easics.be,Easics,24367,11580,TBD,PENDING,09/18/2025 11:13
+,Thierry,Bion,thierry.bion@st.com,STMicroelectronics (Grenoble 2) SAS,24370,11945,TBD,PENDING,09/18/2025 11:13
+,Hadrien,Palcoux,hadrien.palcoux@craneae.fr,Crane Aerospace,24372,19751,TBD,PENDING,09/18/2025 11:13
+,Sébastien,Verdelet,sebastien.verdelet@craneae.fr,Crane Aerospace,24373,19751,TBD,PENDING,09/18/2025 11:13
+,Alexey,Dolbunov,adolbunov@polyn.ai,Polyn Technology Ltd.,24374,11714,TBD,PENDING,09/18/2025 11:13
+,Guillaume,Pollissard,guillaume.pollissard@vocsens.com,VOCSENS,24377,19796,TBD,PENDING,09/18/2025 11:13
+,Thomas,Walewyns,thomas.walewyns@vocsens.com,VOCSENS,24378,19796,TBD,PENDING,09/18/2025 11:13
+,Julien,Borgetto,julien.borgetto@valeo.com,Valeo Vision France SAS,24380,19754,TBD,PENDING,09/18/2025 11:13
+,Philippe,Mourier,pmourier@orgaplus.lu,Orga+,24381,19801,TBD,PENDING,09/18/2025 11:13
+,Fabien,Lea,fabien.lea@forvia.com,Faurecia Clarion Electronics Europe (FR60),24385,17484,TBD,PENDING,09/18/2025 11:13
+,Ashok,Jain,asjain@infinera.com,Infinera,24386,19809,TBD,PENDING,09/18/2025 11:13
+,Tulasi,Veguru,tveguru@infinera.com,Infinera,24387,19809,TBD,PENDING,09/18/2025 11:13
+,Reema,Sreeram,reemasr@meta.com,Meta,24388,10456,TBD,PENDING,09/18/2025 11:13
+,Aurélien,Fougerat,aurelien.fougerat@sercel.com,SERCEL,24392,1071,TBD,PENDING,09/18/2025 11:13
+,Thomas,Normand,thomas.normand@sercel.com,SERCEL,24393,1071,TBD,PENDING,09/18/2025 11:13
+,Baptiste,Le Foulgoc,baptiste.lefoulgoc@sercel.com,SERCEL,24394,1071,TBD,PENDING,09/18/2025 11:13
+,Jaehoon,Lee,jaehoon.lee@aledia.com,ALEDIA,24395,1076,TBD,PENDING,09/18/2025 11:13
+,Patrick,Pirim,patrick@anotherbrain.ai,AnotherBrain,24397,3175,TBD,PENDING,09/18/2025 11:13
+,Aleksandr,Timofeev,atimofeev@polyn.ai,Polyn Technology Ltd.,24407,11714,TBD,PENDING,09/18/2025 11:13
+,Sophie,Mouro,sophie.mouro@se.com,SCHNEIDER Electric Eybens,24408,2191,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Briole,sylvain.briole@se.com,SCHNEIDER Electric Eybens,24409,2191,TBD,PENDING,09/18/2025 11:13
+,Vincent,Mourier,vincent.mourier@se.com,SCHNEIDER Electric Eybens,24410,2191,TBD,PENDING,09/18/2025 11:13
+,Andreja,Erbes,andreja.erbes@st.com,STMicroelectronics (Grenoble 2) SAS,24411,11945,TBD,PENDING,09/18/2025 11:13
+,Julien,Campos,julien.campos@lightricity.co.uk,LIGHTRICITY LTD,24415,19821,TBD,PENDING,09/18/2025 11:13
+,Jean,Ravatin,jean.ravatin@pyxalis.com,PYXALIS,24419,9016,TBD,PENDING,09/18/2025 11:13
+,Stijn,Depraetere,stijn.depraetere@vandewiele.com,VANDEWIELE,24425,19826,TBD,PENDING,09/18/2025 11:13
+,Stefaan,Vanheesbeke,stefaan.vanheesbeke@vandewiele.com,VANDEWIELE,24426,19826,TBD,PENDING,09/18/2025 11:13
+,Luca.,Gonzalez,luca.gonzalez@vocsens.com,VOCSENS,24432,19796,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Petre,sylvain.petre@vocsens.com,VOCSENS,24433,19796,TBD,PENDING,09/18/2025 11:13
+,Bruno,Lequin,blequin@dream.fr,DREAM,24434,4299,TBD,PENDING,09/18/2025 11:13
+,Bertrand,Moussel,bertrand.moussel@valid.com,VALID SOLUCIONES TECNOLOGICAS,24435,19776,TBD,PENDING,09/18/2025 11:13
+,Ruben,Martinez Gonzalez,ruben.gonzalez@valid.com,VALID SOLUCIONES TECNOLOGICAS,24436,19776,TBD,PENDING,09/18/2025 11:13
+,Samuel,Daroussin,samuel.daroussin@valeo.com,Valeo Vision France SAS,24442,19754,TBD,PENDING,09/18/2025 11:13
+,Marie-Eve,Bernath,marie-eve.bernath@valeo.com,Valeo Vision France SAS,24443,19754,TBD,PENDING,09/18/2025 11:13
+,Didier,Laroche,didier.laroche@valeo.com,Valeo Vision France SAS,24444,19754,TBD,PENDING,09/18/2025 11:13
+,Edward,Rouwhorst,edward@equiplc.com,EQUIPIC,24446,17471,TBD,PENDING,09/18/2025 11:13
+,Niclas,Fritz,niclas@batchone.com,Batchone,24447,19835,TBD,PENDING,09/18/2025 11:13
+,Martin,Smith,msmith@polyn.ai,Polyn Technology Ltd.,24448,11714,TBD,PENDING,09/18/2025 11:13
+,Said,Benmansour,said.benmansour@emka.fr,EMKA TECHNOLOGIES,24450,5768,TBD,PENDING,09/18/2025 11:13
+,Olivier,Bourillon,olivier.bourillon@emka.fr,EMKA TECHNOLOGIES,24451,5768,TBD,PENDING,09/18/2025 11:13
+,Olivier,Elbaz,olivier.elbaz@valeo.com,Valeo Vision France SAS,24452,19754,TBD,PENDING,09/18/2025 11:13
+,Florian,Percher,florian.percher@sercel.com,SERCEL,24453,1071,TBD,PENDING,09/18/2025 11:13
+,Arbi,Maalaoui,arbi.maalaoui@nanoz-group.com,Nanoz group,24454,17506,TBD,PENDING,09/18/2025 11:13
+,Nikos,Christopoulos,nikos.christopoulos@gmail.com,CLEARDROP,24456,19839,TBD,PENDING,09/18/2025 11:13
+,Tayyar,Ulu,tayyar.ulu@tyri.se,TYRI SWEDEN AB,24458,19841,TBD,PENDING,09/18/2025 11:13
+,Cedric,Mandel,cedric@memperience.com,MEMPERIENCE,24460,19843,TBD,PENDING,09/18/2025 11:13
+,Martin,Damrau,martin.damrau@ic-logic.de,IC-LOGIC,24461,19844,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Simonne,nsm@melexis.com,Melexis Tessenderlo,24462,4342,TBD,PENDING,09/18/2025 11:13
+,Peter,Bilfeldt,peter.bilfeldt@tyri.se,TYRI SWEDEN AB,24464,19841,TBD,PENDING,09/18/2025 11:13
+,Magnus,Eriksson,magnus.eriksson@tyri.se,TYRI SWEDEN AB,24465,19841,TBD,PENDING,09/18/2025 11:13
+,Erasmo,Chiappetta,erasmo.chiappetta@pharrowtech.com,Pharrowtech BV,24467,17581,TBD,PENDING,09/18/2025 11:13
+,Bekir,Ozyurt,bekir.ozyurt@arcelik.com,Arçelik Global,24470,19850,TBD,PENDING,09/18/2025 11:13
+,Tim,Kaske,tkaske@crocus-technology.com,Allegro Microsystems Milpitas,24472,12067,TBD,PENDING,09/18/2025 11:13
+,Jean-Baptiste,Bernard,jean-baptiste.bernard@se.com,SCHNEIDER Electric Eybens,24478,2191,TBD,PENDING,09/18/2025 11:13
+,Emmanuel,Poli,emmanuel.poli@cissoid.com,CISSOID  S.A.,24480,1095,TBD,PENDING,09/18/2025 11:13
+,Stinj,Reekmans,srr@melexis.com,Melexis Tessenderlo,24492,4342,TBD,PENDING,09/18/2025 11:13
+,Roger,Espasa,roger.espasa@semidynamics.com,Semidynamics,24510,19881,TBD,PENDING,09/18/2025 11:13
+,Jean,Murzeau,jean.murzeau@fr.thalesgroup.com,THALES AVS Mérignac,24511,6899,TBD,PENDING,09/18/2025 11:13
+,Ayrat,Galisultanov,ayrat.galisultanov@elichens.com,eLichens,24512,1064,TBD,PENDING,09/18/2025 11:13
+,Philippe,Piquet,philippe.piquet@menta-efpga.com,MENTA Valbonne,24513,4345,TBD,PENDING,09/18/2025 11:13
+,Jeff,Zhou,jeffzhou@intron-tech.com,Intron Electronic Gmbh,24514,19884,TBD,PENDING,09/18/2025 11:13
+,Luc,Perard,luc.perard@caranx-medical.com,Caranx Medical,24516,18634,TBD,PENDING,09/18/2025 11:13
+,Loïc,Wauters,loic.wauters@caranx-medical.com,Caranx Medical,24517,18634,TBD,PENDING,09/18/2025 11:13
+,Aurélien,Buhrig,aurelien.buhrig@st.com,STMicroelectronics (Grenoble 2) SAS,24523,11945,TBD,PENDING,09/18/2025 11:13
+,Rafael,Gomez Hernandez,rafael.gomez@valid.com,VALID SOLUCIONES TECNOLOGICAS,24524,19776,TBD,PENDING,09/18/2025 11:13
+,Irene,Aleman Pardo,irene.aleman@valid.com,VALID SOLUCIONES TECNOLOGICAS,24525,19776,TBD,PENDING,09/18/2025 11:13
+,Jacques,De Jonghe,jad@melexis.com,Melexis Tessenderlo,24528,4342,TBD,PENDING,09/18/2025 11:13
+,Rafael,Serrano-Gotarredona,rafael.serrano-gotarredona@ams-osram.com,ams-OSRAM Valencia,24531,11625,TBD,PENDING,09/18/2025 11:13
+,Nathan,Beckmann,beckmann@efficient.computer,Efficient Computer,24532,19891,TBD,PENDING,09/18/2025 11:13
+,Graham,Gobieski,graham@efficient.computer,Efficient Computer,24533,19891,TBD,PENDING,09/18/2025 11:13
+,Brandon,Lucia,blucia@efficient.computer,Efficient Computer,24534,19891,TBD,PENDING,09/18/2025 11:13
+,Jeff,Childress,jchildress@allegromicro.com,Allegro Microsystems Milpitas,24535,12067,TBD,PENDING,09/18/2025 11:13
+,Daniel,Morris,dhmorris@meta.com,Meta,24536,10456,TBD,PENDING,09/18/2025 11:13
+,Barbara,De Salvo,barbarads@fb.com,Meta,24537,10456,TBD,PENDING,09/18/2025 11:13
+,Cindy,Michel,cindy.michel@sentinhealth.com,SentinHealth,24538,3186,TBD,PENDING,09/18/2025 11:13
+,Vivian,Blanchard,vivian.blanchard@sipearl.com,SiPearl,24542,17288,TBD,PENDING,09/18/2025 11:13
+,Laurent,Le Pailleur,laurent.le-pailleur@st.com,STMicroelectronics (Grenoble 2) SAS,24544,11945,TBD,PENDING,09/18/2025 11:13
+,Oliver,Hofherr,ohofherr@baumer.com,BAUMER ELECTRIC AG,24555,1072,TBD,PENDING,09/18/2025 11:13
+,Nidish,Gaur,nidhish.gaur@imec.be,IMEC ASIC Services,24562,4282,TBD,PENDING,09/18/2025 11:13
+,Victoria,Bub,victoria.bub@bosch-sensortec.com,Bosch Sensortec GmbH,25587,18618,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Heitzmann,frederic.heitzmann@tiempo-secure.com,TIEMPO-SECURE,25588,9103,TBD,PENDING,09/18/2025 11:13
+,Heath,Hartle,heath@impli.org,IMPLI AG,25591,20931,TBD,PENDING,09/18/2025 11:13
+,Guillaume,Mathias,guillaume.mathias@ledger.com,Ledger,25593,11675,TBD,PENDING,09/18/2025 11:13
+,Thibault,Pierre,thibault.pierre@ledger.fr,Ledger,25594,11675,TBD,PENDING,09/18/2025 11:13
+,Patrice,Hameau,patrice.hameau@ledger.fr,Ledger,25595,11675,TBD,PENDING,09/18/2025 11:13
+,Gwenael,Godde,gwenael.godde@wanadoo.fr,Watermelon Co.,25596,20932,TBD,PENDING,09/18/2025 11:13
+,Domenico,Tulli,dtulli@quside.com,Quside Technologies S.L.,25597,20933,TBD,PENDING,09/18/2025 11:13
+,Moti,Margalit,moti.margalit@sonicedge.io,SonicEdge Ltd,25598,20936,TBD,PENDING,09/18/2025 11:13
+,Tore,Jørgensen,tore.joergensen@sonicedge.io,SonicEdge Ltd,25599,20936,TBD,PENDING,09/18/2025 11:13
+,Modi,Avrutsky,modi.avrutsky@enercon.co.il,ENERCON Technologies Ltd,25600,20937,TBD,PENDING,09/18/2025 11:13
+,Sagit Pesach,Mualem,sagit.mualem@enercon.co.il,ENERCON Technologies Ltd,25601,20937,TBD,PENDING,09/18/2025 11:13
+,Pierre-Francois,Louvigne,pflouvigne@silmach.com,SILMACH,25609,17205,TBD,PENDING,09/18/2025 11:13
+,Tuvia,Segal,tuvia_s@rad.com,RAD Data Communications,25615,18600,TBD,PENDING,09/18/2025 11:13
+,Doron,Solomon,doron_so@rad.com,RAD Data Communications,25616,18600,TBD,PENDING,09/18/2025 11:13
+,Michael,Pauli,michael.pauli@syrmasgs.com,SYRMA SGS,25617,20940,TBD,PENDING,09/18/2025 11:13
+,Pooya,Forghani,pooya_forghani@diodes.com,"DIODES, INC",25618,20942,TBD,PENDING,09/18/2025 11:13
+,Christophe,Bernard,christophe.bernard@id4us.fr,ID4US,25625,20946,TBD,PENDING,09/18/2025 11:13
+,Thierry,Divel,thierry.divel@id4us.fr,ID4US,25626,20946,TBD,PENDING,09/18/2025 11:13
+,Dietmar,Gleispatch,gleispach@trilite-tech.com,Trilite Technologies,25629,17476,TBD,PENDING,09/18/2025 11:13
+,Olivier,Cousin,olivier.cousin@enyx.fr,ENYX,25630,5745,TBD,PENDING,09/18/2025 11:13
+,Carole,Pecastaing,carole.pecastaing@legrand.com,Legrand France Pyrénées,25633,20953,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Fregosi,stephane.fregosi@vitesco.com,Schaeffler Toulouse,25634,20954,TBD,PENDING,09/18/2025 11:13
+,Jonas,Boeynaems,jbo@melexis.com,Melexis Tessenderlo,25635,4342,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Messin,nicolas.messin@forvia.com,Faurecia Clarion Electronics Europe (FR60),25640,17484,TBD,PENDING,09/18/2025 11:13
+,Ari,Mizrachi,ari.mizrachi@sonicedge.io,SonicEdge Ltd,25643,20936,TBD,PENDING,09/18/2025 11:13
+,Emil,Marinov,emil.marinov@crhea.cnrs.fr,CNRS CRHEA,25644,20963,TBD,PENDING,09/18/2025 11:13
+,Patrice,Genevet,patrice.genevet@mines.edu,CNRS CRHEA,25645,20963,TBD,PENDING,09/18/2025 11:13
+,Renato,Renato,renato.juliano.martins@crhea.cnrs.fr,CNRS CRHEA,25646,20963,TBD,PENDING,09/18/2025 11:13
+,Christina,Kyrou,christina.kyrou@crhea.cnrs.fr,CNRS CRHEA,25647,20963,TBD,PENDING,09/18/2025 11:13
+,David,Colin,d.colin@atos.net,EVIDEN Sophia,25648,20965,TBD,PENDING,09/18/2025 11:13
+,Aurore,Desgeorge,aurore.2.desgeorge@continental-corporation.com,CONTINENTAL Toulouse,25649,4255,TBD,PENDING,09/18/2025 11:13
+,Pascal,Barioulet,pascal.barioulet@advans-group.com,ELSYS Design 06,25651,5808,TBD,PENDING,09/18/2025 11:13
+,Sisan,Shen,sisan_shen@diodes.com,"DIODES, INC",25652,20942,TBD,PENDING,09/18/2025 11:13
+,Allan,Lin,allan_lin@diodes.com,"DIODES, INC",25653,20942,TBD,PENDING,09/18/2025 11:13
+,Jihad,Haidar,jihad.haidar@ams-osram.com,ams-OSRAM AG Premstaetten,25663,11778,TBD,PENDING,09/18/2025 11:13
+,Mahdi,Mekic,mahdi.mekic@ams-osram.com,ams-OSRAM AG Premstaetten,25664,11778,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Hannoyer,frederic.hannoyer@sipearl.com,SiPearl,25666,17288,TBD,PENDING,09/18/2025 11:13
+,Jerome,Meilhan,jerome.meilhan@steerlight.com,Steerlight,25667,20973,TBD,PENDING,09/18/2025 11:13
+,Thierry,Bousquet,thierry.bousquet@continental-corporation.com,CONTINENTAL Toulouse,25670,4255,TBD,PENDING,09/18/2025 11:13
+,Anup,Kini,anup.kini@synthara.ai,Synthara AG,25675,18604,TBD,PENDING,09/18/2025 11:13
+,William,Biederman,will@forestneurotech.org,Forest Neurotech LLC,25680,20982,TBD,PENDING,09/18/2025 11:13
+,Tyson,Aflalo,tyson@forestneurotech.org,Forest Neurotech LLC,25681,20982,TBD,PENDING,09/18/2025 11:13
+,Philippe,Roche,philippe.roche@st.com,STMicroelectronics (Crolles2) SAS,25682,4287,TBD,PENDING,09/18/2025 11:13
+,Romain,Lanau,romain.lanau@actia.fr,ACTIA Automotive,25683,20983,TBD,PENDING,09/18/2025 11:13
+,Renaud,Hanus,renaud.hanus@actia.fr,ACTIA Automotive,25684,20983,TBD,PENDING,09/18/2025 11:13
+,Patrick,Wang,patrick.wang@guc-asic.com,GUC,25685,4369,TBD,PENDING,09/18/2025 11:13
+,Jean-François,Calmels,jean-francois.calmels@actia.fr,ACTIA Automotive,25686,20983,TBD,PENDING,09/18/2025 11:13
+,Alex,Huang,alex.huang@guc-asic.com,GUC,25687,4369,TBD,PENDING,09/18/2025 11:13
+,Vincent,Malisova,vincent.malisova@actia.fr,ACTIA Automotive,25688,20983,TBD,PENDING,09/18/2025 11:13
+,Hao,Tsai,hao.tsai@guc-asic.com,GUC,25689,4369,TBD,PENDING,09/18/2025 11:13
+,Shirley,Chen,shirley126.chen@guc-asic.com,GUC,25690,4369,TBD,PENDING,09/18/2025 11:13
+,Calvin,Tsai,calvin.tsai@guc-asic.com,GUC,25691,4369,TBD,PENDING,09/18/2025 11:13
+,Jean-Baptiste,Carnet,jbcarnet@silmach.com,SILMACH,25694,17205,TBD,PENDING,09/18/2025 11:13
+,Pascal,Branget,pbranget@silmach.com,SILMACH,25695,17205,TBD,PENDING,09/18/2025 11:13
+,Pierre-Marie,Penet,pierre-marie.penet@aledia.com,ALEDIA,25696,1076,TBD,PENDING,09/18/2025 11:13
+,Anthony,Bardet,a.bardet@exosens.com,EXOSENS,25697,9063,TBD,PENDING,09/18/2025 11:13
+,Rachid,Dafali,rachid.dafali@intradef.gouv.fr,DGA Bruz,25698,10310,TBD,PENDING,09/18/2025 11:13
+,Orphée,Fayard,orphee.fayard@intradef.gouv.fr,DGA Bruz,25699,10310,TBD,PENDING,09/18/2025 11:13
+,Edouard,Fonck,edouard.fonck@cairdac.com,CAIRDAC,25702,3176,TBD,PENDING,09/18/2025 11:13
+,Yuan,Gao,yuan.gao@joulwatt.com,JoulWatt,25705,20990,TBD,PENDING,09/18/2025 11:13
+,Beatriz,Otero,botero@slb.com,SLB,25707,1157,TBD,PENDING,09/18/2025 11:13
+,Emilio,De Matias Salces,ematias@slb.com,SLB,25708,1157,TBD,PENDING,09/18/2025 11:13
+,Pascal,Le Deu,pascal.ledeu@wise-integration.com,Wise Integration,25709,15153,TBD,PENDING,09/18/2025 11:13
+,Eva,Vernet,eva.vernet@lynred.com,LYNRED,25712,4305,TBD,PENDING,09/18/2025 11:13
+,Massimiliano,De Gaspari,massimiliano.degaspari@emmicroelectronic.com,EM Microelectronic,25717,7980,TBD,PENDING,09/18/2025 11:13
+,Chloé,Aymard,chloe.aymard@univ-grenoble-alpes.fr,SmartPatch Health,25719,21004,TBD,PENDING,09/18/2025 11:13
+,Pascal,Weber,contact@gammao.fr,Gammao,25721,21006,TBD,PENDING,09/18/2025 11:13
+,Eric,Rouchouze,eric.rouchouze@st.com,STMicroelectronics (Grenoble 2) SAS,25722,11945,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Lejay,frederic.lejay@sipearl.com,SiPearl,25724,17288,TBD,PENDING,09/18/2025 11:13
+,Hanna,Berenok,hanna.berenok@impbrands.com,Imperial Brand,25725,21009,TBD,PENDING,09/18/2025 11:13
+,Abdullah,Yildiz,abdullah.yildiz@yongatek.com,Yongatek,25726,21011,TBD,PENDING,09/18/2025 11:13
+,Ali,Baran,ali.baran@yongatek.com,Yongatek,25727,21011,TBD,PENDING,09/18/2025 11:13
+,Rifat,Demirciogliu,rifat.demircioglu@yongatek.com,Yongatek,25728,21011,TBD,PENDING,09/18/2025 11:13
+,Andrew,Hazelton,andrew@hazeltontech.com.au,Hazelton Technologies Pty Ltd,25729,21012,TBD,PENDING,09/18/2025 11:13
+,Dan,Coode,dan.coode@calian.com,Calian Ltd,25730,21013,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Levasseur,nicolas.levasseur@fr.thalesgroup.com,THALES AVS Mérignac,25731,6899,TBD,PENDING,09/18/2025 11:13
+,Mike,Doogue,mdoogue@allegromicro.com,ALLEGRO MICROSYSTEMS FRANCE SAS,25733,9061,TBD,PENDING,09/18/2025 11:13
+,Roufaida,Bensalem,roufaida.bensalem@tandemlaunch.com,TandemLaunch,25734,21015,TBD,PENDING,09/18/2025 11:13
+,Carlos,Abellan,cabellan@quside.com,Quside Technologies S.L.,25735,20933,TBD,PENDING,09/18/2025 11:13
+,Ismael,Pérez,iperez@quside.com,Quside Technologies S.L.,25736,20933,TBD,PENDING,09/18/2025 11:13
+,Ferran,Bardaji,fbardaji@quside.com,Quside Technologies S.L.,25737,20933,TBD,PENDING,09/18/2025 11:13
+,Suzie,Marin,smarin@nanoxplore.com,NanoXplore,25738,3180,TBD,PENDING,09/18/2025 11:13
+,Udy,Kashkash,udy_k@rad.com,RAD Data Communications,25739,18600,TBD,PENDING,09/18/2025 11:13
+,Vincent,Richard,vincent.richard@st.com,STMicroelectronics (Grenoble 2) SAS,25740,11945,TBD,PENDING,09/18/2025 11:13
+,Ulik,Broida,ulikb@ceragon.com,CERAGON,25741,21018,TBD,PENDING,09/18/2025 11:13
+,Amir,Perelstain,amirp@ceragon.com,CERAGON,25742,21018,TBD,PENDING,09/18/2025 11:13
+,Mark,Melnykowycz,mark@iduntechnologies.com,IDUN Technologies,25743,21023,TBD,PENDING,09/18/2025 11:13
+,Christian,Bouveron,christian.bouveron@st.com,STMicroelectronics (Grenoble 2) SAS,25744,11945,TBD,PENDING,09/18/2025 11:13
+,Paolo,Livi,pl@spiden.com,LIOM,25747,21029,TBD,PENDING,09/18/2025 11:13
+,Malcom,Hamer,malcolm.hamer@ceryxmedical.com,Ceryx Medical,25756,21037,TBD,PENDING,09/18/2025 11:13
+,Graham,Fisher,graham.fisher@ceryxmedical.com,Ceryx Medical,25757,21037,TBD,PENDING,09/18/2025 11:13
+,Moussa,Belkhiter,moussa.belkhiter@st.com,STMicroelectronics (Grenoble 2) SAS,25762,11945,TBD,PENDING,09/18/2025 11:13
+,Eric,Chevalier,echevalier@esploratis.com,Esploratis,25763,21044,TBD,PENDING,09/18/2025 11:13
+,David,Gauthier,david.gauthier@lynred.com,LYNRED,25766,4305,TBD,PENDING,09/18/2025 11:13
+,Imad,Lahoud,imad.lahoud@impbrands.com,Imperial Brand,25767,21009,TBD,PENDING,09/18/2025 11:13
+,Mariana,Freitas,mariana.freitas@impbrands.com,Imperial Brand,25768,21009,TBD,PENDING,09/18/2025 11:13
+,Aylin,Ersoy,aylin.ersoy@beko.com,Arçelik Global,25769,19850,TBD,PENDING,09/18/2025 11:13
+,Francesc,Guim,francesc.guim@openchip.com,Openchip And Software Technologies SL,25770,21048,TBD,PENDING,09/18/2025 11:13
+,Patrice,Voirin,patrice.voirin@valeo.com,Valeo Vision France SAS,25771,19754,TBD,PENDING,09/18/2025 11:13
+,Dirk,Logie,d.logie@qualinx.nl,QUALINX,25774,21052,TBD,PENDING,09/18/2025 11:13
+,Michael,Gleeson,m.gleeson@qualinx.nl,QUALINX,25775,21052,TBD,PENDING,09/18/2025 11:13
+,Steve,Pratt,steve.pratt@monolithicpower.com,MonolithicPowerSystems,25778,21054,TBD,PENDING,09/18/2025 11:13
+,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,Precision Neuroscience Corporation USD,25779,21056,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Griffaton,nicolas.griffaton@cairdac.com,CAIRDAC,25780,3176,TBD,PENDING,09/18/2025 11:13
+,Antoine,Carrabin,acarrabin@wheere.io,WHEERE,25782,19802,TBD,PENDING,09/18/2025 11:13
+,André,Vaugon,andre.vaugon@alstomgroup.com,Alstom,25784,4260,TBD,PENDING,09/18/2025 11:13
+,Benoit,Harand,benoit.harand@alstomgroup.com,Alstom,25785,4260,TBD,PENDING,09/18/2025 11:13
+,Ulrich,Schacht,ulrich.schacht@sicoya.de,SICOYA GmbH,25790,21065,TBD,PENDING,09/18/2025 11:13
+,Hanjo,Rhee,hanjo.rhee@sicoya.de,SICOYA GmbH,25791,21065,TBD,PENDING,09/18/2025 11:13
+,Frank,Gelhausen,frank.gelhausen@sicoya.de,SICOYA GmbH,25792,21065,TBD,PENDING,09/18/2025 11:13
+,Benoît,Boivin,bboivin@nanoxplore.com,NanoXplore,25793,3180,TBD,PENDING,09/18/2025 11:13
+,Baptiste,Roux,baptiste.roux@zama.ai,ZAMA,25794,21067,TBD,PENDING,09/18/2025 11:13
+,Ghazi,Ben Amor,ghazi.benamor@zama.ai,ZAMA,25795,21067,TBD,PENDING,09/18/2025 11:13
+,Pierre,Gardrat,pierre.gardrat@zama.ai,ZAMA,25796,21067,TBD,PENDING,09/18/2025 11:13
+,Shmulik,Shemesh,sams@innoviz-tech.com,Innoviz Technologies,25800,21071,TBD,PENDING,09/18/2025 11:13
+,Doron,Vertesh,doron.vertesh@innoviz-tech.com,Innoviz Technologies,25801,21071,TBD,PENDING,09/18/2025 11:13
+,Haggai,Bar-Shalom,haggaib@innoviz-tech.com,Innoviz Technologies,25802,21071,TBD,PENDING,09/18/2025 11:13
+,Philippe,Riviere,philippe.riviere@noptrack.fr,NOpTRACK,25805,21073,TBD,PENDING,09/18/2025 11:13
+,Ling Yan,Zhang,l-y.zhang@airmems.com,airmems,25807,10412,TBD,PENDING,09/18/2025 11:13
+,Patrick,Debaenst,pdebaenst@sealsq.com,Seal SQ France,25808,2153,TBD,PENDING,09/18/2025 11:13
+,Lionel,Juré,lionel.jure@emmicroelectronic.com,EM Microelectronic,26809,7980,TBD,PENDING,09/18/2025 11:13
+,Edouard,Lacaze,edouard.lacaze@cykorsystems.com,CY-COR SAS,26810,21082,TBD,PENDING,09/18/2025 11:13
+,Stéphane,Boucher,stephane.boucher@crm.microport.com,Sorin CRM S.A.S.,26812,4246,TBD,PENDING,09/18/2025 11:13
+,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,PRECISION NEUROSCIENCE EURO,26814,21085,TBD,PENDING,09/18/2025 11:13
+,David,Aslanbaş,david.aslanbas@kmccomponent.com,KMC Component,26815,21087,TBD,PENDING,09/18/2025 11:13
+,Xiaoyan,Xiong,xiaoyan.xiong@kapsch.net,Kapsch TrafficCom Vienna,26817,11764,TBD,PENDING,09/18/2025 11:13
+,Josep,Segura,josep.segura-puchades@cea.fr,CEA Grenoble,26818,2,TBD,PENDING,09/18/2025 11:13
+,Anton,Gospodarenko,nata_gos@ukr.net,KWAZAR-IS,26820,21091,TBD,PENDING,09/18/2025 11:13
+,Zohaib,Gulzar,zohaib.gulzar@csem.ch,CSEM Neuchatel,26836,4284,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Giral,frederic.giral@pytheas-technology.com,PYTHEAS Technology,27845,18623,TBD,PENDING,09/18/2025 11:13
+,Julien,Gauthier,jgauthier@cisteomedical.com,CISTEO Medical,27846,22107,TBD,PENDING,09/18/2025 11:13
+,Christophe,Moureaux,cmoureaux@cisteomedical.com,CISTEO Medical,27847,22107,TBD,PENDING,09/18/2025 11:13
+,Jean-Baptiste,Benard,jbbenard@mstechcorp.eu,MSTech Europe,27856,22111,TBD,PENDING,09/18/2025 11:13
+,Albert,Casas,albert.casas@smtworldwide.com,MSTech Europe,27857,22111,TBD,PENDING,09/18/2025 11:13
+,Tanvi,Ralhan,tralhan@apple.com,APPLE Cupertino,27858,22112,TBD,PENDING,09/18/2025 11:13
+,Carlos,Carvalho,carlos_carvalho@apple.com,APPLE Cupertino,27859,22112,TBD,PENDING,09/18/2025 11:13
+,Avner,Matmor,avner@yitran.com,Yitran,27860,22113,TBD,PENDING,09/18/2025 11:13
+,Julie,Delamarre,julie.delamarre@sparkmicro.com,Spark Microsystems,27861,22114,TBD,PENDING,09/18/2025 11:13
+,Eric,Bourget,eric.bourget@sparkmicro.com,Spark Microsystems,27862,22114,TBD,PENDING,09/18/2025 11:13
+,Frédéric,Nabki,frederic.nabki@sparkmicro.com,Spark Microsystems,27863,22114,TBD,PENDING,09/18/2025 11:13
+,Christian,Rappl,christian.rappl@vitesco.com,Schaeffler Regensburg,27864,22115,TBD,PENDING,09/18/2025 11:13
+,Shyam,Narayanan,shyam.narayanan@thyssenkrupp-automotive.com,thyssenkrupp Presta AG,27865,22116,TBD,PENDING,09/18/2025 11:13
+,Carlos Manuel,Ferreirinha Tavares,carlos.tavares@thyssenkrupp-automotive.com,thyssenkrupp Presta AG,27867,22116,TBD,PENDING,09/18/2025 11:13
+,Dmitry,Gusev,dmitriy.gusev@menta-efpga.com,MENTA Valbonne,27869,4345,TBD,PENDING,09/18/2025 11:13
+,Thierry,Roux,thirry.roux@eviden.com,EVIDEN Sophia,27870,20965,TBD,PENDING,09/18/2025 11:13
+,Patrice,Bleuze,patrice.bleuze@eviden.com,EVIDEN Sophia,27871,20965,TBD,PENDING,09/18/2025 11:13
+,Philippe,Cotard,philippe.cotard@eviden.com,EVIDEN Sophia,27872,20965,TBD,PENDING,09/18/2025 11:13
+,Sacha,Juillard,sacha.juillard@univ-grenoble-alpes.fr,SmartPatch Health,27873,21004,TBD,PENDING,09/18/2025 11:13
+,Fabien,Hubert,fabien.hubert@presto-eng.com,Presto Engineering Inc,27874,9072,TBD,PENDING,09/18/2025 11:13
+,Andy,Tsong,tsong@diodes.com,"DIODES, INC",27877,20942,TBD,PENDING,09/18/2025 11:13
+,Maria,Serra,maria.serra@semidynamics.com,Semidynamics,27885,19881,TBD,PENDING,09/18/2025 11:13
+,Miquel,Izquierdo,miquel.izquierdo@semidynamics.com,Semidynamics,27886,19881,TBD,PENDING,09/18/2025 11:13
+,Jaakko,Jussila,jj@meetiqm.com,IQM,27887,22129,TBD,PENDING,09/18/2025 11:13
+,Nicolas,Bravard,nicolas.bravard@sercel.com,SERCEL,27888,1071,TBD,PENDING,09/18/2025 11:13
+,Namwar,Schahrjar,schahrjar.namwar@nxp.com,NXP Semiconductors Austria GmbH,27889,22131,TBD,PENDING,09/18/2025 11:13
+,Petr,Kamenicky,petr.kamenicky@onsemi.com,onsemi BRNO Design Center,27890,22132,TBD,PENDING,09/18/2025 11:13
+,Marianne,Consonni,marianne.consonni@cea.fr,CEA Grenoble,27891,2,TBD,PENDING,09/18/2025 11:13
+,Kerry,Ong,kerry.ong@globalfoundries.com,Global Foundries Malta,27892,22133,TBD,PENDING,09/18/2025 11:13
+,Mathias,Gervais,mgervais@qti.qualcomm.com,Qualcomm Colombes,27895,22142,TBD,PENDING,09/18/2025 11:13
+,Karthik,Chandrasekaran,karthik.chandrasekaran@globalfoundries.com,Global Foundries Malta,27899,22133,TBD,PENDING,09/18/2025 11:13
+,Mauro,Abbattista,mauro.abbattista@movyonelectronics.com,Movyon Electronics S.r.l,27902,22150,TBD,PENDING,09/18/2025 11:13
+,Patrick,Bolling,patrick.bolling@continental-corporation.com,CONTINENTAL Regensburg,27903,11737,TBD,PENDING,09/18/2025 11:13
+,Karsten,Köhler,karsten.koehler@continental-corporation.com,CONTINENTAL Regensburg,27904,11737,TBD,PENDING,09/18/2025 11:13
+,Sylvain,Aguirre,sylvain.aguirre@sipearl.com,SiPearl,27905,17288,TBD,PENDING,09/18/2025 11:13
+,Loic,Lietar,loic@lietar.net,NewCo,27907,22153,TBD,PENDING,09/18/2025 11:13
+,Antonio,Pullini,antonio.pullini@luxottica.com,EssilorLuxottica,27908,22154,TBD,PENDING,09/18/2025 11:13
+,Rand,Hindi,rand.hindi@zama.ai,ZAMA,27909,21067,TBD,PENDING,09/18/2025 11:13
+,Steven,De Preter,steven.depreter@onsemi.com,onsemi BRNO Design Center,27911,22132,TBD,PENDING,09/18/2025 11:13
+,Michel,Willemin,michel.willemin@emmicroelectronic.com,EM Microelectronic,27913,7980,TBD,PENDING,09/18/2025 11:13
+,Swan,Gerome,swan.gerome@cea.fr,CEA Grenoble,27923,2,TBD,PENDING,09/18/2025 11:13
+,Jing-Jing,Duflot,jing-jing.duflot@zama.ai,ZAMA,27925,21067,TBD,PENDING,09/18/2025 11:13
+,Ayoub,Harim,ayoub.harim@cairdac.com,CAIRDAC,27926,3176,TBD,PENDING,09/18/2025 11:13
+,Bertrand,Gautheron,b.gautheron@ingage-mems.com,iNGage,27928,22166,TBD,PENDING,09/18/2025 11:13
+,Philippe,Robert,ph.robert@ingage-mems.com,iNGage,27929,22166,TBD,PENDING,09/18/2025 11:13
+,Martin,Tosh,martintosh@optiver.com,Optiver,27931,22167,TBD,PENDING,09/18/2025 11:13

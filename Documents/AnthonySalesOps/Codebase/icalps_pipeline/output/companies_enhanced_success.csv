@@ -1,0 +1,265 @@
+Comp_CompanyId,Comp_Name,Comp_Website,bronze_extracted_at,bronze_source_file,company_id,parent_company_id,has_multiple_sites,site_order
+2,CEA Grenoble,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2,2,False,1
+3,Malvern Panalytical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3,3,False,1
+1057,Insightness,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1057,1057,False,1
+1064,eLichens,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1064,1064,False,1
+1071,SERCEL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1071,1071,False,1
+1072,BAUMER ELECTRIC AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1072,1072,False,1
+1074,THALES ALENIA SPACE Toulouse,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1074,1074,False,1
+1075,Redtree Solutions,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1075,1075,False,1
+1076,ALEDIA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1076,1076,False,1
+1081,FRAMATOME,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1081,1081,False,1
+1089,SP3H,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1089,1089,False,1
+1095,CISSOID  S.A.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1095,1095,False,1
+1100,CARMAT,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1100,1100,False,1
+1115,ISORG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1115,1115,False,1
+1119,VITEC Video Innovation,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1119,1119,False,1
+1128,@-health,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1128,1128,False,1
+1132,intoPIX S.A.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1132,1132,False,1
+1139,VSORA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1139,1139,False,1
+1146,Adept Neuro SA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1146,1146,False,1
+1148,Safran Sensing Norway,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1148,1148,False,1
+1150,3D-plus,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1150,1150,False,1
+1154,NIPSON Technology,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1154,1154,False,1
+1156,DEBIOTECH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1156,1156,False,1
+1157,SLB,,2025-09-18 11:45:13.289149,Legacy_companies.csv,1157,1157,False,1
+2147,Scubapro Uwatec,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2147,2147,False,1
+2153,Seal SQ France,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2153,2153,False,1
+2159,Zhortech,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2159,2159,False,1
+2160,CNES,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2160,2160,False,1
+2191,SCHNEIDER Electric Eybens,,2025-09-18 11:45:13.289149,Legacy_companies.csv,2191,2191,False,1
+3175,AnotherBrain,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3175,3175,False,1
+3176,CAIRDAC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3176,3176,False,1
+3179,Moduleus,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3179,3179,False,1
+3180,NanoXplore,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3180,3180,False,1
+3186,SentinHealth,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3186,3186,False,1
+3187,VERMON,,2025-09-18 11:45:13.289149,Legacy_companies.csv,3187,3187,False,1
+4196,Neurallys,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4196,4196,False,1
+4201,Panaxium,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4201,4201,False,1
+4202,Fine Heart,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4202,4202,False,1
+4214,VALEO Pouillon,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4214,4214,False,1
+4230,Sensimed,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4230,4230,False,1
+4233,SICPA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4233,4233,False,1
+4235,Silicon Mobility,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4235,4235,False,1
+4242,Diabeloop,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4242,4242,False,1
+4246,Sorin CRM S.A.S.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4246,4246,False,1
+4247,GreenWaves Technologies,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4247,4247,False,1
+4255,CONTINENTAL Toulouse,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4255,4255,False,1
+4256,CONTINENTAL Rambouillet,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4256,4256,False,1
+4260,Alstom,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4260,4260,False,1
+4282,IMEC ASIC Services,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4282,4282,False,1
+4284,CSEM Neuchatel,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4284,4284,False,1
+4287,STMicroelectronics (Crolles2) SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4287,4287,False,1
+4291,SEMTECH FRANCE SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4291,4291,False,1
+4293,SEMTECH Neuchâtel,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4293,4293,False,1
+4299,DREAM,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4299,4299,False,1
+4305,LYNRED,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4305,4305,False,1
+4311,Alstom Aix,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4311,4311,False,1
+4331,SYNERGIA Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4331,4331,False,1
+4342,Melexis Tessenderlo,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4342,4342,False,1
+4345,MENTA Valbonne,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4345,4345,False,1
+4349,Neelogy,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4349,4349,False,1
+4369,GUC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4369,4369,False,1
+4710,RAMBUS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4710,4710,False,1
+4718,THALES DIS Design Services,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4718,4718,False,1
+4719,IDEMIA Meyreuil,,2025-09-18 11:45:13.289149,Legacy_companies.csv,4719,4719,False,1
+5745,ENYX,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5745,5745,False,1
+5768,EMKA TECHNOLOGIES,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5768,5768,False,1
+5779,BIOFOURMIS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5779,5779,False,1
+5787,SODERN,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5787,5787,False,1
+5795,SENIS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5795,5795,False,1
+5808,ELSYS Design 06,,2025-09-18 11:45:13.289149,Legacy_companies.csv,5808,5808,False,1
+6899,THALES AVS Mérignac,,2025-09-18 11:45:13.289149,Legacy_companies.csv,6899,6899,False,1
+7930,Advanced Silicon SA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7930,7930,False,1
+7962,CERN,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7962,7962,False,1
+7965,LEM,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7965,7965,False,1
+7980,EM Microelectronic,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7980,7980,False,1
+7987,Trameto,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7987,7987,False,1
+7988,FORVIA Nanterre,,2025-09-18 11:45:13.289149,Legacy_companies.csv,7988,7988,False,1
+9016,PYXALIS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9016,9016,False,1
+9020,Helbling Technik Bern AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9020,9020,False,1
+9027,UPMEM,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9027,9027,False,1
+9046,Computime,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9046,9046,False,1
+9050,THALES AVS Valence,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9050,9050,False,1
+9061,ALLEGRO MICROSYSTEMS FRANCE SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9061,9061,False,1
+9063,EXOSENS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9063,9063,False,1
+9065,HAP2U,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9065,9065,False,1
+9072,Presto Engineering Inc,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9072,9072,False,1
+9103,TIEMPO-SECURE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9103,9103,False,1
+9111,TRIXELL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9111,9111,False,1
+9135,Kapflex Sensors,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9135,9135,False,1
+9187,ETH Zurich Gloriastrasse,,2025-09-18 11:45:13.289149,Legacy_companies.csv,9187,9187,False,1
+10263,ams-OSRAM AG Rapperswill,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10263,10263,False,1
+10299,VIBISCUS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10299,10299,False,1
+10310,DGA Bruz,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10310,10310,False,1
+10391,GoPro Technology France SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10391,10391,False,1
+10412,airmems,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10412,10412,False,1
+10423,REFLEX CES,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10423,10423,False,1
+10456,Meta,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10456,10456,False,1
+10525,SATT SAYENS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10525,10525,False,1
+10541,Bartels Mikrotechnik,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10541,10541,False,1
+10543,HCO,,2025-09-18 11:45:13.289149,Legacy_companies.csv,10543,10543,False,1
+11580,Easics,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11580,11580,False,1
+11625,ams-OSRAM Valencia,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11625,11625,False,1
+11652,Withings,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11652,11652,False,1
+11664,THALES SIX Gennevilliers,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11664,11664,False,1
+11675,Ledger,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11675,11675,False,1
+11714,Polyn Technology Ltd.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11714,11714,False,1
+11737,CONTINENTAL Regensburg,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11737,11737,False,1
+11747,Sifemto,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11747,11747,False,1
+11748,Cegitek Innovation,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11748,11748,False,1
+11764,Kapsch TrafficCom Vienna,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11764,11764,False,1
+11778,ams-OSRAM AG Premstaetten,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11778,11778,False,1
+11904,STMicroelectronics Catania,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11904,11904,False,1
+11929,ENSTA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11929,11929,False,1
+11945,STMicroelectronics (Grenoble 2) SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,11945,11945,False,1
+12057,Senbiosys,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12057,12057,False,1
+12058,WoodWelding SA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12058,12058,False,1
+12062,OLYTHE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12062,12062,False,1
+12065,TITAN DEFENSE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12065,12065,False,1
+12067,Allegro Microsystems Milpitas,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12067,12067,False,1
+12086,VERMES Microdispensing,,2025-09-18 11:45:13.289149,Legacy_companies.csv,12086,12086,False,1
+14106,Laclarée Vision,,2025-09-18 11:45:13.289149,Legacy_companies.csv,14106,14106,False,1
+14146,ISD Integrated System Development,,2025-09-18 11:45:13.289149,Legacy_companies.csv,14146,14146,False,1
+15153,Wise Integration,,2025-09-18 11:45:13.289149,Legacy_companies.csv,15153,15153,False,1
+15157,SwitchESS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,15157,15157,False,1
+17186,Trinamix GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17186,17186,False,1
+17205,SILMACH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17205,17205,False,1
+17208,SagaX,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17208,17208,False,1
+17230,LYNXEMI,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17230,17230,False,1
+17253,NuVasive Paris,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17253,17253,False,1
+17265,ALTER Technology (France),,2025-09-18 11:45:13.289149,Legacy_companies.csv,17265,17265,False,1
+17279,BME Consulting Suisse,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17279,17279,False,1
+17280,BOYDSENSE HQ,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17280,17280,False,1
+17288,SiPearl,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17288,17288,False,1
+17471,EQUIPIC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17471,17471,False,1
+17472,CENTILOC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17472,17472,False,1
+17476,Trilite Technologies,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17476,17476,False,1
+17484,Faurecia Clarion Electronics Europe (FR60),,2025-09-18 11:45:13.289149,Legacy_companies.csv,17484,17484,False,1
+17490,RDS Rhythm Diagnostic Systems (strasbourg),,2025-09-18 11:45:13.289149,Legacy_companies.csv,17490,17490,False,1
+17491,Moxtek,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17491,17491,False,1
+17493,EUSIL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17493,17493,False,1
+17496,Netlink communication corp,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17496,17496,False,1
+17498,Eric Desplanches,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17498,17498,False,1
+17506,Nanoz group,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17506,17506,False,1
+17517,MILANDR,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17517,17517,False,1
+17523,MicroEJ,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17523,17523,False,1
+17525,Numem,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17525,17525,False,1
+17533,KINEIS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17533,17533,False,1
+17554,SENSE in,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17554,17554,False,1
+17556,MOSAIC Finance,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17556,17556,False,1
+17561,Waviot,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17561,17561,False,1
+17566,VoxelSensors SRL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17566,17566,False,1
+17568,Crypto Quantique,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17568,17568,False,1
+17569,MICRO CRYSTAL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17569,17569,False,1
+17581,Pharrowtech BV,,2025-09-18 11:45:13.289149,Legacy_companies.csv,17581,17581,False,1
+18583,Neuroloop,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18583,18583,False,1
+18592,Nyxoah,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18592,18592,False,1
+18597,micledi,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18597,18597,False,1
+18600,RAD Data Communications,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18600,18600,False,1
+18604,Synthara AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18604,18604,False,1
+18611,CROUZET,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18611,18611,False,1
+18618,Bosch Sensortec GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18618,18618,False,1
+18619,Virility Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18619,18619,False,1
+18621,Cebi Electromechanical Components Spain S.A.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18621,18621,False,1
+18622,DataCan,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18622,18622,False,1
+18623,PYTHEAS Technology,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18623,18623,False,1
+18629,Pulsify Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18629,18629,False,1
+18632,Advanced Bionics AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18632,18632,False,1
+18634,Caranx Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18634,18634,False,1
+18635,AXEM Technology,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18635,18635,False,1
+18638,Picotech,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18638,18638,False,1
+18639,EYYES,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18639,18639,False,1
+18644,PV Hardware Solutions,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18644,18644,False,1
+18661,MANITTY,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18661,18661,False,1
+18686,WeebitNano France,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18686,18686,False,1
+18691,BeFC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18691,18691,False,1
+18706,Orcasonics Innovation Ltd,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18706,18706,False,1
+18713,Applied Brain Research Inc.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18713,18713,False,1
+18718,Equilibr.io,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18718,18718,False,1
+18721,Everysight,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18721,18721,False,1
+18722,Pellenc Energy,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18722,18722,False,1
+18723,Neologic (VLSI),,2025-09-18 11:45:13.289149,Legacy_companies.csv,18723,18723,False,1
+18724,SEQUANS ISRAEL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18724,18724,False,1
+18725,Universidad de Zaragoza,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18725,18725,False,1
+18726,"Titan Advanced Energy Solutions, Inc",,2025-09-18 11:45:13.289149,Legacy_companies.csv,18726,18726,False,1
+18729,Siclade Technologies,,2025-09-18 11:45:13.289149,Legacy_companies.csv,18729,18729,False,1
+19736,B&R automation,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19736,19736,False,1
+19738,Ternwaves,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19738,19738,False,1
+19751,Crane Aerospace,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19751,19751,False,1
+19754,Valeo Vision France SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19754,19754,False,1
+19761,RAM Solutions GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19761,19761,False,1
+19776,VALID SOLUCIONES TECNOLOGICAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19776,19776,False,1
+19787,Ilmsens GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19787,19787,False,1
+19796,VOCSENS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19796,19796,False,1
+19801,Orga+,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19801,19801,False,1
+19802,WHEERE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19802,19802,False,1
+19809,Infinera,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19809,19809,False,1
+19821,LIGHTRICITY LTD,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19821,19821,False,1
+19826,VANDEWIELE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19826,19826,False,1
+19835,Batchone,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19835,19835,False,1
+19839,CLEARDROP,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19839,19839,False,1
+19841,TYRI SWEDEN AB,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19841,19841,False,1
+19843,MEMPERIENCE,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19843,19843,False,1
+19844,IC-LOGIC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19844,19844,False,1
+19850,Arçelik Global,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19850,19850,False,1
+19881,Semidynamics,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19881,19881,False,1
+19884,Intron Electronic Gmbh,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19884,19884,False,1
+19891,Efficient Computer,,2025-09-18 11:45:13.289149,Legacy_companies.csv,19891,19891,False,1
+20931,IMPLI AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20931,20931,False,1
+20932,Watermelon Co.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20932,20932,False,1
+20933,Quside Technologies S.L.,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20933,20933,False,1
+20936,SonicEdge Ltd,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20936,20936,False,1
+20937,ENERCON Technologies Ltd,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20937,20937,False,1
+20940,SYRMA SGS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20940,20940,False,1
+20942,"DIODES, INC",,2025-09-18 11:45:13.289149,Legacy_companies.csv,20942,20942,False,1
+20946,ID4US,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20946,20946,False,1
+20953,Legrand France Pyrénées,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20953,20953,False,1
+20954,Schaeffler Toulouse,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20954,20954,False,1
+20963,CNRS CRHEA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20963,20963,False,1
+20965,EVIDEN Sophia,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20965,20965,False,1
+20973,Steerlight,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20973,20973,False,1
+20982,Forest Neurotech LLC,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20982,20982,False,1
+20983,ACTIA Automotive,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20983,20983,False,1
+20990,JoulWatt,,2025-09-18 11:45:13.289149,Legacy_companies.csv,20990,20990,False,1
+21004,SmartPatch Health,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21004,21004,False,1
+21006,Gammao,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21006,21006,False,1
+21009,Imperial Brand,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21009,21009,False,1
+21011,Yongatek,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21011,21011,False,1
+21012,Hazelton Technologies Pty Ltd,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21012,21012,False,1
+21013,Calian Ltd,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21013,21013,False,1
+21015,TandemLaunch,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21015,21015,False,1
+21018,CERAGON,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21018,21018,False,1
+21023,IDUN Technologies,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21023,21023,False,1
+21029,LIOM,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21029,21029,False,1
+21037,Ceryx Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21037,21037,False,1
+21044,Esploratis,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21044,21044,False,1
+21048,Openchip And Software Technologies SL,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21048,21048,False,1
+21052,QUALINX,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21052,21052,False,1
+21054,MonolithicPowerSystems,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21054,21054,False,1
+21056,Precision Neuroscience Corporation USD,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21056,21056,False,1
+21065,SICOYA GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21065,21065,False,1
+21067,ZAMA,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21067,21067,False,1
+21071,Innoviz Technologies,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21071,21071,False,1
+21073,NOpTRACK,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21073,21073,False,1
+21082,CY-COR SAS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21082,21082,False,1
+21085,PRECISION NEUROSCIENCE EURO,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21085,21085,False,1
+21087,KMC Component,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21087,21087,False,1
+21091,KWAZAR-IS,,2025-09-18 11:45:13.289149,Legacy_companies.csv,21091,21091,False,1
+22107,CISTEO Medical,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22107,22107,False,1
+22111,MSTech Europe,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22111,22111,False,1
+22112,APPLE Cupertino,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22112,22112,False,1
+22113,Yitran,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22113,22113,False,1
+22114,Spark Microsystems,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22114,22114,False,1
+22115,Schaeffler Regensburg,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22115,22115,False,1
+22116,thyssenkrupp Presta AG,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22116,22116,False,1
+22129,IQM,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22129,22129,False,1
+22131,NXP Semiconductors Austria GmbH,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22131,22131,False,1
+22132,onsemi BRNO Design Center,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22132,22132,False,1
+22133,Global Foundries Malta,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22133,22133,False,1
+22142,Qualcomm Colombes,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22142,22142,False,1
+22150,Movyon Electronics S.r.l,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22150,22150,False,1
+22153,NewCo,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22153,22153,False,1
+22154,EssilorLuxottica,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22154,22154,False,1
+22166,iNGage,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22166,22166,False,1
+22167,Optiver,,2025-09-18 11:45:13.289149,Legacy_companies.csv,22167,22167,False,1

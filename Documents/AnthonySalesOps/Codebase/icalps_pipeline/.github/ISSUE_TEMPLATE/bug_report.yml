@@ -1,0 +1,116 @@
+name: 🐛 Bug Report
+description: Report a bug or issue in the IC'ALPS pipeline
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+assignees:
+  - Wkayaobama
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: What went wrong?
+      description: Clear description of the bug
+      placeholder: |
+        Database connection fails when processing large datasets...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What should have happened?
+      description: Expected behavior or workflow outcome
+      placeholder: |
+        The pipeline should successfully process datasets up to 10,000 records
+        without connection timeouts or memory issues...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Step-by-step reproduction
+      description: How to reproduce this bug
+      placeholder: |
+        1. Load dataset with >5,000 records
+        2. Run main_pipeline.py with default settings
+        3. Monitor connection status during processing
+        4. Bug occurs at approximately 3,000 records processed
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected-systems
+    attributes:
+      label: What systems are affected?
+      description: Components, services, and integrations impacted
+      placeholder: |
+        - SQL Server connection pool
+        - DuckDB processing engine
+        - Excel output generation
+        - Error logging system
+    validations:
+      required: true
+
+  - type: textarea
+    id: error-output
+    attributes:
+      label: Error output and logs
+      description: Error messages, stack traces, and log files
+      placeholder: |
+        ```
+        ERROR: Connection timeout after 30 seconds
+        Stack trace: ...
+        Log entries: ...
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact-assessment
+    attributes:
+      label: What is the impact?
+      description: How does this affect users and workflows?
+      placeholder: |
+        - Blocks processing of large datasets
+        - Causes data loss in partial processing scenarios
+        - Requires manual intervention and restarts
+        - Affects monthly reporting workflows
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Bug Severity
+      description: How severe is this bug?
+      options:
+        - Critical - System unusable
+        - High - Major functionality broken
+        - Medium - Workaround available
+        - Low - Minor inconvenience
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment Details
+      description: System information and configuration
+      placeholder: |
+        - OS: Windows 11
+        - Python version: 3.11.x
+        - DuckDB version: 0.9.x
+        - SQL Server version: 2019
+        - Dataset size: 7,500 records
+    validations:
+      required: true
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Temporary workaround
+      description: Any temporary solutions or workarounds found
+      placeholder: |
+        Processing in smaller chunks of 2,000 records works but requires
+        manual intervention between batches...

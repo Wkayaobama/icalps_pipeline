@@ -1,0 +1,33 @@
+﻿Oppo_Status,Oppo_Stage
+NoGo,Identification
+Won,NULL
+In Progress,Evaluation technique
+Abandonne,Negotiating
+Won,Closed
+Lost,Qualified
+In Progress,Qualified
+Sleap,Negotiating
+Lost,Evaluation technique
+In Progress,Lead
+Won,Identification
+Won,Construction offre
+Won,Negotiating
+Sleap,Evaluation technique
+In Progress,NULL
+In Progress,Quoted
+Lost,Identification
+Lost,Construction offre
+Abandonne,Identification
+In Progress,Construction offre
+Abandonne,Evaluation technique
+Abandonne,NULL
+Sleap,Qualified
+In Progress,Identification
+Lost,Negotiating
+NoGo,Qualified
+Sleap,Identification
+In Progress,Negotiating
+Abandonne,Qualified
+Abandonne,Construction offre
+NoGo,Evaluation technique
+Sleap,Construction offre

@@ -1,0 +1,126 @@
+{
+  "pipelines": {
+    "Icalps_service": {
+      "name": "Icalps_service",
+      "stages": {
+        "Identified": "1116269224",
+        "Qualified": "1162868542",
+        "Negotiate": "1116704051",
+        "Closed Won": "1116704052",
+        "Closed Lost": "1116704053",
+        "On-Hold": "1116269223"
+      }
+    },
+    "Icalps_hardware": {
+      "name": "Icalps_hardware",
+      "stages": {
+        "Identified": "1116419644",
+        "Qualified": "1116419645",
+        "Design In": "1116419646",
+        "Design Win": "1116419647",
+        "Closed Won": "1116419649",
+        "Closed Dead": "1116419650",
+        "On-Hold": "1116652341"
+      }
+    },
+    "SealSQ Hardware": {
+      "name": "SealSQ Hardware",
+      "stages": {
+        "Identified": "12096409",
+        "Qualified": "12096410",
+        "Design In": "12096411",
+        "Design Win": "12096412",
+        "Closed Won": "12096869",
+        "Closed Lost": "12096415",
+        "Closed Dead": "13772274"
+      }
+    },
+    "SealSQ Services": {
+      "name": "SealSQ Services",
+      "stages": {
+        "Identified": "13772280",
+        "Qualified": "13772281",
+        "Design In": "13772282",
+        "Design Win": "31868514",
+        "Closed Won": "13772285",
+        "Closed Lost": "13772286",
+        "Closed Dead": "13772309"
+      }
+    }
+  },
+  "deal_properties": {
+    "icalps_deal_id": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_dealforecast": {
+      "type": "number",
+      "required": true
+    },
+    "icalps_dealcertainty": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_dealtype": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_dealsource": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_dealnotes": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_dealcategory": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_deal_created_date": {
+      "type": "date",
+      "required": true
+    },
+    "icalps_originalstage": {
+      "type": "enumeration",
+      "required": true
+    },
+    "icalps_original_status": {
+      "type": "enumeration",
+      "required": true
+    },
+    "icalps_transformation_notes": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "company_properties": {
+    "icalps_company_id": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_sitegroup": {
+      "type": "string",
+      "required": false
+    },
+    "icalps_groupsize": {
+      "type": "number",
+      "required": false
+    }
+  },
+  "contact_properties": {
+    "icalps_contact_id": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_company_id": {
+      "type": "string",
+      "required": true
+    },
+    "icalps_temperature": {
+      "type": "enumeration",
+      "required": false
+    }
+  },
+  "validation_date": "2025-09-18T12:06:16.544751"
+}

@@ -1,0 +1,1062 @@
+Pers_PersonId,Pers_FirstName,Pers_LastName,Pers_EmailAddress,email_valid,Comp_CompanyId,Comp_Name,bronze_extracted_at,bronze_source_file,email_domain,full_name
+2,Pierre,Vincent,pierre.vincent@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Pierre Vincent
+3,Jean-René,Lequepeys,jean-rene.lequepeys@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-René Lequepeys
+4,Wim,Vos,wim.vos@panalytical.com,True,3,Malvern Panalytical,2025-09-18 11:03:09.231371,Legacy_persons.csv,panalytical.com,Wim Vos
+5,Roelof,De Vries,roelof.de.vries@panalytical.com,True,3,Malvern Panalytical,2025-09-18 11:03:09.231371,Legacy_persons.csv,panalytical.com,Roelof De Vries
+1027,Hervé,Yvinec,herve.yvinec@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Hervé Yvinec
+1028,Wahid,Issa,wahid.issa@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Wahid Issa
+1029,Marc,Attia,marc.attia@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Marc Attia
+1030,Grégoire,Aujay,,False,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Grégoire Aujay
+1041,Jérôme,Lainé,jerome.laine@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Jérôme Lainé
+1042,Joachim,Tiedeke,jtiedeke@baumer.com,True,1072,BAUMER ELECTRIC AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,baumer.com,Joachim Tiedeke
+1043,Johann,Pohany,,False,1072,BAUMER ELECTRIC AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Johann Pohany
+1044,Chistoph,Kluser,,False,1072,BAUMER ELECTRIC AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Chistoph Kluser
+1046,Denis,Lagarde,denis.lagarde@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Denis Lagarde
+1047,Philippe,Ayzac,philippe.ayzac@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Philippe Ayzac
+1049,Jean-Marie,Houillon,jmhouillon@redtree-solutions.com,True,1075,Redtree Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,redtree-solutions.com,Jean-Marie Houillon
+1050,Frédéric,Mercier,frederic.mercier@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Frédéric Mercier
+1051,Erwan,Dornel,erwan.dornel@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Erwan Dornel
+1052,Thierry,Valentin,,False,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Thierry Valentin
+1053,Xavier,Hugon,xavier.hugon@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Xavier Hugon
+1054,Yves,Salmon,,False,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Yves Salmon
+1056,Ivan-Christophe,Robin,ivan-christophe.robin@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Ivan-Christophe Robin
+1057,Matthieu,Charbonnier,matthieu.charbonnier@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Matthieu Charbonnier
+1058,Philippe,Gilet,philippe.gilet@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Philippe Gilet
+1066,Sander,Weijers,sander.weijers@panalytical.com,True,3,Malvern Panalytical,2025-09-18 11:03:09.231371,Legacy_persons.csv,panalytical.com,Sander Weijers
+1067,Vladimir,Jovanovic,vladimir.jovanovic@panalytical.com,True,3,Malvern Panalytical,2025-09-18 11:03:09.231371,Legacy_persons.csv,panalytical.com,Vladimir Jovanovic
+1071,Andrea,Battistella,,False,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Andrea Battistella
+1072,Daniel,Chaix,daniel.chaix@framatome.com,True,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,framatome.com,Daniel Chaix
+1073,Julien,Marianne,julien.marianne_consultant@framatome.com,True,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,framatome.com,Julien Marianne
+1074,Olivier,Salmon,olivier.salmon@framatome.com,True,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,framatome.com,Olivier Salmon
+1075,Pierre,Monteil,,False,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre Monteil
+1076,Rémi,Fabregues,,False,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Rémi Fabregues
+1077,Rémy,Astier,remy.astier@framatome.com,True,1081,FRAMATOME,2025-09-18 11:03:09.231371,Legacy_persons.csv,framatome.com,Rémy Astier
+1093,Jean-François,Mascaro,jean-francois.mascaro@sp3h.fr,True,1089,SP3H,2025-09-18 11:03:09.231371,Legacy_persons.csv,sp3h.fr,Jean-François Mascaro
+1094,Alain,Lunati,alain.lunati@sp3h.fr,True,1089,SP3H,2025-09-18 11:03:09.231371,Legacy_persons.csv,sp3h.fr,Alain Lunati
+1103,Etienne,Vanzieleghem,etienne.vanzieleghem@cissoid.com,True,1095,CISSOID  S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,cissoid.com,Etienne Vanzieleghem
+1104,Pierre,Delatte,pierre.delatte@cissoid.com,True,1095,CISSOID  S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,cissoid.com,Pierre Delatte
+1114,Jean-Marc,Parquet,jean-marc.parquet@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Jean-Marc Parquet
+1115,Paul,Kohler,paul.kohler@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Paul Kohler
+1119,Frédéric,Mayer,frederic.mayer@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Frédéric Mayer
+1146,Nicolas,Quesne,nicolas.quesne@vitec.com,True,1119,VITEC Video Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitec.com,Nicolas Quesne
+1147,Alexandre,Moatti,alexandre.moatti@vitec.com,True,1119,VITEC Video Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitec.com,Alexandre Moatti
+1148,Dominique,Pinet,dominique.pinet@vitecmm.com,True,1119,VITEC Video Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitecmm.com,Dominique Pinet
+1149,Philippe,Wetzel,philippe.wetzel@vitec.com,True,1119,VITEC Video Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitec.com,Philippe Wetzel
+1157,Franck,Lascaux,franck.lascaux@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Franck Lascaux
+1166,David,Coulon,dcoulon@healthcardionexion.com,True,1128,@-health,2025-09-18 11:03:09.231371,Legacy_persons.csv,healthcardionexion.com,David Coulon
+1167,Pierre-Paul,Goiffon,ppgoiffon@healthcardionexion.com,True,1128,@-health,2025-09-18 11:03:09.231371,Legacy_persons.csv,healthcardionexion.com,Pierre-Paul Goiffon
+1175,Gaël,Rouvroy,g.rouvroy@intopix.com,True,1132,intoPIX S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,intopix.com,Gaël Rouvroy
+1176,Jean-Baptiste,Lorent,jb.lorent@intopix.com,True,1132,intoPIX S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,intopix.com,Jean-Baptiste Lorent
+1190,Khaled,Maalej,kmaalej@vsora.com,True,1139,VSORA,2025-09-18 11:03:09.231371,Legacy_persons.csv,vsora.com,Khaled Maalej
+1215,André,Mercanzini,andre.mercanzini@aleva-neuro.com,True,1146,Adept Neuro SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aleva-neuro.com,André Mercanzini
+1216,Alain,Jordan,alain.jordan@aleva-neuro.com,True,1146,Adept Neuro SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aleva-neuro.com,Alain Jordan
+1219,Reidar,Holm,reidar.holm@sensonor.no,True,1148,Safran Sensing Norway,2025-09-18 11:03:09.231371,Legacy_persons.csv,sensonor.no,Reidar Holm
+1220,Hans-Richard,Petersen,,False,1148,Safran Sensing Norway,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Hans-Richard Petersen
+1222,Nicolas,Fiant,nfiant@3d-plus.com,True,1150,3D-plus,2025-09-18 11:03:09.231371,Legacy_persons.csv,3d-plus.com,Nicolas Fiant
+1223,Charles,Sellier,csellier@3d-plus.com,True,1150,3D-plus,2025-09-18 11:03:09.231371,Legacy_persons.csv,3d-plus.com,Charles Sellier
+1224,Pierre-Eric,Berthet,peberthet@3d-plus.com,True,1150,3D-plus,2025-09-18 11:03:09.231371,Legacy_persons.csv,3d-plus.com,Pierre-Eric Berthet
+1231,Dominique,Zwingelstein,dominique.zwingelstein@technology.nipson.com,True,1154,NIPSON Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,technology.nipson,Dominique Zwingelstein
+1232,Etienne,Membre,etienne.membre@technology.nispon.com,True,1154,NIPSON Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,technology.nispon,Etienne Membre
+1245,Nicolas,Renaudot,n.renaudot@debiotech.com,True,1156,DEBIOTECH,2025-09-18 11:03:09.231371,Legacy_persons.csv,debiotech.com,Nicolas Renaudot
+1246,Ary,Saaman,,False,1156,DEBIOTECH,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Ary Saaman
+1248,Romain,Gloor,r.gloor@debiotech.com,True,1156,DEBIOTECH,2025-09-18 11:03:09.231371,Legacy_persons.csv,debiotech.com,Romain Gloor
+1249,Claire,Tassin,ctassin@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,Claire Tassin
+1250,Toshihiro,Nomura,tnomura@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,Toshihiro Nomura
+2205,Pablo,Asshoff,pablo.asshoff@johnsonoutdoors.com,True,2147,Scubapro Uwatec,2025-09-18 11:03:09.231371,Legacy_persons.csv,johnsonoutdoors.com,Pablo Asshoff
+2217,Jean-Pierre,Enguent,jpenguent@sealsq.com,True,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,sealsq.com,Jean-Pierre Enguent
+2218,Benoît,Makowka,,False,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Benoît Makowka
+2231,Karim,Oumnia,k.oumnia@digitsole.com,True,2159,Zhortech,2025-09-18 11:03:09.231371,Legacy_persons.csv,digitsole.com,Karim Oumnia
+2233,Alain,Bardoux,alain.bardoux@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Alain Bardoux
+2235,Jean-Marc,Biffi,jean-marc.biffi@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Jean-Marc Biffi
+2237,Massimiliano,Calaprice,massimiliano.calaprice@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Massimiliano Calaprice
+2238,Michel,Pignol,michel.pignol@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Michel Pignol
+2240,Rodolphe,Clédassou,rodolphe.cledassou@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Rodolphe Clédassou
+2241,Romain,Desplats,romain.desplats@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Romain Desplats
+2243,Michel,Avignon,,False,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Michel Avignon
+2256,Agnès,Arnaud,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Agnès Arnaud
+2260,Arnaud,Peizerat,arnaud.peizerat@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Arnaud Peizerat
+2261,Bénédicte,Robin,benedicte.robin@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Bénédicte Robin
+2262,Bernard,Dieny,bernard.dieny@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Bernard Dieny
+2263,Bertrand,Dupont,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bertrand Dupont
+2264,Bertrand,Gomez,bertrand.gomez@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Bertrand Gomez
+2266,Caroline,Arnaud,caroline.arnaud@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Caroline Arnaud
+2267,Christine,Raynaud,christine.raynaud@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Christine Raynaud
+2271,Cyrille,Laviron,cyrille.laviron@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Cyrille Laviron
+2272,Daniel,Vellou,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Daniel Vellou
+2273,Diego,Puschini,diego.puschini@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Diego Puschini
+2274,Dominique,Noguet,dominique.noguet@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Dominique Noguet
+2275,Engin,Molva,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Engin Molva
+2276,Eric,Gouze,eric.gouze@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Eric Gouze
+2277,Eric,Mercier,eric.mercier@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Eric Mercier
+2278,Etienne,Bouyer,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Etienne Bouyer
+2279,Fabien,Clermidy,fabien.clermidy@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Fabien Clermidy
+2281,Fabrice,Guellec,fabrice.guellec@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Fabrice Guellec
+2282,Francis,Glasser,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Francis Glasser
+2286,Frédéric,Rothan,frederic.rothan@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Frédéric Rothan
+2287,Gérald,Cibrario,gerald.cibrario@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Gérald Cibrario
+2307,Carine,Glas,carine.glas@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Carine Glas
+2309,Luc,Meysenc,luc.meysenc@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Luc Meysenc
+2310,Marc,Langlois,,False,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marc Langlois
+2311,Stéphane,Delbaere,stephane.delbaere@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Stéphane Delbaere
+3277,Alaa,Makdissi,alaa.makdissi@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Alaa Makdissi
+3279,Willy,Regnier,willy.regnier@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Willy Regnier
+3284,Mathieu,Roy,mathieu.roy@moduleus.com,True,3179,Moduleus,2025-09-18 11:03:09.231371,Legacy_persons.csv,moduleus.com,Mathieu Roy
+3291,Thibault,Parmentier,thibault.parmentier@sentinhealth.com,True,3186,SentinHealth,2025-09-18 11:03:09.231371,Legacy_persons.csv,sentinhealth.com,Thibault Parmentier
+3293,Martin,Flesch,m.flesch@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Martin Flesch
+3294,Nicolas,Felix,n.felix@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Nicolas Felix
+3295,Philippe,Vince,p.vince@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Philippe Vince
+3296,Guillaume,Ferin,g.ferin@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Guillaume Ferin
+4303,Philippe,Auvray,philippe.auvray@neurallys.com,True,4196,Neurallys,2025-09-18 11:03:09.231371,Legacy_persons.csv,neurallys.com,Philippe Auvray
+4308,Sylvain,Flory,sylvain.flory@panaxium.com,True,4201,Panaxium,2025-09-18 11:03:09.231371,Legacy_persons.csv,panaxium.com,Sylvain Flory
+4310,Arnaud,Mascarell,arnaud.mascarell@fine-heart.com,True,4202,Fine Heart,2025-09-18 11:03:09.231371,Legacy_persons.csv,fine-heart.com,Arnaud Mascarell
+4341,Christophe,Périllat,,False,4214,VALEO Pouillon,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Christophe Périllat
+4342,Jacques,Aschenbroich,,False,4214,VALEO Pouillon,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jacques Aschenbroich
+4343,Jean-François,Tarabbia,,False,4214,VALEO Pouillon,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-François Tarabbia
+4346,Marc,Vrecko,,False,4214,VALEO Pouillon,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marc Vrecko
+4377,Raphael,Fritschi,raphael_fritschi@sensimed.ch,True,4230,Sensimed,2025-09-18 11:03:09.231371,Legacy_persons.csv,sensimed.ch,Raphael Fritschi
+4384,Alfio,Gastaldo,alfio.gastaldo@sicpa.com,True,4233,SICPA,2025-09-18 11:03:09.231371,Legacy_persons.csv,sicpa.com,Alfio Gastaldo
+4388,Bruno,Paucard,,False,4235,Silicon Mobility,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bruno Paucard
+4389,Khaled,Douzane,,False,4235,Silicon Mobility,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Khaled Douzane
+4390,Pascal,Jullien,pascal.jullien@silicon-mobility.com,True,4235,Silicon Mobility,2025-09-18 11:03:09.231371,Legacy_persons.csv,silicon-mobility.com,Pascal Jullien
+4391,Patrice,Brutinel,,False,4235,Silicon Mobility,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Patrice Brutinel
+4392,Vincent,Cruvellier,,False,4235,Silicon Mobility,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Vincent Cruvellier
+4413,Daniel,Kroiss,daniel.kroiss@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Daniel Kroiss
+4414,Thierry,Legay,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Thierry Legay
+4415,Catherine,Picard,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Catherine Picard
+4416,Dominique,Decoene,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Dominique Decoene
+4417,Jean-Pierre,Noel,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Pierre Noel
+4419,Karima,Amara,karima.amara@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Karima Amara
+4420,Michel,Plaszczynski,michel.plaszczynski@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Michel Plaszczynski
+4421,Olivier,Carbonaro,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Olivier Carbonaro
+4423,Bruno,Eon,bruno.eon@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Bruno Eon
+4426,Eric,Flamand,eric.flamand@greenwaves-technologies.com,True,4247,GreenWaves Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,greenwaves-technologies.com,Eric Flamand
+4427,Joël,Cambonie,joel.cambonie@greenwaves-technologies.com,True,4247,GreenWaves Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,greenwaves-technologies.com,Joël Cambonie
+4428,Loïc,Lietar,loic.lietar@greenwaves-technologies.com,True,4247,GreenWaves Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,greenwaves-technologies.com,Loïc Lietar
+4452,Olivier,Costes,olivier.costes@continental-corporation.com,True,4255,CONTINENTAL Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Olivier Costes
+4453,Arnaud,Dieudonné,arnaud.dieudonne@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Arnaud Dieudonné
+4455,Blandine,Tranchant,,False,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Blandine Tranchant
+4456,Emmanuel,Kopp,emmanuel.kopp@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Emmanuel Kopp
+4457,Guillaume,Lemoine,guillaume.lemoine@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Guillaume Lemoine
+4458,Jean,Sbaldi,jean.sbaldi@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Jean Sbaldi
+4460,Jean-Philippe,Dupire,,False,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Philippe Dupire
+4461,Philippe,Corné,philippe.corne@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Philippe Corné
+4462,Stéphane,Nelias,stephane.nelias@continental-corporation.com,True,4256,CONTINENTAL Rambouillet,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Stéphane Nelias
+4468,Damien,Autran,damien.autran@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Damien Autran
+4469,David,Devillard,,False,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,,David Devillard
+4470,Marc,Lefevbre,marc.lefebvre@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Marc Lefevbre
+4471,Olivier,Agopian,olivier.agopian@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Olivier Agopian
+4473,Nicolas,Guihard,,False,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Nicolas Guihard
+4474,Patrick,Kenny,patrick.kenny@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Patrick Kenny
+4498,Olivier,Lepape,olepape@nanoxplore.com,True,3180,NanoXplore,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoxplore.com,Olivier Lepape
+4499,Kaya-Can,Akyel,kaya-can.akyel@nanoxplore.com,True,3180,NanoXplore,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoxplore.com,Kaya-Can Akyel
+4502,Anne,Van Den Bosch,anne.vandenbosch@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Anne Van Den Bosch
+4503,Bas,Dorren,bas.dorren@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Bas Dorren
+4504,Bruno,Mollekens,,False,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bruno Mollekens
+4505,Danny,Lambrichts,danny.lambrichts@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Danny Lambrichts
+4506,Diederick,Verkest,diederik.verkest@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Diederick Verkest
+4508,Gabriel,Marlier,marlier@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Gabriel Marlier
+4509,Geert,Thys,geert.thys@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Geert Thys
+4510,Geert,Vanwijnsberghe,geert.vanwijnsberghe@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Geert Vanwijnsberghe
+4511,Hiam,Sinno,hiam.sinno@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Hiam Sinno
+4512,Hugo,De Man,deman@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Hugo De Man
+4513,Jan,Wouters,jan.wouters@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Jan Wouters
+4514,Luc,Laeveren,luc.laeveren@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Luc Laeveren
+4515,Marc,Dingenen,marc.dingenen@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Marc Dingenen
+4516,Ozlem,Cangar-Souffreau,ozlem.cangar@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Ozlem Cangar-Souffreau
+4517,Paul,Goetschalckx,,False,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Paul Goetschalckx
+4518,Paul,Malisse,paul.malisse@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Paul Malisse
+4519,Paul,Zuber,paul.zuber@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Paul Zuber
+4520,Peter,Vanbekbergen,peter.vanbekbergen@huawei.com,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,huawei.com,Peter Vanbekbergen
+4521,Petr,Dobrovolny,petr.dobrovolny@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Petr Dobrovolny
+4522,Philippe,Weemaes,,False,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Weemaes
+4523,Stefan,Donnay,donnay@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Stefan Donnay
+4524,Stefan,Vanhaeverbeke,stefan.vanhaeverbeke@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Stefan Vanhaeverbeke
+4525,Steve,Beckers,steve.beckers@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Steve Beckers
+4526,Steven,Redant,steven.redant@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Steven Redant
+4527,Veerle,Derudder,derudder@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Veerle Derudder
+4528,Wouter,De Groot,wouter.degroot@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Wouter De Groot
+4529,Wolfgang,Eberle,,False,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Wolfgang Eberle
+4530,Alain-Serge,Porret,asp@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Alain-Serge Porret
+4532,Bahaa,Roustom,bahaa.roustom@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Bahaa Roustom
+4533,Christophe,Ballif,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Christophe Ballif
+4535,Daniel,Severac,daniel.severac@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Daniel Severac
+4536,Daniel,Sigg,daniel.sigg@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Daniel Sigg
+4537,Dragan,Manic,dragan.manic@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Dragan Manic
+4538,Erwan,Le Roux,erwan.leroux@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Erwan Le Roux
+4539,Georges,Kotrotsios,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Georges Kotrotsios
+4540,Harry,Heinzelmann,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Harry Heinzelmann
+4541,Jean-Dominique,Decotignie,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Dominique Decotignie
+4542,Jean-Luc,Nagel,jean-luc.nagel@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Jean-Luc Nagel
+4543,Jean-Marc,Masgonty,jean-marc.masgonty@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Jean-Marc Masgonty
+4544,Mario,El-Khoury,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Mario El-Khoury
+4545,Philippe,Steiert,,False,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Steiert
+4546,Pierre-François,Rüedi,pierre-francois.ruedi@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Pierre-François Rüedi
+4547,Simon,Gray,simon.gray@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Simon Gray
+4548,Stéphane,Emery,stephane.emery@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Stéphane Emery
+4554,Bertrand,Borot,bertrand.borot@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Bertrand Borot
+4555,Cyril,Colin-Madan,cyril.colin-madan@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Cyril Colin-Madan
+4556,François,Martin,francois.martin@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,François Martin
+4559,Laurent,Malier,laurent.malier@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Laurent Malier
+4605,Ludovic,Champion,lchampion@semtech.com,True,4291,SEMTECH FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Ludovic Champion
+4606,Nicolas,Sornin,,False,4291,SEMTECH FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Nicolas Sornin
+4608,Frantz,Prianon,fprianon@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Frantz Prianon
+4609,Janete,Mouallem,,False,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Janete Mouallem
+4611,Joaquim,Da Costa,jdacosta@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Joaquim Da Costa
+4613,Michel,Chevroulet,mchevroulet@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Michel Chevroulet
+4614,Michel,Pierre,mpierre@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Michel Pierre
+4615,Robert,Comanescu,rcomanescu@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Robert Comanescu
+4616,Serge,Durand,sdurand@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Serge Durand
+4617,Stéphane,Magnin,,False,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Stéphane Magnin
+4618,Thierry,Melly,tmelly@semtech.com,True,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Thierry Melly
+4619,Vittorio,Marsico,,False,4293,SEMTECH Neuchâtel,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Vittorio Marsico
+4629,Philippe,Lorent,plorent@dream.fr,True,4299,DREAM,2025-09-18 11:03:09.231371,Legacy_persons.csv,dream.fr,Philippe Lorent
+4643,David,Billon-Lanfrey,david.billon-lanfrey@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,David Billon-Lanfrey
+4644,Delphine,Gaulier-Charensol,,False,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Delphine Gaulier-Charensol
+4645,Eric,Falzon,eric.falzon@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Eric Falzon
+4646,Eric,Sanson,eric.sanson@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Eric Sanson
+4649,Marie-Noëlle,Chaix,marie-noelle.chaix@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Marie-Noëlle Chaix
+4650,Michel,Vuillermet,michel.vuillermet@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Michel Vuillermet
+4652,David,Blanchon,david.blanchon@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,David Blanchon
+4655,Pierre,Bouillon,,False,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre Bouillon
+4656,Pierre,Jenouvrier,pierre.jenouvrier@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Pierre Jenouvrier
+4657,Valérie,Largeau,valerie.largeau@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Valérie Largeau
+4658,Xavier,Breniere,xavier.breniere@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Xavier Breniere
+4660,Yves,Royer,yves.royer@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Yves Royer
+4661,Alain,Durand,alain.durand@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Alain Durand
+4662,Christophe,Minassian,christophe.minassian@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Christophe Minassian
+4663,David,Pochic,david.pochic@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,David Pochic
+4665,Hervé,Clerambault,herve.clerambault@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Hervé Clerambault
+4666,Jérôme,Bonnouvrier,,False,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jérôme Bonnouvrier
+4667,Nicolas,Calafat,nicolas.calafat@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Nicolas Calafat
+4669,Sylvie,Ibourk,,False,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sylvie Ibourk
+4685,Joris,Eymard,joris.eymard@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Joris Eymard
+4686,Eric,Villot,comptabilite@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Eric Villot
+4687,Laurent,Hazard,laurent.hazard@alstomgroup.com,True,4311,Alstom Aix,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Laurent Hazard
+4699,Edgard,Jeanne,edgard.jeanne@moduleus.com,True,3179,Moduleus,2025-09-18 11:03:09.231371,Legacy_persons.csv,moduleus.com,Edgard Jeanne
+4722,Pascal,Doguet,pascal.doguet@synergiam.com,True,4331,SYNERGIA Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,synergiam.com,Pascal Doguet
+4726,Franck,Dosseul,franck.dosseul@moduleus.com,True,3179,Moduleus,2025-09-18 11:03:09.231371,Legacy_persons.csv,moduleus.com,Franck Dosseul
+4738,Ben,Brike,bbr@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Ben Brike
+4740,Françoise,Chombar,rdw@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Françoise Chombar
+4741,Guido,Dupont,gdp@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Guido Dupont
+4742,Marc,Biron,mbi@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Marc Biron
+4750,Yoan,Dupret,yoan.dupret@menta-efpga.com,True,4345,MENTA Valbonne,2025-09-18 11:03:09.231371,Legacy_persons.csv,menta-efpga.com,Yoan Dupret
+4755,Luc,Lenglet,,False,4349,Neelogy,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Luc Lenglet
+4794,Christelle,Faucon,christelle.faucon@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Christelle Faucon
+4795,Arnaud,Garnier,arnaud.garnier@imec.com,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.com,Arnaud Garnier
+4803,Erik,Huneker,erik@diabeloop.fr,True,4242,Diabeloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,diabeloop.fr,Erik Huneker
+4813,Stéphane,Godzinski,,False,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Stéphane Godzinski
+4814,Sébastien,Faivre,,False,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sébastien Faivre
+4815,Bernard,Vian,bvian@wisekey.com,True,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,wisekey.com,Bernard Vian
+4901,Stéphane,Hauradou,shauradou@rambus.com,True,4710,RAMBUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,rambus.com,Stéphane Hauradou
+4915,Alain,Pomet,alain.pomet@thalesgroup.com,True,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Alain Pomet
+4916,Benjamin,Duval,benjamin.duval@thalesgroup.com,True,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Benjamin Duval
+4917,Christophe,Moreaux,,False,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Christophe Moreaux
+4918,David,Naura,,False,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,David Naura
+4919,Guillaume,Just,,False,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Guillaume Just
+4920,Marc,Merandat,,False,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marc Merandat
+4922,Vincent,Migairou,,False,4718,THALES DIS Design Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Vincent Migairou
+4927,Jean-Marc,Bedrine,jean-marc.bedrine@idemia.com,True,4719,IDEMIA Meyreuil,2025-09-18 11:03:09.231371,Legacy_persons.csv,idemia.com,Jean-Marc Bedrine
+4975,Benjamin,Bouthinon,benjamin.bouthinon@isorg.fr,True,1115,ISORG,2025-09-18 11:03:09.231371,Legacy_persons.csv,isorg.fr,Benjamin Bouthinon
+6988,Christophe,Desmouliers,christophe.desmouliers@enyx.fr,True,5745,ENYX,2025-09-18 11:03:09.231371,Legacy_persons.csv,enyx.fr,Christophe Desmouliers
+6998,Benjamin,Bouyssou,benjamin.bouyssou@faurecia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,faurecia.com,Benjamin Bouyssou
+6999,Marc,Tamisier,,False,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marc Tamisier
+7000,Robert,Cheng,,False,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,,Robert Cheng
+7022,Jean-Michel,Barreau,jm.barreau@emka.fr,True,5768,EMKA TECHNOLOGIES,2025-09-18 11:03:09.231371,Legacy_persons.csv,emka.fr,Jean-Michel Barreau
+7043,Andreas,Caduff,,False,5779,BIOFOURMIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Andreas Caduff
+7045,Wolgang,Werner,wolfgang.werner@biofourmis.com,True,5779,BIOFOURMIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,biofourmis.com,Wolgang Werner
+7061,Christophe,Pourrier,christophe.pourrier@sodern.fr,True,5787,SODERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,sodern.fr,Christophe Pourrier
+7062,Loïc,Malard,loic.malard@sodern.fr,True,5787,SODERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,sodern.fr,Loïc Malard
+7063,Pierre-Yves,Bretecher,pierre-yves.bretecher@sodern.fr,True,5787,SODERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,sodern.fr,Pierre-Yves Bretecher
+7078,Radivoje,Popovic,,False,5795,SENIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Radivoje Popovic
+7079,Sasa,Spasic,spasic@senis.ch,True,5795,SENIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,senis.ch,Sasa Spasic
+7098,Aurélien,Ledot,aurelien.ledot@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Aurélien Ledot
+7099,Markus,Nicke,,False,4291,SEMTECH FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Markus Nicke
+7109,Christian,Beckmann,,False,5808,ELSYS Design 06,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Christian Beckmann
+7233,Brad,Schmidt,brad.schmidt@panaxium.com,True,4201,Panaxium,2025-09-18 11:03:09.231371,Legacy_persons.csv,panaxium.com,Brad Schmidt
+7252,Clément,Sinibaldi,clement.sinibaldi@cnes.fr,True,2160,CNES,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnes.fr,Clément Sinibaldi
+8256,Lionel,Rousseau,lionel.rousseau@esiee.fr,True,4196,Neurallys,2025-09-18 11:03:09.231371,Legacy_persons.csv,esiee.fr,Lionel Rousseau
+8309,Bruno,Gagnou,bruno.gagnou@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Bruno Gagnou
+8311,Germain,Verdier,,False,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Germain Verdier
+8312,Jean-Didier,Gayrard,jean-didier.gayrard@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Jean-Didier Gayrard
+8313,Jean-Louis,Cazaux,jean-louis.cazaux@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Jean-Louis Cazaux
+8314,Jérémie,Arguel,,False,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jérémie Arguel
+8315,Pascal,Lassave,pascal.lassave@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Pascal Lassave
+8403,Renaud,Branchon,renaud.branchon@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Renaud Branchon
+8406,Christophe,Di Giusto,,False,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Christophe Di Giusto
+8407,Emmanuel,Roger,emmanuel.roger@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Emmanuel Roger
+8408,Franck,Jeulin,franck.jeulin@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Franck Jeulin
+8409,Mickaël,Brouillet,mickael.brouillet@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Mickaël Brouillet
+8410,Yannick,Menanteau,yannick.menanteau@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Yannick Menanteau
+8411,Adrien,Bailly,adrien.bailly@moduleus.com,True,3179,Moduleus,2025-09-18 11:03:09.231371,Legacy_persons.csv,moduleus.com,Adrien Bailly
+8426,Patrick,Convert,,False,4311,Alstom Aix,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Patrick Convert
+8430,Luc,Garcia,luc.garcia@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Luc Garcia
+9469,François,Vuadens,francois.vuadens@advancedsilicon.com,True,7930,Advanced Silicon SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedsilicon.com,François Vuadens
+9470,Hussein,Ballan,hballan@advancedsilicon.com,True,7930,Advanced Silicon SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedsilicon.com,Hussein Ballan
+9471,Ilich,Dezotti,ilich.dezotti@advancedsilicon.com,True,7930,Advanced Silicon SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedsilicon.com,Ilich Dezotti
+9524,Adam,Horridge,adam.horridge@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Adam Horridge
+9525,Alessandro,Marchioro,alessandro.marchioro@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Alessandro Marchioro
+9526,Dante,Gregorio,dante.gregorio@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Dante Gregorio
+9528,Hamza,Boukabache,,False,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Hamza Boukabache
+9529,Kostas,Kloukinas,kostas.kloukinas@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Kostas Kloukinas
+9530,Michael,Campbell,michael.campbell@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Michael Campbell
+9532,Walter,Snoeys,walter.snoeys@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Walter Snoeys
+9533,Wojciech,Bialas,wojciech.bialas@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Wojciech Bialas
+9539,Fabrice,Pernet,fpe@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Fabrice Pernet
+9540,Fabrice,Salvi,fsa@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Fabrice Salvi
+9543,Julien,Feignon,jfe@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Julien Feignon
+9544,Xavier,Francois,xfr@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Xavier Francois
+9575,Alexandre,Acovic,aacovic@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Alexandre Acovic
+9577,Christian,Terrier,cterrier@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Christian Terrier
+9578,Christophe,Ratajczak,cratajczak@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Christophe Ratajczak
+9580,Daniel,Luthi,daniel.luthi@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Daniel Luthi
+9581,Fabrice,Walter,fwalter@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Fabrice Walter
+9582,Filippo,Marinelli,fmarinelli@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Filippo Marinelli
+9584,Hugues,Blangy,hblangy@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Hugues Blangy
+9586,Philippe,Rochaix,philippe.rochaix@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Philippe Rochaix
+9588,Sylvain,Grosjean,sgrosjean@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Sylvain Grosjean
+9589,Thierry,Dutron,tdutron@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Thierry Dutron
+9590,Yves,Godat,ygodat@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Yves Godat
+9602,Marc,Laflutte,,False,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marc Laflutte
+9603,Laurence,Strong,laurence.strong@trameto.com,True,7987,Trameto,2025-09-18 11:03:09.231371,Legacy_persons.csv,trameto.com,Laurence Strong
+9604,Benjamin,Lucas-Leclin,,False,7988,FORVIA Nanterre,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Benjamin Lucas-Leclin
+10678,Grégoire,Chenebaux,,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Grégoire Chenebaux
+10679,Jacques,Leconte,,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jacques Leconte
+10680,Jean-Baptiste,Mancini,,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Baptiste Mancini
+10681,Joël,Caranana,,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Joël Caranana
+10682,Philippe,Rommeveaux,philippe.rommeveaux@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Philippe Rommeveaux
+10683,Pierre-Adrien,Pinoncely,,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre-Adrien Pinoncely
+10684,Sophie,Caranhac,sophie.caranhac@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Sophie Caranhac
+10688,Chantal,Boyer Chardonnens,chantal.boyerchardonnens@helbling.ch,True,9020,Helbling Technik Bern AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,helbling.ch,Chantal Boyer Chardonnens
+10689,Jean-Noël,Fehr,jean-noel.fehr@helbling.ch,True,9020,Helbling Technik Bern AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,helbling.ch,Jean-Noël Fehr
+10690,Stefan,Bauer,stefan.bauer@helbling.ch,True,9020,Helbling Technik Bern AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,helbling.ch,Stefan Bauer
+10691,Stefan,Troller,stefan.troller@helbling.ch,True,9020,Helbling Technik Bern AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,helbling.ch,Stefan Troller
+10708,Alexis,Guerin,aguerin@upmem.com,True,9027,UPMEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,upmem.com,Alexis Guerin
+10709,Fabrice,Devaux,fdevaux@upmem.com,True,9027,UPMEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,upmem.com,Fabrice Devaux
+10710,Gilles,Hamou,ghamou@upmem.com,True,9027,UPMEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,upmem.com,Gilles Hamou
+10712,Renaud,Ayrignac,rayrignac@upmem.com,True,9027,UPMEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,upmem.com,Renaud Ayrignac
+10713,Xavier,Martin,xmartin@upmem.com,True,9027,UPMEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,upmem.com,Xavier Martin
+10739,Pierre,Muller,,False,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre Muller
+10749,Sum,Tsai,sumtsai@computime.com,True,9046,Computime,2025-09-18 11:03:09.231371,Legacy_persons.csv,computime.com,Sum Tsai
+10756,Amandine,Milesi,amandine.milesi@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Amandine Milesi
+10757,Anne,Berto,anne.berto@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Anne Berto
+10759,Frédéric,Barre,frederic.barre@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Frédéric Barre
+10760,Frédéric,Cézilly,frederic.cezilly@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Frédéric Cézilly
+10764,Philippe,Chaffraix,philippe.chaffraix@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Philippe Chaffraix
+10765,Philippe,Grossi,philippe.grossi@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Philippe Grossi
+10766,Pierre-Jérôme,Clemenceau,pierre-jerome.clemenceau@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Pierre-Jérôme Clemenceau
+10767,Serge,Durand,serge.durand@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Serge Durand
+10781,Ken,Mackay,kmackay@crocus-technology.com,True,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Ken Mackay
+10789,Cédrick,Chappaz,,False,9065,HAP2U,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Cédrick Chappaz
+10800,Cédric,Mayor,cedric.mayor@presto-eng.com,True,9072,Presto Engineering Inc,2025-09-18 11:03:09.231371,Legacy_persons.csv,presto-eng.com,Cédric Mayor
+10855,Bertrand,Folco,bertrand.folco@tiempo-secure.com,True,9103,TIEMPO-SECURE,2025-09-18 11:03:09.231371,Legacy_persons.csv,tiempo-secure.com,Bertrand Folco
+10857,Marc,Renaudin,marc.renaudin@tiempo-secure.com,True,9103,TIEMPO-SECURE,2025-09-18 11:03:09.231371,Legacy_persons.csv,tiempo-secure.com,Marc Renaudin
+10859,Serge,Maginot,serge.maginot@tiempo-secure.com,True,9103,TIEMPO-SECURE,2025-09-18 11:03:09.231371,Legacy_persons.csv,tiempo-secure.com,Serge Maginot
+10871,Bruno,Bosset,bruno.bosset@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Bruno Bosset
+10873,Stéphane,Rossignol,stephane.rossignol@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Stéphane Rossignol
+10875,Xavier,Favre,xavier.favre@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Xavier Favre
+10901,Pierre,Bourriol,pierre.bouniol@fr.thalesgroup.com,True,9050,THALES AVS Valence,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Pierre Bourriol
+11011,Franck,Gürkaynak,kgf@iis.ee.ethz.ch,True,9187,ETH Zurich Gloriastrasse,2025-09-18 11:03:09.231371,Legacy_persons.csv,iis.ee,Franck Gürkaynak
+11012,Luca,Benini,lbenini@iis.ee.ethz.ch,True,9187,ETH Zurich Gloriastrasse,2025-09-18 11:03:09.231371,Legacy_persons.csv,iis.ee,Luca Benini
+11015,Lionel,Cima,lionel.cima@euresitechnia.com,True,4202,Fine Heart,2025-09-18 11:03:09.231371,Legacy_persons.csv,euresitechnia.com,Lionel Cima
+12108,Sophie,Le,sophie.le@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Sophie Le
+12109,Primevère,Chapuis,primevere.chapuis@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Primevère Chapuis
+12119,Ozgur,Gursoy,ozgur.gursoy@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Ozgur Gursoy
+12138,Thomas,Froehlich,thomas.froehlich@ams-osram.com,True,10263,ams-OSRAM AG Rapperswill,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Thomas Froehlich
+12139,Thomas,Troexler,thomas.troxler@ams-osram.com,True,10263,ams-OSRAM AG Rapperswill,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Thomas Troexler
+12173,Franck,Bellelle,fbellelle@me.com,True,5787,SODERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,me.com,Franck Bellelle
+12212,Mahmoud,Addouche,mahmoud.addouche@femto-st.fr,True,10299,VIBISCUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,femto-st.fr,Mahmoud Addouche
+12213,William,Daniau,wdaniau@univ-fcomte.fr,True,10299,VIBISCUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,univ-fcomte.fr,William Daniau
+12226,Dominique,Kergoat,dominique.kergoat@intradef.gouv.fr,True,10310,DGA Bruz,2025-09-18 11:03:09.231371,Legacy_persons.csv,intradef.gouv,Dominique Kergoat
+12299,Olivier,Coppin,olivier.coppin@faurecia.com,True,7988,FORVIA Nanterre,2025-09-18 11:03:09.231371,Legacy_persons.csv,faurecia.com,Olivier Coppin
+12401,Romain,Stefanini,r.stefanini@airmems.com,True,10412,airmems,2025-09-18 11:03:09.231371,Legacy_persons.csv,airmems.com,Romain Stefanini
+12406,Helene,Lefebvre,helene@diabeloop.fr,True,4242,Diabeloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,diabeloop.fr,Helene Lefebvre
+12407,Stéphanie,Jégu,stephanie.jegu@diabeloop.fr,True,4242,Diabeloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,diabeloop.fr,Stéphanie Jégu
+12425,Gilles,Masson,gilles.masson@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Gilles Masson
+12427,Isabelle,Noirot,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Isabelle Noirot
+12428,Jean-Charles,Barbe,jean-charles.barbe@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-Charles Barbe
+12430,Jean-Luc,Moro,jean-luc.moro@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-Luc Moro
+12431,Jean-Michel,Leger,jean-michel.leger@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-Michel Leger
+12432,Jean-Philippe,Noel,jean-philippe.noel@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-Philippe Noel
+12433,Jean-Philippe,Polizzi,jean-philippe.polizzi@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Jean-Philippe Polizzi
+12434,Jean-Yves,Castellan,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Yves Castellan
+12435,Jens,Merten,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jens Merten
+12437,Laurent,Antoni,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Laurent Antoni
+12438,Laurent,Clavelier,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Laurent Clavelier
+12439,Laurent,Dussopt,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Laurent Dussopt
+12440,Laurent,Fulbert,laurent.fulbert@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Laurent Fulbert
+12441,Laurent,Ouvry,laurent.ouvry@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Laurent Ouvry
+12442,Ludovic,Poupinet,ludovic.poupinet@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Ludovic Poupinet
+12443,Manuel,Pezzin,manuel.pezzin@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Manuel Pezzin
+12445,Marion,Andrillat,marion.andrillat@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Marion Andrillat
+12446,Martin,Gallezot,martin.gallezot@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Martin Gallezot
+12447,Michaël,Pelissier,michael.pelissier@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Michaël Pelissier
+12448,Michaël,Tchagaspanian,michael.tchagaspanian@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Michaël Tchagaspanian
+12449,Michel,Durr,michel.durr@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Michel Durr
+12450,Michel,Ida,michel.ida@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Michel Ida
+12451,Narciso,Gambacorti,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Narciso Gambacorti
+12452,Nathalie,Bernard-Henriques,nathalie.bernard-henriques@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Nathalie Bernard-Henriques
+12453,Nathalie,Marion,nmarion@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Nathalie Marion
+12454,Nicolas,Mareau,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Nicolas Mareau
+12455,Olivier,Faynot,olivier.faynot@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Olivier Faynot
+12456,Patrice,Rey,patrice.rey@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Patrice Rey
+12457,Patrice,Tochon,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Patrice Tochon
+12459,Philippe,Liatard,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Liatard
+12460,Philippe,Michallon,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Michallon
+12461,Philippe,Robert,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Robert
+12462,Pierre,Castelein,pierre.castelein@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Pierre Castelein
+12464,Pierre-Jean,Ribeyron,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre-Jean Ribeyron
+12465,Pierre-Yves,Martinez,pierre-yves.martinez@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Pierre-Yves Martinez
+12466,Raymond,Campagnolo,raymond.campagnolo@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Raymond Campagnolo
+12467,Sandrine,Locatelli,sandrine.locatelli@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Sandrine Locatelli
+12468,Sébastien,Barnola,sebastien.barnola@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Sébastien Barnola
+12469,Sébastien,Dauve,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sébastien Dauve
+12470,Sébastien,Martinie,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sébastien Martinie
+12471,Sébastien,Patoux,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sébastien Patoux
+12472,Séverine,Jouanneau,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Séverine Jouanneau
+12473,Stéphanie,Riche,stephanie.riche@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Stéphanie Riche
+12474,Stéphanie,Robinet,stephanie.robinet@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Stéphanie Robinet
+12475,Sylvie,Joly,sylvie-j.joly@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Sylvie Joly
+12476,Thierry,Billon,thierry.billon@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Thierry Billon
+12477,Vincent,Cachard,vincent.cachard@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Vincent Cachard
+12478,Vincent,Olive,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Vincent Olive
+12479,Yvain,Thonnard,yvain.thonnart@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Yvain Thonnard
+12480,Yves,Durand,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Yves Durand
+12481,Yves,Fouillet,yves.fouillet@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Yves Fouillet
+12482,Yvon,Cazaux,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Yvon Cazaux
+12483,Jens,Christensen,,False,10423,REFLEX CES,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jens Christensen
+12484,Olivier,Pineau,opineau@reflexces.com,True,10423,REFLEX CES,2025-09-18 11:03:09.231371,Legacy_persons.csv,reflexces.com,Olivier Pineau
+12485,Sylvain,Neveu,,False,10423,REFLEX CES,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Sylvain Neveu
+12561,Jan,Smit,,False,3,Malvern Panalytical,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jan Smit
+12562,Marco,Brambilla,marco.brambilla@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Marco Brambilla
+12564,Eric,Jeng,eric.jeng@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Eric Jeng
+12764,Anthony,Boscaro,anthony.bascaro@sayens.fr,True,10525,SATT SAYENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,sayens.fr,Anthony Boscaro
+12765,Michel,Desbard,mdesbard@crocus-technology.com,True,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Michel Desbard
+12792,Frank,Bartels,bartels@bartels-mikrotechnik.de,True,10541,Bartels Mikrotechnik,2025-09-18 11:03:09.231371,Legacy_persons.csv,bartels-mikrotechnik.de,Frank Bartels
+12795,Jared,Dwarika,jared@healthcareoriginals.com,True,10543,HCO,2025-09-18 11:03:09.231371,Legacy_persons.csv,healthcareoriginals.com,Jared Dwarika
+12796,Christophe,Verjus,christophe.verjus@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Christophe Verjus
+13816,Martin,Siaud,martin.siaud@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Martin Siaud
+13866,Ramses,Valvekens,ramses@easics.be,True,11580,Easics,2025-09-18 11:03:09.231371,Legacy_persons.csv,easics.be,Ramses Valvekens
+13867,Steven,Coenen,,False,11580,Easics,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Steven Coenen
+13868,Tim,Morlion,timm@easics.be,True,11580,Easics,2025-09-18 11:03:09.231371,Legacy_persons.csv,easics.be,Tim Morlion
+13949,Jose,Vinau,jose.vinau@ams-osram.com,True,11625,ams-OSRAM Valencia,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Jose Vinau
+13975,Muriel,Mares,muriel.mares@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Muriel Mares
+14016,Alexis,Normand,alexis.norman@withings.com,True,11652,Withings,2025-09-18 11:03:09.231371,Legacy_persons.csv,withings.com,Alexis Normand
+14017,Xavier,Debreuil,xavier.debreuil@withings.com,True,11652,Withings,2025-09-18 11:03:09.231371,Legacy_persons.csv,withings.com,Xavier Debreuil
+14034,Benoit,Deville,bdeville@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,Benoit Deville
+14035,Erik,Rhein-Knudsen,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Erik Rhein-Knudsen
+14036,François,Barbara,barbara1@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,François Barbara
+14037,Jean-Marc,Vergnaud,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jean-Marc Vergnaud
+14039,Lionel,Beneteau,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Lionel Beneteau
+14040,Nathalie,Quirosa,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Nathalie Quirosa
+14042,Philippe,Parent,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe Parent
+14043,Robert,Van Kuijk,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Robert Van Kuijk
+14044,Véronique,Nouaze,,False,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Véronique Nouaze
+14062,Bernard,Candaele,bernard.candaele@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Bernard Candaele
+14065,Christophe,Antoine,christophe.antoine@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Christophe Antoine
+14066,Didier,Le Maitre,didier.lemaitre@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Didier Le Maitre
+14067,Eric,Perpere,eric.perpere@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Eric Perpere
+14068,Eric,Teyssou,eric.teyssou@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Eric Teyssou
+14069,Florence,Jard,florence.jard@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Florence Jard
+14070,Franck,Roger,franck.roger@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Franck Roger
+14071,Gérald,Ollivier,,False,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Gérald Ollivier
+14072,Hervé,Le Bescont,herve.lebescont@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Hervé Le Bescont
+14073,Jean-Pierre,Vernier,jean-pierre.vernier@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Jean-Pierre Vernier
+14075,Jérôme,Soufflet,jerome.soufflet@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Jérôme Soufflet
+14076,Joël,Baranger,joel.baranger@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Joël Baranger
+14077,Karine,Renaud,karine.renaud@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Karine Renaud
+14078,Marc,Dufrois,marc-d.dufrois@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Marc Dufrois
+14079,Michel,Sarlotte,michel.sarlotte@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Michel Sarlotte
+14080,Nelly,Salzmann,nelly.salzmann@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Nelly Salzmann
+14082,Nicolas,Chastel,nicolas.chastel@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Nicolas Chastel
+14083,Philippe,Bourgon,philippe.bourgon@fr.thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Philippe Bourgon
+14084,Pierre,Ischan,,False,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pierre Ischan
+14085,Pierre,Jeanne,pierre.jeanne@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Pierre Jeanne
+14086,Pierre-Yves,Fritsch,pierre-yves.fritsch@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Pierre-Yves Fritsch
+14087,Simon,Emeriau,simon.emeriau@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Simon Emeriau
+14088,Sophie,Chague,sophie.chague@thalesgroup.com,True,11664,THALES SIX Gennevilliers,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesgroup.com,Sophie Chague
+14112,Bertrand,Jomard,,False,11675,Ledger,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bertrand Jomard
+14168,Andre,Rocke,,False,11714,Polyn Technology Ltd.,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Andre Rocke
+14204,Theodor,Maier,theodor.maier@continental-corporation.com,True,11737,CONTINENTAL Regensburg,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Theodor Maier
+14215,Alexandre,Delorme,alexandre.delorme@kapflex.com,True,9135,Kapflex Sensors,2025-09-18 11:03:09.231371,Legacy_persons.csv,kapflex.com,Alexandre Delorme
+14218,Dalius,Baranauskas,dalius@sifemto.com,True,11747,Sifemto,2025-09-18 11:03:09.231371,Legacy_persons.csv,sifemto.com,Dalius Baranauskas
+14219,Johan,Simoncini,johan.simoncini@cegitek.com,True,11748,Cegitek Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,cegitek.com,Johan Simoncini
+14243,Andreas,Martin,,False,11764,Kapsch TrafficCom Vienna,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Andreas Martin
+14273,Andreas,Wild,andreas.wild@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Andreas Wild
+14274,Antonios Bazigos,Antonios Bazigos,,False,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Antonios Bazigos Antonios Bazigos
+14275,Bernd,Janger,bernd.janger@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Bernd Janger
+14276,Christian,Mautner,christian.mautner@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Christian Mautner
+14277,Ehrenfried,Seebacher,ehrenfried.seebacher@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Ehrenfried Seebacher
+14278,Gregor,Schatzberger,gregor.schatzberger@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Gregor Schatzberger
+14279,Herbert,Truppe,herbert.truppe@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Herbert Truppe
+14280,Johannes,Fellner,johannes.fellner@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Johannes Fellner
+14281,Jörg,Schwemmlein,joerg.schwemmlein@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Jörg Schwemmlein
+14282,Jouni,Riihimäki,jouni.riihimaeki@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Jouni Riihimäki
+14284,Michael,Boehm,michael.boehm@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Michael Boehm
+14286,Pete,Kammerlander,peter.kammerlander@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Pete Kammerlander
+14287,Peter,Pann,peter.pann@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Peter Pann
+14289,Rainer,Minixhofer,rainer.minixhofer@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Rainer Minixhofer
+14290,Reinhard,Spinotti,reinhard.spinotti@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Reinhard Spinotti
+14291,Rene,Kautschitsch,rene.kautschitsch@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Rene Kautschitsch
+14293,Thomas,Burger,,False,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Thomas Burger
+14294,Thomas,Moerth,thomas.moerth@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Thomas Moerth
+14295,Thomas,Riener,thomas.riener@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Thomas Riener
+14341,Thierry,Mondin,thierry.mondin@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Thierry Mondin
+14344,Attila,Borbath,attila.borbath@synergiam.com,True,4331,SYNERGIA Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,synergiam.com,Attila Borbath
+14482,Alexandre,Michalis,,False,1146,Adept Neuro SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Alexandre Michalis
+14489,Bruno,Challiol,,False,9065,HAP2U,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bruno Challiol
+14619,Alberto,Messina,alberto.messina@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Alberto Messina
+14620,Alfio,Russo,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Alfio Russo
+14621,Alfredo,Licciardello,alfredo.licciardello@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Alfredo Licciardello
+14622,Antonino,Conte,antonino.conte@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Antonino Conte
+14623,Antonio,Imbruglia,antonio.imbruglia@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Antonio Imbruglia
+14624,Antonio,Longhitano,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Antonio Longhitano
+14625,Domenico,Arena,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Domenico Arena
+14627,Elio,Guidetti,elio.guidetti@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Elio Guidetti
+14629,Francesco,Clerici,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Francesco Clerici
+14630,Francesco,Pulvirenti,francesco-cad.pulvirenti@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Francesco Pulvirenti
+14631,Gaetano,Mirabella,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Gaetano Mirabella
+14632,Gionatan,Montoro,gionatan.montoro@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Gionatan Montoro
+14633,Giorgio,Catanzaro,giorgio.catanzaro@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Giorgio Catanzaro
+14634,Giuseppe,Arceri,giuseppe.arceri@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Giuseppe Arceri
+14635,Giuseppe,Pontorno,giuseppe-m5.pontorno@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Giuseppe Pontorno
+14636,Irene,Giangreco,irene.giangreco@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Irene Giangreco
+14637,Marco,Minieri,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Marco Minieri
+14638,Matteo,Lo-Presti,matteo.lo-presti@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Matteo Lo-Presti
+14639,Michele,Sardo,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Michele Sardo
+14640,Mirella,Negro,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Mirella Negro
+14641,Nunzio,Abbate,nunzio.abbate@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Nunzio Abbate
+14643,Salvatore,Cosentino,salvatore.cosentino@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Salvatore Cosentino
+14644,Salvatore,Di Fazio,salvatore.difazio@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Salvatore Di Fazio
+14645,Salvatore,Palaia,salvatore.palaia@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Salvatore Palaia
+14646,Salvatore,Rinaudo,salvatore.rinaudo@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Salvatore Rinaudo
+14647,Santo,Ilardo,santo.ilardo@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Santo Ilardo
+14649,Vito,Graziano,,False,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Vito Graziano
+14671,Alix,Duclos,alix.duclos@kapflex.com,True,9135,Kapflex Sensors,2025-09-18 11:03:09.231371,Legacy_persons.csv,kapflex.com,Alix Duclos
+14676,Odette,Heisler,odette.heisler@sayens.fr,True,10525,SATT SAYENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,sayens.fr,Odette Heisler
+14684,Loïc,Lagadec,loic.lagadec@ensta-bretagne.fr,True,11929,ENSTA,2025-09-18 11:03:09.231371,Legacy_persons.csv,ensta-bretagne.fr,Loïc Lagadec
+14686,Jean-Christophe,Le Lann,jean-christophe.le_lann@ensta-bretagne.fr,True,11929,ENSTA,2025-09-18 11:03:09.231371,Legacy_persons.csv,ensta-bretagne.fr,Jean-Christophe Le Lann
+14699,François,Vincent,francois.vincent-external@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,François Vincent
+14700,Mehdi,Terosiet,mehdi.terosiet@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Mehdi Terosiet
+14701,Hamid,Delmi,hamid.delmi@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Hamid Delmi
+14703,Armand,Castillejo,armand.castillejo@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Armand Castillejo
+14704,Roald,Neuquelman,roald.neuquelman@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Roald Neuquelman
+14710,David,Camara,david.camara@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,David Camara
+14735,Jason,Ruan,jason.ruan@aleva-neuro.com,True,1146,Adept Neuro SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aleva-neuro.com,Jason Ruan
+14924,Mario,Schlund,mario_schlund@sensimed.ch,True,4230,Sensimed,2025-09-18 11:03:09.231371,Legacy_persons.csv,sensimed.ch,Mario Schlund
+14925,Sacha,Cerboni,sacha_cerboni@sensimed.ch,True,4230,Sensimed,2025-09-18 11:03:09.231371,Legacy_persons.csv,sensimed.ch,Sacha Cerboni
+14926,Franz,Rudolf Von Rohr,franz.rvr@uwatec.ch,True,2147,Scubapro Uwatec,2025-09-18 11:03:09.231371,Legacy_persons.csv,uwatec.ch,Franz Rudolf Von Rohr
+14928,Joerg,Mayer,joerg.mayer@spinewelding.ch,True,12058,WoodWelding SA,2025-09-18 11:03:09.231371,Legacy_persons.csv,spinewelding.ch,Joerg Mayer
+14934,Guillaume,Nesa,guillaume.nesa@olythe.com,True,12062,OLYTHE,2025-09-18 11:03:09.231371,Legacy_persons.csv,olythe.com,Guillaume Nesa
+14939,Yves,Amann,y.amann@titan-defense.com,True,12065,TITAN DEFENSE,2025-09-18 11:03:09.231371,Legacy_persons.csv,titan-defense.com,Yves Amann
+14941,Zack,Deiri,zdeiri@crocus-technology.com,True,12067,Allegro Microsystems Milpitas,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Zack Deiri
+14970,Fabrice,Jovenin,fjovenin@redtree-solutions.com,True,1075,Redtree Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,redtree-solutions.com,Fabrice Jovenin
+14975,Lars,Vosskaemper,lars.vosskaemper@vermes.com,True,12086,VERMES Microdispensing,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermes.com,Lars Vosskaemper
+14979,Joshua,Davison,joshua.luke.davison@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Joshua Davison
+15982,Thierry,Ligozat,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Thierry Ligozat
+16997,Jessica,Jarosz,,False,14106,Laclarée Vision,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Jessica Jarosz
+17033,Bruno,Berge,bruno.berge@laclaree-vision.com,True,14106,Laclarée Vision,2025-09-18 11:03:09.231371,Legacy_persons.csv,laclaree-vision.com,Bruno Berge
+17049,Nicolas,Lio Soon Shun,nicolas.liosoonshun@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Nicolas Lio Soon Shun
+17050,Rudi,Lannoo,rudi.lannoo@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Rudi Lannoo
+17053,Sergio,Nicoletti,sergio.nicoletti@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Sergio Nicoletti
+17054,Benoit,Meuge,,False,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Benoit Meuge
+17055,Stéphane,Siebert,stephane.siebert@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Stéphane Siebert
+17058,Constantin,Papadas,papadas@isd.gr,True,14146,ISD Integrated System Development,2025-09-18 11:03:09.231371,Legacy_persons.csv,isd.gr,Constantin Papadas
+18061,Alexandre,Balmefrezol,alexandre.balmefrezol@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Alexandre Balmefrezol
+18066,Valentin,Leveque,valentin.leveque@olythe.com,True,12062,OLYTHE,2025-09-18 11:03:09.231371,Legacy_persons.csv,olythe.com,Valentin Leveque
+18072,Thierry,Bouchet,thierry.bouchet@wise-integration.com,True,15153,Wise Integration,2025-09-18 11:03:09.231371,Legacy_persons.csv,wise-integration.com,Thierry Bouchet
+18074,Luca,De Rosa,luca.derosa@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Luca De Rosa
+18077,Michel,Ayraud,michel.ayraud@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Michel Ayraud
+18080,Maxime,Gueschir,gueschir@switchess.com,True,15157,SwitchESS,2025-09-18 11:03:09.231371,Legacy_persons.csv,switchess.com,Maxime Gueschir
+18099,François,Vasey,francois.vasey@cern.ch,True,7962,CERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,François Vasey
+19106,Sandrine,Auguie,sandrine.auguie@thalesaleniaspace.com,True,1074,THALES ALENIA SPACE Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,thalesaleniaspace.com,Sandrine Auguie
+19107,Yannick,Gilbert,yannick.gilbert@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Yannick Gilbert
+19117,Chris,Eden,chris.eden@trinamix.de,True,17186,Trinamix GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,trinamix.de,Chris Eden
+19119,Ingmar,Bruder,ingmar.bruder@trinamix.de,True,17186,Trinamix GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,trinamix.de,Ingmar Bruder
+19122,Andreia,Cathelin,,False,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Andreia Cathelin
+19124,Emmanuel,Liegeon,emmanuel.liegeon@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Emmanuel Liegeon
+19142,Pascal,Pons,,False,4202,Fine Heart,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Pascal Pons
+19143,Sebastian,Valouche,sebastian.valouch@trinamix.de,True,17186,Trinamix GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,trinamix.de,Sebastian Valouche
+19145,Athira,Subash,athira.subash@vermes.com,True,12086,VERMES Microdispensing,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermes.com,Athira Subash
+19146,Arvind,Anche,arvind.anche@vermes.com,True,12086,VERMES Microdispensing,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermes.com,Arvind Anche
+19147,Siva,Gangarapu,siva.gangarapu@vermes.com,True,12086,VERMES Microdispensing,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermes.com,Siva Gangarapu
+19149,Pierre,Vialemaringe,pierre.vialemaringe@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Pierre Vialemaringe
+19155,Laurent,Chevallier,,False,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Laurent Chevallier
+19156,Julien,Thevenet,,False,17205,SILMACH,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Julien Thevenet
+19157,-,Accounts Payable,invoice.esas@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,- Accounts Payable
+19158,Valentina,Vignola,valentina.vignola@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Valentina Vignola
+19159,Alejandro,Sanz,asanz@sagax.tech,True,17208,SagaX,2025-09-18 11:03:09.231371,Legacy_persons.csv,sagax.tech,Alejandro Sanz
+19169,Olivia,Peyrard,opeyrard@semtech.com,True,4291,SEMTECH FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,semtech.com,Olivia Peyrard
+19186,Gürkan,Yilmaz,guerkan.yilmaz@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Gürkan Yilmaz
+19197,Paymon,Rasekhy,paymon@lynxemi.com,True,17230,LYNXEMI,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynxemi.com,Paymon Rasekhy
+19198,Stéphane,Belardi,sbelardi@gopro.com,True,10391,GoPro Technology France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,gopro.com,Stéphane Belardi
+19199,Vincent,Vacquerie,vvacquerie@gopro.com,True,10391,GoPro Technology France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,gopro.com,Vincent Vacquerie
+19200,Michael,Kraak,mkraak@gopro.com,True,10391,GoPro Technology France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,gopro.com,Michael Kraak
+19201,Yann,Pinaroli,yann.pinaroli@diabeloop.fr,True,4242,Diabeloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,diabeloop.fr,Yann Pinaroli
+19214,Thomas,Dominique,dominique.thomas@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Thomas Dominique
+19216,Nick,Van Helleputte,nick.vanhelleputte@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Nick Van Helleputte
+19234,Marc,Sworowski,msworowski@silmach.com,True,17205,SILMACH,2025-09-18 11:03:09.231371,Legacy_persons.csv,silmach.com,Marc Sworowski
+19242,Valentin,Kerspern,vkerspern@endotact.com,True,17253,NuVasive Paris,2025-09-18 11:03:09.231371,Legacy_persons.csv,endotact.com,Valentin Kerspern
+19245,Benoit,Deschamps,benoit.deschamps@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Benoit Deschamps
+19246,Lionel,Graff,lionel.graff@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Lionel Graff
+19248,Christophe,Bouvier,christophe.bouvier@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Christophe Bouvier
+19251,Maryline,Parra,maryline.parra@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Maryline Parra
+19252,Cyrille,Gachon,cyrille.gachon@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Cyrille Gachon
+19261,Christopher,Malkin,cmalkin@rambus.com,True,4710,RAMBUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,rambus.com,Christopher Malkin
+19265,Norbert,Lartigue,norbert.lartigue@sp3h.fr,True,1089,SP3H,2025-09-18 11:03:09.231371,Legacy_persons.csv,sp3h.fr,Norbert Lartigue
+19267,Eric,Stempin,stempin@switchess.com,True,15157,SwitchESS,2025-09-18 11:03:09.231371,Legacy_persons.csv,switchess.com,Eric Stempin
+19268,Benoît,Gouhier,gouhier@switchess.com,True,15157,SwitchESS,2025-09-18 11:03:09.231371,Legacy_persons.csv,switchess.com,Benoît Gouhier
+19269,Xavier,Wiedemann,xavier.wiedemann@altertechnology.com,True,17265,ALTER Technology (France),2025-09-18 11:03:09.231371,Legacy_persons.csv,altertechnology.com,Xavier Wiedemann
+19277,Youcef,Fellah,,False,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Youcef Fellah
+19279,Laurence,Cordrey-Gale,laurence.cordrey-gale@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Laurence Cordrey-Gale
+19284,Laurent,Moulin,laurent.moulin@vitec.com,True,1119,VITEC Video Innovation,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitec.com,Laurent Moulin
+19304,Stéphane,Moins,sms@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Stéphane Moins
+19307,Gilles,De Preux,gilles.depreux@senbiosys.com,True,12057,Senbiosys,2025-09-18 11:03:09.231371,Legacy_persons.csv,senbiosys.com,Gilles De Preux
+19319,Philippe,Notton,philippe.notton@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Philippe Notton
+19772,Torsten,Krause-Dukart,torsten@equipic.com,True,17471,EQUIPIC,2025-09-18 11:03:09.231371,Legacy_persons.csv,equipic.com,Torsten Krause-Dukart
+19773,Romain,Palmade,romain.palmade@centiloc.com,True,17472,CENTILOC,2025-09-18 11:03:09.231371,Legacy_persons.csv,centiloc.com,Romain Palmade
+19777,Gerhard,Schmid,schmid@trilite-tech.com,True,17476,Trilite Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,trilite-tech.com,Gerhard Schmid
+19792,Loïc,Henninot,loic.henninot@centiloc.com,True,17472,CENTILOC,2025-09-18 11:03:09.231371,Legacy_persons.csv,centiloc.com,Loïc Henninot
+19796,Christophe,Zydek,christophe.zydek@faurecia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,faurecia.com,Christophe Zydek
+19797,Cyril,Laury,cyril.laury@faurecia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,faurecia.com,Cyril Laury
+19799,Olivier,Grenie,olivier.grenie@faurecia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,faurecia.com,Olivier Grenie
+19800,Michel,Gac,michel.gac@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Michel Gac
+19803,Daniel,Braendle,dbraendle@baumer.com,True,1072,BAUMER ELECTRIC AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,baumer.com,Daniel Braendle
+19804,Dominique,Gross,d.gross@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Dominique Gross
+19807,Pascal,Mora,pascal.mora@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Pascal Mora
+19808,Vincent,Markus,vincent.markus@menta-efpga.com,True,4345,MENTA Valbonne,2025-09-18 11:03:09.231371,Legacy_persons.csv,menta-efpga.com,Vincent Markus
+19814,Elie,Lobel,elie.lobel@rdsdiag.com,True,17490,RDS Rhythm Diagnostic Systems (strasbourg),2025-09-18 11:03:09.231371,Legacy_persons.csv,rdsdiag.com,Elie Lobel
+19815,Joshua,Wong,jwong@moxtek.com,True,17491,Moxtek,2025-09-18 11:03:09.231371,Legacy_persons.csv,moxtek.com,Joshua Wong
+19818,Christian,Heintz,christian.heintz@eusil.eu,True,17493,EUSIL,2025-09-18 11:03:09.231371,Legacy_persons.csv,eusil.eu,Christian Heintz
+19821,Andrei,Stratilatov,astratilatov@moxtek.com,True,17491,Moxtek,2025-09-18 11:03:09.231371,Legacy_persons.csv,moxtek.com,Andrei Stratilatov
+19822,David,Hoffman,dhoffman@moxtek.com,True,17491,Moxtek,2025-09-18 11:03:09.231371,Legacy_persons.csv,moxtek.com,David Hoffman
+19823,Johnny,Lin,johnnylin@netlinkc.com,True,17496,Netlink communication corp,2025-09-18 11:03:09.231371,Legacy_persons.csv,netlinkc.com,Johnny Lin
+19824,Eric,Desplanches,edesplanches@gmail.com,True,17498,Eric Desplanches,2025-09-18 11:03:09.231371,Legacy_persons.csv,gmail.com,Eric Desplanches
+19835,Julien,Michel,julien.michel@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Julien Michel
+19837,Michel,Dubeau,michel.dubeau@nanoz-group.com,True,17506,Nanoz group,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoz-group.com,Michel Dubeau
+19838,Thibaud,Sellam,thibaud.sellam@nanoz-group.com,True,17506,Nanoz group,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoz-group.com,Thibaud Sellam
+19846,Emmanuel,Beguin,emmanuel.beguin@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Emmanuel Beguin
+19850,Eric,Labarre,labarre.eric1@gmail.com,True,1128,@-health,2025-09-18 11:03:09.231371,Legacy_persons.csv,gmail.com,Eric Labarre
+19857,Louis,Mayaud,louis.mayaud@rdsdiag.com,True,17490,RDS Rhythm Diagnostic Systems (strasbourg),2025-09-18 11:03:09.231371,Legacy_persons.csv,rdsdiag.com,Louis Mayaud
+19858,Dmitry,Krasnobrow,,False,17517,MILANDR,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Dmitry Krasnobrow
+19859,Emmanuel,Fuchs,emmanuel.fuchs@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Emmanuel Fuchs
+19868,Bruno,Thuillier,bruno.thuillier@boydsense.com,True,17280,BOYDSENSE HQ,2025-09-18 11:03:09.231371,Legacy_persons.csv,boydsense.com,Bruno Thuillier
+19879,Fred,Rivard,fred.rivard@microej.com,True,17523,MicroEJ,2025-09-18 11:03:09.231371,Legacy_persons.csv,microej.com,Fred Rivard
+19881,Jack,Guedj,jguedj@numem.com,True,17525,Numem,2025-09-18 11:03:09.231371,Legacy_persons.csv,numem.com,Jack Guedj
+19884,Gweltas,Radenac,gradenac@wisekey.com,True,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,wisekey.com,Gweltas Radenac
+19887,Alexandre,Pauchard,alexandre.pauchard@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Alexandre Pauchard
+19893,Pierre,Dautriche,pierre.dautriche@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Pierre Dautriche
+19894,Laurent,Savelli,laurent.savelli@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Laurent Savelli
+19895,Rémi,Ferrier,rferrier@kineis.com,True,17533,KINEIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,kineis.com,Rémi Ferrier
+19899,Nogaye,Loubradou,nloubradou@kineis.com,True,17533,KINEIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,kineis.com,Nogaye Loubradou
+19900,Hervé,Callewaert,hcallewaert@kineis.com,True,17533,KINEIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,kineis.com,Hervé Callewaert
+19910,Frédéric,Rivière,frederic.riviere@microej.com,True,17523,MicroEJ,2025-09-18 11:03:09.231371,Legacy_persons.csv,microej.com,Frédéric Rivière
+19911,Régis,Latawiec,regis.latawiec@microej.com,True,17523,MicroEJ,2025-09-18 11:03:09.231371,Legacy_persons.csv,microej.com,Régis Latawiec
+19912,Benoît,Clinchamps,benoit.clinchamps@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Benoît Clinchamps
+19913,Lillo (Calogero),Ribellino,lillo.ribellino@st.com,True,11904,STMicroelectronics Catania,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Lillo (Calogero) Ribellino
+19914,Jérôme,Barbin,jerome.barbin@sodern.fr,True,5787,SODERN,2025-09-18 11:03:09.231371,Legacy_persons.csv,sodern.fr,Jérôme Barbin
+19916,Gaël,Matten,gael@vibiscus.com,True,10299,VIBISCUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,vibiscus.com,Gaël Matten
+19922,Hugo,Jaeggi,,False,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Hugo Jaeggi
+19931,Sébastien,Pelletier,sebastien.pelletier@alpha-mos.com,True,17280,BOYDSENSE HQ,2025-09-18 11:03:09.231371,Legacy_persons.csv,alpha-mos.com,Sébastien Pelletier
+19940,Jean-Claude,Lenain,jc.lenain@sense-in.fr,True,17554,SENSE in,2025-09-18 11:03:09.231371,Legacy_persons.csv,sense-in.fr,Jean-Claude Lenain
+19942,Thomas,Blondel,thomas.blondel@mosaicfinance.fr,True,17556,MOSAIC Finance,2025-09-18 11:03:09.231371,Legacy_persons.csv,mosaicfinance.fr,Thomas Blondel
+19943,Vincent,Lenoir,vincent.lenoir@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Vincent Lenoir
+19947,Kevin,Rondeau,k.rondeau@sense-in.fr,True,17554,SENSE in,2025-09-18 11:03:09.231371,Legacy_persons.csv,sense-in.fr,Kevin Rondeau
+19948,Isabelle,Cocquart,isabelle.cocquart@mosaicfinance.fr,True,17556,MOSAIC Finance,2025-09-18 11:03:09.231371,Legacy_persons.csv,mosaicfinance.fr,Isabelle Cocquart
+19952,Bruno,Maisonnier,bruno@anotherbrain.io,True,3175,AnotherBrain,2025-09-18 11:03:09.231371,Legacy_persons.csv,anotherbrain.io,Bruno Maisonnier
+19954,David,Savery,d.savery@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,David Savery
+19955,Etienne,Flesch,e.flesch@vermon.com,True,3187,VERMON,2025-09-18 11:03:09.231371,Legacy_persons.csv,vermon.com,Etienne Flesch
+19956,Oleg,Gavrilov,ogavrilov@waviot.ru,True,17561,Waviot,2025-09-18 11:03:09.231371,Legacy_persons.csv,waviot.ru,Oleg Gavrilov
+19961,Frank,Sobel,f.sobel@sense-in.fr,True,17554,SENSE in,2025-09-18 11:03:09.231371,Legacy_persons.csv,sense-in.fr,Frank Sobel
+19963,Christian,Mourad,christian@voxelsensors.com,True,17566,VoxelSensors SRL,2025-09-18 11:03:09.231371,Legacy_persons.csv,voxelsensors.com,Christian Mourad
+19964,Tim,Holden,tim.holden@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Tim Holden
+19965,Marc,Le Guyader,mleguyader@cryptoquantique.com,True,17568,Crypto Quantique,2025-09-18 11:03:09.231371,Legacy_persons.csv,cryptoquantique.com,Marc Le Guyader
+19966,Silvio,Dalla Piazza,dallapiazza.silvio@microcrystal.ch,True,17569,MICRO CRYSTAL,2025-09-18 11:03:09.231371,Legacy_persons.csv,microcrystal.ch,Silvio Dalla Piazza
+19977,Hugo,Gicquel,hugo.gicquel@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Hugo Gicquel
+19979,Victor,Ting,victor.ting@withings.com,True,11652,Withings,2025-09-18 11:03:09.231371,Legacy_persons.csv,withings.com,Victor Ting
+19980,Carl,De Ranter,carl@pharrowtech.com,True,17581,Pharrowtech BV,2025-09-18 11:03:09.231371,Legacy_persons.csv,pharrowtech.com,Carl De Ranter
+20983,Andrey,Orlov,aorlov@waviot.ru,True,17561,Waviot,2025-09-18 11:03:09.231371,Legacy_persons.csv,waviot.ru,Andrey Orlov
+20986,Max,Eickenscheidt,meickenscheidt@neuroloop.de,True,18583,Neuroloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,neuroloop.de,Max Eickenscheidt
+20987,Dennis,Plachta,dplachta@neuroloop.de,True,18583,Neuroloop,2025-09-18 11:03:09.231371,Legacy_persons.csv,neuroloop.de,Dennis Plachta
+20997,Roi,Tsukran,roi.tuskran@nyxoah.com,True,18592,Nyxoah,2025-09-18 11:03:09.231371,Legacy_persons.csv,nyxoah.com,Roi Tsukran
+22002,Soeren,Steudel,soeren.steudel@micledi.com,True,18597,micledi,2025-09-18 11:03:09.231371,Legacy_persons.csv,micledi.com,Soeren Steudel
+22005,Colin,Gilly,cgilly@rambus.com,True,4710,RAMBUS,2025-09-18 11:03:09.231371,Legacy_persons.csv,rambus.com,Colin Gilly
+22006,Menachem,Bahat,menachem_b@contractor.rad.com,True,18600,RAD Data Communications,2025-09-18 11:03:09.231371,Legacy_persons.csv,contractor.rad,Menachem Bahat
+22007,Ofer,Cohen,ofer_c@rad.com,True,18600,RAD Data Communications,2025-09-18 11:03:09.231371,Legacy_persons.csv,rad.com,Ofer Cohen
+22012,Alessandro,Aimar,alessandro.aimar@synthara.ch,True,18604,Synthara AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,synthara.ch,Alessandro Aimar
+22016,Andrew,Karanicolas,akaranicolas@crocus-technology.com,True,12067,Allegro Microsystems Milpitas,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Andrew Karanicolas
+22017,Wayne,Seto,wseto@crocus-technology.com,True,12067,Allegro Microsystems Milpitas,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Wayne Seto
+22022,Pierre,Prache,pierre.prache@laclaree-vision.com,True,14106,Laclarée Vision,2025-09-18 11:03:09.231371,Legacy_persons.csv,laclaree-vision.com,Pierre Prache
+22026,Bernard,Lopez,bernard.lopez@crouzet.com,True,18611,CROUZET,2025-09-18 11:03:09.231371,Legacy_persons.csv,crouzet.com,Bernard Lopez
+22033,Franck,Sterlin,franck.sterlin@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Franck Sterlin
+22035,Hugues,Morin,hugues.morin@mosaicfinance.fr,True,17556,MOSAIC Finance,2025-09-18 11:03:09.231371,Legacy_persons.csv,mosaicfinance.fr,Hugues Morin
+22036,Arnaud,Derasse,arnaud.derasse@enyx.com,True,5745,ENYX,2025-09-18 11:03:09.231371,Legacy_persons.csv,enyx.com,Arnaud Derasse
+22037,Frédéric,Tilhac,f.tilhac@altertechnology.fr,True,17265,ALTER Technology (France),2025-09-18 11:03:09.231371,Legacy_persons.csv,altertechnology.fr,Frédéric Tilhac
+22038,Sebastien,Therond,sebastien.therond@bosch-sensortec.com,True,18618,Bosch Sensortec GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,bosch-sensortec.com,Sebastien Therond
+22040,Tal,Gollan,tal@virilitymedical.com,True,18619,Virility Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,virilitymedical.com,Tal Gollan
+22041,Lesmes,Nicolas,lesmes.nicolas@cebi.com,True,18621,Cebi Electromechanical Components Spain S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,cebi.com,Lesmes Nicolas
+22042,Brad,Pound,brad.pound@datacan.ca,True,18622,DataCan,2025-09-18 11:03:09.231371,Legacy_persons.csv,datacan.ca,Brad Pound
+22047,Frédéric,Mosca,frederic.mosca@pytheas-technology.com,True,18623,PYTHEAS Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,pytheas-technology.com,Frédéric Mosca
+22057,Peter,Deruytere,peter.deruytere@pulsify-med.com,True,18629,Pulsify Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,pulsify-med.com,Peter Deruytere
+22058,Steve,Stoffels,steve.stoffels@pulsify-med.com,True,18629,Pulsify Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,pulsify-med.com,Steve Stoffels
+22059,Pierre,Fontana,p.fontana@altertechnology.fr,True,17265,ALTER Technology (France),2025-09-18 11:03:09.231371,Legacy_persons.csv,altertechnology.fr,Pierre Fontana
+22061,Carlos,Baeza,carlos.baeza@sonova.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,sonova.com,Carlos Baeza
+22062,Marc,Secall,marc.secall@sonova.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,sonova.com,Marc Secall
+22063,Diane,Chang,diane.chang@advancedbionics.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedbionics.com,Diane Chang
+22064,Scott,Arfin,scott.arfin@advancedbionics.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedbionics.com,Scott Arfin
+22065,Alok,Deshpande,alok.deshpande@advancedbionics.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedbionics.com,Alok Deshpande
+22067,Yadunandan,Nagarajaiah,yadunandan.nagarajaiah@advancedbionics.com,True,18632,Advanced Bionics AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,advancedbionics.com,Yadunandan Nagarajaiah
+22069,Flavia,Amorosa,flavia.amorosa@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Flavia Amorosa
+23070,Pierre,Berthet-Rayne,pierre.berthet-rayne@caranx-medical.com,True,18634,Caranx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,caranx-medical.com,Pierre Berthet-Rayne
+23071,Éric,Sejor,eric.sejor@caranx-medical.com,True,18634,Caranx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,caranx-medical.com,Éric Sejor
+23073,Philippe,Mondon,p.mondon@axemtec.com,True,18635,AXEM Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,axemtec.com,Philippe Mondon
+23074,Arnaud,Carle,a.carle@axemtec.com,True,18635,AXEM Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,axemtec.com,Arnaud Carle
+23078,Shahram,Mossayebi,smossayebi@cryptoquantique.com,True,17568,Crypto Quantique,2025-09-18 11:03:09.231371,Legacy_persons.csv,cryptoquantique.com,Shahram Mossayebi
+23079,Richard,Re Colonna D'Istria,,False,17472,CENTILOC,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Richard Re Colonna D'Istria
+23081,Francis,Anghinolfi,francis.anghinolfi@picotechscanner.com,True,18638,Picotech,2025-09-18 11:03:09.231371,Legacy_persons.csv,picotechscanner.com,Francis Anghinolfi
+23082,Crispin,Williams,crispin.williams@picotechscanner.com,True,18638,Picotech,2025-09-18 11:03:09.231371,Legacy_persons.csv,picotechscanner.com,Crispin Williams
+23083,Katayoun,Doroud,katayoun.doroud@cern.ch,True,18638,Picotech,2025-09-18 11:03:09.231371,Legacy_persons.csv,cern.ch,Katayoun Doroud
+23084,Johannes,Traxler,johannes.traxler@eyyes.com,True,18639,EYYES,2025-09-18 11:03:09.231371,Legacy_persons.csv,eyyes.com,Johannes Traxler
+23090,Laïla,Ayache,laila.ayache@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Laïla Ayache
+23091,Ivan,Arkipoff,iarkipoff@pvhardware.es,True,18644,PV Hardware Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,pvhardware.es,Ivan Arkipoff
+23092,Sylvain,Dumay,sdumay@redtree-solutions.com,True,1075,Redtree Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,redtree-solutions.com,Sylvain Dumay
+23094,Oscar,Cabrero Bertram,ocabrero@pvhardware.es,True,18644,PV Hardware Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,pvhardware.es,Oscar Cabrero Bertram
+23095,Sergio,Hernandez Montero,shernandez@pvhardware.es,True,18644,PV Hardware Solutions,2025-09-18 11:03:09.231371,Legacy_persons.csv,pvhardware.es,Sergio Hernandez Montero
+23096,Martin,Schreiblehner,martin.schreiblehner@eyyes.com,True,18639,EYYES,2025-09-18 11:03:09.231371,Legacy_persons.csv,eyyes.com,Martin Schreiblehner
+23098,Thomas,Weigelhofer,thomas.weigelhofer@eyyes.com,True,18639,EYYES,2025-09-18 11:03:09.231371,Legacy_persons.csv,eyyes.com,Thomas Weigelhofer
+23100,Aline,Jomard,aline.jomard@trixell-thalesgroup.com,True,9111,TRIXELL,2025-09-18 11:03:09.231371,Legacy_persons.csv,trixell-thalesgroup.com,Aline Jomard
+23105,Matt,Douthwaite,mdouthwaite@cryptoquantique.com,True,17568,Crypto Quantique,2025-09-18 11:03:09.231371,Legacy_persons.csv,cryptoquantique.com,Matt Douthwaite
+23110,Andrea,Bonzo,andrea.bonzo@idemia.com,True,4719,IDEMIA Meyreuil,2025-09-18 11:03:09.231371,Legacy_persons.csv,idemia.com,Andrea Bonzo
+23113,Valeriy,Shunkov,vshunkov@polyn.ai,True,11714,Polyn Technology Ltd.,2025-09-18 11:03:09.231371,Legacy_persons.csv,polyn.ai,Valeriy Shunkov
+23114,Philippe,Blasquez,philippe.blasquez@manitty.com,True,18661,MANITTY,2025-09-18 11:03:09.231371,Legacy_persons.csv,manitty.com,Philippe Blasquez
+23167,Coby,Hanoch,,False,18686,WeebitNano France,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Coby Hanoch
+23168,Vincent,Leveaux,vincent.leveaux@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Vincent Leveaux
+23174,Ian,Mc Nutt,imc@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Ian Mc Nutt
+23175,Thomas,Hargé,tha@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Thomas Hargé
+23180,Pascal,Garcin,pascal.garcin@manitty.com,True,18661,MANITTY,2025-09-18 11:03:09.231371,Legacy_persons.csv,manitty.com,Pascal Garcin
+23181,Paul-Antoine,Libourel,pa.libourel@cnrs.fr,True,18661,MANITTY,2025-09-18 11:03:09.231371,Legacy_persons.csv,cnrs.fr,Paul-Antoine Libourel
+23192,Paul,Eckly,paul.eckly@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Paul Eckly
+23193,Jules,Hammond,jules.hammond@befc.fr,True,18691,BeFC,2025-09-18 11:03:09.231371,Legacy_persons.csv,befc.fr,Jules Hammond
+23194,Sergio,Diez,sergio.diez@cebi.com,True,18621,Cebi Electromechanical Components Spain S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,cebi.com,Sergio Diez
+23204,Corentin,Godfroid,cgodfroid@reflexces.com,True,10423,REFLEX CES,2025-09-18 11:03:09.231371,Legacy_persons.csv,reflexces.com,Corentin Godfroid
+23209,Johannes,Peeters,johannes@voxelsensors.com,True,17566,VoxelSensors SRL,2025-09-18 11:03:09.231371,Legacy_persons.csv,voxelsensors.com,Johannes Peeters
+23210,Mati,Shirizly,mati.shirizly@gmail.com,True,18706,Orcasonics Innovation Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,gmail.com,Mati Shirizly
+23211,Oz,Seadia,oz.seadia@hotmail.com,True,18706,Orcasonics Innovation Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,hotmail.com,Oz Seadia
+23216,Hamidreza,Hashempour,hamidreza.hashempour@micledi.com,True,18597,micledi,2025-09-18 11:03:09.231371,Legacy_persons.csv,micledi.com,Hamidreza Hashempour
+23221,Nolwenn,Falco,nfo@lem.com,True,7965,LEM,2025-09-18 11:03:09.231371,Legacy_persons.csv,lem.com,Nolwenn Falco
+23222,Kevin,Conley,kevin.conley@appliedbrainresearch.com,True,18713,Applied Brain Research Inc.,2025-09-18 11:03:09.231371,Legacy_persons.csv,appliedbrainresearch.com,Kevin Conley
+23223,Vincent,Boulant,vincent.boulant@enyx.fr,True,5745,ENYX,2025-09-18 11:03:09.231371,Legacy_persons.csv,enyx.fr,Vincent Boulant
+23224,Axel,Poudes,axel.poudes@continental-corporation.com,True,4255,CONTINENTAL Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Axel Poudes
+23230,Svetla,Alexandrov,svetla@equilibr.io,True,18718,Equilibr.io,2025-09-18 11:03:09.231371,Legacy_persons.csv,equilibr.io,Svetla Alexandrov
+23231,Giora,Yahav,giora@everysight.com,True,18721,Everysight,2025-09-18 11:03:09.231371,Legacy_persons.csv,everysight.com,Giora Yahav
+23232,Kobi,Kiviti,kobi@everysight.com,True,18721,Everysight,2025-09-18 11:03:09.231371,Legacy_persons.csv,everysight.com,Kobi Kiviti
+23233,Alex,Portnov,alex@everysight.com,True,18721,Everysight,2025-09-18 11:03:09.231371,Legacy_persons.csv,everysight.com,Alex Portnov
+23234,Hanan,Shamir,hanan@everysight.com,True,18721,Everysight,2025-09-18 11:03:09.231371,Legacy_persons.csv,everysight.com,Hanan Shamir
+23235,Jean-Louis,Ferrandis,jl.ferrandis@pellenc.com,True,18722,Pellenc Energy,2025-09-18 11:03:09.231371,Legacy_persons.csv,pellenc.com,Jean-Louis Ferrandis
+23236,Florian,Guigal,f.guigal@pellenc-energy.com,True,18722,Pellenc Energy,2025-09-18 11:03:09.231371,Legacy_persons.csv,pellenc-energy.com,Florian Guigal
+23237,Catherine,Stroobants,c.stroobants@intopix.com,True,1132,intoPIX S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,intopix.com,Catherine Stroobants
+23238,Didier,Noel,didier.noel@nanoz-group.com,True,17506,Nanoz group,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoz-group.com,Didier Noel
+23239,Avi,Messica,avim@neologicvlsi.com,True,18723,Neologic (VLSI),2025-09-18 11:03:09.231371,Legacy_persons.csv,neologicvlsi.com,Avi Messica
+23240,Ofir,Elizov,oelizov@sequans.com,True,18724,SEQUANS ISRAEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sequans.com,Ofir Elizov
+23241,Javier,Galindo Guarch,javier.galindo@unizar.es,True,18725,Universidad de Zaragoza,2025-09-18 11:03:09.231371,Legacy_persons.csv,unizar.es,Javier Galindo Guarch
+23242,Shawn,Murphy,shawn@titanaes.com,True,18726,"Titan Advanced Energy Solutions, Inc",2025-09-18 11:03:09.231371,Legacy_persons.csv,titanaes.com,Shawn Murphy
+23247,Wilfried,Vervisch,wilfried.vervisch@siclade-technologies.com,True,18729,Siclade Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,siclade-technologies.com,Wilfried Vervisch
+23248,Daniel,Bourrel,daniel.bourrel@valeo.com,True,4214,VALEO Pouillon,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Daniel Bourrel
+23249,George,Kapodistrias,george@titanaes.com,True,18726,"Titan Advanced Energy Solutions, Inc",2025-09-18 11:03:09.231371,Legacy_persons.csv,titanaes.com,George Kapodistrias
+23250,Pierre,Jallon,pierre.jallon@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Pierre Jallon
+23251,Sean,O'Day,sean@titanaes.com,True,18726,"Titan Advanced Energy Solutions, Inc",2025-09-18 11:03:09.231371,Legacy_persons.csv,titanaes.com,Sean O'Day
+23258,Horst,Symanzik,horst.symanzik@bosch-sensortec.com,True,18618,Bosch Sensortec GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,bosch-sensortec.com,Horst Symanzik
+23259,Aurélie,Boyeldieu,aurelie.boyeldieu@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Aurélie Boyeldieu
+23263,Yingchih,Yang,yingchih.yang@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Yingchih Yang
+23264,Robert,Resch,robert.resch@br-automation.com,True,19736,B&R automation,2025-09-18 11:03:09.231371,Legacy_persons.csv,br-automation.com,Robert Resch
+23265,Gerald,Pichler,gerald.pichler@br-automation.com,True,19736,B&R automation,2025-09-18 11:03:09.231371,Legacy_persons.csv,br-automation.com,Gerald Pichler
+23267,Julien,Mellier,,False,4719,IDEMIA Meyreuil,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Julien Mellier
+23268,Julie,Dilas,purchasing and supply chain manager,False,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Julie Dilas
+23270,Jean-Xavier,Canonici,jeanxavier@ternwaves.com,True,19738,Ternwaves,2025-09-18 11:03:09.231371,Legacy_persons.csv,ternwaves.com,Jean-Xavier Canonici
+23271,Bruno,Jechoux,bruno@ternwaves.com,True,19738,Ternwaves,2025-09-18 11:03:09.231371,Legacy_persons.csv,ternwaves.com,Bruno Jechoux
+23273,Edith,Beigne,edith.beigne@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Edith Beigne
+23284,Marc,Grimmé,marc.grimme@carmatsas.com,True,1100,CARMAT,2025-09-18 11:03:09.231371,Legacy_persons.csv,carmatsas.com,Marc Grimmé
+23286,Stéphane,Girerd,sgirerd@craneae.fr,True,19751,Crane Aerospace,2025-09-18 11:03:09.231371,Legacy_persons.csv,craneae.fr,Stéphane Girerd
+23288,Aleksandrs,Sergejevs,aleksandrs.sergejevs@befc.fr,True,18691,BeFC,2025-09-18 11:03:09.231371,Legacy_persons.csv,befc.fr,Aleksandrs Sergejevs
+23289,Alban,Thierry,alban.thierry@befc.fr,True,18691,BeFC,2025-09-18 11:03:09.231371,Legacy_persons.csv,befc.fr,Alban Thierry
+23290,Julie,Declercq,julie@ternwaves.com,True,19738,Ternwaves,2025-09-18 11:03:09.231371,Legacy_persons.csv,ternwaves.com,Julie Declercq
+23295,José,Afonso,jose.afonso@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,José Afonso
+23297,Alexandre,Val,alexandre.val@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Alexandre Val
+23298,Michael,Tong,tongmichael@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Michael Tong
+23299,Harry,Kuo,harrykuo@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Harry Kuo
+23300,Karl,Kaiser,kkaiser@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Karl Kaiser
+23301,William,Koven,koven@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,William Koven
+23302,Nilesh,Bhattad,nileshbhattad@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Nilesh Bhattad
+23303,Salman,Mazhar,smazhar@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Salman Mazhar
+23304,Sean,Sun,hssun@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Sean Sun
+23306,Patrick,Abraham,patrick.abraham@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Patrick Abraham
+23309,Nicolas,Ricome,nicolas.ricome@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Nicolas Ricome
+23311,Yannick,Deal,yannick.deal@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Yannick Deal
+23312,Jean-Louis,Chauray,jean-louis.chauray@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Jean-Louis Chauray
+23325,Marie,Lechantoux,marie.lechantoux@microej.com,True,17523,MicroEJ,2025-09-18 11:03:09.231371,Legacy_persons.csv,microej.com,Marie Lechantoux
+23327,Alp,Kilic,alp.kilic@nanoxplore.com,True,3180,NanoXplore,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoxplore.com,Alp Kilic
+23328,Andrea,Feuerstein,andrea.feuerstein@microcrystal.ch,True,17569,MICRO CRYSTAL,2025-09-18 11:03:09.231371,Legacy_persons.csv,microcrystal.ch,Andrea Feuerstein
+24331,Roland,Haeni,roland.haeni@microcrystal.ch,True,17569,MICRO CRYSTAL,2025-09-18 11:03:09.231371,Legacy_persons.csv,microcrystal.ch,Roland Haeni
+24350,Martin,Kmec,martin.kmec@ilmsens.com,True,19787,Ilmsens GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,ilmsens.com,Martin Kmec
+24351,Catalin,Stefu,catalin.stefu@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Catalin Stefu
+24353,Paul-Alexandre,Dupont,paul-alexandre.dupont@forvia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,forvia.com,Paul-Alexandre Dupont
+24367,Emiliano,D'Agostino,emiliano@easics.be,True,11580,Easics,2025-09-18 11:03:09.231371,Legacy_persons.csv,easics.be,Emiliano D'Agostino
+24369,Philippe,D'Audigier,,False,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Philippe D'Audigier
+24370,Thierry,Bion,thierry.bion@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Thierry Bion
+24372,Hadrien,Palcoux,hadrien.palcoux@craneae.fr,True,19751,Crane Aerospace,2025-09-18 11:03:09.231371,Legacy_persons.csv,craneae.fr,Hadrien Palcoux
+24373,Sébastien,Verdelet,sebastien.verdelet@craneae.fr,True,19751,Crane Aerospace,2025-09-18 11:03:09.231371,Legacy_persons.csv,craneae.fr,Sébastien Verdelet
+24374,Alexey,Dolbunov,adolbunov@polyn.ai,True,11714,Polyn Technology Ltd.,2025-09-18 11:03:09.231371,Legacy_persons.csv,polyn.ai,Alexey Dolbunov
+24377,Guillaume,Pollissard,guillaume.pollissard@vocsens.com,True,19796,VOCSENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,vocsens.com,Guillaume Pollissard
+24378,Thomas,Walewyns,thomas.walewyns@vocsens.com,True,19796,VOCSENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,vocsens.com,Thomas Walewyns
+24380,Julien,Borgetto,julien.borgetto@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Julien Borgetto
+24381,Philippe,Mourier,pmourier@orgaplus.lu,True,19801,Orga+,2025-09-18 11:03:09.231371,Legacy_persons.csv,orgaplus.lu,Philippe Mourier
+24382,Stéphane,David-Grignot,,False,19802,WHEERE,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Stéphane David-Grignot
+24385,Fabien,Lea,fabien.lea@forvia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,forvia.com,Fabien Lea
+24386,Ashok,Jain,asjain@infinera.com,True,19809,Infinera,2025-09-18 11:03:09.231371,Legacy_persons.csv,infinera.com,Ashok Jain
+24387,Tulasi,Veguru,tveguru@infinera.com,True,19809,Infinera,2025-09-18 11:03:09.231371,Legacy_persons.csv,infinera.com,Tulasi Veguru
+24388,Reema,Sreeram,reemasr@meta.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,meta.com,Reema Sreeram
+24392,Aurélien,Fougerat,aurelien.fougerat@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Aurélien Fougerat
+24393,Thomas,Normand,thomas.normand@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Thomas Normand
+24394,Baptiste,Le Foulgoc,baptiste.lefoulgoc@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Baptiste Le Foulgoc
+24395,Jaehoon,Lee,jaehoon.lee@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Jaehoon Lee
+24397,Patrick,Pirim,patrick@anotherbrain.ai,True,3175,AnotherBrain,2025-09-18 11:03:09.231371,Legacy_persons.csv,anotherbrain.ai,Patrick Pirim
+24407,Aleksandr,Timofeev,atimofeev@polyn.ai,True,11714,Polyn Technology Ltd.,2025-09-18 11:03:09.231371,Legacy_persons.csv,polyn.ai,Aleksandr Timofeev
+24408,Sophie,Mouro,sophie.mouro@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Sophie Mouro
+24409,Sylvain,Briole,sylvain.briole@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Sylvain Briole
+24410,Vincent,Mourier,vincent.mourier@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Vincent Mourier
+24411,Andreja,Erbes,andreja.erbes@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Andreja Erbes
+24415,Julien,Campos,julien.campos@lightricity.co.uk,True,19821,LIGHTRICITY LTD,2025-09-18 11:03:09.231371,Legacy_persons.csv,lightricity.co,Julien Campos
+24419,Jean,Ravatin,jean.ravatin@pyxalis.com,True,9016,PYXALIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,pyxalis.com,Jean Ravatin
+24425,Stijn,Depraetere,stijn.depraetere@vandewiele.com,True,19826,VANDEWIELE,2025-09-18 11:03:09.231371,Legacy_persons.csv,vandewiele.com,Stijn Depraetere
+24426,Stefaan,Vanheesbeke,stefaan.vanheesbeke@vandewiele.com,True,19826,VANDEWIELE,2025-09-18 11:03:09.231371,Legacy_persons.csv,vandewiele.com,Stefaan Vanheesbeke
+24432,Luca.,Gonzalez,luca.gonzalez@vocsens.com,True,19796,VOCSENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,vocsens.com,Luca. Gonzalez
+24433,Sylvain,Petre,sylvain.petre@vocsens.com,True,19796,VOCSENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,vocsens.com,Sylvain Petre
+24434,Bruno,Lequin,blequin@dream.fr,True,4299,DREAM,2025-09-18 11:03:09.231371,Legacy_persons.csv,dream.fr,Bruno Lequin
+24435,Bertrand,Moussel,bertrand.moussel@valid.com,True,19776,VALID SOLUCIONES TECNOLOGICAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valid.com,Bertrand Moussel
+24436,Ruben,Martinez Gonzalez,ruben.gonzalez@valid.com,True,19776,VALID SOLUCIONES TECNOLOGICAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valid.com,Ruben Martinez Gonzalez
+24442,Samuel,Daroussin,samuel.daroussin@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Samuel Daroussin
+24443,Marie-Eve,Bernath,marie-eve.bernath@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Marie-Eve Bernath
+24444,Didier,Laroche,didier.laroche@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Didier Laroche
+24446,Edward,Rouwhorst,edward@equiplc.com,True,17471,EQUIPIC,2025-09-18 11:03:09.231371,Legacy_persons.csv,equiplc.com,Edward Rouwhorst
+24447,Niclas,Fritz,niclas@batchone.com,True,19835,Batchone,2025-09-18 11:03:09.231371,Legacy_persons.csv,batchone.com,Niclas Fritz
+24448,Martin,Smith,msmith@polyn.ai,True,11714,Polyn Technology Ltd.,2025-09-18 11:03:09.231371,Legacy_persons.csv,polyn.ai,Martin Smith
+24450,Said,Benmansour,said.benmansour@emka.fr,True,5768,EMKA TECHNOLOGIES,2025-09-18 11:03:09.231371,Legacy_persons.csv,emka.fr,Said Benmansour
+24451,Olivier,Bourillon,olivier.bourillon@emka.fr,True,5768,EMKA TECHNOLOGIES,2025-09-18 11:03:09.231371,Legacy_persons.csv,emka.fr,Olivier Bourillon
+24452,Olivier,Elbaz,olivier.elbaz@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Olivier Elbaz
+24453,Florian,Percher,florian.percher@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Florian Percher
+24454,Arbi,Maalaoui,arbi.maalaoui@nanoz-group.com,True,17506,Nanoz group,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoz-group.com,Arbi Maalaoui
+24456,Nikos,Christopoulos,nikos.christopoulos@gmail.com,True,19839,CLEARDROP,2025-09-18 11:03:09.231371,Legacy_persons.csv,gmail.com,Nikos Christopoulos
+24458,Tayyar,Ulu,tayyar.ulu@tyri.se,True,19841,TYRI SWEDEN AB,2025-09-18 11:03:09.231371,Legacy_persons.csv,tyri.se,Tayyar Ulu
+24460,Cedric,Mandel,cedric@memperience.com,True,19843,MEMPERIENCE,2025-09-18 11:03:09.231371,Legacy_persons.csv,memperience.com,Cedric Mandel
+24461,Martin,Damrau,martin.damrau@ic-logic.de,True,19844,IC-LOGIC,2025-09-18 11:03:09.231371,Legacy_persons.csv,ic-logic.de,Martin Damrau
+24462,Nicolas,Simonne,nsm@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Nicolas Simonne
+24464,Peter,Bilfeldt,peter.bilfeldt@tyri.se,True,19841,TYRI SWEDEN AB,2025-09-18 11:03:09.231371,Legacy_persons.csv,tyri.se,Peter Bilfeldt
+24465,Magnus,Eriksson,magnus.eriksson@tyri.se,True,19841,TYRI SWEDEN AB,2025-09-18 11:03:09.231371,Legacy_persons.csv,tyri.se,Magnus Eriksson
+24466,Bruno,Onkelinx,,False,18592,Nyxoah,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Bruno Onkelinx
+24467,Erasmo,Chiappetta,erasmo.chiappetta@pharrowtech.com,True,17581,Pharrowtech BV,2025-09-18 11:03:09.231371,Legacy_persons.csv,pharrowtech.com,Erasmo Chiappetta
+24470,Bekir,Ozyurt,bekir.ozyurt@arcelik.com,True,19850,Arçelik Global,2025-09-18 11:03:09.231371,Legacy_persons.csv,arcelik.com,Bekir Ozyurt
+24472,Tim,Kaske,tkaske@crocus-technology.com,True,12067,Allegro Microsystems Milpitas,2025-09-18 11:03:09.231371,Legacy_persons.csv,crocus-technology.com,Tim Kaske
+24478,Jean-Baptiste,Bernard,jean-baptiste.bernard@se.com,True,2191,SCHNEIDER Electric Eybens,2025-09-18 11:03:09.231371,Legacy_persons.csv,se.com,Jean-Baptiste Bernard
+24480,Emmanuel,Poli,emmanuel.poli@cissoid.com,True,1095,CISSOID  S.A.,2025-09-18 11:03:09.231371,Legacy_persons.csv,cissoid.com,Emmanuel Poli
+24492,Stinj,Reekmans,srr@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Stinj Reekmans
+24510,Roger,Espasa,roger.espasa@semidynamics.com,True,19881,Semidynamics,2025-09-18 11:03:09.231371,Legacy_persons.csv,semidynamics.com,Roger Espasa
+24511,Jean,Murzeau,jean.murzeau@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Jean Murzeau
+24512,Ayrat,Galisultanov,ayrat.galisultanov@elichens.com,True,1064,eLichens,2025-09-18 11:03:09.231371,Legacy_persons.csv,elichens.com,Ayrat Galisultanov
+24513,Philippe,Piquet,philippe.piquet@menta-efpga.com,True,4345,MENTA Valbonne,2025-09-18 11:03:09.231371,Legacy_persons.csv,menta-efpga.com,Philippe Piquet
+24514,Jeff,Zhou,jeffzhou@intron-tech.com,True,19884,Intron Electronic Gmbh,2025-09-18 11:03:09.231371,Legacy_persons.csv,intron-tech.com,Jeff Zhou
+24516,Luc,Perard,luc.perard@caranx-medical.com,True,18634,Caranx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,caranx-medical.com,Luc Perard
+24517,Loïc,Wauters,loic.wauters@caranx-medical.com,True,18634,Caranx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,caranx-medical.com,Loïc Wauters
+24523,Aurélien,Buhrig,aurelien.buhrig@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Aurélien Buhrig
+24524,Rafael,Gomez Hernandez,rafael.gomez@valid.com,True,19776,VALID SOLUCIONES TECNOLOGICAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valid.com,Rafael Gomez Hernandez
+24525,Irene,Aleman Pardo,irene.aleman@valid.com,True,19776,VALID SOLUCIONES TECNOLOGICAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valid.com,Irene Aleman Pardo
+24528,Jacques,De Jonghe,jad@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Jacques De Jonghe
+24531,Rafael,Serrano-Gotarredona,rafael.serrano-gotarredona@ams-osram.com,True,11625,ams-OSRAM Valencia,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Rafael Serrano-Gotarredona
+24532,Nathan,Beckmann,beckmann@efficient.computer,True,19891,Efficient Computer,2025-09-18 11:03:09.231371,Legacy_persons.csv,efficient.computer,Nathan Beckmann
+24533,Graham,Gobieski,graham@efficient.computer,True,19891,Efficient Computer,2025-09-18 11:03:09.231371,Legacy_persons.csv,efficient.computer,Graham Gobieski
+24534,Brandon,Lucia,blucia@efficient.computer,True,19891,Efficient Computer,2025-09-18 11:03:09.231371,Legacy_persons.csv,efficient.computer,Brandon Lucia
+24535,Jeff,Childress,jchildress@allegromicro.com,True,12067,Allegro Microsystems Milpitas,2025-09-18 11:03:09.231371,Legacy_persons.csv,allegromicro.com,Jeff Childress
+24536,Daniel,Morris,dhmorris@meta.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,meta.com,Daniel Morris
+24537,Barbara,De Salvo,barbarads@fb.com,True,10456,Meta,2025-09-18 11:03:09.231371,Legacy_persons.csv,fb.com,Barbara De Salvo
+24538,Cindy,Michel,cindy.michel@sentinhealth.com,True,3186,SentinHealth,2025-09-18 11:03:09.231371,Legacy_persons.csv,sentinhealth.com,Cindy Michel
+24542,Vivian,Blanchard,vivian.blanchard@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Vivian Blanchard
+24544,Laurent,Le Pailleur,laurent.le-pailleur@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Laurent Le Pailleur
+24555,Oliver,Hofherr,ohofherr@baumer.com,True,1072,BAUMER ELECTRIC AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,baumer.com,Oliver Hofherr
+24562,Nidish,Gaur,nidhish.gaur@imec.be,True,4282,IMEC ASIC Services,2025-09-18 11:03:09.231371,Legacy_persons.csv,imec.be,Nidish Gaur
+25587,Victoria,Bub,victoria.bub@bosch-sensortec.com,True,18618,Bosch Sensortec GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,bosch-sensortec.com,Victoria Bub
+25588,Frédéric,Heitzmann,frederic.heitzmann@tiempo-secure.com,True,9103,TIEMPO-SECURE,2025-09-18 11:03:09.231371,Legacy_persons.csv,tiempo-secure.com,Frédéric Heitzmann
+25591,Heath,Hartle,heath@impli.org,True,20931,IMPLI AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,impli.org,Heath Hartle
+25593,Guillaume,Mathias,guillaume.mathias@ledger.com,True,11675,Ledger,2025-09-18 11:03:09.231371,Legacy_persons.csv,ledger.com,Guillaume Mathias
+25594,Thibault,Pierre,thibault.pierre@ledger.fr,True,11675,Ledger,2025-09-18 11:03:09.231371,Legacy_persons.csv,ledger.fr,Thibault Pierre
+25595,Patrice,Hameau,patrice.hameau@ledger.fr,True,11675,Ledger,2025-09-18 11:03:09.231371,Legacy_persons.csv,ledger.fr,Patrice Hameau
+25596,Gwenael,Godde,gwenael.godde@wanadoo.fr,True,20932,Watermelon Co.,2025-09-18 11:03:09.231371,Legacy_persons.csv,wanadoo.fr,Gwenael Godde
+25597,Domenico,Tulli,dtulli@quside.com,True,20933,Quside Technologies S.L.,2025-09-18 11:03:09.231371,Legacy_persons.csv,quside.com,Domenico Tulli
+25598,Moti,Margalit,moti.margalit@sonicedge.io,True,20936,SonicEdge Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,sonicedge.io,Moti Margalit
+25599,Tore,Jørgensen,tore.joergensen@sonicedge.io,True,20936,SonicEdge Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,sonicedge.io,Tore Jørgensen
+25600,Modi,Avrutsky,modi.avrutsky@enercon.co.il,True,20937,ENERCON Technologies Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,enercon.co,Modi Avrutsky
+25601,Sagit Pesach,Mualem,sagit.mualem@enercon.co.il,True,20937,ENERCON Technologies Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,enercon.co,Sagit Pesach Mualem
+25609,Pierre-Francois,Louvigne,pflouvigne@silmach.com,True,17205,SILMACH,2025-09-18 11:03:09.231371,Legacy_persons.csv,silmach.com,Pierre-Francois Louvigne
+25615,Tuvia,Segal,tuvia_s@rad.com,True,18600,RAD Data Communications,2025-09-18 11:03:09.231371,Legacy_persons.csv,rad.com,Tuvia Segal
+25616,Doron,Solomon,doron_so@rad.com,True,18600,RAD Data Communications,2025-09-18 11:03:09.231371,Legacy_persons.csv,rad.com,Doron Solomon
+25617,Michael,Pauli,michael.pauli@syrmasgs.com,True,20940,SYRMA SGS,2025-09-18 11:03:09.231371,Legacy_persons.csv,syrmasgs.com,Michael Pauli
+25618,Pooya,Forghani,pooya_forghani@diodes.com,True,20942,"DIODES, INC",2025-09-18 11:03:09.231371,Legacy_persons.csv,diodes.com,Pooya Forghani
+25625,Christophe,Bernard,christophe.bernard@id4us.fr,True,20946,ID4US,2025-09-18 11:03:09.231371,Legacy_persons.csv,id4us.fr,Christophe Bernard
+25626,Thierry,Divel,thierry.divel@id4us.fr,True,20946,ID4US,2025-09-18 11:03:09.231371,Legacy_persons.csv,id4us.fr,Thierry Divel
+25629,Dietmar,Gleispatch,gleispach@trilite-tech.com,True,17476,Trilite Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,trilite-tech.com,Dietmar Gleispatch
+25630,Olivier,Cousin,olivier.cousin@enyx.fr,True,5745,ENYX,2025-09-18 11:03:09.231371,Legacy_persons.csv,enyx.fr,Olivier Cousin
+25633,Carole,Pecastaing,carole.pecastaing@legrand.com,True,20953,Legrand France Pyrénées,2025-09-18 11:03:09.231371,Legacy_persons.csv,legrand.com,Carole Pecastaing
+25634,Stéphane,Fregosi,stephane.fregosi@vitesco.com,True,20954,Schaeffler Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitesco.com,Stéphane Fregosi
+25635,Jonas,Boeynaems,jbo@melexis.com,True,4342,Melexis Tessenderlo,2025-09-18 11:03:09.231371,Legacy_persons.csv,melexis.com,Jonas Boeynaems
+25640,Nicolas,Messin,nicolas.messin@forvia.com,True,17484,Faurecia Clarion Electronics Europe (FR60),2025-09-18 11:03:09.231371,Legacy_persons.csv,forvia.com,Nicolas Messin
+25643,Ari,Mizrachi,ari.mizrachi@sonicedge.io,True,20936,SonicEdge Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,sonicedge.io,Ari Mizrachi
+25644,Emil,Marinov,emil.marinov@crhea.cnrs.fr,True,20963,CNRS CRHEA,2025-09-18 11:03:09.231371,Legacy_persons.csv,crhea.cnrs,Emil Marinov
+25645,Patrice,Genevet,patrice.genevet@mines.edu,True,20963,CNRS CRHEA,2025-09-18 11:03:09.231371,Legacy_persons.csv,mines.edu,Patrice Genevet
+25646,Renato,Renato,renato.juliano.martins@crhea.cnrs.fr,True,20963,CNRS CRHEA,2025-09-18 11:03:09.231371,Legacy_persons.csv,crhea.cnrs,Renato Renato
+25647,Christina,Kyrou,christina.kyrou@crhea.cnrs.fr,True,20963,CNRS CRHEA,2025-09-18 11:03:09.231371,Legacy_persons.csv,crhea.cnrs,Christina Kyrou
+25648,David,Colin,d.colin@atos.net,True,20965,EVIDEN Sophia,2025-09-18 11:03:09.231371,Legacy_persons.csv,atos.net,David Colin
+25649,Aurore,Desgeorge,aurore.2.desgeorge@continental-corporation.com,True,4255,CONTINENTAL Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Aurore Desgeorge
+25651,Pascal,Barioulet,pascal.barioulet@advans-group.com,True,5808,ELSYS Design 06,2025-09-18 11:03:09.231371,Legacy_persons.csv,advans-group.com,Pascal Barioulet
+25652,Sisan,Shen,sisan_shen@diodes.com,True,20942,"DIODES, INC",2025-09-18 11:03:09.231371,Legacy_persons.csv,diodes.com,Sisan Shen
+25653,Allan,Lin,allan_lin@diodes.com,True,20942,"DIODES, INC",2025-09-18 11:03:09.231371,Legacy_persons.csv,diodes.com,Allan Lin
+25663,Jihad,Haidar,jihad.haidar@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Jihad Haidar
+25664,Mahdi,Mekic,mahdi.mekic@ams-osram.com,True,11778,ams-OSRAM AG Premstaetten,2025-09-18 11:03:09.231371,Legacy_persons.csv,ams-osram.com,Mahdi Mekic
+25666,Frédéric,Hannoyer,frederic.hannoyer@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Frédéric Hannoyer
+25667,Jerome,Meilhan,jerome.meilhan@steerlight.com,True,20973,Steerlight,2025-09-18 11:03:09.231371,Legacy_persons.csv,steerlight.com,Jerome Meilhan
+25670,Thierry,Bousquet,thierry.bousquet@continental-corporation.com,True,4255,CONTINENTAL Toulouse,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Thierry Bousquet
+25675,Anup,Kini,anup.kini@synthara.ai,True,18604,Synthara AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,synthara.ai,Anup Kini
+25680,William,Biederman,will@forestneurotech.org,True,20982,Forest Neurotech LLC,2025-09-18 11:03:09.231371,Legacy_persons.csv,forestneurotech.org,William Biederman
+25681,Tyson,Aflalo,tyson@forestneurotech.org,True,20982,Forest Neurotech LLC,2025-09-18 11:03:09.231371,Legacy_persons.csv,forestneurotech.org,Tyson Aflalo
+25682,Philippe,Roche,philippe.roche@st.com,True,4287,STMicroelectronics (Crolles2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Philippe Roche
+25683,Romain,Lanau,romain.lanau@actia.fr,True,20983,ACTIA Automotive,2025-09-18 11:03:09.231371,Legacy_persons.csv,actia.fr,Romain Lanau
+25684,Renaud,Hanus,renaud.hanus@actia.fr,True,20983,ACTIA Automotive,2025-09-18 11:03:09.231371,Legacy_persons.csv,actia.fr,Renaud Hanus
+25685,Patrick,Wang,patrick.wang@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Patrick Wang
+25686,Jean-François,Calmels,jean-francois.calmels@actia.fr,True,20983,ACTIA Automotive,2025-09-18 11:03:09.231371,Legacy_persons.csv,actia.fr,Jean-François Calmels
+25687,Alex,Huang,alex.huang@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Alex Huang
+25688,Vincent,Malisova,vincent.malisova@actia.fr,True,20983,ACTIA Automotive,2025-09-18 11:03:09.231371,Legacy_persons.csv,actia.fr,Vincent Malisova
+25689,Hao,Tsai,hao.tsai@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Hao Tsai
+25690,Shirley,Chen,shirley126.chen@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Shirley Chen
+25691,Calvin,Tsai,calvin.tsai@guc-asic.com,True,4369,GUC,2025-09-18 11:03:09.231371,Legacy_persons.csv,guc-asic.com,Calvin Tsai
+25694,Jean-Baptiste,Carnet,jbcarnet@silmach.com,True,17205,SILMACH,2025-09-18 11:03:09.231371,Legacy_persons.csv,silmach.com,Jean-Baptiste Carnet
+25695,Pascal,Branget,pbranget@silmach.com,True,17205,SILMACH,2025-09-18 11:03:09.231371,Legacy_persons.csv,silmach.com,Pascal Branget
+25696,Pierre-Marie,Penet,pierre-marie.penet@aledia.com,True,1076,ALEDIA,2025-09-18 11:03:09.231371,Legacy_persons.csv,aledia.com,Pierre-Marie Penet
+25697,Anthony,Bardet,a.bardet@exosens.com,True,9063,EXOSENS,2025-09-18 11:03:09.231371,Legacy_persons.csv,exosens.com,Anthony Bardet
+25698,Rachid,Dafali,rachid.dafali@intradef.gouv.fr,True,10310,DGA Bruz,2025-09-18 11:03:09.231371,Legacy_persons.csv,intradef.gouv,Rachid Dafali
+25699,Orphée,Fayard,orphee.fayard@intradef.gouv.fr,True,10310,DGA Bruz,2025-09-18 11:03:09.231371,Legacy_persons.csv,intradef.gouv,Orphée Fayard
+25702,Edouard,Fonck,edouard.fonck@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Edouard Fonck
+25705,Yuan,Gao,yuan.gao@joulwatt.com,True,20990,JoulWatt,2025-09-18 11:03:09.231371,Legacy_persons.csv,joulwatt.com,Yuan Gao
+25707,Beatriz,Otero,botero@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,Beatriz Otero
+25708,Emilio,De Matias Salces,ematias@slb.com,True,1157,SLB,2025-09-18 11:03:09.231371,Legacy_persons.csv,slb.com,Emilio De Matias Salces
+25709,Pascal,Le Deu,pascal.ledeu@wise-integration.com,True,15153,Wise Integration,2025-09-18 11:03:09.231371,Legacy_persons.csv,wise-integration.com,Pascal Le Deu
+25712,Eva,Vernet,eva.vernet@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,Eva Vernet
+25717,Massimiliano,De Gaspari,massimiliano.degaspari@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Massimiliano De Gaspari
+25719,Chloé,Aymard,chloe.aymard@univ-grenoble-alpes.fr,True,21004,SmartPatch Health,2025-09-18 11:03:09.231371,Legacy_persons.csv,univ-grenoble-alpes.fr,Chloé Aymard
+25721,Pascal,Weber,contact@gammao.fr,True,21006,Gammao,2025-09-18 11:03:09.231371,Legacy_persons.csv,gammao.fr,Pascal Weber
+25722,Eric,Rouchouze,eric.rouchouze@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Eric Rouchouze
+25724,Frédéric,Lejay,frederic.lejay@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Frédéric Lejay
+25725,Hanna,Berenok,hanna.berenok@impbrands.com,True,21009,Imperial Brand,2025-09-18 11:03:09.231371,Legacy_persons.csv,impbrands.com,Hanna Berenok
+25726,Abdullah,Yildiz,abdullah.yildiz@yongatek.com,True,21011,Yongatek,2025-09-18 11:03:09.231371,Legacy_persons.csv,yongatek.com,Abdullah Yildiz
+25727,Ali,Baran,ali.baran@yongatek.com,True,21011,Yongatek,2025-09-18 11:03:09.231371,Legacy_persons.csv,yongatek.com,Ali Baran
+25728,Rifat,Demirciogliu,rifat.demircioglu@yongatek.com,True,21011,Yongatek,2025-09-18 11:03:09.231371,Legacy_persons.csv,yongatek.com,Rifat Demirciogliu
+25729,Andrew,Hazelton,andrew@hazeltontech.com.au,True,21012,Hazelton Technologies Pty Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,hazeltontech.com,Andrew Hazelton
+25730,Dan,Coode,dan.coode@calian.com,True,21013,Calian Ltd,2025-09-18 11:03:09.231371,Legacy_persons.csv,calian.com,Dan Coode
+25731,Nicolas,Levasseur,nicolas.levasseur@fr.thalesgroup.com,True,6899,THALES AVS Mérignac,2025-09-18 11:03:09.231371,Legacy_persons.csv,fr.thalesgroup,Nicolas Levasseur
+25733,Mike,Doogue,mdoogue@allegromicro.com,True,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,allegromicro.com,Mike Doogue
+25734,Roufaida,Bensalem,roufaida.bensalem@tandemlaunch.com,True,21015,TandemLaunch,2025-09-18 11:03:09.231371,Legacy_persons.csv,tandemlaunch.com,Roufaida Bensalem
+25735,Carlos,Abellan,cabellan@quside.com,True,20933,Quside Technologies S.L.,2025-09-18 11:03:09.231371,Legacy_persons.csv,quside.com,Carlos Abellan
+25736,Ismael,Pérez,iperez@quside.com,True,20933,Quside Technologies S.L.,2025-09-18 11:03:09.231371,Legacy_persons.csv,quside.com,Ismael Pérez
+25737,Ferran,Bardaji,fbardaji@quside.com,True,20933,Quside Technologies S.L.,2025-09-18 11:03:09.231371,Legacy_persons.csv,quside.com,Ferran Bardaji
+25738,Suzie,Marin,smarin@nanoxplore.com,True,3180,NanoXplore,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoxplore.com,Suzie Marin
+25739,Udy,Kashkash,udy_k@rad.com,True,18600,RAD Data Communications,2025-09-18 11:03:09.231371,Legacy_persons.csv,rad.com,Udy Kashkash
+25740,Vincent,Richard,vincent.richard@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Vincent Richard
+25741,Ulik,Broida,ulikb@ceragon.com,True,21018,CERAGON,2025-09-18 11:03:09.231371,Legacy_persons.csv,ceragon.com,Ulik Broida
+25742,Amir,Perelstain,amirp@ceragon.com,True,21018,CERAGON,2025-09-18 11:03:09.231371,Legacy_persons.csv,ceragon.com,Amir Perelstain
+25743,Mark,Melnykowycz,mark@iduntechnologies.com,True,21023,IDUN Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,iduntechnologies.com,Mark Melnykowycz
+25744,Christian,Bouveron,christian.bouveron@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Christian Bouveron
+25747,Paolo,Livi,pl@spiden.com,True,21029,LIOM,2025-09-18 11:03:09.231371,Legacy_persons.csv,spiden.com,Paolo Livi
+25756,Malcom,Hamer,malcolm.hamer@ceryxmedical.com,True,21037,Ceryx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,ceryxmedical.com,Malcom Hamer
+25757,Graham,Fisher,graham.fisher@ceryxmedical.com,True,21037,Ceryx Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,ceryxmedical.com,Graham Fisher
+25762,Moussa,Belkhiter,moussa.belkhiter@st.com,True,11945,STMicroelectronics (Grenoble 2) SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,st.com,Moussa Belkhiter
+25763,Eric,Chevalier,echevalier@esploratis.com,True,21044,Esploratis,2025-09-18 11:03:09.231371,Legacy_persons.csv,esploratis.com,Eric Chevalier
+25766,David,Gauthier,david.gauthier@lynred.com,True,4305,LYNRED,2025-09-18 11:03:09.231371,Legacy_persons.csv,lynred.com,David Gauthier
+25767,Imad,Lahoud,imad.lahoud@impbrands.com,True,21009,Imperial Brand,2025-09-18 11:03:09.231371,Legacy_persons.csv,impbrands.com,Imad Lahoud
+25768,Mariana,Freitas,mariana.freitas@impbrands.com,True,21009,Imperial Brand,2025-09-18 11:03:09.231371,Legacy_persons.csv,impbrands.com,Mariana Freitas
+25769,Aylin,Ersoy,aylin.ersoy@beko.com,True,19850,Arçelik Global,2025-09-18 11:03:09.231371,Legacy_persons.csv,beko.com,Aylin Ersoy
+25770,Francesc,Guim,francesc.guim@openchip.com,True,21048,Openchip And Software Technologies SL,2025-09-18 11:03:09.231371,Legacy_persons.csv,openchip.com,Francesc Guim
+25771,Patrice,Voirin,patrice.voirin@valeo.com,True,19754,Valeo Vision France SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,valeo.com,Patrice Voirin
+25773,Amir Reza,Ahmadi Mehr,,False,21052,QUALINX,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Amir Reza Ahmadi Mehr
+25774,Dirk,Logie,d.logie@qualinx.nl,True,21052,QUALINX,2025-09-18 11:03:09.231371,Legacy_persons.csv,qualinx.nl,Dirk Logie
+25775,Michael,Gleeson,m.gleeson@qualinx.nl,True,21052,QUALINX,2025-09-18 11:03:09.231371,Legacy_persons.csv,qualinx.nl,Michael Gleeson
+25778,Steve,Pratt,steve.pratt@monolithicpower.com,True,21054,MonolithicPowerSystems,2025-09-18 11:03:09.231371,Legacy_persons.csv,monolithicpower.com,Steve Pratt
+25779,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,True,21056,Precision Neuroscience Corporation USD,2025-09-18 11:03:09.231371,Legacy_persons.csv,precisionneuro.io,Nathan Pletcher
+25780,Nicolas,Griffaton,nicolas.griffaton@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Nicolas Griffaton
+25782,Antoine,Carrabin,acarrabin@wheere.io,True,19802,WHEERE,2025-09-18 11:03:09.231371,Legacy_persons.csv,wheere.io,Antoine Carrabin
+25784,André,Vaugon,andre.vaugon@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,André Vaugon
+25785,Benoit,Harand,benoit.harand@alstomgroup.com,True,4260,Alstom,2025-09-18 11:03:09.231371,Legacy_persons.csv,alstomgroup.com,Benoit Harand
+25790,Ulrich,Schacht,ulrich.schacht@sicoya.de,True,21065,SICOYA GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,sicoya.de,Ulrich Schacht
+25791,Hanjo,Rhee,hanjo.rhee@sicoya.de,True,21065,SICOYA GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,sicoya.de,Hanjo Rhee
+25792,Frank,Gelhausen,frank.gelhausen@sicoya.de,True,21065,SICOYA GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,sicoya.de,Frank Gelhausen
+25793,Benoît,Boivin,bboivin@nanoxplore.com,True,3180,NanoXplore,2025-09-18 11:03:09.231371,Legacy_persons.csv,nanoxplore.com,Benoît Boivin
+25794,Baptiste,Roux,baptiste.roux@zama.ai,True,21067,ZAMA,2025-09-18 11:03:09.231371,Legacy_persons.csv,zama.ai,Baptiste Roux
+25795,Ghazi,Ben Amor,ghazi.benamor@zama.ai,True,21067,ZAMA,2025-09-18 11:03:09.231371,Legacy_persons.csv,zama.ai,Ghazi Ben Amor
+25796,Pierre,Gardrat,pierre.gardrat@zama.ai,True,21067,ZAMA,2025-09-18 11:03:09.231371,Legacy_persons.csv,zama.ai,Pierre Gardrat
+25800,Shmulik,Shemesh,sams@innoviz-tech.com,True,21071,Innoviz Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,innoviz-tech.com,Shmulik Shemesh
+25801,Doron,Vertesh,doron.vertesh@innoviz-tech.com,True,21071,Innoviz Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,innoviz-tech.com,Doron Vertesh
+25802,Haggai,Bar-Shalom,haggaib@innoviz-tech.com,True,21071,Innoviz Technologies,2025-09-18 11:03:09.231371,Legacy_persons.csv,innoviz-tech.com,Haggai Bar-Shalom
+25805,Philippe,Riviere,philippe.riviere@noptrack.fr,True,21073,NOpTRACK,2025-09-18 11:03:09.231371,Legacy_persons.csv,noptrack.fr,Philippe Riviere
+25807,Ling Yan,Zhang,l-y.zhang@airmems.com,True,10412,airmems,2025-09-18 11:03:09.231371,Legacy_persons.csv,airmems.com,Ling Yan Zhang
+25808,Patrick,Debaenst,pdebaenst@sealsq.com,True,2153,Seal SQ France,2025-09-18 11:03:09.231371,Legacy_persons.csv,sealsq.com,Patrick Debaenst
+26809,Lionel,Juré,lionel.jure@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Lionel Juré
+26810,Edouard,Lacaze,edouard.lacaze@cykorsystems.com,True,21082,CY-COR SAS,2025-09-18 11:03:09.231371,Legacy_persons.csv,cykorsystems.com,Edouard Lacaze
+26812,Stéphane,Boucher,stephane.boucher@crm.microport.com,True,4246,Sorin CRM S.A.S.,2025-09-18 11:03:09.231371,Legacy_persons.csv,crm.microport,Stéphane Boucher
+26814,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,True,21085,PRECISION NEUROSCIENCE EURO,2025-09-18 11:03:09.231371,Legacy_persons.csv,precisionneuro.io,Nathan Pletcher
+26815,David,Aslanbaş,david.aslanbas@kmccomponent.com,True,21087,KMC Component,2025-09-18 11:03:09.231371,Legacy_persons.csv,kmccomponent.com,David Aslanbaş
+26816,Mathieu,Albinet,,False,17533,KINEIS,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Mathieu Albinet
+26817,Xiaoyan,Xiong,xiaoyan.xiong@kapsch.net,True,11764,Kapsch TrafficCom Vienna,2025-09-18 11:03:09.231371,Legacy_persons.csv,kapsch.net,Xiaoyan Xiong
+26818,Josep,Segura,josep.segura-puchades@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Josep Segura
+26820,Anton,Gospodarenko,nata_gos@ukr.net,True,21091,KWAZAR-IS,2025-09-18 11:03:09.231371,Legacy_persons.csv,ukr.net,Anton Gospodarenko
+26836,Zohaib,Gulzar,zohaib.gulzar@csem.ch,True,4284,CSEM Neuchatel,2025-09-18 11:03:09.231371,Legacy_persons.csv,csem.ch,Zohaib Gulzar
+27845,Frédéric,Giral,frederic.giral@pytheas-technology.com,True,18623,PYTHEAS Technology,2025-09-18 11:03:09.231371,Legacy_persons.csv,pytheas-technology.com,Frédéric Giral
+27846,Julien,Gauthier,jgauthier@cisteomedical.com,True,22107,CISTEO Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,cisteomedical.com,Julien Gauthier
+27847,Christophe,Moureaux,cmoureaux@cisteomedical.com,True,22107,CISTEO Medical,2025-09-18 11:03:09.231371,Legacy_persons.csv,cisteomedical.com,Christophe Moureaux
+27856,Jean-Baptiste,Benard,jbbenard@mstechcorp.eu,True,22111,MSTech Europe,2025-09-18 11:03:09.231371,Legacy_persons.csv,mstechcorp.eu,Jean-Baptiste Benard
+27857,Albert,Casas,albert.casas@smtworldwide.com,True,22111,MSTech Europe,2025-09-18 11:03:09.231371,Legacy_persons.csv,smtworldwide.com,Albert Casas
+27858,Tanvi,Ralhan,tralhan@apple.com,True,22112,APPLE Cupertino,2025-09-18 11:03:09.231371,Legacy_persons.csv,apple.com,Tanvi Ralhan
+27859,Carlos,Carvalho,carlos_carvalho@apple.com,True,22112,APPLE Cupertino,2025-09-18 11:03:09.231371,Legacy_persons.csv,apple.com,Carlos Carvalho
+27860,Avner,Matmor,avner@yitran.com,True,22113,Yitran,2025-09-18 11:03:09.231371,Legacy_persons.csv,yitran.com,Avner Matmor
+27861,Julie,Delamarre,julie.delamarre@sparkmicro.com,True,22114,Spark Microsystems,2025-09-18 11:03:09.231371,Legacy_persons.csv,sparkmicro.com,Julie Delamarre
+27862,Eric,Bourget,eric.bourget@sparkmicro.com,True,22114,Spark Microsystems,2025-09-18 11:03:09.231371,Legacy_persons.csv,sparkmicro.com,Eric Bourget
+27863,Frédéric,Nabki,frederic.nabki@sparkmicro.com,True,22114,Spark Microsystems,2025-09-18 11:03:09.231371,Legacy_persons.csv,sparkmicro.com,Frédéric Nabki
+27864,Christian,Rappl,christian.rappl@vitesco.com,True,22115,Schaeffler Regensburg,2025-09-18 11:03:09.231371,Legacy_persons.csv,vitesco.com,Christian Rappl
+27865,Shyam,Narayanan,shyam.narayanan@thyssenkrupp-automotive.com,True,22116,thyssenkrupp Presta AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,thyssenkrupp-automotive.com,Shyam Narayanan
+27867,Carlos Manuel,Ferreirinha Tavares,carlos.tavares@thyssenkrupp-automotive.com,True,22116,thyssenkrupp Presta AG,2025-09-18 11:03:09.231371,Legacy_persons.csv,thyssenkrupp-automotive.com,Carlos Manuel Ferreirinha Tavares
+27869,Dmitry,Gusev,dmitriy.gusev@menta-efpga.com,True,4345,MENTA Valbonne,2025-09-18 11:03:09.231371,Legacy_persons.csv,menta-efpga.com,Dmitry Gusev
+27870,Thierry,Roux,thirry.roux@eviden.com,True,20965,EVIDEN Sophia,2025-09-18 11:03:09.231371,Legacy_persons.csv,eviden.com,Thierry Roux
+27871,Patrice,Bleuze,patrice.bleuze@eviden.com,True,20965,EVIDEN Sophia,2025-09-18 11:03:09.231371,Legacy_persons.csv,eviden.com,Patrice Bleuze
+27872,Philippe,Cotard,philippe.cotard@eviden.com,True,20965,EVIDEN Sophia,2025-09-18 11:03:09.231371,Legacy_persons.csv,eviden.com,Philippe Cotard
+27873,Sacha,Juillard,sacha.juillard@univ-grenoble-alpes.fr,True,21004,SmartPatch Health,2025-09-18 11:03:09.231371,Legacy_persons.csv,univ-grenoble-alpes.fr,Sacha Juillard
+27874,Fabien,Hubert,fabien.hubert@presto-eng.com,True,9072,Presto Engineering Inc,2025-09-18 11:03:09.231371,Legacy_persons.csv,presto-eng.com,Fabien Hubert
+27877,Andy,Tsong,tsong@diodes.com,True,20942,"DIODES, INC",2025-09-18 11:03:09.231371,Legacy_persons.csv,diodes.com,Andy Tsong
+27885,Maria,Serra,maria.serra@semidynamics.com,True,19881,Semidynamics,2025-09-18 11:03:09.231371,Legacy_persons.csv,semidynamics.com,Maria Serra
+27886,Miquel,Izquierdo,miquel.izquierdo@semidynamics.com,True,19881,Semidynamics,2025-09-18 11:03:09.231371,Legacy_persons.csv,semidynamics.com,Miquel Izquierdo
+27887,Jaakko,Jussila,jj@meetiqm.com,True,22129,IQM,2025-09-18 11:03:09.231371,Legacy_persons.csv,meetiqm.com,Jaakko Jussila
+27888,Nicolas,Bravard,nicolas.bravard@sercel.com,True,1071,SERCEL,2025-09-18 11:03:09.231371,Legacy_persons.csv,sercel.com,Nicolas Bravard
+27889,Namwar,Schahrjar,schahrjar.namwar@nxp.com,True,22131,NXP Semiconductors Austria GmbH,2025-09-18 11:03:09.231371,Legacy_persons.csv,nxp.com,Namwar Schahrjar
+27890,Petr,Kamenicky,petr.kamenicky@onsemi.com,True,22132,onsemi BRNO Design Center,2025-09-18 11:03:09.231371,Legacy_persons.csv,onsemi.com,Petr Kamenicky
+27891,Marianne,Consonni,marianne.consonni@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Marianne Consonni
+27892,Kerry,Ong,kerry.ong@globalfoundries.com,True,22133,Global Foundries Malta,2025-09-18 11:03:09.231371,Legacy_persons.csv,globalfoundries.com,Kerry Ong
+27895,Mathias,Gervais,mgervais@qti.qualcomm.com,True,22142,Qualcomm Colombes,2025-09-18 11:03:09.231371,Legacy_persons.csv,qti.qualcomm,Mathias Gervais
+27899,Karthik,Chandrasekaran,karthik.chandrasekaran@globalfoundries.com,True,22133,Global Foundries Malta,2025-09-18 11:03:09.231371,Legacy_persons.csv,globalfoundries.com,Karthik Chandrasekaran
+27902,Mauro,Abbattista,mauro.abbattista@movyonelectronics.com,True,22150,Movyon Electronics S.r.l,2025-09-18 11:03:09.231371,Legacy_persons.csv,movyonelectronics.com,Mauro Abbattista
+27903,Patrick,Bolling,patrick.bolling@continental-corporation.com,True,11737,CONTINENTAL Regensburg,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Patrick Bolling
+27904,Karsten,Köhler,karsten.koehler@continental-corporation.com,True,11737,CONTINENTAL Regensburg,2025-09-18 11:03:09.231371,Legacy_persons.csv,continental-corporation.com,Karsten Köhler
+27905,Sylvain,Aguirre,sylvain.aguirre@sipearl.com,True,17288,SiPearl,2025-09-18 11:03:09.231371,Legacy_persons.csv,sipearl.com,Sylvain Aguirre
+27907,Loic,Lietar,loic@lietar.net,True,22153,NewCo,2025-09-18 11:03:09.231371,Legacy_persons.csv,lietar.net,Loic Lietar
+27908,Antonio,Pullini,antonio.pullini@luxottica.com,True,22154,EssilorLuxottica,2025-09-18 11:03:09.231371,Legacy_persons.csv,luxottica.com,Antonio Pullini
+27909,Rand,Hindi,rand.hindi@zama.ai,True,21067,ZAMA,2025-09-18 11:03:09.231371,Legacy_persons.csv,zama.ai,Rand Hindi
+27910,Martin,Dvorak,,False,22132,onsemi BRNO Design Center,2025-09-18 11:03:09.231371,Legacy_persons.csv,,Martin Dvorak
+27911,Steven,De Preter,steven.depreter@onsemi.com,True,22132,onsemi BRNO Design Center,2025-09-18 11:03:09.231371,Legacy_persons.csv,onsemi.com,Steven De Preter
+27913,Michel,Willemin,michel.willemin@emmicroelectronic.com,True,7980,EM Microelectronic,2025-09-18 11:03:09.231371,Legacy_persons.csv,emmicroelectronic.com,Michel Willemin
+27923,Swan,Gerome,swan.gerome@cea.fr,True,2,CEA Grenoble,2025-09-18 11:03:09.231371,Legacy_persons.csv,cea.fr,Swan Gerome
+27925,Jing-Jing,Duflot,jing-jing.duflot@zama.ai,True,21067,ZAMA,2025-09-18 11:03:09.231371,Legacy_persons.csv,zama.ai,Jing-Jing Duflot
+27926,Ayoub,Harim,ayoub.harim@cairdac.com,True,3176,CAIRDAC,2025-09-18 11:03:09.231371,Legacy_persons.csv,cairdac.com,Ayoub Harim
+27928,Bertrand,Gautheron,b.gautheron@ingage-mems.com,True,22166,iNGage,2025-09-18 11:03:09.231371,Legacy_persons.csv,ingage-mems.com,Bertrand Gautheron
+27929,Philippe,Robert,ph.robert@ingage-mems.com,True,22166,iNGage,2025-09-18 11:03:09.231371,Legacy_persons.csv,ingage-mems.com,Philippe Robert
+27931,Martin,Tosh,martintosh@optiver.com,True,22167,Optiver,2025-09-18 11:03:09.231371,Legacy_persons.csv,optiver.com,Martin Tosh

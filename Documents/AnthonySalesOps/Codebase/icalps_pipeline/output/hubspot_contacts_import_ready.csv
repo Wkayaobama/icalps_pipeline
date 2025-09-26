@@ -1,0 +1,911 @@
+icalps_contact_id,firstname,lastname,email,icalps_company_id,company,hubspot_owner_id,lifecyclestage,hs_lead_status,import_batch,import_status
+2,Pierre,Vincent,pierre.vincent@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3,Jean-René,Lequepeys,jean-rene.lequepeys@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4,Wim,Vos,wim.vos@panalytical.com,3,Malvern Panalytical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+5,Roelof,De Vries,roelof.de.vries@panalytical.com,3,Malvern Panalytical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1027,Hervé,Yvinec,herve.yvinec@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1028,Wahid,Issa,wahid.issa@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1029,Marc,Attia,marc.attia@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1041,Jérôme,Lainé,jerome.laine@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1042,Joachim,Tiedeke,jtiedeke@baumer.com,1072,BAUMER ELECTRIC AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1046,Denis,Lagarde,denis.lagarde@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1047,Philippe,Ayzac,philippe.ayzac@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1049,Jean-Marie,Houillon,jmhouillon@redtree-solutions.com,1075,Redtree Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1050,Frédéric,Mercier,frederic.mercier@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1051,Erwan,Dornel,erwan.dornel@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1053,Xavier,Hugon,xavier.hugon@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1056,Ivan-Christophe,Robin,ivan-christophe.robin@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1057,Matthieu,Charbonnier,matthieu.charbonnier@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1058,Philippe,Gilet,philippe.gilet@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1066,Sander,Weijers,sander.weijers@panalytical.com,3,Malvern Panalytical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1067,Vladimir,Jovanovic,vladimir.jovanovic@panalytical.com,3,Malvern Panalytical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1072,Daniel,Chaix,daniel.chaix@framatome.com,1081,FRAMATOME,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1073,Julien,Marianne,julien.marianne_consultant@framatome.com,1081,FRAMATOME,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1074,Olivier,Salmon,olivier.salmon@framatome.com,1081,FRAMATOME,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1077,Rémy,Astier,remy.astier@framatome.com,1081,FRAMATOME,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1093,Jean-François,Mascaro,jean-francois.mascaro@sp3h.fr,1089,SP3H,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1094,Alain,Lunati,alain.lunati@sp3h.fr,1089,SP3H,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1103,Etienne,Vanzieleghem,etienne.vanzieleghem@cissoid.com,1095,CISSOID  S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1104,Pierre,Delatte,pierre.delatte@cissoid.com,1095,CISSOID  S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1114,Jean-Marc,Parquet,jean-marc.parquet@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1115,Paul,Kohler,paul.kohler@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1119,Frédéric,Mayer,frederic.mayer@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1146,Nicolas,Quesne,nicolas.quesne@vitec.com,1119,VITEC Video Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1147,Alexandre,Moatti,alexandre.moatti@vitec.com,1119,VITEC Video Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1148,Dominique,Pinet,dominique.pinet@vitecmm.com,1119,VITEC Video Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1149,Philippe,Wetzel,philippe.wetzel@vitec.com,1119,VITEC Video Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1157,Franck,Lascaux,franck.lascaux@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1166,David,Coulon,dcoulon@healthcardionexion.com,1128,@-health,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1167,Pierre-Paul,Goiffon,ppgoiffon@healthcardionexion.com,1128,@-health,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1175,Gaël,Rouvroy,g.rouvroy@intopix.com,1132,intoPIX S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1176,Jean-Baptiste,Lorent,jb.lorent@intopix.com,1132,intoPIX S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1190,Khaled,Maalej,kmaalej@vsora.com,1139,VSORA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1215,André,Mercanzini,andre.mercanzini@aleva-neuro.com,1146,Adept Neuro SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1216,Alain,Jordan,alain.jordan@aleva-neuro.com,1146,Adept Neuro SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1219,Reidar,Holm,reidar.holm@sensonor.no,1148,Safran Sensing Norway,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1222,Nicolas,Fiant,nfiant@3d-plus.com,1150,3D-plus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1223,Charles,Sellier,csellier@3d-plus.com,1150,3D-plus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1224,Pierre-Eric,Berthet,peberthet@3d-plus.com,1150,3D-plus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1231,Dominique,Zwingelstein,dominique.zwingelstein@technology.nipson.com,1154,NIPSON Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1232,Etienne,Membre,etienne.membre@technology.nispon.com,1154,NIPSON Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1245,Nicolas,Renaudot,n.renaudot@debiotech.com,1156,DEBIOTECH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1248,Romain,Gloor,r.gloor@debiotech.com,1156,DEBIOTECH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1249,Claire,Tassin,ctassin@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+1250,Toshihiro,Nomura,tnomura@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2205,Pablo,Asshoff,pablo.asshoff@johnsonoutdoors.com,2147,Scubapro Uwatec,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2217,Jean-Pierre,Enguent,jpenguent@sealsq.com,2153,Seal SQ France,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2231,Karim,Oumnia,k.oumnia@digitsole.com,2159,Zhortech,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2233,Alain,Bardoux,alain.bardoux@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2235,Jean-Marc,Biffi,jean-marc.biffi@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2237,Massimiliano,Calaprice,massimiliano.calaprice@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2238,Michel,Pignol,michel.pignol@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2240,Rodolphe,Clédassou,rodolphe.cledassou@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2241,Romain,Desplats,romain.desplats@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2260,Arnaud,Peizerat,arnaud.peizerat@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2261,Bénédicte,Robin,benedicte.robin@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2262,Bernard,Dieny,bernard.dieny@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2264,Bertrand,Gomez,bertrand.gomez@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2266,Caroline,Arnaud,caroline.arnaud@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2267,Christine,Raynaud,christine.raynaud@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2271,Cyrille,Laviron,cyrille.laviron@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2273,Diego,Puschini,diego.puschini@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2274,Dominique,Noguet,dominique.noguet@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2276,Eric,Gouze,eric.gouze@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2277,Eric,Mercier,eric.mercier@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2279,Fabien,Clermidy,fabien.clermidy@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2281,Fabrice,Guellec,fabrice.guellec@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2286,Frédéric,Rothan,frederic.rothan@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2287,Gérald,Cibrario,gerald.cibrario@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2307,Carine,Glas,carine.glas@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2309,Luc,Meysenc,luc.meysenc@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+2311,Stéphane,Delbaere,stephane.delbaere@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3277,Alaa,Makdissi,alaa.makdissi@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3279,Willy,Regnier,willy.regnier@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3284,Mathieu,Roy,mathieu.roy@moduleus.com,3179,Moduleus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3291,Thibault,Parmentier,thibault.parmentier@sentinhealth.com,3186,SentinHealth,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3293,Martin,Flesch,m.flesch@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3294,Nicolas,Felix,n.felix@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3295,Philippe,Vince,p.vince@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+3296,Guillaume,Ferin,g.ferin@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4303,Philippe,Auvray,philippe.auvray@neurallys.com,4196,Neurallys,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4308,Sylvain,Flory,sylvain.flory@panaxium.com,4201,Panaxium,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4310,Arnaud,Mascarell,arnaud.mascarell@fine-heart.com,4202,Fine Heart,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4377,Raphael,Fritschi,raphael_fritschi@sensimed.ch,4230,Sensimed,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4384,Alfio,Gastaldo,alfio.gastaldo@sicpa.com,4233,SICPA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4390,Pascal,Jullien,pascal.jullien@silicon-mobility.com,4235,Silicon Mobility,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4413,Daniel,Kroiss,daniel.kroiss@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4419,Karima,Amara,karima.amara@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4420,Michel,Plaszczynski,michel.plaszczynski@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4423,Bruno,Eon,bruno.eon@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4426,Eric,Flamand,eric.flamand@greenwaves-technologies.com,4247,GreenWaves Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4427,Joël,Cambonie,joel.cambonie@greenwaves-technologies.com,4247,GreenWaves Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4428,Loïc,Lietar,loic.lietar@greenwaves-technologies.com,4247,GreenWaves Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4452,Olivier,Costes,olivier.costes@continental-corporation.com,4255,CONTINENTAL Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4453,Arnaud,Dieudonné,arnaud.dieudonne@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4456,Emmanuel,Kopp,emmanuel.kopp@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4457,Guillaume,Lemoine,guillaume.lemoine@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4458,Jean,Sbaldi,jean.sbaldi@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4461,Philippe,Corné,philippe.corne@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4462,Stéphane,Nelias,stephane.nelias@continental-corporation.com,4256,CONTINENTAL Rambouillet,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4468,Damien,Autran,damien.autran@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4470,Marc,Lefevbre,marc.lefebvre@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4471,Olivier,Agopian,olivier.agopian@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4474,Patrick,Kenny,patrick.kenny@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4498,Olivier,Lepape,olepape@nanoxplore.com,3180,NanoXplore,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4499,Kaya-Can,Akyel,kaya-can.akyel@nanoxplore.com,3180,NanoXplore,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4502,Anne,Van Den Bosch,anne.vandenbosch@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4503,Bas,Dorren,bas.dorren@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4505,Danny,Lambrichts,danny.lambrichts@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4506,Diederick,Verkest,diederik.verkest@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4508,Gabriel,Marlier,marlier@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4509,Geert,Thys,geert.thys@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4510,Geert,Vanwijnsberghe,geert.vanwijnsberghe@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4511,Hiam,Sinno,hiam.sinno@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4512,Hugo,De Man,deman@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4513,Jan,Wouters,jan.wouters@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4514,Luc,Laeveren,luc.laeveren@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4515,Marc,Dingenen,marc.dingenen@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4516,Ozlem,Cangar-Souffreau,ozlem.cangar@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4518,Paul,Malisse,paul.malisse@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4519,Paul,Zuber,paul.zuber@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4520,Peter,Vanbekbergen,peter.vanbekbergen@huawei.com,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4521,Petr,Dobrovolny,petr.dobrovolny@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4523,Stefan,Donnay,donnay@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4524,Stefan,Vanhaeverbeke,stefan.vanhaeverbeke@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4525,Steve,Beckers,steve.beckers@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4526,Steven,Redant,steven.redant@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4527,Veerle,Derudder,derudder@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4528,Wouter,De Groot,wouter.degroot@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4530,Alain-Serge,Porret,asp@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4532,Bahaa,Roustom,bahaa.roustom@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4535,Daniel,Severac,daniel.severac@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4536,Daniel,Sigg,daniel.sigg@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4537,Dragan,Manic,dragan.manic@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4538,Erwan,Le Roux,erwan.leroux@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4542,Jean-Luc,Nagel,jean-luc.nagel@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4543,Jean-Marc,Masgonty,jean-marc.masgonty@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4546,Pierre-François,Rüedi,pierre-francois.ruedi@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4547,Simon,Gray,simon.gray@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4548,Stéphane,Emery,stephane.emery@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4554,Bertrand,Borot,bertrand.borot@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4555,Cyril,Colin-Madan,cyril.colin-madan@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4556,François,Martin,francois.martin@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4559,Laurent,Malier,laurent.malier@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4605,Ludovic,Champion,lchampion@semtech.com,4291,SEMTECH FRANCE SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4608,Frantz,Prianon,fprianon@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4611,Joaquim,Da Costa,jdacosta@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4613,Michel,Chevroulet,mchevroulet@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4614,Michel,Pierre,mpierre@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4615,Robert,Comanescu,rcomanescu@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4616,Serge,Durand,sdurand@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4618,Thierry,Melly,tmelly@semtech.com,4293,SEMTECH Neuchâtel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4629,Philippe,Lorent,plorent@dream.fr,4299,DREAM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4643,David,Billon-Lanfrey,david.billon-lanfrey@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4645,Eric,Falzon,eric.falzon@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4646,Eric,Sanson,eric.sanson@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4649,Marie-Noëlle,Chaix,marie-noelle.chaix@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4650,Michel,Vuillermet,michel.vuillermet@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4652,David,Blanchon,david.blanchon@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4656,Pierre,Jenouvrier,pierre.jenouvrier@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4657,Valérie,Largeau,valerie.largeau@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4658,Xavier,Breniere,xavier.breniere@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4660,Yves,Royer,yves.royer@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4661,Alain,Durand,alain.durand@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4662,Christophe,Minassian,christophe.minassian@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4663,David,Pochic,david.pochic@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4665,Hervé,Clerambault,herve.clerambault@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4667,Nicolas,Calafat,nicolas.calafat@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4685,Joris,Eymard,joris.eymard@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4686,Eric,Villot,comptabilite@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4687,Laurent,Hazard,laurent.hazard@alstomgroup.com,4311,Alstom Aix,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4699,Edgard,Jeanne,edgard.jeanne@moduleus.com,3179,Moduleus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4722,Pascal,Doguet,pascal.doguet@synergiam.com,4331,SYNERGIA Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4726,Franck,Dosseul,franck.dosseul@moduleus.com,3179,Moduleus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4738,Ben,Brike,bbr@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4740,Françoise,Chombar,rdw@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4741,Guido,Dupont,gdp@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4742,Marc,Biron,mbi@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4750,Yoan,Dupret,yoan.dupret@menta-efpga.com,4345,MENTA Valbonne,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4794,Christelle,Faucon,christelle.faucon@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4795,Arnaud,Garnier,arnaud.garnier@imec.com,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4803,Erik,Huneker,erik@diabeloop.fr,4242,Diabeloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4815,Bernard,Vian,bvian@wisekey.com,2153,Seal SQ France,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4901,Stéphane,Hauradou,shauradou@rambus.com,4710,RAMBUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4915,Alain,Pomet,alain.pomet@thalesgroup.com,4718,THALES DIS Design Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4916,Benjamin,Duval,benjamin.duval@thalesgroup.com,4718,THALES DIS Design Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4927,Jean-Marc,Bedrine,jean-marc.bedrine@idemia.com,4719,IDEMIA Meyreuil,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+4975,Benjamin,Bouthinon,benjamin.bouthinon@isorg.fr,1115,ISORG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+6988,Christophe,Desmouliers,christophe.desmouliers@enyx.fr,5745,ENYX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+6998,Benjamin,Bouyssou,benjamin.bouyssou@faurecia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7022,Jean-Michel,Barreau,jm.barreau@emka.fr,5768,EMKA TECHNOLOGIES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7045,Wolgang,Werner,wolfgang.werner@biofourmis.com,5779,BIOFOURMIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7061,Christophe,Pourrier,christophe.pourrier@sodern.fr,5787,SODERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7062,Loïc,Malard,loic.malard@sodern.fr,5787,SODERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7063,Pierre-Yves,Bretecher,pierre-yves.bretecher@sodern.fr,5787,SODERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7079,Sasa,Spasic,spasic@senis.ch,5795,SENIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7098,Aurélien,Ledot,aurelien.ledot@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7233,Brad,Schmidt,brad.schmidt@panaxium.com,4201,Panaxium,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+7252,Clément,Sinibaldi,clement.sinibaldi@cnes.fr,2160,CNES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8256,Lionel,Rousseau,lionel.rousseau@esiee.fr,4196,Neurallys,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8309,Bruno,Gagnou,bruno.gagnou@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8312,Jean-Didier,Gayrard,jean-didier.gayrard@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8313,Jean-Louis,Cazaux,jean-louis.cazaux@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8315,Pascal,Lassave,pascal.lassave@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8403,Renaud,Branchon,renaud.branchon@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8407,Emmanuel,Roger,emmanuel.roger@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8408,Franck,Jeulin,franck.jeulin@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8409,Mickaël,Brouillet,mickael.brouillet@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8410,Yannick,Menanteau,yannick.menanteau@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8411,Adrien,Bailly,adrien.bailly@moduleus.com,3179,Moduleus,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+8430,Luc,Garcia,luc.garcia@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9469,François,Vuadens,francois.vuadens@advancedsilicon.com,7930,Advanced Silicon SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9470,Hussein,Ballan,hballan@advancedsilicon.com,7930,Advanced Silicon SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9471,Ilich,Dezotti,ilich.dezotti@advancedsilicon.com,7930,Advanced Silicon SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9524,Adam,Horridge,adam.horridge@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9525,Alessandro,Marchioro,alessandro.marchioro@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9526,Dante,Gregorio,dante.gregorio@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9529,Kostas,Kloukinas,kostas.kloukinas@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9530,Michael,Campbell,michael.campbell@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9532,Walter,Snoeys,walter.snoeys@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9533,Wojciech,Bialas,wojciech.bialas@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9539,Fabrice,Pernet,fpe@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9540,Fabrice,Salvi,fsa@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9543,Julien,Feignon,jfe@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9544,Xavier,Francois,xfr@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9575,Alexandre,Acovic,aacovic@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9577,Christian,Terrier,cterrier@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9578,Christophe,Ratajczak,cratajczak@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9580,Daniel,Luthi,daniel.luthi@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9581,Fabrice,Walter,fwalter@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9582,Filippo,Marinelli,fmarinelli@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9584,Hugues,Blangy,hblangy@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9586,Philippe,Rochaix,philippe.rochaix@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9588,Sylvain,Grosjean,sgrosjean@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9589,Thierry,Dutron,tdutron@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9590,Yves,Godat,ygodat@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+9603,Laurence,Strong,laurence.strong@trameto.com,7987,Trameto,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10682,Philippe,Rommeveaux,philippe.rommeveaux@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10684,Sophie,Caranhac,sophie.caranhac@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10688,Chantal,Boyer Chardonnens,chantal.boyerchardonnens@helbling.ch,9020,Helbling Technik Bern AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10689,Jean-Noël,Fehr,jean-noel.fehr@helbling.ch,9020,Helbling Technik Bern AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10690,Stefan,Bauer,stefan.bauer@helbling.ch,9020,Helbling Technik Bern AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10691,Stefan,Troller,stefan.troller@helbling.ch,9020,Helbling Technik Bern AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10708,Alexis,Guerin,aguerin@upmem.com,9027,UPMEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10709,Fabrice,Devaux,fdevaux@upmem.com,9027,UPMEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10710,Gilles,Hamou,ghamou@upmem.com,9027,UPMEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10712,Renaud,Ayrignac,rayrignac@upmem.com,9027,UPMEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10713,Xavier,Martin,xmartin@upmem.com,9027,UPMEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10749,Sum,Tsai,sumtsai@computime.com,9046,Computime,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10756,Amandine,Milesi,amandine.milesi@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10757,Anne,Berto,anne.berto@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10759,Frédéric,Barre,frederic.barre@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10760,Frédéric,Cézilly,frederic.cezilly@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10764,Philippe,Chaffraix,philippe.chaffraix@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10765,Philippe,Grossi,philippe.grossi@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10766,Pierre-Jérôme,Clemenceau,pierre-jerome.clemenceau@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10767,Serge,Durand,serge.durand@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10781,Ken,Mackay,kmackay@crocus-technology.com,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10800,Cédric,Mayor,cedric.mayor@presto-eng.com,9072,Presto Engineering Inc,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10855,Bertrand,Folco,bertrand.folco@tiempo-secure.com,9103,TIEMPO-SECURE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10857,Marc,Renaudin,marc.renaudin@tiempo-secure.com,9103,TIEMPO-SECURE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10859,Serge,Maginot,serge.maginot@tiempo-secure.com,9103,TIEMPO-SECURE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10871,Bruno,Bosset,bruno.bosset@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10873,Stéphane,Rossignol,stephane.rossignol@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10875,Xavier,Favre,xavier.favre@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+10901,Pierre,Bourriol,pierre.bouniol@fr.thalesgroup.com,9050,THALES AVS Valence,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+11011,Franck,Gürkaynak,kgf@iis.ee.ethz.ch,9187,ETH Zurich Gloriastrasse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+11012,Luca,Benini,lbenini@iis.ee.ethz.ch,9187,ETH Zurich Gloriastrasse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+11015,Lionel,Cima,lionel.cima@euresitechnia.com,4202,Fine Heart,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12108,Sophie,Le,sophie.le@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12109,Primevère,Chapuis,primevere.chapuis@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12119,Ozgur,Gursoy,ozgur.gursoy@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12138,Thomas,Froehlich,thomas.froehlich@ams-osram.com,10263,ams-OSRAM AG Rapperswill,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12139,Thomas,Troexler,thomas.troxler@ams-osram.com,10263,ams-OSRAM AG Rapperswill,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12173,Franck,Bellelle,fbellelle@me.com,5787,SODERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12212,Mahmoud,Addouche,mahmoud.addouche@femto-st.fr,10299,VIBISCUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12213,William,Daniau,wdaniau@univ-fcomte.fr,10299,VIBISCUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12226,Dominique,Kergoat,dominique.kergoat@intradef.gouv.fr,10310,DGA Bruz,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12299,Olivier,Coppin,olivier.coppin@faurecia.com,7988,FORVIA Nanterre,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12401,Romain,Stefanini,r.stefanini@airmems.com,10412,airmems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12406,Helene,Lefebvre,helene@diabeloop.fr,4242,Diabeloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12407,Stéphanie,Jégu,stephanie.jegu@diabeloop.fr,4242,Diabeloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12425,Gilles,Masson,gilles.masson@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12428,Jean-Charles,Barbe,jean-charles.barbe@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12430,Jean-Luc,Moro,jean-luc.moro@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12431,Jean-Michel,Leger,jean-michel.leger@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12432,Jean-Philippe,Noel,jean-philippe.noel@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12433,Jean-Philippe,Polizzi,jean-philippe.polizzi@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12440,Laurent,Fulbert,laurent.fulbert@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12441,Laurent,Ouvry,laurent.ouvry@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12442,Ludovic,Poupinet,ludovic.poupinet@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12443,Manuel,Pezzin,manuel.pezzin@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12445,Marion,Andrillat,marion.andrillat@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12446,Martin,Gallezot,martin.gallezot@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12447,Michaël,Pelissier,michael.pelissier@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12448,Michaël,Tchagaspanian,michael.tchagaspanian@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12449,Michel,Durr,michel.durr@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12450,Michel,Ida,michel.ida@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12452,Nathalie,Bernard-Henriques,nathalie.bernard-henriques@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12453,Nathalie,Marion,nmarion@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12455,Olivier,Faynot,olivier.faynot@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12456,Patrice,Rey,patrice.rey@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12462,Pierre,Castelein,pierre.castelein@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12465,Pierre-Yves,Martinez,pierre-yves.martinez@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12466,Raymond,Campagnolo,raymond.campagnolo@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12467,Sandrine,Locatelli,sandrine.locatelli@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12468,Sébastien,Barnola,sebastien.barnola@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12473,Stéphanie,Riche,stephanie.riche@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12474,Stéphanie,Robinet,stephanie.robinet@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12475,Sylvie,Joly,sylvie-j.joly@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12476,Thierry,Billon,thierry.billon@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12477,Vincent,Cachard,vincent.cachard@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12479,Yvain,Thonnard,yvain.thonnart@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12481,Yves,Fouillet,yves.fouillet@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12484,Olivier,Pineau,opineau@reflexces.com,10423,REFLEX CES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12562,Marco,Brambilla,marco.brambilla@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12564,Eric,Jeng,eric.jeng@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12764,Anthony,Boscaro,anthony.bascaro@sayens.fr,10525,SATT SAYENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12765,Michel,Desbard,mdesbard@crocus-technology.com,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12792,Frank,Bartels,bartels@bartels-mikrotechnik.de,10541,Bartels Mikrotechnik,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12795,Jared,Dwarika,jared@healthcareoriginals.com,10543,HCO,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+12796,Christophe,Verjus,christophe.verjus@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+13816,Martin,Siaud,martin.siaud@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+13866,Ramses,Valvekens,ramses@easics.be,11580,Easics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+13868,Tim,Morlion,timm@easics.be,11580,Easics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+13949,Jose,Vinau,jose.vinau@ams-osram.com,11625,ams-OSRAM Valencia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+13975,Muriel,Mares,muriel.mares@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14016,Alexis,Normand,alexis.norman@withings.com,11652,Withings,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14017,Xavier,Debreuil,xavier.debreuil@withings.com,11652,Withings,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14034,Benoit,Deville,bdeville@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14036,François,Barbara,barbara1@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14062,Bernard,Candaele,bernard.candaele@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14065,Christophe,Antoine,christophe.antoine@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14066,Didier,Le Maitre,didier.lemaitre@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14067,Eric,Perpere,eric.perpere@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14068,Eric,Teyssou,eric.teyssou@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14069,Florence,Jard,florence.jard@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14070,Franck,Roger,franck.roger@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14072,Hervé,Le Bescont,herve.lebescont@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14073,Jean-Pierre,Vernier,jean-pierre.vernier@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14075,Jérôme,Soufflet,jerome.soufflet@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14076,Joël,Baranger,joel.baranger@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14077,Karine,Renaud,karine.renaud@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14078,Marc,Dufrois,marc-d.dufrois@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14079,Michel,Sarlotte,michel.sarlotte@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14080,Nelly,Salzmann,nelly.salzmann@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14082,Nicolas,Chastel,nicolas.chastel@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14083,Philippe,Bourgon,philippe.bourgon@fr.thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14085,Pierre,Jeanne,pierre.jeanne@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14086,Pierre-Yves,Fritsch,pierre-yves.fritsch@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14087,Simon,Emeriau,simon.emeriau@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14088,Sophie,Chague,sophie.chague@thalesgroup.com,11664,THALES SIX Gennevilliers,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14204,Theodor,Maier,theodor.maier@continental-corporation.com,11737,CONTINENTAL Regensburg,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14215,Alexandre,Delorme,alexandre.delorme@kapflex.com,9135,Kapflex Sensors,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14218,Dalius,Baranauskas,dalius@sifemto.com,11747,Sifemto,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14219,Johan,Simoncini,johan.simoncini@cegitek.com,11748,Cegitek Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14273,Andreas,Wild,andreas.wild@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14275,Bernd,Janger,bernd.janger@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14276,Christian,Mautner,christian.mautner@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14277,Ehrenfried,Seebacher,ehrenfried.seebacher@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14278,Gregor,Schatzberger,gregor.schatzberger@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14279,Herbert,Truppe,herbert.truppe@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14280,Johannes,Fellner,johannes.fellner@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14281,Jörg,Schwemmlein,joerg.schwemmlein@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14282,Jouni,Riihimäki,jouni.riihimaeki@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14284,Michael,Boehm,michael.boehm@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14286,Pete,Kammerlander,peter.kammerlander@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14287,Peter,Pann,peter.pann@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14289,Rainer,Minixhofer,rainer.minixhofer@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14290,Reinhard,Spinotti,reinhard.spinotti@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14291,Rene,Kautschitsch,rene.kautschitsch@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14294,Thomas,Moerth,thomas.moerth@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14295,Thomas,Riener,thomas.riener@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14341,Thierry,Mondin,thierry.mondin@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14344,Attila,Borbath,attila.borbath@synergiam.com,4331,SYNERGIA Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14619,Alberto,Messina,alberto.messina@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14621,Alfredo,Licciardello,alfredo.licciardello@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14622,Antonino,Conte,antonino.conte@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14623,Antonio,Imbruglia,antonio.imbruglia@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14627,Elio,Guidetti,elio.guidetti@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14630,Francesco,Pulvirenti,francesco-cad.pulvirenti@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14632,Gionatan,Montoro,gionatan.montoro@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14633,Giorgio,Catanzaro,giorgio.catanzaro@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14634,Giuseppe,Arceri,giuseppe.arceri@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14635,Giuseppe,Pontorno,giuseppe-m5.pontorno@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14636,Irene,Giangreco,irene.giangreco@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14638,Matteo,Lo-Presti,matteo.lo-presti@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14641,Nunzio,Abbate,nunzio.abbate@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14643,Salvatore,Cosentino,salvatore.cosentino@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14644,Salvatore,Di Fazio,salvatore.difazio@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14645,Salvatore,Palaia,salvatore.palaia@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14646,Salvatore,Rinaudo,salvatore.rinaudo@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14647,Santo,Ilardo,santo.ilardo@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14671,Alix,Duclos,alix.duclos@kapflex.com,9135,Kapflex Sensors,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14676,Odette,Heisler,odette.heisler@sayens.fr,10525,SATT SAYENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14684,Loïc,Lagadec,loic.lagadec@ensta-bretagne.fr,11929,ENSTA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14686,Jean-Christophe,Le Lann,jean-christophe.le_lann@ensta-bretagne.fr,11929,ENSTA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14699,François,Vincent,francois.vincent-external@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14700,Mehdi,Terosiet,mehdi.terosiet@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14701,Hamid,Delmi,hamid.delmi@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14703,Armand,Castillejo,armand.castillejo@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14704,Roald,Neuquelman,roald.neuquelman@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14710,David,Camara,david.camara@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14735,Jason,Ruan,jason.ruan@aleva-neuro.com,1146,Adept Neuro SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14924,Mario,Schlund,mario_schlund@sensimed.ch,4230,Sensimed,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14925,Sacha,Cerboni,sacha_cerboni@sensimed.ch,4230,Sensimed,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14926,Franz,Rudolf Von Rohr,franz.rvr@uwatec.ch,2147,Scubapro Uwatec,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14928,Joerg,Mayer,joerg.mayer@spinewelding.ch,12058,WoodWelding SA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14934,Guillaume,Nesa,guillaume.nesa@olythe.com,12062,OLYTHE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14939,Yves,Amann,y.amann@titan-defense.com,12065,TITAN DEFENSE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14941,Zack,Deiri,zdeiri@crocus-technology.com,12067,Allegro Microsystems Milpitas,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14970,Fabrice,Jovenin,fjovenin@redtree-solutions.com,1075,Redtree Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14975,Lars,Vosskaemper,lars.vosskaemper@vermes.com,12086,VERMES Microdispensing,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+14979,Joshua,Davison,joshua.luke.davison@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17033,Bruno,Berge,bruno.berge@laclaree-vision.com,14106,Laclarée Vision,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17049,Nicolas,Lio Soon Shun,nicolas.liosoonshun@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17050,Rudi,Lannoo,rudi.lannoo@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17053,Sergio,Nicoletti,sergio.nicoletti@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17055,Stéphane,Siebert,stephane.siebert@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+17058,Constantin,Papadas,papadas@isd.gr,14146,ISD Integrated System Development,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18061,Alexandre,Balmefrezol,alexandre.balmefrezol@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18066,Valentin,Leveque,valentin.leveque@olythe.com,12062,OLYTHE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18072,Thierry,Bouchet,thierry.bouchet@wise-integration.com,15153,Wise Integration,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18074,Luca,De Rosa,luca.derosa@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18077,Michel,Ayraud,michel.ayraud@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18080,Maxime,Gueschir,gueschir@switchess.com,15157,SwitchESS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+18099,François,Vasey,francois.vasey@cern.ch,7962,CERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19106,Sandrine,Auguie,sandrine.auguie@thalesaleniaspace.com,1074,THALES ALENIA SPACE Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19107,Yannick,Gilbert,yannick.gilbert@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19117,Chris,Eden,chris.eden@trinamix.de,17186,Trinamix GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19119,Ingmar,Bruder,ingmar.bruder@trinamix.de,17186,Trinamix GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19124,Emmanuel,Liegeon,emmanuel.liegeon@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19143,Sebastian,Valouche,sebastian.valouch@trinamix.de,17186,Trinamix GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19145,Athira,Subash,athira.subash@vermes.com,12086,VERMES Microdispensing,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19146,Arvind,Anche,arvind.anche@vermes.com,12086,VERMES Microdispensing,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19147,Siva,Gangarapu,siva.gangarapu@vermes.com,12086,VERMES Microdispensing,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19149,Pierre,Vialemaringe,pierre.vialemaringe@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19157,-,Accounts Payable,invoice.esas@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19158,Valentina,Vignola,valentina.vignola@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19159,Alejandro,Sanz,asanz@sagax.tech,17208,SagaX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19169,Olivia,Peyrard,opeyrard@semtech.com,4291,SEMTECH FRANCE SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19186,Gürkan,Yilmaz,guerkan.yilmaz@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19197,Paymon,Rasekhy,paymon@lynxemi.com,17230,LYNXEMI,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19198,Stéphane,Belardi,sbelardi@gopro.com,10391,GoPro Technology France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19199,Vincent,Vacquerie,vvacquerie@gopro.com,10391,GoPro Technology France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19200,Michael,Kraak,mkraak@gopro.com,10391,GoPro Technology France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19201,Yann,Pinaroli,yann.pinaroli@diabeloop.fr,4242,Diabeloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19214,Thomas,Dominique,dominique.thomas@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19216,Nick,Van Helleputte,nick.vanhelleputte@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19234,Marc,Sworowski,msworowski@silmach.com,17205,SILMACH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19242,Valentin,Kerspern,vkerspern@endotact.com,17253,NuVasive Paris,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19245,Benoit,Deschamps,benoit.deschamps@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19246,Lionel,Graff,lionel.graff@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19248,Christophe,Bouvier,christophe.bouvier@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19251,Maryline,Parra,maryline.parra@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19252,Cyrille,Gachon,cyrille.gachon@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19261,Christopher,Malkin,cmalkin@rambus.com,4710,RAMBUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19265,Norbert,Lartigue,norbert.lartigue@sp3h.fr,1089,SP3H,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19267,Eric,Stempin,stempin@switchess.com,15157,SwitchESS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19268,Benoît,Gouhier,gouhier@switchess.com,15157,SwitchESS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19269,Xavier,Wiedemann,xavier.wiedemann@altertechnology.com,17265,ALTER Technology (France),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19279,Laurence,Cordrey-Gale,laurence.cordrey-gale@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19284,Laurent,Moulin,laurent.moulin@vitec.com,1119,VITEC Video Innovation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19304,Stéphane,Moins,sms@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19307,Gilles,De Preux,gilles.depreux@senbiosys.com,12057,Senbiosys,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19319,Philippe,Notton,philippe.notton@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19772,Torsten,Krause-Dukart,torsten@equipic.com,17471,EQUIPIC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19773,Romain,Palmade,romain.palmade@centiloc.com,17472,CENTILOC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19777,Gerhard,Schmid,schmid@trilite-tech.com,17476,Trilite Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19792,Loïc,Henninot,loic.henninot@centiloc.com,17472,CENTILOC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19796,Christophe,Zydek,christophe.zydek@faurecia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19797,Cyril,Laury,cyril.laury@faurecia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19799,Olivier,Grenie,olivier.grenie@faurecia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19800,Michel,Gac,michel.gac@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19803,Daniel,Braendle,dbraendle@baumer.com,1072,BAUMER ELECTRIC AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19804,Dominique,Gross,d.gross@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19807,Pascal,Mora,pascal.mora@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19808,Vincent,Markus,vincent.markus@menta-efpga.com,4345,MENTA Valbonne,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19814,Elie,Lobel,elie.lobel@rdsdiag.com,17490,RDS Rhythm Diagnostic Systems (strasbourg),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19815,Joshua,Wong,jwong@moxtek.com,17491,Moxtek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19818,Christian,Heintz,christian.heintz@eusil.eu,17493,EUSIL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19821,Andrei,Stratilatov,astratilatov@moxtek.com,17491,Moxtek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19822,David,Hoffman,dhoffman@moxtek.com,17491,Moxtek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19823,Johnny,Lin,johnnylin@netlinkc.com,17496,Netlink communication corp,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19824,Eric,Desplanches,edesplanches@gmail.com,17498,Eric Desplanches,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19835,Julien,Michel,julien.michel@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19837,Michel,Dubeau,michel.dubeau@nanoz-group.com,17506,Nanoz group,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19838,Thibaud,Sellam,thibaud.sellam@nanoz-group.com,17506,Nanoz group,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19846,Emmanuel,Beguin,emmanuel.beguin@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19850,Eric,Labarre,labarre.eric1@gmail.com,1128,@-health,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19857,Louis,Mayaud,louis.mayaud@rdsdiag.com,17490,RDS Rhythm Diagnostic Systems (strasbourg),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19859,Emmanuel,Fuchs,emmanuel.fuchs@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19868,Bruno,Thuillier,bruno.thuillier@boydsense.com,17280,BOYDSENSE HQ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19879,Fred,Rivard,fred.rivard@microej.com,17523,MicroEJ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19881,Jack,Guedj,jguedj@numem.com,17525,Numem,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19884,Gweltas,Radenac,gradenac@wisekey.com,2153,Seal SQ France,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19887,Alexandre,Pauchard,alexandre.pauchard@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19893,Pierre,Dautriche,pierre.dautriche@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19894,Laurent,Savelli,laurent.savelli@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19895,Rémi,Ferrier,rferrier@kineis.com,17533,KINEIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19899,Nogaye,Loubradou,nloubradou@kineis.com,17533,KINEIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19900,Hervé,Callewaert,hcallewaert@kineis.com,17533,KINEIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19910,Frédéric,Rivière,frederic.riviere@microej.com,17523,MicroEJ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19911,Régis,Latawiec,regis.latawiec@microej.com,17523,MicroEJ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19912,Benoît,Clinchamps,benoit.clinchamps@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19913,Lillo (Calogero),Ribellino,lillo.ribellino@st.com,11904,STMicroelectronics Catania,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19914,Jérôme,Barbin,jerome.barbin@sodern.fr,5787,SODERN,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19916,Gaël,Matten,gael@vibiscus.com,10299,VIBISCUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19931,Sébastien,Pelletier,sebastien.pelletier@alpha-mos.com,17280,BOYDSENSE HQ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19940,Jean-Claude,Lenain,jc.lenain@sense-in.fr,17554,SENSE in,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19942,Thomas,Blondel,thomas.blondel@mosaicfinance.fr,17556,MOSAIC Finance,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19943,Vincent,Lenoir,vincent.lenoir@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19947,Kevin,Rondeau,k.rondeau@sense-in.fr,17554,SENSE in,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19948,Isabelle,Cocquart,isabelle.cocquart@mosaicfinance.fr,17556,MOSAIC Finance,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19952,Bruno,Maisonnier,bruno@anotherbrain.io,3175,AnotherBrain,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19954,David,Savery,d.savery@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19955,Etienne,Flesch,e.flesch@vermon.com,3187,VERMON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19956,Oleg,Gavrilov,ogavrilov@waviot.ru,17561,Waviot,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19961,Frank,Sobel,f.sobel@sense-in.fr,17554,SENSE in,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19963,Christian,Mourad,christian@voxelsensors.com,17566,VoxelSensors SRL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19964,Tim,Holden,tim.holden@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19965,Marc,Le Guyader,mleguyader@cryptoquantique.com,17568,Crypto Quantique,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19966,Silvio,Dalla Piazza,dallapiazza.silvio@microcrystal.ch,17569,MICRO CRYSTAL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19977,Hugo,Gicquel,hugo.gicquel@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19979,Victor,Ting,victor.ting@withings.com,11652,Withings,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+19980,Carl,De Ranter,carl@pharrowtech.com,17581,Pharrowtech BV,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+20983,Andrey,Orlov,aorlov@waviot.ru,17561,Waviot,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+20986,Max,Eickenscheidt,meickenscheidt@neuroloop.de,18583,Neuroloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+20987,Dennis,Plachta,dplachta@neuroloop.de,18583,Neuroloop,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+20997,Roi,Tsukran,roi.tuskran@nyxoah.com,18592,Nyxoah,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22002,Soeren,Steudel,soeren.steudel@micledi.com,18597,micledi,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22005,Colin,Gilly,cgilly@rambus.com,4710,RAMBUS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22006,Menachem,Bahat,menachem_b@contractor.rad.com,18600,RAD Data Communications,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22007,Ofer,Cohen,ofer_c@rad.com,18600,RAD Data Communications,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22012,Alessandro,Aimar,alessandro.aimar@synthara.ch,18604,Synthara AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22016,Andrew,Karanicolas,akaranicolas@crocus-technology.com,12067,Allegro Microsystems Milpitas,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22017,Wayne,Seto,wseto@crocus-technology.com,12067,Allegro Microsystems Milpitas,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22022,Pierre,Prache,pierre.prache@laclaree-vision.com,14106,Laclarée Vision,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22026,Bernard,Lopez,bernard.lopez@crouzet.com,18611,CROUZET,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22033,Franck,Sterlin,franck.sterlin@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22035,Hugues,Morin,hugues.morin@mosaicfinance.fr,17556,MOSAIC Finance,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22036,Arnaud,Derasse,arnaud.derasse@enyx.com,5745,ENYX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22037,Frédéric,Tilhac,f.tilhac@altertechnology.fr,17265,ALTER Technology (France),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22038,Sebastien,Therond,sebastien.therond@bosch-sensortec.com,18618,Bosch Sensortec GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22040,Tal,Gollan,tal@virilitymedical.com,18619,Virility Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22041,Lesmes,Nicolas,lesmes.nicolas@cebi.com,18621,Cebi Electromechanical Components Spain S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22042,Brad,Pound,brad.pound@datacan.ca,18622,DataCan,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22047,Frédéric,Mosca,frederic.mosca@pytheas-technology.com,18623,PYTHEAS Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22057,Peter,Deruytere,peter.deruytere@pulsify-med.com,18629,Pulsify Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22058,Steve,Stoffels,steve.stoffels@pulsify-med.com,18629,Pulsify Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22059,Pierre,Fontana,p.fontana@altertechnology.fr,17265,ALTER Technology (France),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22061,Carlos,Baeza,carlos.baeza@sonova.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22062,Marc,Secall,marc.secall@sonova.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22063,Diane,Chang,diane.chang@advancedbionics.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22064,Scott,Arfin,scott.arfin@advancedbionics.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22065,Alok,Deshpande,alok.deshpande@advancedbionics.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22067,Yadunandan,Nagarajaiah,yadunandan.nagarajaiah@advancedbionics.com,18632,Advanced Bionics AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+22069,Flavia,Amorosa,flavia.amorosa@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23070,Pierre,Berthet-Rayne,pierre.berthet-rayne@caranx-medical.com,18634,Caranx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23071,Éric,Sejor,eric.sejor@caranx-medical.com,18634,Caranx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23073,Philippe,Mondon,p.mondon@axemtec.com,18635,AXEM Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23074,Arnaud,Carle,a.carle@axemtec.com,18635,AXEM Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23078,Shahram,Mossayebi,smossayebi@cryptoquantique.com,17568,Crypto Quantique,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23081,Francis,Anghinolfi,francis.anghinolfi@picotechscanner.com,18638,Picotech,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23082,Crispin,Williams,crispin.williams@picotechscanner.com,18638,Picotech,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23083,Katayoun,Doroud,katayoun.doroud@cern.ch,18638,Picotech,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23084,Johannes,Traxler,johannes.traxler@eyyes.com,18639,EYYES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23090,Laïla,Ayache,laila.ayache@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23091,Ivan,Arkipoff,iarkipoff@pvhardware.es,18644,PV Hardware Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23092,Sylvain,Dumay,sdumay@redtree-solutions.com,1075,Redtree Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23094,Oscar,Cabrero Bertram,ocabrero@pvhardware.es,18644,PV Hardware Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23095,Sergio,Hernandez Montero,shernandez@pvhardware.es,18644,PV Hardware Solutions,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23096,Martin,Schreiblehner,martin.schreiblehner@eyyes.com,18639,EYYES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23098,Thomas,Weigelhofer,thomas.weigelhofer@eyyes.com,18639,EYYES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23100,Aline,Jomard,aline.jomard@trixell-thalesgroup.com,9111,TRIXELL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23105,Matt,Douthwaite,mdouthwaite@cryptoquantique.com,17568,Crypto Quantique,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23110,Andrea,Bonzo,andrea.bonzo@idemia.com,4719,IDEMIA Meyreuil,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23113,Valeriy,Shunkov,vshunkov@polyn.ai,11714,Polyn Technology Ltd.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23114,Philippe,Blasquez,philippe.blasquez@manitty.com,18661,MANITTY,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23168,Vincent,Leveaux,vincent.leveaux@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23174,Ian,Mc Nutt,imc@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23175,Thomas,Hargé,tha@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23180,Pascal,Garcin,pascal.garcin@manitty.com,18661,MANITTY,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23181,Paul-Antoine,Libourel,pa.libourel@cnrs.fr,18661,MANITTY,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23192,Paul,Eckly,paul.eckly@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23193,Jules,Hammond,jules.hammond@befc.fr,18691,BeFC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23194,Sergio,Diez,sergio.diez@cebi.com,18621,Cebi Electromechanical Components Spain S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23204,Corentin,Godfroid,cgodfroid@reflexces.com,10423,REFLEX CES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23209,Johannes,Peeters,johannes@voxelsensors.com,17566,VoxelSensors SRL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23210,Mati,Shirizly,mati.shirizly@gmail.com,18706,Orcasonics Innovation Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23211,Oz,Seadia,oz.seadia@hotmail.com,18706,Orcasonics Innovation Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23216,Hamidreza,Hashempour,hamidreza.hashempour@micledi.com,18597,micledi,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23221,Nolwenn,Falco,nfo@lem.com,7965,LEM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23222,Kevin,Conley,kevin.conley@appliedbrainresearch.com,18713,Applied Brain Research Inc.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23223,Vincent,Boulant,vincent.boulant@enyx.fr,5745,ENYX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23224,Axel,Poudes,axel.poudes@continental-corporation.com,4255,CONTINENTAL Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23230,Svetla,Alexandrov,svetla@equilibr.io,18718,Equilibr.io,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23231,Giora,Yahav,giora@everysight.com,18721,Everysight,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23232,Kobi,Kiviti,kobi@everysight.com,18721,Everysight,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23233,Alex,Portnov,alex@everysight.com,18721,Everysight,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23234,Hanan,Shamir,hanan@everysight.com,18721,Everysight,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23235,Jean-Louis,Ferrandis,jl.ferrandis@pellenc.com,18722,Pellenc Energy,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23236,Florian,Guigal,f.guigal@pellenc-energy.com,18722,Pellenc Energy,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23237,Catherine,Stroobants,c.stroobants@intopix.com,1132,intoPIX S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23238,Didier,Noel,didier.noel@nanoz-group.com,17506,Nanoz group,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23239,Avi,Messica,avim@neologicvlsi.com,18723,Neologic (VLSI),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23240,Ofir,Elizov,oelizov@sequans.com,18724,SEQUANS ISRAEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23241,Javier,Galindo Guarch,javier.galindo@unizar.es,18725,Universidad de Zaragoza,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23242,Shawn,Murphy,shawn@titanaes.com,18726,"Titan Advanced Energy Solutions, Inc",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23247,Wilfried,Vervisch,wilfried.vervisch@siclade-technologies.com,18729,Siclade Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23248,Daniel,Bourrel,daniel.bourrel@valeo.com,4214,VALEO Pouillon,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23249,George,Kapodistrias,george@titanaes.com,18726,"Titan Advanced Energy Solutions, Inc",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23250,Pierre,Jallon,pierre.jallon@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23251,Sean,O'Day,sean@titanaes.com,18726,"Titan Advanced Energy Solutions, Inc",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23258,Horst,Symanzik,horst.symanzik@bosch-sensortec.com,18618,Bosch Sensortec GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23259,Aurélie,Boyeldieu,aurelie.boyeldieu@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23263,Yingchih,Yang,yingchih.yang@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23264,Robert,Resch,robert.resch@br-automation.com,19736,B&R automation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23265,Gerald,Pichler,gerald.pichler@br-automation.com,19736,B&R automation,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23270,Jean-Xavier,Canonici,jeanxavier@ternwaves.com,19738,Ternwaves,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23271,Bruno,Jechoux,bruno@ternwaves.com,19738,Ternwaves,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23273,Edith,Beigne,edith.beigne@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23284,Marc,Grimmé,marc.grimme@carmatsas.com,1100,CARMAT,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23286,Stéphane,Girerd,sgirerd@craneae.fr,19751,Crane Aerospace,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23288,Aleksandrs,Sergejevs,aleksandrs.sergejevs@befc.fr,18691,BeFC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23289,Alban,Thierry,alban.thierry@befc.fr,18691,BeFC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23290,Julie,Declercq,julie@ternwaves.com,19738,Ternwaves,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23295,José,Afonso,jose.afonso@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23297,Alexandre,Val,alexandre.val@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23298,Michael,Tong,tongmichael@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23299,Harry,Kuo,harrykuo@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23300,Karl,Kaiser,kkaiser@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23301,William,Koven,koven@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23302,Nilesh,Bhattad,nileshbhattad@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23303,Salman,Mazhar,smazhar@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23304,Sean,Sun,hssun@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23306,Patrick,Abraham,patrick.abraham@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23309,Nicolas,Ricome,nicolas.ricome@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23311,Yannick,Deal,yannick.deal@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23312,Jean-Louis,Chauray,jean-louis.chauray@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23325,Marie,Lechantoux,marie.lechantoux@microej.com,17523,MicroEJ,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23327,Alp,Kilic,alp.kilic@nanoxplore.com,3180,NanoXplore,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+23328,Andrea,Feuerstein,andrea.feuerstein@microcrystal.ch,17569,MICRO CRYSTAL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24331,Roland,Haeni,roland.haeni@microcrystal.ch,17569,MICRO CRYSTAL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24350,Martin,Kmec,martin.kmec@ilmsens.com,19787,Ilmsens GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24351,Catalin,Stefu,catalin.stefu@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24353,Paul-Alexandre,Dupont,paul-alexandre.dupont@forvia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24367,Emiliano,D'Agostino,emiliano@easics.be,11580,Easics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24370,Thierry,Bion,thierry.bion@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24372,Hadrien,Palcoux,hadrien.palcoux@craneae.fr,19751,Crane Aerospace,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24373,Sébastien,Verdelet,sebastien.verdelet@craneae.fr,19751,Crane Aerospace,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24374,Alexey,Dolbunov,adolbunov@polyn.ai,11714,Polyn Technology Ltd.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24377,Guillaume,Pollissard,guillaume.pollissard@vocsens.com,19796,VOCSENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24378,Thomas,Walewyns,thomas.walewyns@vocsens.com,19796,VOCSENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24380,Julien,Borgetto,julien.borgetto@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24381,Philippe,Mourier,pmourier@orgaplus.lu,19801,Orga+,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24385,Fabien,Lea,fabien.lea@forvia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24386,Ashok,Jain,asjain@infinera.com,19809,Infinera,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24387,Tulasi,Veguru,tveguru@infinera.com,19809,Infinera,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24388,Reema,Sreeram,reemasr@meta.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24392,Aurélien,Fougerat,aurelien.fougerat@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24393,Thomas,Normand,thomas.normand@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24394,Baptiste,Le Foulgoc,baptiste.lefoulgoc@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24395,Jaehoon,Lee,jaehoon.lee@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24397,Patrick,Pirim,patrick@anotherbrain.ai,3175,AnotherBrain,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24407,Aleksandr,Timofeev,atimofeev@polyn.ai,11714,Polyn Technology Ltd.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24408,Sophie,Mouro,sophie.mouro@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24409,Sylvain,Briole,sylvain.briole@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24410,Vincent,Mourier,vincent.mourier@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24411,Andreja,Erbes,andreja.erbes@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24415,Julien,Campos,julien.campos@lightricity.co.uk,19821,LIGHTRICITY LTD,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24419,Jean,Ravatin,jean.ravatin@pyxalis.com,9016,PYXALIS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24425,Stijn,Depraetere,stijn.depraetere@vandewiele.com,19826,VANDEWIELE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24426,Stefaan,Vanheesbeke,stefaan.vanheesbeke@vandewiele.com,19826,VANDEWIELE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24432,Luca.,Gonzalez,luca.gonzalez@vocsens.com,19796,VOCSENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24433,Sylvain,Petre,sylvain.petre@vocsens.com,19796,VOCSENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24434,Bruno,Lequin,blequin@dream.fr,4299,DREAM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24435,Bertrand,Moussel,bertrand.moussel@valid.com,19776,VALID SOLUCIONES TECNOLOGICAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24436,Ruben,Martinez Gonzalez,ruben.gonzalez@valid.com,19776,VALID SOLUCIONES TECNOLOGICAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24442,Samuel,Daroussin,samuel.daroussin@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24443,Marie-Eve,Bernath,marie-eve.bernath@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24444,Didier,Laroche,didier.laroche@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24446,Edward,Rouwhorst,edward@equiplc.com,17471,EQUIPIC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24447,Niclas,Fritz,niclas@batchone.com,19835,Batchone,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24448,Martin,Smith,msmith@polyn.ai,11714,Polyn Technology Ltd.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24450,Said,Benmansour,said.benmansour@emka.fr,5768,EMKA TECHNOLOGIES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24451,Olivier,Bourillon,olivier.bourillon@emka.fr,5768,EMKA TECHNOLOGIES,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24452,Olivier,Elbaz,olivier.elbaz@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24453,Florian,Percher,florian.percher@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24454,Arbi,Maalaoui,arbi.maalaoui@nanoz-group.com,17506,Nanoz group,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24456,Nikos,Christopoulos,nikos.christopoulos@gmail.com,19839,CLEARDROP,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24458,Tayyar,Ulu,tayyar.ulu@tyri.se,19841,TYRI SWEDEN AB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24460,Cedric,Mandel,cedric@memperience.com,19843,MEMPERIENCE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24461,Martin,Damrau,martin.damrau@ic-logic.de,19844,IC-LOGIC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24462,Nicolas,Simonne,nsm@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24464,Peter,Bilfeldt,peter.bilfeldt@tyri.se,19841,TYRI SWEDEN AB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24465,Magnus,Eriksson,magnus.eriksson@tyri.se,19841,TYRI SWEDEN AB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24467,Erasmo,Chiappetta,erasmo.chiappetta@pharrowtech.com,17581,Pharrowtech BV,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24470,Bekir,Ozyurt,bekir.ozyurt@arcelik.com,19850,Arçelik Global,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24472,Tim,Kaske,tkaske@crocus-technology.com,12067,Allegro Microsystems Milpitas,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24478,Jean-Baptiste,Bernard,jean-baptiste.bernard@se.com,2191,SCHNEIDER Electric Eybens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24480,Emmanuel,Poli,emmanuel.poli@cissoid.com,1095,CISSOID  S.A.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24492,Stinj,Reekmans,srr@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24510,Roger,Espasa,roger.espasa@semidynamics.com,19881,Semidynamics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24511,Jean,Murzeau,jean.murzeau@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24512,Ayrat,Galisultanov,ayrat.galisultanov@elichens.com,1064,eLichens,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24513,Philippe,Piquet,philippe.piquet@menta-efpga.com,4345,MENTA Valbonne,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24514,Jeff,Zhou,jeffzhou@intron-tech.com,19884,Intron Electronic Gmbh,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24516,Luc,Perard,luc.perard@caranx-medical.com,18634,Caranx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24517,Loïc,Wauters,loic.wauters@caranx-medical.com,18634,Caranx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24523,Aurélien,Buhrig,aurelien.buhrig@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24524,Rafael,Gomez Hernandez,rafael.gomez@valid.com,19776,VALID SOLUCIONES TECNOLOGICAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24525,Irene,Aleman Pardo,irene.aleman@valid.com,19776,VALID SOLUCIONES TECNOLOGICAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24528,Jacques,De Jonghe,jad@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24531,Rafael,Serrano-Gotarredona,rafael.serrano-gotarredona@ams-osram.com,11625,ams-OSRAM Valencia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24532,Nathan,Beckmann,beckmann@efficient.computer,19891,Efficient Computer,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24533,Graham,Gobieski,graham@efficient.computer,19891,Efficient Computer,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24534,Brandon,Lucia,blucia@efficient.computer,19891,Efficient Computer,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24535,Jeff,Childress,jchildress@allegromicro.com,12067,Allegro Microsystems Milpitas,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24536,Daniel,Morris,dhmorris@meta.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24537,Barbara,De Salvo,barbarads@fb.com,10456,Meta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24538,Cindy,Michel,cindy.michel@sentinhealth.com,3186,SentinHealth,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24542,Vivian,Blanchard,vivian.blanchard@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24544,Laurent,Le Pailleur,laurent.le-pailleur@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24555,Oliver,Hofherr,ohofherr@baumer.com,1072,BAUMER ELECTRIC AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+24562,Nidish,Gaur,nidhish.gaur@imec.be,4282,IMEC ASIC Services,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25587,Victoria,Bub,victoria.bub@bosch-sensortec.com,18618,Bosch Sensortec GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25588,Frédéric,Heitzmann,frederic.heitzmann@tiempo-secure.com,9103,TIEMPO-SECURE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25591,Heath,Hartle,heath@impli.org,20931,IMPLI AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25593,Guillaume,Mathias,guillaume.mathias@ledger.com,11675,Ledger,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25594,Thibault,Pierre,thibault.pierre@ledger.fr,11675,Ledger,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25595,Patrice,Hameau,patrice.hameau@ledger.fr,11675,Ledger,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25596,Gwenael,Godde,gwenael.godde@wanadoo.fr,20932,Watermelon Co.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25597,Domenico,Tulli,dtulli@quside.com,20933,Quside Technologies S.L.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25598,Moti,Margalit,moti.margalit@sonicedge.io,20936,SonicEdge Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25599,Tore,Jørgensen,tore.joergensen@sonicedge.io,20936,SonicEdge Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25600,Modi,Avrutsky,modi.avrutsky@enercon.co.il,20937,ENERCON Technologies Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25601,Sagit Pesach,Mualem,sagit.mualem@enercon.co.il,20937,ENERCON Technologies Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25609,Pierre-Francois,Louvigne,pflouvigne@silmach.com,17205,SILMACH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25615,Tuvia,Segal,tuvia_s@rad.com,18600,RAD Data Communications,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25616,Doron,Solomon,doron_so@rad.com,18600,RAD Data Communications,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25617,Michael,Pauli,michael.pauli@syrmasgs.com,20940,SYRMA SGS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25618,Pooya,Forghani,pooya_forghani@diodes.com,20942,"DIODES, INC",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25625,Christophe,Bernard,christophe.bernard@id4us.fr,20946,ID4US,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25626,Thierry,Divel,thierry.divel@id4us.fr,20946,ID4US,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25629,Dietmar,Gleispatch,gleispach@trilite-tech.com,17476,Trilite Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25630,Olivier,Cousin,olivier.cousin@enyx.fr,5745,ENYX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25633,Carole,Pecastaing,carole.pecastaing@legrand.com,20953,Legrand France Pyrénées,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25634,Stéphane,Fregosi,stephane.fregosi@vitesco.com,20954,Schaeffler Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25635,Jonas,Boeynaems,jbo@melexis.com,4342,Melexis Tessenderlo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25640,Nicolas,Messin,nicolas.messin@forvia.com,17484,Faurecia Clarion Electronics Europe (FR60),106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25643,Ari,Mizrachi,ari.mizrachi@sonicedge.io,20936,SonicEdge Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25644,Emil,Marinov,emil.marinov@crhea.cnrs.fr,20963,CNRS CRHEA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25645,Patrice,Genevet,patrice.genevet@mines.edu,20963,CNRS CRHEA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25646,Renato,Renato,renato.juliano.martins@crhea.cnrs.fr,20963,CNRS CRHEA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25647,Christina,Kyrou,christina.kyrou@crhea.cnrs.fr,20963,CNRS CRHEA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25648,David,Colin,d.colin@atos.net,20965,EVIDEN Sophia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25649,Aurore,Desgeorge,aurore.2.desgeorge@continental-corporation.com,4255,CONTINENTAL Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25651,Pascal,Barioulet,pascal.barioulet@advans-group.com,5808,ELSYS Design 06,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25652,Sisan,Shen,sisan_shen@diodes.com,20942,"DIODES, INC",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25653,Allan,Lin,allan_lin@diodes.com,20942,"DIODES, INC",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25663,Jihad,Haidar,jihad.haidar@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25664,Mahdi,Mekic,mahdi.mekic@ams-osram.com,11778,ams-OSRAM AG Premstaetten,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25666,Frédéric,Hannoyer,frederic.hannoyer@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25667,Jerome,Meilhan,jerome.meilhan@steerlight.com,20973,Steerlight,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25670,Thierry,Bousquet,thierry.bousquet@continental-corporation.com,4255,CONTINENTAL Toulouse,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25675,Anup,Kini,anup.kini@synthara.ai,18604,Synthara AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25680,William,Biederman,will@forestneurotech.org,20982,Forest Neurotech LLC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25681,Tyson,Aflalo,tyson@forestneurotech.org,20982,Forest Neurotech LLC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25682,Philippe,Roche,philippe.roche@st.com,4287,STMicroelectronics (Crolles2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25683,Romain,Lanau,romain.lanau@actia.fr,20983,ACTIA Automotive,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25684,Renaud,Hanus,renaud.hanus@actia.fr,20983,ACTIA Automotive,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25685,Patrick,Wang,patrick.wang@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25686,Jean-François,Calmels,jean-francois.calmels@actia.fr,20983,ACTIA Automotive,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25687,Alex,Huang,alex.huang@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25688,Vincent,Malisova,vincent.malisova@actia.fr,20983,ACTIA Automotive,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25689,Hao,Tsai,hao.tsai@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25690,Shirley,Chen,shirley126.chen@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25691,Calvin,Tsai,calvin.tsai@guc-asic.com,4369,GUC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25694,Jean-Baptiste,Carnet,jbcarnet@silmach.com,17205,SILMACH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25695,Pascal,Branget,pbranget@silmach.com,17205,SILMACH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25696,Pierre-Marie,Penet,pierre-marie.penet@aledia.com,1076,ALEDIA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25697,Anthony,Bardet,a.bardet@exosens.com,9063,EXOSENS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25698,Rachid,Dafali,rachid.dafali@intradef.gouv.fr,10310,DGA Bruz,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25699,Orphée,Fayard,orphee.fayard@intradef.gouv.fr,10310,DGA Bruz,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25702,Edouard,Fonck,edouard.fonck@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25705,Yuan,Gao,yuan.gao@joulwatt.com,20990,JoulWatt,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25707,Beatriz,Otero,botero@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25708,Emilio,De Matias Salces,ematias@slb.com,1157,SLB,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25709,Pascal,Le Deu,pascal.ledeu@wise-integration.com,15153,Wise Integration,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25712,Eva,Vernet,eva.vernet@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25717,Massimiliano,De Gaspari,massimiliano.degaspari@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25719,Chloé,Aymard,chloe.aymard@univ-grenoble-alpes.fr,21004,SmartPatch Health,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25721,Pascal,Weber,contact@gammao.fr,21006,Gammao,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25722,Eric,Rouchouze,eric.rouchouze@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25724,Frédéric,Lejay,frederic.lejay@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25725,Hanna,Berenok,hanna.berenok@impbrands.com,21009,Imperial Brand,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25726,Abdullah,Yildiz,abdullah.yildiz@yongatek.com,21011,Yongatek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25727,Ali,Baran,ali.baran@yongatek.com,21011,Yongatek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25728,Rifat,Demirciogliu,rifat.demircioglu@yongatek.com,21011,Yongatek,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25729,Andrew,Hazelton,andrew@hazeltontech.com.au,21012,Hazelton Technologies Pty Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25730,Dan,Coode,dan.coode@calian.com,21013,Calian Ltd,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25731,Nicolas,Levasseur,nicolas.levasseur@fr.thalesgroup.com,6899,THALES AVS Mérignac,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25733,Mike,Doogue,mdoogue@allegromicro.com,9061,ALLEGRO MICROSYSTEMS FRANCE SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25734,Roufaida,Bensalem,roufaida.bensalem@tandemlaunch.com,21015,TandemLaunch,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25735,Carlos,Abellan,cabellan@quside.com,20933,Quside Technologies S.L.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25736,Ismael,Pérez,iperez@quside.com,20933,Quside Technologies S.L.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25737,Ferran,Bardaji,fbardaji@quside.com,20933,Quside Technologies S.L.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25738,Suzie,Marin,smarin@nanoxplore.com,3180,NanoXplore,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25739,Udy,Kashkash,udy_k@rad.com,18600,RAD Data Communications,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25740,Vincent,Richard,vincent.richard@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25741,Ulik,Broida,ulikb@ceragon.com,21018,CERAGON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25742,Amir,Perelstain,amirp@ceragon.com,21018,CERAGON,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25743,Mark,Melnykowycz,mark@iduntechnologies.com,21023,IDUN Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25744,Christian,Bouveron,christian.bouveron@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25747,Paolo,Livi,pl@spiden.com,21029,LIOM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25756,Malcom,Hamer,malcolm.hamer@ceryxmedical.com,21037,Ceryx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25757,Graham,Fisher,graham.fisher@ceryxmedical.com,21037,Ceryx Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25762,Moussa,Belkhiter,moussa.belkhiter@st.com,11945,STMicroelectronics (Grenoble 2) SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25763,Eric,Chevalier,echevalier@esploratis.com,21044,Esploratis,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25766,David,Gauthier,david.gauthier@lynred.com,4305,LYNRED,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25767,Imad,Lahoud,imad.lahoud@impbrands.com,21009,Imperial Brand,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25768,Mariana,Freitas,mariana.freitas@impbrands.com,21009,Imperial Brand,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25769,Aylin,Ersoy,aylin.ersoy@beko.com,19850,Arçelik Global,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25770,Francesc,Guim,francesc.guim@openchip.com,21048,Openchip And Software Technologies SL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25771,Patrice,Voirin,patrice.voirin@valeo.com,19754,Valeo Vision France SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25774,Dirk,Logie,d.logie@qualinx.nl,21052,QUALINX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25775,Michael,Gleeson,m.gleeson@qualinx.nl,21052,QUALINX,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25778,Steve,Pratt,steve.pratt@monolithicpower.com,21054,MonolithicPowerSystems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25779,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,21056,Precision Neuroscience Corporation USD,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25780,Nicolas,Griffaton,nicolas.griffaton@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25782,Antoine,Carrabin,acarrabin@wheere.io,19802,WHEERE,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25784,André,Vaugon,andre.vaugon@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25785,Benoit,Harand,benoit.harand@alstomgroup.com,4260,Alstom,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25790,Ulrich,Schacht,ulrich.schacht@sicoya.de,21065,SICOYA GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25791,Hanjo,Rhee,hanjo.rhee@sicoya.de,21065,SICOYA GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25792,Frank,Gelhausen,frank.gelhausen@sicoya.de,21065,SICOYA GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25793,Benoît,Boivin,bboivin@nanoxplore.com,3180,NanoXplore,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25794,Baptiste,Roux,baptiste.roux@zama.ai,21067,ZAMA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25795,Ghazi,Ben Amor,ghazi.benamor@zama.ai,21067,ZAMA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25796,Pierre,Gardrat,pierre.gardrat@zama.ai,21067,ZAMA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25800,Shmulik,Shemesh,sams@innoviz-tech.com,21071,Innoviz Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25801,Doron,Vertesh,doron.vertesh@innoviz-tech.com,21071,Innoviz Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25802,Haggai,Bar-Shalom,haggaib@innoviz-tech.com,21071,Innoviz Technologies,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25805,Philippe,Riviere,philippe.riviere@noptrack.fr,21073,NOpTRACK,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25807,Ling Yan,Zhang,l-y.zhang@airmems.com,10412,airmems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+25808,Patrick,Debaenst,pdebaenst@sealsq.com,2153,Seal SQ France,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26809,Lionel,Juré,lionel.jure@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26810,Edouard,Lacaze,edouard.lacaze@cykorsystems.com,21082,CY-COR SAS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26812,Stéphane,Boucher,stephane.boucher@crm.microport.com,4246,Sorin CRM S.A.S.,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26814,Nathan,Pletcher,nathan.pletcher@precisionneuro.io,21085,PRECISION NEUROSCIENCE EURO,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26815,David,Aslanbaş,david.aslanbas@kmccomponent.com,21087,KMC Component,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26817,Xiaoyan,Xiong,xiaoyan.xiong@kapsch.net,11764,Kapsch TrafficCom Vienna,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26818,Josep,Segura,josep.segura-puchades@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26820,Anton,Gospodarenko,nata_gos@ukr.net,21091,KWAZAR-IS,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+26836,Zohaib,Gulzar,zohaib.gulzar@csem.ch,4284,CSEM Neuchatel,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27845,Frédéric,Giral,frederic.giral@pytheas-technology.com,18623,PYTHEAS Technology,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27846,Julien,Gauthier,jgauthier@cisteomedical.com,22107,CISTEO Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27847,Christophe,Moureaux,cmoureaux@cisteomedical.com,22107,CISTEO Medical,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27856,Jean-Baptiste,Benard,jbbenard@mstechcorp.eu,22111,MSTech Europe,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27857,Albert,Casas,albert.casas@smtworldwide.com,22111,MSTech Europe,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27858,Tanvi,Ralhan,tralhan@apple.com,22112,APPLE Cupertino,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27859,Carlos,Carvalho,carlos_carvalho@apple.com,22112,APPLE Cupertino,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27860,Avner,Matmor,avner@yitran.com,22113,Yitran,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27861,Julie,Delamarre,julie.delamarre@sparkmicro.com,22114,Spark Microsystems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27862,Eric,Bourget,eric.bourget@sparkmicro.com,22114,Spark Microsystems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27863,Frédéric,Nabki,frederic.nabki@sparkmicro.com,22114,Spark Microsystems,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27864,Christian,Rappl,christian.rappl@vitesco.com,22115,Schaeffler Regensburg,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27865,Shyam,Narayanan,shyam.narayanan@thyssenkrupp-automotive.com,22116,thyssenkrupp Presta AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27867,Carlos Manuel,Ferreirinha Tavares,carlos.tavares@thyssenkrupp-automotive.com,22116,thyssenkrupp Presta AG,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27869,Dmitry,Gusev,dmitriy.gusev@menta-efpga.com,4345,MENTA Valbonne,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27870,Thierry,Roux,thirry.roux@eviden.com,20965,EVIDEN Sophia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27871,Patrice,Bleuze,patrice.bleuze@eviden.com,20965,EVIDEN Sophia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27872,Philippe,Cotard,philippe.cotard@eviden.com,20965,EVIDEN Sophia,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27873,Sacha,Juillard,sacha.juillard@univ-grenoble-alpes.fr,21004,SmartPatch Health,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27874,Fabien,Hubert,fabien.hubert@presto-eng.com,9072,Presto Engineering Inc,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27877,Andy,Tsong,tsong@diodes.com,20942,"DIODES, INC",106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27885,Maria,Serra,maria.serra@semidynamics.com,19881,Semidynamics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27886,Miquel,Izquierdo,miquel.izquierdo@semidynamics.com,19881,Semidynamics,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27887,Jaakko,Jussila,jj@meetiqm.com,22129,IQM,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27888,Nicolas,Bravard,nicolas.bravard@sercel.com,1071,SERCEL,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27889,Namwar,Schahrjar,schahrjar.namwar@nxp.com,22131,NXP Semiconductors Austria GmbH,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27890,Petr,Kamenicky,petr.kamenicky@onsemi.com,22132,onsemi BRNO Design Center,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27891,Marianne,Consonni,marianne.consonni@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27892,Kerry,Ong,kerry.ong@globalfoundries.com,22133,Global Foundries Malta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27895,Mathias,Gervais,mgervais@qti.qualcomm.com,22142,Qualcomm Colombes,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27899,Karthik,Chandrasekaran,karthik.chandrasekaran@globalfoundries.com,22133,Global Foundries Malta,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27902,Mauro,Abbattista,mauro.abbattista@movyonelectronics.com,22150,Movyon Electronics S.r.l,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27903,Patrick,Bolling,patrick.bolling@continental-corporation.com,11737,CONTINENTAL Regensburg,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27904,Karsten,Köhler,karsten.koehler@continental-corporation.com,11737,CONTINENTAL Regensburg,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27905,Sylvain,Aguirre,sylvain.aguirre@sipearl.com,17288,SiPearl,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27907,Loic,Lietar,loic@lietar.net,22153,NewCo,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27908,Antonio,Pullini,antonio.pullini@luxottica.com,22154,EssilorLuxottica,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27909,Rand,Hindi,rand.hindi@zama.ai,21067,ZAMA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27911,Steven,De Preter,steven.depreter@onsemi.com,22132,onsemi BRNO Design Center,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27913,Michel,Willemin,michel.willemin@emmicroelectronic.com,7980,EM Microelectronic,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27923,Swan,Gerome,swan.gerome@cea.fr,2,CEA Grenoble,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27925,Jing-Jing,Duflot,jing-jing.duflot@zama.ai,21067,ZAMA,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27926,Ayoub,Harim,ayoub.harim@cairdac.com,3176,CAIRDAC,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27928,Bertrand,Gautheron,b.gautheron@ingage-mems.com,22166,iNGage,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27929,Philippe,Robert,ph.robert@ingage-mems.com,22166,iNGage,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
+27931,Martin,Tosh,martintosh@optiver.com,22167,Optiver,106420117,lead,NEW,icalps_contacts_20250918_1203,READY
